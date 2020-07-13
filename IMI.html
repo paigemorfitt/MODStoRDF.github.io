@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #E6F4EF;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+;
+}
+</style>
+</head>
+<body>
+<table style="width:100%">
+  <tr>
+    <th><a href="index.html">Main page</a></th>
+	<th>IMI Columns</th>
+    <th><a href="MODS.html">MODS Fields</a></th>
+    <th><a href="#">RDF Fields</a></th>
+  </tr>
+</table>
+
+
+
+<h1 id="top">IMI Columns</h1>
+<table>
+	<tr>	
+		<th><a href="#abstract">abstract</a></th>
+		<th><a href="#abstract_format">abstract_format</a></th>
+		<th><a href="#access_condition">access_condition</a></th>
+		<th><a href="#removed">accession_number</a></th>
+		<th><a href="#advisor1">advisor1</a></th>
+	</tr>	
+	<tr>	
+		<th><a href="#removed">attach_additional_files</a></th>
+		<th><a href="#">author1_fname</a> (not finished)</th>
+		<th><a href="#">author1_lname</a> (not finished)</th>
+		<th><a href="#">author1_mname</a> (not finished)</th>
+		<th><a href="#">author1_suffix</a> (not finished)</th>
+	</tr>	
+	<tr>	
+		<th><a href="#">author2_fname</a> (not finished)</th>
+		<th><a href="#">author2_lname</a> (not finished)</th>
+		<th><a href="#">author2_mname</a> (not finished)</th>
+		<th><a href="#">author2_suffix</a> (not finished)</th>
+		<th><a href="#">author3_fname</a> (not finished)</th>
+	</tr>	
+	<tr>	
+		<th><a href="#">author3_lname</a> (not finished)</th>
+		<th><a href="#">author3_mname</a> (not finished)</th>
+		<th><a href="#">author3_suffix</a> (not finished)</th>
+		<th><a href="#authors">MODS/displayForm</a></th>
+		<th><a href="#authors">authors</a></th>
+	</tr>	
+	<tr>	
+		<th><a href="#removed">bp_categories</a></th>
+		<th><a href="#removed">broad_creation_date</a></th>
+		<th><a href="#removed">broad_date</a></th>
+		<th><a href="#">box</a> (not finished)</th>
+		<th><a href="#removed">buy_link</a></th>
+	</tr>	
+	<tr>		
+		<th><a href="#removed">calc_thumbnail_image_url	</a></th>
+		<th><a href="#removed">calc_url</a></th>
+		<th><a href="#removed">campus_location	</a></th>
+		<th><a href="#removed">catalog_id</a></th>
+		<th><a href="#removed">city - TWG/city	</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#">cmodel	</a> (not finished)</th>
+		<th><a href="#">collection_name	</a> (not finished)</th>
+		<th><a href="#removed">comments</a></th>
+		<th><a href="#">conference_track</a> (not finished)</th>
+		<th><a href="#conference_year">conference_year</a></th>
+	</tr>	</tr>	
+	<tr>		
+		<th><a href="#context_key">context_key</a></th>
+		<th><a href="#contributors">contributors</a></th>
+		<th><a href="#removed">copyright_notes</a></th>
+		<th><a href="#removed">costume_design</a></th>
+		<th><a href="#removed">coverage_spatial</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">create_openurl	</a></th>
+		<th><a href="#removed">cultural_affiliation</a></th>
+		<th><a href="#removed">custom_citation	</a></th>
+		<th><a href="#removed">date_created	</a></th>
+		<th><a href="#removed">date_processed	</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#department">department	</a></th>
+		<th><a href="#removed">director</a></th>
+		<th><a href="#removed">distribution_license	</a></th>
+		<th><a href="#eemoved">display_date</a></th>
+		<th><a href="#removed">document_type	</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">donor</a></th>
+		<th><a href="#removed">download_file_format	</a></th>
+		<th><a href="#removed">download_url	</a></th>
+		<th><a href="#removed">duration	</a></th>
+		<th><a href="#removed">editor</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#">embargo_date</a></th>
+		<th><a href="#removed">end_date</a></th>
+		<th><a href="#removed">endowment</a></th>
+		<th><a href="#remove">equipment</a></th>
+		<th><a href="#">ext_links</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">file_list</a></th>
+		<th><a href="#removed">file_name_id</a></th>
+		<th><a href="#removed">format</a></th>
+		<th><a href="#">front_end_url</a></th>
+		<th><a href="#">funding_sources	</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#graduation_year">graduation_year	</a></th>
+		<th><a href="#">grant_information	</a></th>
+		<th><a href="#removed">identifier</a></th>
+		<th><a href="#removed">image_caption</a></th>
+		<th><a href="#removed">image_source</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">instructor</a></th>
+		<th><a href="#removed">insurance_value</a></th>
+		<th><a href="#removed">irb_information</a></th>
+		<th><a href="#removed">irb_number</a></th>
+		<th><a href="#removed">issnum</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#">issue</a> (not finished)</th>
+		<th><a href="#keywords">keywords</a></th>
+		<th><a href="#language">language</a></th>
+		<th><a href="#removed">lc_subject</a></th>
+		<th><a href="#">license_file</a> (not finished)</th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">lighting_design</a></th>
+		<th><a href="#">line_num</a> (not finished)</th>
+		<th><a href="#removed">local_handle</a></th>
+		<th><a href="#removed">location</a></th>
+		<th><a href="#removed">medium</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#mods_date_created_keydate">mods_date_created_keydate</a></th>
+		<th><a href="#mods_display_date">mods_display_date</a></th>
+		<th><a href="#removed">multimedia_format</a></th>
+		<th><a href="#removed">multimedia_url</a></th>
+		<th><a href="#">native_filename	</a> (not finished)</th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">native_filesize</a></th>
+		<th><a href="#nonenglish_title">nonenglish_title</a></th>
+		<th><a href="#removed">number_artifacts</a></th>
+		<th><a href="#oai_harvester_date">oai_harvester_date</a></th>
+		<th><a href="#">obj_file</a> (not finished)</th>
+	</tr>		
+	<tr>		
+		<th><a href="#">oclc_number	</a> (not finished)</th>
+		<th><a href="#removed">old_cat_id	</a></th>
+		<th><a href="#">origin	</a></th>
+		<th><a href="#removed">pagecount</a></th>
+		<th><a href="#">pages</a> (not finished)</th>
+	</tr>		
+	<tr>		
+		<th><a href="#">parent</a> (not finished)</th>
+		<th><a href="#removed">pdf_filename	</a></th>
+		<th><a href="#removed">pdf_filesize	</a></th>
+		<th><a href="#">permanent_url</a> (not finished)</th>
+		<th><a href="#">PID	</a> (not finished)</th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">playwright</a></th>
+		<th><a href="#removed">preview_image</a></th>
+		<th><a href="#removed">previous_versions</a></th>
+		<th><a href="#removed">production</a></th>
+		<th><a href="#removed">production_decades</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">production_info	</a></th>
+		<th><a href="#removed">production_year	</a></th>
+		<th><a href="#removed">props_design</a></th>
+		<th><a href="#removed">provenance</a></th>
+		<th><a href="#removed">publication_date	</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#">publisher (not finished)	</a></th>
+		<th><a href="#removed">recommended_citation	</a></th>
+		<th><a href="#">record_series</a> (not finished)</th>
+		<th><a href="#removed">relation</a></th>
+		<th><a href="#removed">research_project	</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#rights">rights</a></th>
+		<th><a href="#">rights_statement</a> (not finished)</th>
+		<th><a href="#">series_id</a> (not finished)</th>
+		<th><a href="#removed">session	</a></th>
+		<th><a href="#">seq_number	</a> (not finished)</th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">set_design	</a></th>
+		<th><a href="#removed">sound_design	</a></th>
+		<th><a href="#">source</a></th>
+		<th><a href="#">source_publication	</a></th>
+		<th><a href="#removed">sponsor	</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">stage_manager</a></th>
+		<th><a href="#removed">start_date</a></th>
+		<th><a href="#removed">state</a></th>
+		<th><a href="#removed">subject_area</a></th>
+		<th><a href="#removed">supplemental_filenames	</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">supplemental_filesizes</a></th>
+		<th><a href="#removed">tech_director</a></th>
+		<th><a href="#removed">terms_of_use</a></th>
+		<th><a href="#title">title</a></th>
+		<th><a href="#">tracks</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">type_of_work	</a></th>
+		<th><a href="#removed">update_reason</a></th>
+		<th><a href="#removed">upload_cover_image</a></th>
+		<th><a href="#removed">uploaders_email</a></th>
+		<th><a href="#removed">uploader_userid</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#removed">volnum</a></th>
+		<th><a href="#">volume	</a></th>
+		<th><a href="#removed">wf_areyouuploadingaf1</a></th>
+		<th><a href="#work_type">work_type	</a></th>
+		<th><a href="#genre">MODS/genre	</a></th>
+	</tr>		
+	<tr>		
+		<th><a href="#extent">IMI/extent</a></th>
+	</tr>		
+
+</table>
+<p>ARMINDA guidelines for IMI Metadata.</p>
+<h1> IMI Columns used in ARMINDA</h1>
+<h2 id="removed">Removed from Archives, Theses, and Scholarship Master Sheets</h2>
+<p>The following columns have either been decided to be removed, or have been removed based on previous discussion. Some fields metadata contents have been transfered to a different field. </p>
+	<ul>
+		<li>accession_number</li>
+		<li>attach_additional_files</li>
+		<li>bp_categories</li>
+		<li>broad_creation_date</li>
+		<li>broad_date</li>
+		<li>buy_link</li>
+		<li>calc_thumbnail_image_url</li>
+		<li>calc_url</li>
+		<li>campus_location</li>
+		<li>catalog_id</li>
+		<li>city</li>
+		<li>comments</li>
+		<li>copyright_notes</li>
+		<li>costume_design</li>
+		<li>create_openurl</li>
+		<li>date_created</li>
+		<li>date_processed</li>
+		<li>director</li>
+		<li>distribution_license</li>
+		<li>display_date</li>
+		<li>document_type</li>
+		<li>donor</li>
+		<li>download_file_format</li>
+		<li>download_url</li>
+		<li>duration- content moved to <i>extent</i></li>
+		<li>editor - use <i>authors</i> or <i>contributors</i></li>
+		<li>endowment</li>
+		<li>equipment</li>
+		<li>file_list</li>
+		<li>file_name_id</li>
+		<li>identifier</li>
+		<li>image_caption</li>
+		<li>instructor</li>
+		<li>insurance_value</li>
+		<li>irb_information</li>
+		<li>irb_number</li>
+		<li>lighting_design</li>
+		<li>local_handle</li>
+		<li>medium</li>
+		<li>multimedia_format</li>
+		<li>multimedia_url</li>
+		<li>native_filesize</li>
+		<li>number_artifacts</li>
+		<li>old_cat_id</li>
+		<li>pdf_filename</li>
+		<li>pdf_filesize</li>
+		<li>playwright</li>
+		<li>preview_image</li>
+		<li>previous_versions</li>
+		<li>production</li>
+		<li>production_decades</li>
+		<li>production_info</li>
+		<li>production_info</li>
+		<li>props_design</li>
+		<li>provenance</li>
+		<li>recommended_citation</li>
+		<li>session</li>
+		<li>sound_design</li>
+		<li>sponsor</li>
+		<li>stage_manager</li>
+		<li>start_date</li>
+		<li>state</li>
+		<li>supplemental_filenames</li>
+		<li>supplemental_filesizes</li>
+		<li>tech_director</li>
+		<li>type_of_work</li>
+		<li>update_reason</li>
+		<li>upload_cover_image</li>
+		<li>uploader_email</li>
+		<li>uploader_userid</li>
+		<li>wf_areyouuploadingaf1</li>
+	</ul>	
+<p><a href="#top">top</a></p>
+<h1 id="abstract">abstract</h1>
+	<dl>[Holding off until we know what it will look like in Islandora 8]</dl>
+<p><a href="#top">top</a></p>
+<h1 id="abstract_format">abstract_format</a></h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins>Format of the abstract</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins> N/A</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> N/A</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins>N/A</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+		<ul>
+			<li>N/A</li>
+
+		</ul>
+	  </dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>N/A</dd>
+	  <dd><ins><font color="brown">Notes: </font></ins>
+		<ul>
+			<li>N/A</li>
+			</ul>
+		</dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font>This field will be removed after migrating to Islandora 8.</dd>
+	</dl>
+<p><a href="#top">top</a></p>
+<h1 id="advisor1">advisor1</h1>  
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins> A person under whose supervision a student develops and/or presents an acadinsic paper or project, including theses and capstone projects.</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> Yes</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins>Yes</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+		<ul>
+			<li>Free text : RDA 19.2</li>
+			<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
+			<li>for multiple authors, separate with sinsicolon with no space trailing</li>
+			</ul>
+		</dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins> LCNAF, VIAF, my.whitman</dd>
+	  <dd><ins><font color="brown">Notes: </font></ins>
+		<ul>
+			<li>Provide as much known information as possible (either provided on resource or found elsewhere)</li>
+			<li>Separate repeated terms consistently (with sinsicolon) </li>
+			<li>If names are not found in a controlled vocabulary, format personal names as  Lastname , Firstname according to RDA/DACS </li>
+			<li>If name(s) of creator(s) is not known, see specific Master Sheet guidance ; </li>
+			<li>No distinguishing between Private and Corporate creators; Do birthdate or death date unless to disambiguate identical named individuals </li>
+			<li>Specific roles are added in parentheses if needed/desired</li>
+		</ul>
+		</dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font>Renamed field. - Renamed from advisor1 to advisor </dd>
+
+	</dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/name/@displayLabel="Advisor(s)"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/madsrdf:ths</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="authors">authors</h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins>  Identifies the entity/entities primarily responsible for making the resource</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> Yes</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins>Yes</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+		<ul>
+			<li>Free text /  RDA 19.2</li>
+			<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
+			<li>For multiple authors, separate with semicolon with no space trailing.</li>
+		</ul>
+	  </dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins> LCNAF, VIAF, my.whitman</dd>
+	  <dd><ins><font color="brown">Notes: </font></ins>
+		<ul>
+			<li>Provide as much known information as possible (either provided on resource or found elsewhere)</li>
+			<li>Separate repeated terms consistently (with semicolon)</li>
+			<li>If names are not found in a controlled vocabulary, format personal names Renamed field. - Renamed from authors to creatorsas  Lastname , Firstname according to RDA/DACS</li> 
+			<li>If name(s) of creator(s) is not known, see master spreadsheet guidelines for specific details </li>
+			<li>No distinguishing between Private and Corporate creators</li>
+			<li>Do birthdate or death date unless to disambiguate identical named individuals </li>
+			<li>Specific roles are added in parentheses if needed/desired</li>
+			</ul>
+		</dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font>Renamed field. - Renamed from authors to creators</dd>
+	</dl>
+	<dl>
+<p><a href="#top">top</a></p>
+<h1 id="extent">extent</h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins> Statement of the physical size or duration of the object, such as dimensions, number of items, pages, or running time.</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins> Yes</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+		<ul>
+			<li>N/A</li>
+		</ul>
+	</dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>N/A</dd>
+	  <dd><ins><font color="brown">Notes: </font></ins>
+	  <ul>
+		<li>This is not applied to digital file sizes or dpi</li>
+		<li>Provide both a number/numbers and a designation of the units being measured</li>
+	  </ul>
+	 </dd>
+	<dd><font color="blue"><i>Field Changes: </i></font>New field. - Extent</dd>
+	</dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> N/A</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/dc:extent</dd>
+</dl>
+<p><a href="#top">top</a></p>
+  <h1 id="conference_year">conference_year</h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins>  Year in which conference took place</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+		<ul>
+			<li>EDTF according to Date Formatting Guidelines ARMINDA2</li>
+		</ul>
+	</dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>N/A</dd>
+	  <dd><ins><font color="brown">Notes: </font></ins>
+		<ul>
+			<li>For specific use case, see Mastersheet guidelines. </li>
+			<li>Used for faceting</li>
+			</ul>
+		</dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font>Renamed field. - Renamed from conference_year to year_conference</dd>
+	  </dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/originInfo/dateOther/@type="conference_year"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/reg:p60526	/rdf:RDF/rdf:Description/reg:p60526</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="context_key">context_key</h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins> Character string or number that clearly and uniquely identifies a digital object or resource. This field ensures that individual digital objects can be accessed, managed, stored, recalled, and used reliably. </dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins>  Required</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+		<ul>
+			<li>See collection guidelines for creation protocols</li>
+		</ul>
+	</dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>See collection guidelines for creation protocols</dd>
+	  
+	  <dd><ins><font color="brown">Notes: </font></ins>
+		<ul>
+			<li>N/A</li>
+			</ul>
+		</dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font>Renamed field. - Renamed from context_key to identifier_unique</dd>
+	</dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/identifier/@type="context key"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/dc:identifier</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="contributors">contributors</h1>  
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins> identifies the entity or entities that made contributions to the creation of the resource but whose contributions are secondary to any person or organization specified in the creator(s) field</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> Yes</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins> Yes</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+		<ul>
+			<li>Free text /  RDA 19.2</li>
+			<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
+			<li>For multiple authors, separate with semicolon with no space trailing.</li>
+		</ul>
+	</dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>LCNAF, VIAF, my.whitman</dd>
+	  
+	  <dd><ins><font color="brown">Notes: </font></ins>
+		<ul>
+			<li>Particular roles to be elaborated in parentheses after the name (copy from creator(s) card)</li>
+			<li>Advisor to be handled as a special case of Contributor with its own column name, same rules apply</li>
+			<li> Current policy: only advisor is specific field besides creator(s) and contributor(s) at present. Going forward, if a collection has a contributor (or creator) role that requires its own label in order to be adequately faceted and searched, the metadata committee will consult on adding an additional field or fields for these roles</li>
+			<li>Provide as much known information as possible (either provided on resource or found elsewhere)</li>
+			<li>Separate repeated terms consistently (with semicolon)</li>
+			<li>If names are not found in a controlled vocabulary, format personal names as  Lastname , Firstname according to RDA/DACS </li>
+			<li>If name(s) of creator(s) is not known, see specific Master Sheet guidance</li>
+			<li>No distinguishing between Private and Corporate creators</li>
+			<li>Do birthdate or death date unless to disambiguate identical named individuals </li>
+			<li>Specific roles are added in parentheses if needed/desired</li>
+			</ul>
+		</dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font>N/A</dd>
+	</dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/name/@displayLabel="Contributor(s)"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/madsrdf:ctb</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="department">department</h1>
+<dl>
+  <dt><b>Description</b></dt>
+  <dd><ins><font color="brown">ARMINDA Use:</font></ins> College division in which the item is categorized</dd>
+  <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
+  <dd><ins><font color="brown">Repeatable:</font></ins> Yes</dd>
+  <dd><ins><font color="brown">Public Field:</font></ins> Yes</dd>
+  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+	<ul>
+		<li>In house: College catalog official names</li>
+	</ul>
+</dd>
+  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>N/A</dd>
+  
+  <dd><ins><font color="brown">Notes: </font></ins>N/A
+	</dd>
+  
+  <dd><font color="blue"><i>Field Changes: </i></font>N/A</dd>
+</dl>
+<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/name/@displayLabel="Major Department or Program"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/schema:department</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="graduation_year">graduation_year</h1>
+<dl>
+  <dt><b>Description</b></dt>
+  <dd><ins><font color="brown">ARMINDA Use:</font></ins> Year author graduated from Whitman College </dd>
+  <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
+  <dd><ins><font color="brown">Repeatable:</font></ins> No</dd>
+  <dd><ins><font color="brown">Public Field:</font></ins> No</dd>
+  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+	<ul>
+		<li>EDTF according to Date Formatting Guidelines ARMINDA</li>
+	</ul>
+</dd>
+  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>N/A</dd>
+  
+  <dd><ins><font color="brown">Notes: </font></ins>
+  <ul>
+	<li>For specific use case, see Mastersheet guidelines </li>
+	<li>Field used for faceting. </li>
+  </ul>
+	</dd>
+  <dd><font color="blue"><i>Field Changes: </i></font>Renamed field. - Renamed from graduation_year to year_graduation</dd>
+</dl>
+<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/originInfo/@displayLabel="Graduation Year"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/reg:p60514</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="keywords">keywords</h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins>Term(s) representing the primary topic(s) on which a work is focused</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins> Recommended</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> Yes</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins>Yes</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+		<ul>
+			<li>Free-text</li>
+		</ul>
+	  </dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>
+			<li>Library of Congress Subject Headings (LCSH)</li>
+			<li>Medical Subejct Headings (MeSH)</li>
+			<li>Localized Subject List </li>
+	  </dd>
+	  <dd><ins><font color="brown">Notes: </font></ins>
+		<ul>
+			<li>Field will be used within bounds of staff ability/size of collection</li>
+			</ul>
+		</dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font>Change name from keywords to subject_keywords</dd>
+	</dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	 <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/subject/@displayLabel="Subject Headings"</dd>
+	<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/dc:subject</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="language">language</h1> 
+	<dl>
+  <dt><b>Description</b></dt>
+  <dd><ins><font color="brown">ARMINDA Use:</font></ins>  the non-English language of the source content being described : applies to textual or spoken word (linguistic) content).  </dd>
+  <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
+  <dd><ins><font color="brown">Repeatable:</font></ins> Yes</dd>
+  <dd><ins><font color="brown">Public Field:</font></ins> Yes</dd>
+  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+	<ul>
+		<li>English language name of language</li>
+	</ul>
+</dd>
+  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>MARC Standard language code list </dd>
+  <dd><ins><font color="brown">Notes: </font></ins>
+	<li> For multilingual material, include all languages, including English</li>
+	<li>For specific use case, see Mastersheet guidelines.</li>
+	</dd>
+  <dd><font color="blue"><i>Field Changes: </i></font>N/A</dd>
+	</dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/language/languageTerm/@type="text"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/dc:language</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="mods_date_created_keydate">mods_date_created_keydate</h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins>   Encoded date of creation or publication of the original object that strips out qualifiers and date ranges to allow us to sort on date in ARMINDA  </dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+		<ul>
+			<li>EDTF according to Date Formatting Guidelines ARMINDA </li>
+		</ul>
+	</dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>N/A</dd>
+	  <dd><ins><font color="brown">Notes: </font></ins>N/A</dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font>N/A</dd>
+	</dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/originInfo/@displayLabel="Date (exact)"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/dc:created</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="mods_display_date">mods_display_date</h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins>  Date of creation or publication of original object in human readable format for public viewing</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins> Yes</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+		<ul>
+			<li>EDTF according to Date Formatting Guidelines ARMINDA </li>
+		</ul>
+	</dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>N/A</dd>
+	  <dd><ins><font color="brown">Notes: </font></ins>N/A</dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font>Renamed field . - Rename from mods_display_date to date_display</dd>
+	</dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/originInfo/@displayLabel="Display Date"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/dc:date</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="nonenglish_title">nonenglish_title</h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins>  [Propose to change the title of this column to it reflects items in this column. Propose to add "alternative titles" to this column, and keep it so specific. ]</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins> Optional</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> Yes</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins> Yes</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>Free text</dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>N/A</dd>
+	  <dd><ins><font color="brown">Notes: </font></ins>N/A</dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font> Renamed field. - Renamed from nonenglish_title to title_alternative </dd>
+	</dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/titleInfo/@type="alternative"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/dc:alternative</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="oai_harvester_date">oai_harvester_date</h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins> Encoded date of creation or publication of the original object with qualifiers and date ranges when applicable</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins> Required, if applicable</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>EDTF according to Date Formatting Guidelines ARMINDA</dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>N/A</dd>
+	  
+	  <dd><ins><font color="brown">Notes: </font></ins>EDTF according to Date Formatting Guidelines ARMINDA</dd>
+	  
+	  <dd><font color="blue"><i>Field Changes: </i></font> Renamed from oai_harvester_date to date_encoded </dd>
+	</dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/originInfo/@displayLabel="OAI Harvester Date"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/reg:p60324</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="title">title</h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins> Name given to the resource or supplied title if one is absent</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins> Required
+	  <dd><ins><font color="brown">Repeatable:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins> Yes</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>Free text / ISBN Capitalization Standard*</dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>N/A</dd>
+	  <dd><ins><font color="brown">Notes: </font></ins>
+		<ul>
+			<li>Transcribe the title as accurately as possible</li>
+			<li>Avoid unnecessary punctuation (brackets, periods, quotations, etc)</li>
+			<li>*Non-english titles conventions may vary</li>
+			<li>If no title provided, provide content of item [see master spreadsheet guidelines for specific details]
+			</li>
+		</ul>
+	  </dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font> N/A </dd>
+	  </dt>
+	</dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/titleInfo/title</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/dc:title</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="work_type">work_type</h1>
+<dl>
+  <dt><b>Description</b></dt>
+  <dd><ins><font color="brown">ARMINDA Use:</font></ins> Basic conceptual indication of the kind of object being described, using broad terms. </dd>
+  <dd><ins><font color="brown">Obligation:</font></ins> Required
+  <dd><ins><font color="brown">Repeatable:</font></ins> Yes</dd>
+  <dd><ins><font color="brown">Public Field:</font></ins> Yes</dd>
+  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>Free text</dd>
+  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>MODS Type of Resource</dd>
+  <dd><ins><font color="brown">Notes: </font></ins>
+	<ul>
+		<li>This information should relate to the original object, not the digitized surrogate </li>
+		<li>If more than one present, record each value in new field</li>
+		<li>Expectation: one type is sufficient for most object, however specific collections may have more guidance on particular cases</li>
+		<li>If a term does not fit, bring to Metadata Working Group</li>
+	</ul>
+  </dd>
+  </dl>
+  <dd><font color="blue"><i>Field Changes: </i></font> N/A </dd>
+</dl>
+	<dl>
+		<dt><b>XPath</b></dt>
+		  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/typeOfResource/@displayLabel="Type of Work"</dd>
+			<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/dc:type</dd>
+	</dl>
+	<dl<p><a href="#top">top</a></p>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/typeOfResource/@displayLabel="Type of Work"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/dc:type</dd>
+</dl>
+<h1 id="genre">genre</h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins>  A more detailed sub-type refining the broader Content Type element; provides a specific characterization of the nature or style of the original content source</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins> Yes</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+		<ul>
+			<li>Controlled Vocabulary (if possible, URI mapping)</li>
+		</ul>
+	</dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>
+	  <ul>
+	  <li>Archives: AAT/LCSH</li>
+	  <li>Scholarship : Home-grown</li>
+	  </ul>
+	  </dd>
+	  <dd><ins><font color="brown">Notes: </font></ins>
+	  <ul>
+		<li>Caution: do not confuse with the more general type category or with format/physical description.</li>
+	  </ul>
+	  </dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font> New field. Comprised of pagecount, and duration</dd>
+	</dl>
+	<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/genre/@authority="lctgm"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/schema:genre</dd>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="rights">rights</h1>
+	<dl>
+	  <dt><b>Description</b></dt>
+	  <dd><ins><font color="brown">ARMINDA Use:</font></ins>Contact information for use by end users who wish to pursue required permissions for publication, dissemination, etc</dd>
+	  <dd><ins><font color="brown">Obligation:</font></ins> Required</dd>
+	  <dd><ins><font color="brown">Repeatable:</font></ins> No</dd>
+	  <dd><ins><font color="brown">Public Field:</font></ins>Yes</dd>
+	  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+		<ul>
+			<li>Free text</li>
+
+		</ul>
+	  </dd>
+	  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>[here]</dd>
+	  <dd><ins><font color="brown">Notes: </font></ins>
+		<ul>
+			<li>N/A</li>
+			</ul>
+		</dd>
+	  <dd><font color="blue"><i>Field Changes: </i></font>Renamed from to rights_contact</dd>
+	</dl>
+	<dl>
+<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/accessCondition/@displayLabel="Access Rights"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/dc:rights</dd>
+</dl>
+	<p><font color="red"><i>Last Updated: </i></font>6/23/2020</p>
+</dl>
+<p><a href="#top">top</a></p>
+<h1 id="access_condition">access_condition</h1>
+<dl>
+  <dt><b>Description</b></dt>
+  <dd><ins><font color="brown">ARMINDA Use:</font></ins>Field that indicates item may be accessed by only current Whitman affiliates (netID holders).</dd>
+  <dd><ins><font color="brown">Obligation:</font></ins>Required, if applicable</dd>
+  <dd><ins><font color="brown">Repeatable:</font></ins>No</dd>
+  <dd><ins><font color="brown">Public Field:</font></ins>Yes</dd>
+  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+	<ul>
+		<li>Free-text</li>
+
+	</ul>
+  </dd>
+  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins> In-house standard Statement</dd>
+  <dd><ins><font color="brown">Notes: </font></ins>
+	<ul>
+		<li>N/A</li>
+		</ul>
+	</dd>
+  <dd><font color="blue"><i>Field Changes: </i></font>N/A</dd>
+</dl>
+<dl>
+<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins> /mods/accessCondition/@type="Access Statement"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/dc:accessRights</dd>
+</dl>
+	<p><font color="red"><i>Last Updated: </i></font>7/7/2020</p>
+</dl>
+<p><a href="#top">top</a></p>
+<h1>rights_statement</h1>
+<dl>
+  <dt><b>Description</b></dt>
+  <dd><ins><font color="brown">ARMINDA Use:</font></ins>URL that indicates copyright and/or creative commons status. Can include free-text explanation of rights.  </dd>
+  <dd><ins><font color="brown">Obligation:</font></ins>Required</dd>
+  <dd><ins><font color="brown">Repeatable:</font></ins>No</dd>
+  <dd><ins><font color="brown">Public Field:</font></ins>Yes</dd>
+  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+	<ul>
+		<li>Free-text</li>
+
+	</ul>
+  </dd>
+  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>RightsStatement.org; CreativeCommons.org</dd>
+  <dd><ins><font color="brown">Notes: </font></ins>
+	<ul>
+		<li>At minimum, provide, link.</li>
+		<li>Additional information added if necessary. For specific use case, see Mastersheet guidelines</li>
+		</ul>
+	</dd>
+  <dd><font color="blue"><i>Field Changes: </i></font>[here]</dd>
+</dl>
+<dl>
+<dl>
+    <dt><b>XPath</b></dt>
+	  <dd> <ins><font color="brown">MODS XPath </font></ins>/mods/accessCondition/@displayLabel="Rights Statement"	/mods/accessCondition/@displayLabel="Rights Statement"</dd>
+		<dd> <ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdf:Description/schema:license</dd>
+</dl>
+	<p><font color="red"><i>Last Updated: </i></font>7/7/2020</p>
+</dl>
+<p><a href="#top">top</a></p>
+</html>
