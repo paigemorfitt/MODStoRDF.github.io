@@ -15,7 +15,7 @@
 |date_sort|originInfo/dateCreated|dc:created||
 |date_encoded|originInfo/dateOther|rdau:P60324||
 |department|name/namePart|relators:ctb||
-|description||||under review|
+|description|||under review|
 |extent|physicalDescription/extent|dc:extent||
 |genre|genre|schema:genre||
 |license_file|N/A|N/A||
