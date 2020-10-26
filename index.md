@@ -2,7 +2,7 @@
  <h1>Arminda MODS information page</h1> 
 
 
-|[IMI Columns](https://github.com/paigemorfitt/MODStoRDF.github.io/wiki/IMI.html)| |[MODS Fields](https://github.com/paigemorfitt/MODStoRDF.github.io/wiki/MODS.html)| [RDF Fields](https://github.com/paigemorfitt/MODStoRDF.github.io/wiki/RDF.html)| Comments|
+|[IMI Columns](https://github.com/paigemorfitt/MODStoRDF.github.io/wiki/IMI.html)|[MODS Fields](https://github.com/paigemorfitt/MODStoRDF.github.io/wiki/MODS.html)| [RDF Fields](https://github.com/paigemorfitt/MODStoRDF.github.io/wiki/RDF.html)| Comments|
 |---|---|---|---|
 |abstract|abstract|dc:abstract||
 |abstract_format|abstract|N/A||
