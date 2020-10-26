@@ -45,7 +45,7 @@
     <td>N/A</td>
    </tr>
    <tr>
-    <td><a href="access_condition.html">access_condition</a></td>
+    <td><a href="access_condition.md">access_condition</a></td>
     <td>accessCondition</td>
     <td>dc:accessRights</td>
   </tr>
