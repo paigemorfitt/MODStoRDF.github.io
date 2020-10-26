@@ -12,26 +12,6 @@
 </table>
 
 
-
-
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-  
-}
-</style>
 <h1>access_condition</h1>
 <dl>
   <dt><b>Description</b></dt>
@@ -42,7 +22,6 @@ tr:nth-child(even) {
   <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
 	<ul>
 		<li>Free-text</li>
-
 	</ul>
   </dd>
   <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins> In-house standard Statement</dd>
@@ -61,6 +40,4 @@ tr:nth-child(even) {
 </dl>
 	<p><font color="red"><i>Last Updated: </i></font>7/7/2020</p>
 </dl>
-
 </body>
-</html>
