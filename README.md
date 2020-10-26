@@ -1,2 +1,2 @@
 # MODStoRDF.github.io
- [looking at MODS to RDF transformations](https://github.com/paigemorfitt/MODStoRDF.github.io/wiki)  
+ Information regarding IMI Spreadsheets, MODS mapping, and RDF mapping for Arminda collections and preparation for migration from Islandora 7 to Islandora 8. 
