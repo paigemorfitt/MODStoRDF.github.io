@@ -7,25 +7,9 @@
 
 |IMI Columns | MODS Field | RDF Field| Comments|
 |---|---|---|---|
-   <th>IMI Column</th>
-    <th>MODS field</th>
-    <th>RDF field</th>
-  </tr>
-  <tr>
-    <td><a href="abstract.html">abstract</a> (not finished)</td>
-    <td>abstract</td>
-    <td>dc:abstract</td>
-  </tr>
-  <tr>
-    <td><a href="abstract_format.html">abstract_format</a></td>
-    <td>abstract</td>
-    <td>N/A</td>
-   </tr>
-   <tr>
-    <td><a href="access_condition.html">access_condition</a></td>
-    <td>accessCondition</td>
-    <td>dc:accessRights</td>
-  </tr>
+|abstract|abstract|dc:abstract||
+|abstract_format|abstract|N/A||
+|access_condition|accessCondition|dc:accessRights||
    <tr>
     <td><a href="IMI.advisor.html">advisor1*</a></td>
     <td>name/namePart</td>
