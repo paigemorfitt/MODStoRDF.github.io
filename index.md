@@ -8,27 +8,27 @@
 <table style="width:100%">
   <tr>
     <th>Main page</th>
-	<th><a href="IMI.html">IMI Column</a></th>
-    <th><a href="MODS.html">MODS Field</a></th>
-    <th><a href="RDF.html">RDF Field</a></th>
+	<th><a href="IMI.md">IMI Column</a></th>
+    <th><a href="MODS.md">MODS Field</a></th>
+    <th><a href="RDF.md">RDF Field</a></th>
   </tr>
 <table>
 
  <h1>Arminda information page</h1> 
   
-<p>Collections in Arminda. For information about IMI field content <a href="imi.field.content.html">click here</a> For a list of fields that have been removed <a href="fields.removed.html">click here</a></p>
+<p>Collections in Arminda. For information about IMI field content <a href="imi.field.content.md">click here</a> For a list of fields that have been removed <a href="fields.removed.md">click here</a></p>
    <tr>
-    <th><a href="Archives.html">Archives</a></th>
-	<th><a href="Theses.html">Theses</a></th>
-    <th><a href="Scholarship.html">Scholarship</a></th>
-    <th><a href="Offices&Programs.html">Offices & Programs</a></th>
-	<th><a href="Newspapers.html">Newspapers</a></th>
+    <th><a href="Archives.md">Archives</a></th>
+	<th><a href="Theses.md">Theses</a></th>
+    <th><a href="Scholarship.md">Scholarship</a></th>
+    <th><a href="Offices&Programs.md">Offices & Programs</a></th>
+	<th><a href="Newspapers.md">Newspapers</a></th>
   </tr>
  </table>
   
 </table>
-<p>This is an explination of metadata that is in Arminda, Islandora repository for Whitman College; moving from IMI to MODS to RDF. Below are the fields moving from IMI to MODS to RDF, fields that have been through the review process. See link for  <a href="IMItoMODS.html">IMI to MODS</a> or <a href="IMItoRDF.html">IMI to RDF</a> (both untested).</p> 
-<p>See <a href="migration questions.html">Migration Questions</a> for fields that are "under review".</p>
+<p>This is an explination of metadata that is in Arminda, Islandora repository for Whitman College; moving from IMI to MODS to RDF. Below are the fields moving from IMI to MODS to RDF, fields that have been through the review process. See link for  <a href="IMItoMODS.md">IMI to MODS</a> or <a href="IMItoRDF.md">IMI to RDF</a> (both untested).</p> 
+<p>See <a href="migration questions.md">Migration Questions</a> for fields that are "under review".</p>
 <table>
   <tr>
     <th>IMI Column</th>
@@ -36,328 +36,328 @@
     <th>RDF field</th>
   </tr>
   <tr>
-    <td><a href="abstract.html">abstract</a></td>
-    <td><a href="mods.abstract.html">abstract</a></td>
-    <td><a href="rdf.abstract.html">dcterms:abstract </a></td>
+    <td><a href="abstract.md">abstract</a></td>
+    <td><a href="mods.abstract.md">abstract</a></td>
+    <td><a href="rdf.abstract.md">dcterms:abstract </a></td>
   </tr>
    <tr>
-    <td><a href="access_condition.html">access_condition</a></td>
-    <td><a href="mods.access_condition.html">accessCondition</a></td>
-    <td><a href="rdf.rdau.p60496.html">rdau:P60496</a></td>
+    <td><a href="access_condition.md">access_condition</a></td>
+    <td><a href="mods.access_condition.md">accessCondition</a></td>
+    <td><a href="rdf.rdau.p60496.md">rdau:P60496</a></td>
   </tr>
    <tr>
-    <td><a href="IMI.advisor.html">advisors</a></td>
-    <td><a href="mods.name.html">name/namePart</a></td>
-    <td><a href="rdf.relators.ths.html">dcterms:contributor / relators:ths</a></td>
+    <td><a href="IMI.advisor.md">advisors</a></td>
+    <td><a href="mods.name.md">name/namePart</a></td>
+    <td><a href="rdf.relators.ths.md">dcterms:contributor / relators:ths</a></td>
   </tr>
    <tr>
-    <td><a href="box.html">box</a>(under review)</td>
+    <td><a href="box.md">box</a>(under review)</td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href="imi.bucket.html">bucket</a></td>
-    <td><a href="mods.relateditem_note.html">relatedItem/note</a></td>
+    <td><a href="imi.bucket.md">bucket</a></td>
+    <td><a href="mods.relateditem_note.md">relatedItem/note</a></td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href="campus_location.html">campus_location</a></td>
-    <td><a href="mods.location-physicalLocation.html">N/A</a></td>
-    <td><a href="rdf.contentLocation.html">N/A</a></td>
+    <td><a href="campus_location.md">campus_location</a></td>
+    <td><a href="mods.location-physicalLocation.md">N/A</a></td>
+    <td><a href="rdf.contentLocation.md">N/A</a></td>
   </tr>
   <tr>
-    <td><a href="city.html">city</a></td>
-    <td><a href="mods.originInfo-place-placeTerm.html">originInfo/place/placeTerm</a></td>
-    <td><a href="rdf.locationCreation.html">schema:locationCreated</a></td>
+    <td><a href="city.md">city</a></td>
+    <td><a href="mods.originInfo-place-placeTerm.md">originInfo/place/placeTerm</a></td>
+    <td><a href="rdf.locationCreation.md">schema:locationCreated</a></td>
   </tr>
   <tr>
-    <td><a href="cmodel.html">cmodel</a></td>
+    <td><a href="cmodel.md">cmodel</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href="contributors.html">contributors</a></td>
-    <td><a href="mods.name.html">name/namePart</a></td>
-    <td><a href="rdf.relators.ctb.html">dcterms:contributor/ relators:ctb</a></td>
+    <td><a href="contributors.md">contributors</a></td>
+    <td><a href="mods.name.md">name/namePart</a></td>
+    <td><a href="rdf.relators.ctb.md">dcterms:contributor/ relators:ctb</a></td>
   </tr>
   <tr>
-    <td><a href="coverage_spatial.html">coverage_spatial</a></td>
-    <td><a href="mods.subject_geographic.html">subject/geographic</a></td>
-    <td><a href="rdf.spatial.html">dcterms:spatial</a></td>
+    <td><a href="coverage_spatial.md">coverage_spatial</a></td>
+    <td><a href="mods.subject_geographic.md">subject/geographic</a></td>
+    <td><a href="rdf.spatial.md">dcterms:spatial</a></td>
   </tr>
    <tr>
-    <td><a href="creators.html">creators</a></td>
-    <td><a href="mods.name.html">name/namePart</a></td>
-    <td><a href="rdf.relators-aut.html">dcterms:contributor/ relators:aut</a></td>
+    <td><a href="creators.md">creators</a></td>
+    <td><a href="mods.name.md">name/namePart</a></td>
+    <td><a href="rdf.relators-aut.md">dcterms:contributor/ relators:aut</a></td>
   </tr>
     <tr>
-		<td><a href="date.display.html">date_display</a></td>
-		<td><a href="mods.originInfo_dateOther.html">originInfo/dateOther</a></td>
-		<td><a href="rdf.dcterms.date.html">dcterms:date</a></td>
+		<td><a href="date.display.md">date_display</a></td>
+		<td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
+		<td><a href="rdf.dcterms.date.md">dcterms:date</a></td>
   </tr>
    <tr>
-    <td><a href="date.encoded.html">date_encoded</a></td>
-    <td><a href="mods.originInfo_dateOther.html">originInfo/dateOther</a></td>
-    <td><a href="rdf.rdau.p60527.html">rdau:P60527</a></td>
+    <td><a href="date.encoded.md">date_encoded</a></td>
+    <td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
+    <td><a href="rdf.rdau.p60527.md">rdau:P60527</a></td>
   </tr>  
    <tr>
-		<td><a href="date_issued.html">date_issued</a></td>
-		<td><a href="mods.originInfo_dateIssued.html">originInfo/dateIssued</a></td>
-		<td><a href="rdf.valid.html">dcterms:valid</a></td>
+		<td><a href="date_issued.md">date_issued</a></td>
+		<td><a href="mods.originInfo_dateIssued.md">originInfo/dateIssued</a></td>
+		<td><a href="rdf.valid.md">dcterms:valid</a></td>
   </tr>
   <tr>
-    <td><a href="imi.date.sort.html">date_sort</a></td>
-    <td><a href="mods.originInfo.dateCreated.html">originInfo/dateCreated</a></td>
-    <td><a href="rdf.dcterms.created.html">dcterms:created</a></td>
+    <td><a href="imi.date.sort.md">date_sort</a></td>
+    <td><a href="mods.originInfo.dateCreated.md">originInfo/dateCreated</a></td>
+    <td><a href="rdf.dcterms.created.md">dcterms:created</a></td>
   </tr>
   <tr>
-    <td><a href="department.html">department</a></td>
-    <td><a href="mods.name.html">name/namePart</a></td>
-    <td><a href="RDF.department.html">schema:department</a></td>
+    <td><a href="department.md">department</a></td>
+    <td><a href="mods.name.md">name/namePart</a></td>
+    <td><a href="RDF.department.md">schema:department</a></td>
   </tr>
   <tr>
-    <td><a href="description.html">description</a></td>
-    <td><a href="mods.name.html">name/namePart</a></td>
-    <td><a href="RDF.description.html">dcterms:description</a></td>
+    <td><a href="description.md">description</a></td>
+    <td><a href="mods.name.md">name/namePart</a></td>
+    <td><a href="RDF.description.md">dcterms:description</a></td>
   </tr>
   <tr>
-    <td><a href="embargo_date.html">embargo_date</a></td>
-    <td><a href="mods.originInfo_dateValid.html">originInfo/dateValid</a></td>
-    <td><a href="rdf.availabilityStarts.html">schema:avalibilityStarts</a></td>
+    <td><a href="embargo_date.md">embargo_date</a></td>
+    <td><a href="mods.originInfo_dateValid.md">originInfo/dateValid</a></td>
+    <td><a href="rdf.availabilityStarts.md">schema:avalibilityStarts</a></td>
   </tr>
   <tr>
-    <td><a href="extent.html">extent</a></td>
-    <td><a href="mods.physicalDescription-extent.html">physicalDescription/extent</a></td>
-    <td><a href="rdf.extent.html">dcterms:extent</a></td>
+    <td><a href="extent.md">extent</a></td>
+    <td><a href="mods.physicalDescription-extent.md">physicalDescription/extent</a></td>
+    <td><a href="rdf.extent.md">dcterms:extent</a></td>
   </tr>
     <tr>
-    <td><a href="filepath.html">filepath</a></td>
-    <td><a href="mods.identifier.html">identifier</a></td>
-    <td><a href="RDF.rdau.P61166.html">rdau:P61166</a></td>
+    <td><a href="filepath.md">filepath</a></td>
+    <td><a href="mods.identifier.md">identifier</a></td>
+    <td><a href="RDF.rdau.P61166.md">rdau:P61166</a></td>
   </tr>
     <tr>
-    <td><a href="funding_source.html">funding_sources</a></td>
-    <td><a href="mods.name.html">name/namePart</a></td>
-    <td><a href="RDF.relators-spn.html">foaf:name / relators:spn</a></td>
+    <td><a href="funding_source.md">funding_sources</a></td>
+    <td><a href="mods.name.md">name/namePart</a></td>
+    <td><a href="RDF.relators-spn.md">foaf:name / relators:spn</a></td>
   </tr>
   <tr>
-    <td><a href="genre.html">genre</a></td>
-    <td><a href="mods.genre.html">genre</a></td>
-    <td><a href="rdf.genre.html">schema:genre</a></td>
+    <td><a href="genre.md">genre</a></td>
+    <td><a href="mods.genre.md">genre</a></td>
+    <td><a href="rdf.genre.md">schema:genre</a></td>
   </tr>
      <tr>
-    <td><a href="context_key.html">identifier_unique</a></td>
-    <td><a href="MODS.identifier.html">identifier</a></td>
-    <td><a href="RDF.identifier.html">dc:identifier</a></td>
+    <td><a href="context_key.md">identifier_unique</a></td>
+    <td><a href="MODS.identifier.md">identifier</a></td>
+    <td><a href="RDF.identifier.md">dc:identifier</a></td>
   </tr>
   <tr>
-    <td><a href="part.issue.html">issue</a></td>
-    <td><a href="mods.part-detail-number.html">part/detail/number</a></td>
-    <td><a href="RDF.isPartOf.html">dcterms:isPartOf</a></td>
+    <td><a href="part.issue.md">issue</a></td>
+    <td><a href="mods.part-detail-number.md">part/detail/number</a></td>
+    <td><a href="RDF.isPartOf.md">dcterms:isPartOf</a></td>
   </tr>
   <tr>
-    <td><a href="item_identifier.html">item_identifier</a></td>
-    <td><a href="MODS.identifier.html">identifier</a></td>
-    <td><a href="RDF.schema.identifier.html">schema:identifier</a></td>
+    <td><a href="item_identifier.md">item_identifier</a></td>
+    <td><a href="MODS.identifier.md">identifier</a></td>
+    <td><a href="RDF.schema.identifier.md">schema:identifier</a></td>
   </tr>
    <tr>
-    <td><a href="language.html">language</a></td>
-    <td><a href="mods.language.languageTerm.html">language/languageTerm</a></td>
-    <td><a href="rdf.language.html">dcterms:language</a></td>
+    <td><a href="language.md">language</a></td>
+    <td><a href="mods.language.languageTerm.md">language/languageTerm</a></td>
+    <td><a href="rdf.language.md">dcterms:language</a></td>
   </tr>
   <tr>
-    <td><a href="license_file.html">license_file</a></td>
+    <td><a href="license_file.md">license_file</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href="line_num.html">line_num</a>(under construction)</td>
+    <td><a href="line_num.md">line_num</a>(under construction)</td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
    <tr>
-    <td><a href="obj_file.html">OBJ</a></td>
+    <td><a href="obj_file.md">OBJ</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr> 
    <tr>
-    <td><a href="obj_file.html">obj_file</a></td>
+    <td><a href="obj_file.md">obj_file</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>  
    <tr>
-    <td><a href="origin.html">origin</a></td>
-    <td><a href="mods.originInfo-place-placeTerm.html">originInfo/place/placeTerm</a></td>
-    <td><a href="rdf.p60523.html">rdau:P60523</a></td>
+    <td><a href="origin.md">origin</a></td>
+    <td><a href="mods.originInfo-place-placeTerm.md">originInfo/place/placeTerm</a></td>
+    <td><a href="rdf.p60523.md">rdau:P60523</a></td>
   </tr>
   <tr>
-    <td><a href="pages.html">pages</a></td>
-    <td><a href="mods.part-extent-total.html">part/extent/total</a></td>
-    <td><a href="rdau.p60550.html">rdau:P60550</a></td>
+    <td><a href="pages.md">pages</a></td>
+    <td><a href="mods.part-extent-total.md">part/extent/total</a></td>
+    <td><a href="rdau.p60550.md">rdau:P60550</a></td>
   </tr>
   <tr>
-    <td><a href="parent.html">parent</a></td>
+    <td><a href="parent.md">parent</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
    <tr>
-    <td><a href="permanent_url.html">permanent_url</a></td>
-    <td><a href="MODS.identifier.html">identifier</a></td>
-    <td><a href="rdf.p60919.html">rdau:P60919</a></td>
+    <td><a href="permanent_url.md">permanent_url</a></td>
+    <td><a href="MODS.identifier.md">identifier</a></td>
+    <td><a href="rdf.p60919.md">rdau:P60919</a></td>
   </tr>
   <tr>
-    <td><a href="pid.html">PID</a></td>
+    <td><a href="pid.md">PID</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
    <tr>
-    <td><a href="provenance.html">provenance</a></td>
-    <td><a href="mods.note.html">note</a></td>
-    <td><a href="rdf.dcterms.provenance.html">dcterms:provenance</a></td>
+    <td><a href="provenance.md">provenance</a></td>
+    <td><a href="mods.note.md">note</a></td>
+    <td><a href="rdf.dcterms.provenance.md">dcterms:provenance</a></td>
 	</tr>
   <tr>
-    <td><a href="publication_date.html">publication_date</a></td>
-    <td><a href="mods.originInfo_dateOther.html">originInfo/dateOther</a></td>
-    <td><a href="rdf.issued.html">dcterms:issued</a></td>
+    <td><a href="publication_date.md">publication_date</a></td>
+    <td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
+    <td><a href="rdf.issued.md">dcterms:issued</a></td>
   </tr>
    <tr>
-    <td><a href="publisher.html">publisher</a></td>
-    <td><a href="mods.originInfo-publisher.html">originInfo/publisher</a></td>
-    <td><a href="RDF.relators-pbl.html">foaf:name / relators:pbl</a></td>
+    <td><a href="publisher.md">publisher</a></td>
+    <td><a href="mods.originInfo-publisher.md">originInfo/publisher</a></td>
+    <td><a href="RDF.relators-pbl.md">foaf:name / relators:pbl</a></td>
   </tr> 
    <tr>
-    <td><a href="rights.html">rights_contact</a></td>
-    <td><a href="mods.access_condition.html">accessCondition</a></td>
-    <td><a href="rdf.accessibilityControl.html">schema:accessibilityControl</a></td>
+    <td><a href="rights.md">rights_contact</a></td>
+    <td><a href="mods.access_condition.md">accessCondition</a></td>
+    <td><a href="rdf.accessibilityControl.md">schema:accessibilityControl</a></td>
   </tr>
-    <td><a href="rights_statement.html">rights_statement</a></td>
-    <td><a href="mods.access_condition.html">accessCondition</a></td>
-    <td><a href="rdf.rdau.P60339.html">rdau:P60339</a></td>
-  </tr>
-  <tr>
-    <td><a href="rowNumber.html">rowNumber</a></td>
-    <td>N/A</td>
-    <td>N/A</td>
+    <td><a href="rights_statement.md">rights_statement</a></td>
+    <td><a href="mods.access_condition.md">accessCondition</a></td>
+    <td><a href="rdf.rdau.P60339.md">rdau:P60339</a></td>
   </tr>
   <tr>
-    <td><a href="seq_number.html">seq_number</a></td>
+    <td><a href="rowNumber.md">rowNumber</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href="source.html">source</a></td>
-    <td><a href="mods.relatedItem.part.text.html">relatedItem/part/text</a></td>
-    <td><a href="rdf.dc.source.html">dcterms:source</a></td>
+    <td><a href="seq_number.md">seq_number</a></td>
+    <td>N/A</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td><a href="source.md">source</a></td>
+    <td><a href="mods.relatedItem.part.text.md">relatedItem/part/text</a></td>
+    <td><a href="rdf.dc.source.md">dcterms:source</a></td>
   </tr>
     <tr>
-    <td><a href="keywords.html">subject_keywords</a></td>
-    <td><a href="mods.subject.topic.html">subject/topic</a></td>
-    <td><a href="rdf.subject.html">dcterms:subject</a></td>
+    <td><a href="keywords.md">subject_keywords</a></td>
+    <td><a href="mods.subject.topic.md">subject/topic</a></td>
+    <td><a href="rdf.subject.md">dcterms:subject</a></td>
   </tr>
   <tr>
-    <td><a href="title.html">title</a></td>
-    <td><a href="mods.titleInfo.title.html">titleInfo/title</a></td>
-    <td><a href="rdf.title.html">dcterms:title</a></td>
+    <td><a href="title.md">title</a></td>
+    <td><a href="mods.titleInfo.title.md">titleInfo/title</a></td>
+    <td><a href="rdf.title.md">dcterms:title</a></td>
   </tr>
     <tr>
-    <td><a href="nonenglish_title.html">title_alternative</a></td>
-    <td><a href="mods.titleInfo.title.html">titleInfo/title</a></td>
-    <td><a href="rdf.alternative.html">dcterms:alternative</a></td>
+    <td><a href="nonenglish_title.md">title_alternative</a></td>
+    <td><a href="mods.titleInfo.title.md">titleInfo/title</a></td>
+    <td><a href="rdf.alternative.md">dcterms:alternative</a></td>
   </tr>
   <tr>
-    <td><a href="download_url.html">url_external</a></td>
-    <td><a href="mods.location-url.html">location/url</a></td>
-    <td><a href="RDF.url.html">schema:url</a></td>
+    <td><a href="download_url.md">url_external</a></td>
+    <td><a href="mods.location-url.md">location/url</a></td>
+    <td><a href="RDF.url.md">schema:url</a></td>
   </tr>
   <tr>
-    <td><a href="volume.html">volume</a></td>
-    <td><a href="mods.part-detail-number.html">part/detail/number</a></td>
-    <td><a href="rdf.volumeNumber.html">schema:volumeNumber</a></td>
+    <td><a href="volume.md">volume</a></td>
+    <td><a href="mods.part-detail-number.md">part/detail/number</a></td>
+    <td><a href="rdf.volumeNumber.md">schema:volumeNumber</a></td>
   </tr>
   <tr>
-    <td><a href="work_type.html">work_type</a></td>
-    <td><a href="mods.typeOfResource.html">typeOfResource</a></td>
-    <td><a href="rdf.type.html">dcterms:type</a></td>
+    <td><a href="work_type.md">work_type</a></td>
+    <td><a href="mods.typeOfResource.md">typeOfResource</a></td>
+    <td><a href="rdf.type.md">dcterms:type</a></td>
   </tr>
   <tr>
-    <td><a href="conference_year.html">year_conference</a></td>
-    <td><a href="mods.originInfo_dateOther.html">originInfo/dateOther</a></td>
-    <td><a href="rdf.rdau.p60526.html">rdau:P60526</a></td>
+    <td><a href="conference_year.md">year_conference</a></td>
+    <td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
+    <td><a href="rdf.rdau.p60526.md">rdau:P60526</a></td>
   </tr>
   <tr>
-    <td><a href="graduation_year.html">year_graduation</a></td>
-    <td><a href="mods.originInfo_dateOther.html">originInfo/dateOther</a></td>
-    <td><a href="rdf.rdau.p60514.html">rdau:P60514</td>
+    <td><a href="graduation_year.md">year_graduation</a></td>
+    <td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
+    <td><a href="rdf.rdau.p60514.md">rdau:P60514</td>
   </tr>
   <tr>
-    <td><a href="MODS.recordseries.html">[MODS/RecordSeries]</a></td>
-    <td><a href="mods.relatedItem.part.text.html">relatedItem/part/text</a></td>
-    <td><a href="rdf.rdau.p60101.html">rdau:P60101</a></td>
+    <td><a href="MODS.recordseries.md">[MODS/RecordSeries]</a></td>
+    <td><a href="mods.relatedItem.part.text.md">relatedItem/part/text</a></td>
+    <td><a href="rdf.rdau.p60101.md">rdau:P60101</a></td>
   </tr>
   <tr>
-    <td><a href="MODS.recordseriesid.html">[MODS/RecordSeriesID]</a></td>
-    <td><a href="mods.location.holdingsimple.copyinformation.sublocation.html">location/holdingSimple/copyInformation/subLocation</a></td>
-    <td><a href="rdf.rdau.P60348.html">rdau:P60348</a></td>
+    <td><a href="MODS.recordseriesid.md">[MODS/RecordSeriesID]</a></td>
+    <td><a href="mods.location.holdingsimple.copyinformation.sublocation.md">location/holdingSimple/copyInformation/subLocation</a></td>
+    <td><a href="rdf.rdau.P60348.md">rdau:P60348</a></td>
   </tr>
   <tr>
-    <td><a href="MODS.marccounty.html">[MODS/@authority="marccounty"]</a></td>
-    <td><a href="mods.place.placeterm.html">place/placeTerm</a></td>
-    <td><a href="rdf.rdau.p60163.html">rdau:P60163</a></td>
+    <td><a href="MODS.marccounty.md">[MODS/@authority="marccounty"]</a></td>
+    <td><a href="mods.place.placeterm.md">place/placeTerm</a></td>
+    <td><a href="rdf.rdau.p60163.md">rdau:P60163</a></td>
   </tr>
   <tr>
-    <td><a href="MODS.relatedItem.originInfo.issuance.html">[MODS/relatedItem/originInfo/issuance]</a></td>
-    <td><a href="mods.relatedItem.originInfo.issuance.html">relatedItem/originInfo/issuance</a></td>
-    <td><a href="rdf.rdau.p60051.html">rdau:P60051</a></td>
+    <td><a href="MODS.relatedItem.originInfo.issuance.md">[MODS/relatedItem/originInfo/issuance]</a></td>
+    <td><a href="mods.relatedItem.originInfo.issuance.md">relatedItem/originInfo/issuance</a></td>
+    <td><a href="rdf.rdau.p60051.md">rdau:P60051</a></td>
   </tr>
   <tr>
-    <td><a href="MODS.dateIssued.Start.html">[MODS/dateIssued.Start]</a></td>
-    <td><a href="mods.relatedItem.originInfo.dateIssued.html">relatedItem/originInfo/dateIssued</a></td>
-    <td><a href="rdf.schemal.startdate.html">schema:startDate</a></td>
+    <td><a href="MODS.dateIssued.Start.md">[MODS/dateIssued.Start]</a></td>
+    <td><a href="mods.relatedItem.originInfo.dateIssued.md">relatedItem/originInfo/dateIssued</a></td>
+    <td><a href="rdf.schemal.startdate.md">schema:startDate</a></td>
   </tr>
   <tr>
-    <td><a href="MODS.dateIssued.End.html">[MODS/dateIssued.End]</a></td>
-    <td><a href="mods.relatedItem.originInfo.dateIssued.html">relatedItem/originInfo/dateIssued</a></td>
-    <td><a href="rdf.schema.endDate.html">schema:endDate</a></td>
+    <td><a href="MODS.dateIssued.End.md">[MODS/dateIssued.End]</a></td>
+    <td><a href="mods.relatedItem.originInfo.dateIssued.md">relatedItem/originInfo/dateIssued</a></td>
+    <td><a href="rdf.schema.endDate.md">schema:endDate</a></td>
   </tr>
   <tr>
-    <td><a href="IMI.MODS.relatedItem.originInfo.frequency.html">[MODS/relatedItem/originInfo/frequency]</a></td>
-    <td><a href="mods.relatedItem.originInfo.frequency.html">relatedItem/originInfo/frequency</a></td>
-    <td><a href="rdf.p60583.html">rdau:P60583</a></td>
+    <td><a href="IMI.MODS.relatedItem.originInfo.frequency.md">[MODS/relatedItem/originInfo/frequency]</a></td>
+    <td><a href="mods.relatedItem.originInfo.frequency.md">relatedItem/originInfo/frequency</a></td>
+    <td><a href="rdf.p60583.md">rdau:P60583</a></td>
   </tr>
   <tr>
-    <td><a href="IMI.MODS.originInfo.issuance.html">[MODS/originInfo/issuance]</a></td>
-    <td><a href="mods.originInfo.issuance.html">originInfo/issuance</a></td>
-    <td><a href="rdf.genre.html">schema:genre</a></td>
+    <td><a href="IMI.MODS.originInfo.issuance.md">[MODS/originInfo/issuance]</a></td>
+    <td><a href="mods.originInfo.issuance.md">originInfo/issuance</a></td>
+    <td><a href="rdf.genre.md">schema:genre</a></td>
   </tr>
   <tr>
-    <td><a href="IMI.MODS.publicationDateStart.html">[MODS/Publication Date Start]</a></td>
-    <td><a href="mods.originInfo.dateIssued.html">originInfo/dateIssued</a></td>
-    <td><a href="rdf.p60998.html">rdau:P60998</a></td>
+    <td><a href="IMI.MODS.publicationDateStart.md">[MODS/Publication Date Start]</a></td>
+    <td><a href="mods.originInfo.dateIssued.md">originInfo/dateIssued</a></td>
+    <td><a href="rdf.p60998.md">rdau:P60998</a></td>
   </tr>
   <tr>
-    <td><a href="IMI.MODS.publicationDateEnd.html">[MODS/Publicaton Date End]<a/></td>
-    <td><a href="mods.originInfo.dateIssued.html">originInfo/dateIssued</a></td>
-    <td><a href="rdf.rdau.p61000.html">rdau:61000</a></td>
+    <td><a href="IMI.MODS.publicationDateEnd.md">[MODS/Publicaton Date End]<a/></td>
+    <td><a href="mods.originInfo.dateIssued.md">originInfo/dateIssued</a></td>
+    <td><a href="rdf.rdau.p61000.md">rdau:61000</a></td>
   </tr>
   <tr>
-    <td><a href="imi.mods_display_date.html">[MODS/mods_display_date]</a></td>
-    <td><a href="mods.originInfo_dateOther.html">originInfo/dateOther</a></td>
-    <td><a href="rdf.dcterms.date.html">dcterms:date</a></td>
+    <td><a href="imi.mods_display_date.md">[MODS/mods_display_date]</a></td>
+    <td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
+    <td><a href="rdf.dcterms.date.md">dcterms:date</a></td>
   </tr>
   <tr>
-    <td><a href="imi.mods_date_created_keydate.html">[MODS/mods_date_created_keydate]</a></td>
-    <td><a href="mods.originInfo.dateCreated.html">originInfo/dateCreated</a></td>
-    <td><a href="rdf.dcterms.created.html">dcterms:created</a></td>
+    <td><a href="imi.mods_date_created_keydate.md">[MODS/mods_date_created_keydate]</a></td>
+    <td><a href="mods.originInfo.dateCreated.md">originInfo/dateCreated</a></td>
+    <td><a href="rdf.dcterms.created.md">dcterms:created</a></td>
   </tr>
   <tr>
-    <td><a href="imi.mods_oai_harvester_date.html">[MODS/oai_harvester_date]</a></td>
-	<td><a href="mods.originInfo_dateOther.html">originInfo/dateOther</a></td>
-    <td><a href="rdf.rdau.p60527.html">rdau:P60527</a></td>
+    <td><a href="imi.mods_oai_harvester_date.md">[MODS/oai_harvester_date]</a></td>
+	<td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
+    <td><a href="rdf.rdau.p60527.md">rdau:P60527</a></td>
   </tr>
   <tr>
     <td>[MODS/rights]</td>
-    <td><a href="mods.access_condition.html">accessCondition</a></td>
-    <td><a href="rdf.accessibilityControl.html">schema:accessibilityControl</a></td>
+    <td><a href="mods.access_condition.md">accessCondition</a></td>
+    <td><a href="rdf.accessibilityControl.md">schema:accessibilityControl</a></td>
   </tr>
 </table>
 <dl>
