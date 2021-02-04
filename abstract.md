@@ -1,3 +1,6 @@
+git branch -m IMI <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH>
 <!DOCTYPE html>
 <html>
 
