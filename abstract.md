@@ -4,15 +4,15 @@
 <body>
 <table style="width:100%">
   <tr>
-    <th><a href="index.html">Main page</a></th>
-	<th><a href="IMI.html">IMI Columns</a></th>
-    <th><a href="MODS.html">MODS Fields</a></th>
-    <th><a href="RDF.html">RDF Fields</a></th>
+    <th><a href="index.md">Main page</a></th>
+	<th><a href="IMI.md">IMI Columns</a></th>
+    <th><a href="MODS.md">MODS Fields</a></th>
+    <th><a href="RDF.md">RDF Fields</a></th>
   </tr>
 </table>
 
 <h1>IMI/abstract</h1>
-<p><a href="migration-questions.html">See migration questions</a></p>
+<p><a href="migration-questions.md">See migration questions</a></p>
 <dl>
   <dt><b>Description</b></dt>
   <dd><ins><font color="brown">ARMINDA Use:</font></ins>A summary of the resource, primarily used with scholarship objects</dd>
@@ -46,8 +46,8 @@
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			<td><a href="mods.abstract.html">MODS/abstract</a></td>
-			<td><a href="rdf.abstract.html">RDF/dcterms:abstract </a></td>
+			<td><a href="mods.abstract.md">MODS/abstract</a></td>
+			<td><a href="rdf.abstract.md">RDF/dcterms:abstract </a></td>
 		</table>
 </dl>
 </body>
