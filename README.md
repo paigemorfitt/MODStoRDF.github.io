@@ -5,7 +5,7 @@
 <table style="width:100%">
   <tr>
     <th>Main page</th>
-	<th><a href="IMI.md">IMI Column</a></th>
+    <th><a href="IMI.md">IMI Column</a></th>
     <th><a href="MODS.md">MODS Field</a></th>
     <th><a href="RDF.md">RDF Field</a></th>
   </tr>
