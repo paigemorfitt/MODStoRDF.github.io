@@ -106,7 +106,7 @@
 		<td><a href="rdf.valid.md">dcterms:valid</a></td>
   </tr>
   <tr>
-    <td><a href="imi.date.sort.md">date_sort</a></td>
+    <td><a href="date.sort.md">date_sort</a></td>
     <td><a href="mods.originInfo.dateCreated.md">originInfo/dateCreated</a></td>
     <td><a href="rdf.dcterms.created.md">dcterms:created</a></td>
   </tr>
