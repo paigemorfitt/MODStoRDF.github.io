@@ -7,7 +7,7 @@
 
 <table style="width:100%">
   <tr>
-    <th><a href="index.md">[Main page](https://github.com/paigemorfitt/MODStoRDF.github.io/blob/master/index.md)</a></th>
+    <th>Main page</th>
 	<th><a href="IMI.md">IMI Column</a></th>
     <th><a href="MODS.md">MODS Field</a></th>
     <th><a href="RDF.md">RDF Field</a></th>
