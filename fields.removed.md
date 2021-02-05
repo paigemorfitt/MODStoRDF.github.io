@@ -51,9 +51,10 @@
 		<li>IMI/cultural_affiliation</li>
 		<li>IMI/custom_citation</li>
 		<li>IMI/date_created</li>
+		<li>IMI/date_processed</li>
 	</ul>
 </dd> 
-	<p><font color="red"><i>Last Updated: </i></font>2/3/2021</p>
+	<p><font color="red"><i>Last Updated: </i></font>2/5/2021</p>
 </dl>
 </body>
 </html>
