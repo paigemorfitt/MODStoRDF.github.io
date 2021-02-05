@@ -32,8 +32,7 @@
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			<td><a href="imi.date.sort.md">IMI/date_sort</a></td>
-			<td><a href="imi.mods_date_created_keydate.md">IMI/[MODS/mods_date_created_keydate]</a></td>
+			<td><a href="date.sort.md">IMI/date_sort</a></td>
 			<td><a href="rdf.dcterms.created.md">RDF/dcterms:created</a></td>
 		</table>
 </dl>
