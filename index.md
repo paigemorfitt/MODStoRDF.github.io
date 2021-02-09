@@ -113,7 +113,7 @@
   <tr>
     <td><a href="department.md">department</a></td>
     <td><a href="mods.name.md">name/namePart</a></td>
-    <td><a href="RDF.department.md">schema:department</a></td>
+    <td><a href="RDF.schema.department.md">schema:department</a></td>
   </tr>
   <tr>
     <td><a href="description.md">description</a></td>
