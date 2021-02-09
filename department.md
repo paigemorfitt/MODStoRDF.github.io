@@ -10,7 +10,7 @@
     <th><a href="#">RDF Fields</a></th>
   </tr>
 </table>
-<h1>department</h1>
+<h1>IMI/department</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd><ins><font color="brown">ARMINDA Use:</font></ins> College division in which the item is categorized</dd>
