@@ -39,7 +39,7 @@
   <dd><ins><font color="brown">Attributes</font></ins>authority; authorityURI; valueURI; lang; xml:lang; script; transliteration; type</dd>
   <dd><ins><font color="brown">Subelements:</font></ins>N/A</dd>
 </dl>
-	<p><font color="red"><i>Last Updated: </i></font>1/19/2021</p>
+	<p><font color="red"><i>Last Updated: </i></font>2/9/2021</p>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
@@ -54,6 +54,10 @@
 			<tr>
 				<td><a href="creators.md">IMI/creators</a></td>
 				<td><a href="rdf.relators-aut.md">RDF/dcterms:contributor/ relators:aut</a></td>
+			</tr>
+			<tr>
+				<td><a href="department.md">IMI/department</a></td>
+				<td><a href="RDF.schema.department.md">RDF/schema:department</a></td>
 			</tr>
 	</table>
 </dl>
