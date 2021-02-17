@@ -28,8 +28,8 @@
 			<td><a href="rdf.abstract.md">RDF/dcterms:abstract </a></td>
 		</tr>
 		<tr>
-				<td><a href="description.md">IMI/description</a></td>
-				<td><a href="RDF.description.md">RDF/dcterms:description</a></td>
+			<td><a href="description.md">IMI/description</a></td>
+			<td><a href="RDF.description.md">RDF/dcterms:description</a></td>
 		  </tr>
 		</table>
 </dl>
