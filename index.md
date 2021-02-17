@@ -117,7 +117,7 @@
   </tr>
   <tr>
     <td><a href="description.md">description</a></td>
-    <td><a href="mods.name.md">name/namePart</a></td>
+    <td><a href="mods.abstract.md">abstract</a></td>
     <td><a href="RDF.description.md">dcterms:description</a></td>
   </tr>
   <tr>
