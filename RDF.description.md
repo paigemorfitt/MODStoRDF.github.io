@@ -26,7 +26,7 @@
 	<dd><b>Related Fields</b></dd>
 		<table>
 			<td><a href="description.md">IMI/description</a></td>
-			<td><a href="mods.name.md">MODS/name/namePart</a></td>
+			<td><a href="mods.abstract.md">MODS/abstract</a></td>
 		</table>
 </dl>
 </body>
