@@ -51,7 +51,7 @@
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			<td><a href="mods.name.md">MODS/name/namePart</a></td>
+			<td><a href="mods.abstract.md">MODS/abstract</a></td>
 			<td><a href="RDF.description.md">RDF/dcterms:description</a></td>
 		</table>
 </dl>
