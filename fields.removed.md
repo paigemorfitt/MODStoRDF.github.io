@@ -52,9 +52,50 @@
 		<li>IMI/custom_citation</li>
 		<li>IMI/date_created</li>
 		<li>IMI/date_processed</li>
+		<li>IMI/director</li>
+		<li>IMI/display_date</li>
+		<li>IMI/distribution_license</li>
+		<li>IMI/document_type</li>
+		<li>IMI/donor</li>
+		<li>IMI/download_file_format</li>
+		<li>IMI/duration</li>
+		<li>IMI/editor</li>
+		<li>IMI/end_date</li>
+		<li>IMI/endowment</li>
+		<li>IMI/equipment</li>
+		<li>IMI/ext_links</li>
+		<li>IMI/file_list</li>
+		<li>IMI/file_name_id</li>
+		<li>IMI/format</li>
+		<li>IMI/front_end_url</li>
+		<li>IMI/grant_information</li>
+		<li>IMI/identifier</li>
+		<li>IMI/image_caption</li>
+		<li>IMI/image_source</li>
+		<li>IMI/instructor</li>
+		<li>IMI/insurance_value</li>
+		<li>IMI/irb_information</li>
+		<li>IMI/irb_number</li>
+		<li>IMI/issnum</li>
+		<li>IMI/lc_subject</li>
+		<li>IMI/lightning_design</li>
+		<li>IMI/local_handle</li>
+		<li>IMI/location</li>
+		<li>IMI/medium</li>
+		<li>IMI/multimedia_format</li>
+		<li>IMI/multimedia_url</li>
+		<li>IMI/native_filename</li>
+		<li>IMI/native_filesize</li>
+		<li>IMI/number_artifacts</li>
+		<li>IMI/oclc_number</li>
+		<li>IMI/old_cat_id</li>
+		<li>IMI/pagecount</li>
+		<li>IMI/pages</li>
+		<li>IMI/pdf_filename</li>
+		<li>IMI/pdf_filesize</li>
 	</ul>
 </dd> 
-	<p><font color="red"><i>Last Updated: </i></font>2/5/2021</p>
+	<p><font color="red"><i>Last Updated: </i></font>2/17/2021</p>
 </dl>
 </body>
 </html>
