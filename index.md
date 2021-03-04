@@ -289,79 +289,9 @@
     <td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
     <td><a href="rdf.rdau.p60514.md">rdau:P60514</td>
   </tr>
-  <tr>
-    <td><a href="MODS.recordseries.md">[MODS/RecordSeries]</a></td>
-    <td><a href="mods.relatedItem.part.text.md">relatedItem/part/text</a></td>
-    <td><a href="rdf.rdau.p60101.md">rdau:P60101</a></td>
-  </tr>
-  <tr>
-    <td><a href="MODS.recordseriesid.md">[MODS/RecordSeriesID]</a></td>
-    <td><a href="mods.location.holdingsimple.copyinformation.sublocation.md">location/holdingSimple/copyInformation/subLocation</a></td>
-    <td><a href="rdf.rdau.P60348.md">rdau:P60348</a></td>
-  </tr>
-  <tr>
-    <td><a href="MODS.marccounty.md">[MODS/@authority="marccounty"]</a></td>
-    <td><a href="mods.place.placeterm.md">place/placeTerm</a></td>
-    <td><a href="rdf.rdau.p60163.md">rdau:P60163</a></td>
-  </tr>
-  <tr>
-    <td><a href="MODS.relatedItem.originInfo.issuance.md">[MODS/relatedItem/originInfo/issuance]</a></td>
-    <td><a href="mods.relatedItem.originInfo.issuance.md">relatedItem/originInfo/issuance</a></td>
-    <td><a href="rdf.rdau.p60051.md">rdau:P60051</a></td>
-  </tr>
-  <tr>
-    <td><a href="MODS.dateIssued.Start.md">[MODS/dateIssued.Start]</a></td>
-    <td><a href="mods.relatedItem.originInfo.dateIssued.md">relatedItem/originInfo/dateIssued</a></td>
-    <td><a href="rdf.schemal.startdate.md">schema:startDate</a></td>
-  </tr>
-  <tr>
-    <td><a href="MODS.dateIssued.End.md">[MODS/dateIssued.End]</a></td>
-    <td><a href="mods.relatedItem.originInfo.dateIssued.md">relatedItem/originInfo/dateIssued</a></td>
-    <td><a href="rdf.schema.endDate.md">schema:endDate</a></td>
-  </tr>
-  <tr>
-    <td><a href="IMI.MODS.relatedItem.originInfo.frequency.md">[MODS/relatedItem/originInfo/frequency]</a></td>
-    <td><a href="mods.relatedItem.originInfo.frequency.md">relatedItem/originInfo/frequency</a></td>
-    <td><a href="rdf.p60583.md">rdau:P60583</a></td>
-  </tr>
-  <tr>
-    <td><a href="IMI.MODS.originInfo.issuance.md">[MODS/originInfo/issuance]</a></td>
-    <td><a href="mods.originInfo.issuance.md">originInfo/issuance</a></td>
-    <td><a href="rdf.genre.md">schema:genre</a></td>
-  </tr>
-  <tr>
-    <td><a href="IMI.MODS.publicationDateStart.md">[MODS/Publication Date Start]</a></td>
-    <td><a href="mods.originInfo.dateIssued.md">originInfo/dateIssued</a></td>
-    <td><a href="rdf.p60998.md">rdau:P60998</a></td>
-  </tr>
-  <tr>
-    <td><a href="IMI.MODS.publicationDateEnd.md">[MODS/Publicaton Date End]<a/></td>
-    <td><a href="mods.originInfo.dateIssued.md">originInfo/dateIssued</a></td>
-    <td><a href="rdf.rdau.p61000.md">rdau:61000</a></td>
-  </tr>
-  <tr>
-    <td><a href="imi.mods_display_date.md">[MODS/mods_display_date]</a></td>
-    <td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
-    <td><a href="rdf.dcterms.date.md">dcterms:date</a></td>
-  </tr>
-  <tr>
-    <td><a href="imi.mods_date_created_keydate.md">[MODS/mods_date_created_keydate]</a></td>
-    <td><a href="mods.originInfo.dateCreated.md">originInfo/dateCreated</a></td>
-    <td><a href="rdf.dcterms.created.md">dcterms:created</a></td>
-  </tr>
-  <tr>
-    <td><a href="imi.mods_oai_harvester_date.md">[MODS/oai_harvester_date]</a></td>
-	<td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
-    <td><a href="rdf.rdau.p60527.md">rdau:P60527</a></td>
-  </tr>
-  <tr>
-    <td>[MODS/rights]</td>
-    <td><a href="mods.access_condition.md">accessCondition</a></td>
-    <td><a href="rdf.accessibilityControl.md">schema:accessibilityControl</a></td>
-  </tr>
 </table>
 <dl>
-	<p><font color="red"><i>Last Updated: </i></font>12/23/2020</p>
+	<p><font color="red"><i>Last Updated: </i></font>3/4/2021</p>
 </dl>
 </body>
 </html>
