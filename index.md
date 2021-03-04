@@ -155,11 +155,6 @@
     <td><a href="mods.part-detail-number.md">part/detail/number</a></td>
     <td><a href="RDF.isPartOf.md">dcterms:isPartOf</a></td>
   </tr>
-  <tr>
-    <td><a href="item_identifier.md">item_identifier</a></td>
-    <td><a href="MODS.identifier.md">identifier</a></td>
-    <td><a href="RDF.schema.identifier.md">schema:identifier</a></td>
-  </tr>
    <tr>
     <td><a href="language.md">language</a></td>
     <td><a href="mods.language.languageTerm.md">language/languageTerm</a></td>
@@ -174,11 +169,6 @@
     <td><a href="line_num.md">line_num</a>(under construction)</td>
     <td>N/A</td>
     <td>N/A</td>
-  </tr>
-   <tr>
-    <td><a href="obj_file.md">OBJ</a></td>
-    <td>N/A</td>
-    <td>N/A</td>
   </tr> 
    <tr>
     <td><a href="obj_file.md">obj_file</a></td>
@@ -189,11 +179,6 @@
     <td><a href="origin.md">origin</a></td>
     <td><a href="mods.originInfo-place-placeTerm.md">originInfo/place/placeTerm</a></td>
     <td><a href="rdf.p60523.md">rdau:P60523</a></td>
-  </tr>
-  <tr>
-    <td><a href="pages.md">pages</a></td>
-    <td><a href="mods.part-extent-total.md">part/extent/total</a></td>
-    <td><a href="rdau.p60550.md">rdau:P60550</a></td>
   </tr>
   <tr>
     <td><a href="parent.md">parent</a></td>
