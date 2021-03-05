@@ -138,7 +138,7 @@
     <tr>
     <td><a href="funding_source.md">funding_sources</a></td>
     <td><a href="mods.name.md">name/namePart</a></td>
-    <td><a href="RDF.relators-spn.md">foaf:name / relators:spn</a></td>
+    <td><a href="RDF.relators-spn.md">dcterms:contributor/ relators:spn</a></td>
   </tr>
   <tr>
     <td><a href="genre.md">genre</a></td>
@@ -208,7 +208,7 @@
    <tr>
     <td><a href="publisher.md">publisher</a></td>
     <td><a href="mods.originInfo-publisher.md">originInfo/publisher</a></td>
-    <td><a href="RDF.relators-pbl.md">foaf:name / relators:pbl</a></td>
+    <td><a href="RDF.relators-pbl.md">dcterms:contributor / relators:pbl</a></td>
   </tr> 
    <tr>
     <td><a href="rights.md">rights_contact</a></td>
