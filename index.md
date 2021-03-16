@@ -50,11 +50,6 @@
     <td><a href="mods.name.md">name/namePart</a></td>
     <td><a href="rdf.relators.ths.md">dcterms:contributor / relators:ths</a></td>
   </tr>
-   <tr>
-    <td><a href="box.md">box</a>(under review)</td>
-    <td>N/A</td>
-    <td>N/A</td>
-  </tr>
   <tr>
     <td><a href="imi.bucket.md">bucket</a></td>
     <td><a href="mods.relateditem_note.md">relatedItem/note</a></td>
@@ -276,7 +271,7 @@
   </tr>
 </table>
 <dl>
-	<p><font color="red"><i>Last Updated: </i></font>3/4/2021</p>
+	<p><font color="red"><i>Last Updated: </i></font>3/16/2021</p>
 </dl>
 </body>
 </html>
