@@ -122,8 +122,8 @@
   </tr>
   <tr>
     <td><a href="extent.md">extent</a></td>
-    <td><a href="mods.physicalDescription-extent.md">physicalDescription/extent</a></td>
-    <td><a href="rdf.extent.md">dcterms:extent</a></td>
+    <td><a href="mods.physicalDescription.md">physicalDescription/extent</a></td>
+    <td><a href="rdf.dcterms.extent.md">dcterms:extent</a></td>
   </tr>
     <tr>
     <td><a href="filepath.md">filepath</a></td>
