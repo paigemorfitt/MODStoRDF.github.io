@@ -31,6 +31,7 @@
 		<li>IMI/author3_lname</li>
 		<li>IMI/author3_mname</li>
 		<li>IMI/author3_suffix</li>
+		<li>IMI/box</li>
 		<li>IMI/bp_categories</li>
 		<li>IMI/broad_creation_date</li>
 		<li>IMI/broad_date</li>
@@ -95,7 +96,7 @@
 		<li>IMI/pdf_filesize</li>
 	</ul>
 </dd> 
-	<p><font color="red"><i>Last Updated: </i></font>2/17/2021</p>
+	<p><font color="red"><i>Last Updated: </i></font>3/16/2021</p>
 </dl>
 </body>
 </html>
