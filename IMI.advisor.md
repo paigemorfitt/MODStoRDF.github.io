@@ -24,7 +24,7 @@
 		<li>Free text : RDA 19.2</li>
 		<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
 		<li>for multiple authors, separate with pipe with no space trailing</li>
-		<li>Add to filed_linked_agent in form
+		<li>Add to <a href="field_linked_agent.md">field_linked_agent</a> in form:
 			<ul>
 				<li>relator:ths:person:Dumas, Alexandre</li> 
 				<li>relator:ths:person:Dumas, Alexandre|relator:ths:person:Chadwick, Elizabeth</li>
