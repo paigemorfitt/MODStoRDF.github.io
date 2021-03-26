@@ -30,7 +30,7 @@
   <dd><ins><font color="brown">Notes: </font></ins>
 	<ul>
 		<li>Provide as much known information as possible (either provided on resource or found elsewhere)</li>
-		<li>Separate repeated terms consistently (with semicolon)</li>
+		<li>Separate repeated terms consistently (with pipe)</li>
 		<li>If names are not found in a controlled vocabulary, format personal names as Lastname , Firstname according to RDA/DACS</li>
 		<li>If name(s) of creator(s) is not known, see specific Master Sheet guidance.</li>
 		<li>Do not use birthdate or death dates unless to disambiguate identically named individuals</li>
@@ -38,7 +38,7 @@
 		<li>Contains html, accents, and/or special characters</li>
 	</ul>
 	</dd>
-  <dd><font color="blue"><i>Field Changes: </i></font>Previous name: advisor1 </dd>
+  <dd><font color="blue"><i>Field Changes: </i></font>Previous name: advisor1; content pipped into field_linked_agent</dd>
 </dl>
 <dl>
     <dt><b>Location</b></dt>
@@ -65,7 +65,7 @@
 			</ul>
 		</dd>
 </dl>
-	<p><font color="red"><i>Last Updated: </i></font>1/19/2021</p>
+	<p><font color="red"><i>Last Updated: </i></font>3/26/2021</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
