@@ -127,13 +127,13 @@
   </tr>
   <tr>
     <td><a href="">field_linked_agent</a></td>
-    <td><a href="">N/A</a></td>
+    <td>N/A</td>
     <td><a href="">[unknown]</a></td>
   </tr>
     <tr>
     <td><a href="filepath.md">filepath</a></td>
     <td><a href="mods.identifier.md">identifier</a></td>
-    <td><a href="RDF.rdau.P61166.md">rdau:P61166</a></td>
+    <td>N/A</td>
   </tr>
     <tr>
     <td><a href="funding_source.md">funding_sources</a></td>
@@ -166,7 +166,7 @@
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href="line_num.md">line_num</a>(under construction)</td>
+    <td><a href="line_num.md">line_num</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr> 
