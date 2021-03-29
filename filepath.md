@@ -7,7 +7,7 @@
     <th><a href="index.md">Main page</a></th>
 	<th>IMI Columns</th>
     <th><a href="MODS.md">MODS Fields</a></th>
-    <th><a href="#">RDF Fields</a></th>
+    <th><a href="RDF.md">RDF Field</a></th>
   </tr>
 </table>
 
@@ -37,13 +37,12 @@
 		<dd><ins><font color="brown">RDF XPath</font></ins>/rdf:RDF/rdau:P61166</dd>
 		<dd><ins><font color="brown">Solr Fields</font></ins>mods_identifier_filepath_ms: mods_identifier_filepath_ms(string)</dd>
 </dl>
-	<p><font color="red"><i>Last Updated: </i></font>1/19/2021</p>
+	<p><font color="red"><i>Last Updated: </i></font>3/29/2021</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
 			<td><a href="mods.identifier.md">MODS/identifier</a></td>
-			<td><a href="RDF.rdau.P61166.md">RDF/rdau:P61166</a></td>
 		</table>
 </dl>
 </body>
