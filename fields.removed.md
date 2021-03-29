@@ -78,6 +78,7 @@
 		<li>IMI/irb_information</li>
 		<li>IMI/irb_number</li>
 		<li>IMI/issnum</li>
+		<li>IMI/item_identifier</li>
 		<li>IMI/lc_subject</li>
 		<li>IMI/lightning_design</li>
 		<li>IMI/local_handle</li>
@@ -94,9 +95,10 @@
 		<li>IMI/pages</li>
 		<li>IMI/pdf_filename</li>
 		<li>IMI/pdf_filesize</li>
+		<li>IMI/publication_date</li>
 	</ul>
 </dd> 
-	<p><font color="red"><i>Last Updated: </i></font>3/16/2021</p>
+	<p><font color="red"><i>Last Updated: </i></font>3/29/2021</p>
 </dl>
 </body>
 </html>
