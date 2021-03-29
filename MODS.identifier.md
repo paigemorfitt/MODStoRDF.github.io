@@ -20,7 +20,7 @@
 </dd>
   <dd><ins><font color="brown">Attributes: </font></ins>lang; xml:lang; script; transliteration; altRepGroup; displayLabel; typeURI; type; invalid</dd>
   <dd><ins><font color="brown">Subelements: </font></ins>N/A</dd>
-	<p><font color="red"><i>Last Updated: </i></font>3/29/2021</p>
+	<p><font color="red"><i>Last Updated: </i></font>3/29/21</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
