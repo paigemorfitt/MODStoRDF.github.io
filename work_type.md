@@ -18,7 +18,7 @@
   <dd><ins><font color="brown">Repeatable:</font></ins> No</dd>
   <dd><ins><font color="brown">Public Field:</font></ins> No</dd>
   <dd><ins><font color="brown">Syntax/Formatting:</font></ins>Free text</dd>
-  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>LCSH Resource Types</dd>
+  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>Yes [Collection; Dataset; Image; Interactive Resource; Moving Image; Physical Object; Service; Software; Sound; Still Image; Text]</dd>
   <dd><ins><font color="brown">Notes: </font></ins>
 	<ul>
 		<li>This information should relate to the original object, not the digitized surrogate</li>
@@ -27,6 +27,7 @@
 		<li>If a term does not fit, bring to Metadata Working Group</li>
 		<li>Born-digital uses this field for theming</li>
 		<li>Newspaper generates field in TWIG</li>
+		<li>We need this field in order to make our display work</li>
 	</ul>
   </dd>
   <dd><font color="blue"><i>Field Changes: </i></font> Absorbed content from IMI/type_of_work</dd>
@@ -41,17 +42,7 @@
 			<li>mods_typeOfResource_displayLabel_ms: mods_typeOfResource_displayLabel_ms(string)</li>
 		</ul>
 	</dd>
-</dl>
-<dl>
-	<dt>IMI to MODS</dt>
-		<dd>&lt;typeOfResource displayLabel="Type of Work"&gt;{{jsonize(cells["work_type"].value).replace('null', '')}}&gt;</dd>
-</dl>
-<dl>
-	<dt>IMI to RDF</dt>
-		<dd>&lt;dcterms:type&gt;{{jsonize(cells["work_type"].value).replace('null', '')}}&lt;/dcterms:type&gt;</dd>
-</dl>
-</dl>
-	<p><font color="red"><i>Last Updated: </i></font>12/14/2020</p>
+	<p><font color="red"><i>Last Updated: </i></font>3/29/2021</p>
 </dl>
 <dl>
 <dd><b>Related Fields</b></dd>
