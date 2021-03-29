@@ -18,7 +18,7 @@
   <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
   <dd><ins><font color="brown">Repeatable:</font></ins> Yes</dd>
   <dd><ins><font color="brown">Public Field:</font></ins>Yes</dd>
-  <dd><ins><font color="brown">Front-end Name:</font></ins>Advisor(s)</dd>
+  <dd><ins><font color="brown">Front-end Name:</font></ins>Thesis advisor</dd>
   <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
 	<ul>
 		<li>Free text : RDA 19.2</li>
