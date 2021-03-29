@@ -22,7 +22,14 @@
 	<ul>
 		<li>Free text /  RDA 19.2</li>
 		<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
-		<li>For multiple authors, separate with semicolon with no space trailing.</li>
+		<li>For multiple contributors, separate with pipe with no space trailing.</li>
+				<li>Add to <a href="field_linked_agent.md">field_linked_agent</a> in form:
+			<ul>
+				<li>relator:ctb:person: Grisier, Augustin</li> 
+				<li>relator:ctb:person:Grisier, Augustin|relator:ctb:corporate_body:Regia Anglorum</li>
+			</ul>
+		</ul>
+	</dd>
 	</ul>
 </dd>
   <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>LCNAF, VIAF, my.whitman, local names</dd>
