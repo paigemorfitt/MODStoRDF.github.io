@@ -22,8 +22,14 @@
 	<ul>
 		<li>Free text /  RDA 19.2</li>
 		<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
-		<li>For multiple authors, separate with semicolon with no space trailing.</li>
-	</ul>
+		<li>for multiple authors, separate with pipe with no space trailing</li>
+		<li>Add to <a href="field_linked_agent.md">field_linked_agent</a> in form:
+			<ul>
+				<li>relator:aut:person:Dumas, Alexandre</li> 
+				<li>relator:aut:person:Dumas, Alexandre|relator:aut:person:Chadwick, Elizabeth</li>
+			</ul>
+		</ul>
+	</dd>
   </dd>
   <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins> LCNAF, VIAF, my.whitman, local names</dd>
   <dd><ins><font color="brown">Notes: </font></ins>
