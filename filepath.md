@@ -42,7 +42,7 @@
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			<td><a href="mods.identifier.md">MODS/identifier</a></td>
+			<td><a href="identifier.md">MODS/identifier</a></td>
 		</table>
 </dl>
 </body>
