@@ -73,7 +73,7 @@
    <tr>
     <td><a href="creators.md">creators</a></td>
     <td><a href="mods.name.md">name/namePart</a></td>
-    <td><a href="rdf.relators-aut.md">dcterms:contributor/ relators:aut</a></td>
+    <td><a href="rdf.relators-aut.md">dcterms:contributor/ relators:aut OR relators:cre</a></td>
   </tr>
     <tr>
 		<td><a href="date.display.md">date_display</a></td>
