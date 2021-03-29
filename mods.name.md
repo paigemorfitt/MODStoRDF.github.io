@@ -59,6 +59,10 @@
 				<td><a href="department.md">IMI/department</a></td>
 				<td><a href="RDF.schema.department.md">RDF/schema:department</a></td>
 			</tr>
+			<tr>
+				<td><a href="funding_sources.md">IMI/funding_sources</a></td>
+				<td><a href="rdf.p60451.md">RDF/rdau:P60451</a></td>
+			</tr>
 	</table>
 </dl>
 </body>
