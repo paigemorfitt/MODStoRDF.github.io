@@ -132,7 +132,7 @@
   </tr>
     <tr>
     <td><a href="filepath.md">filepath</a></td>
-    <td><a href="mods.identifier.md">identifier</a></td>
+    <td><a href="identifier.md">identifier</a></td>
     <td>N/A</td>
   </tr>
     <tr>
