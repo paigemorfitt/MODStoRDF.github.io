@@ -200,11 +200,6 @@
     <td><a href="mods.note.md">note</a></td>
     <td><a href="rdf.dcterms.provenance.md">dcterms:provenance</a></td>
 	</tr>
-  <tr>
-    <td><a href="publication_date.md">publication_date</a></td>
-    <td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
-    <td><a href="rdf.issued.md">dcterms:issued</a></td>
-  </tr>
    <tr>
     <td><a href="publisher.md">publisher</a></td>
     <td><a href="mods.originInfo-publisher.md">originInfo/publisher</a></td>
