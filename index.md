@@ -56,16 +56,6 @@
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href="campus_location.md">campus_location</a></td>
-    <td><a href="mods.location-physicalLocation.md">N/A</a></td>
-    <td><a href="rdf.contentLocation.md">N/A</a></td>
-  </tr>
-  <tr>
-    <td><a href="city.md">city</a></td>
-    <td><a href="mods.originInfo-place-placeTerm.md">originInfo/place/placeTerm</a></td>
-    <td><a href="rdf.locationCreation.md">schema:locationCreated</a></td>
-  </tr>
-  <tr>
     <td><a href="cmodel.md">cmodel</a></td>
     <td>N/A</td>
     <td>N/A</td>
@@ -126,9 +116,24 @@
     <td><a href="rdf.dcterms.extent.md">dcterms:extent</a></td>
   </tr>
   <tr>
+	<td><a href="">file_display_hint</a></td>
+	<td>N/A</td>
+	<td><a href="">[unknown]</a></td>
+  </tr>
+  <tr>
     <td><a href="field_linked_agent.md">field_linked_agent</a></td>
     <td>N/A</td>
     <td><a href="">[unknown]</a></td>
+  </tr>
+  <tr>
+	<td><a href="">field_weight</a></td>
+	<td>N/A</td>
+	<td><a href="">[unknown]</a></td>
+  </tr>
+  <tr>
+	<td><a href="">file</a></td>
+	<td>N/A</td>
+	<td><a href="">[unknown]</a></td>
   </tr>
     <tr>
     <td><a href="filepath.md">filepath</a></td>
@@ -144,6 +149,11 @@
     <td><a href="genre.md">genre</a></td>
     <td><a href="mods.genre.md">genre</a></td>
     <td><a href="rdf.genre.md">schema:genre</a></td>
+  </tr>
+  <tr>
+	<td><a href="">id</a></td>
+	<td>N/A</td>
+	<td><a href="">[unknown]</a></td>
   </tr>
      <tr>
     <td><a href="context_key.md">identifier_unique</a></td>
@@ -179,6 +189,11 @@
     <td><a href="origin.md">origin</a></td>
     <td><a href="mods.originInfo-place-placeTerm.md">originInfo/place/placeTerm</a></td>
     <td><a href="rdf.p60523.md">rdau:P60523</a></td>
+  </tr>
+  <tr>
+	<td><a href="">parent_id</a></td>
+	<td>N/A</td>
+	<td><a href="">[unknown]</a></td>
   </tr>
   <tr>
     <td><a href="parent.md">parent</a></td>
@@ -245,6 +260,11 @@
     <td><a href="rdf.alternative.md">dcterms:alternative</a></td>
   </tr>
   <tr>
+	<td><a href="">url_alias</a></td>
+	<td>N/A</td>
+	<td><a href="">[unknown]</a></td>
+  </tr>
+  <tr>
     <td><a href="download_url.md">url_external</a></td>
     <td><a href="mods.location-url.md">location/url</a></td>
     <td><a href="RDF.url.md">schema:url</a></td>
@@ -271,7 +291,7 @@
   </tr>
 </table>
 <dl>
-	<p><font color="red"><i>Last Updated: </i></font>3/26/2021</p>
+	<p><font color="red"><i>Last Updated: </i></font>3/29/2021</p>
 </dl>
 </body>
 </html>
