@@ -18,6 +18,24 @@
   <dd><ins><font color="brown">Label:</font></ins>Author</dd>
     <dd><ins><font color="brown">Domain: </font></ins>N/A</dd>
   <dd><ins><font color="brown">Range: </font></ins>N/A</dd>
+<h1>RDF/dcterms:contributor</h1>
+<h1>RDF/relators:cre</h1>
+<dl>
+  <dt><b>Description</b></dt>
+  <dd><font color="brown">A person or organization responsible for the intellectual or artistic content of a resource<a href="https://id.loc.gov/vocabulary/relators/cre.html">(reference)</a></dd>
+  <dd><ins><font color="brown">Label:</font></ins>Creator</dd>
+    <dd><ins><font color="brown">Domain: </font></ins>N/A</dd>
+  <dd><ins><font color="brown">Range: </font></ins>N/A</dd>
+<h1>RDF/dcterms:contributor</h1>
+<dl>
+  <dt><b>Description</b></dt>
+  <dd><ins><font color="brown">Definition</font></ins>An entity responsible for making contributions to the resource. <a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/contributor">(reference)</a></font> </dd>
+   <dd><ins><font color="brown">Comments: </font></ins>The guidelines for using names of persons or organizations as creators apply to contributors.</dd>
+  <dd><ins><font color="brown">Domain: </font></ins>N/A</dd>
+  <dd><ins><font color="brown">Range: </font></ins>Agent</dd>
+<dl>
+	<p><font color="red"><i>Last Updated: </i></font>2/1/2021</p>
+</dl>
 <dl>
 	<p><font color="red"><i>Last Updated: </i></font>2/3/2021</p>
 </dl>
