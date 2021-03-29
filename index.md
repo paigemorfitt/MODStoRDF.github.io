@@ -126,7 +126,7 @@
     <td><a href="rdf.dcterms.extent.md">dcterms:extent</a></td>
   </tr>
   <tr>
-    <td><a href="">field_linked_agent</a></td>
+    <td><a href="field_linked_agent.md">field_linked_agent</a></td>
     <td>N/A</td>
     <td><a href="">[unknown]</a></td>
   </tr>
@@ -136,9 +136,9 @@
     <td>N/A</td>
   </tr>
     <tr>
-    <td><a href="funding_source.md">funding_sources</a></td>
+    <td><a href="funding_sources.md">funding_sources</a></td>
     <td><a href="mods.name.md">name/namePart</a></td>
-    <td><a href="RDF.relators-spn.md">dcterms:contributor/ relators:spn</a></td>
+    <td><a href="rdf.p60451.md">rdau:P60451</a></td>
   </tr>
   <tr>
     <td><a href="genre.md">genre</a></td>
