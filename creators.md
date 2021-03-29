@@ -71,7 +71,7 @@
 	<dd><b>Related Fields</b></dd>
 		<table>
 			<td><a href="mods.name.md">MODS/name/namePart</a></td>
-			<td><a href="rdf.relators-aut.md">RDF/dcterms:contributor/ relators:aut OR relators:cre</a></td>
+			<td><a href="rdf.relators_aut_cre.md">RDF/dcterms:contributor/ relators:aut OR relators:cre</a></td>
 		</table>
 </dl>
 </body>
