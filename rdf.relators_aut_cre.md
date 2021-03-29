@@ -18,7 +18,6 @@
   <dd><ins><font color="brown">Label:</font></ins>Author</dd>
     <dd><ins><font color="brown">Domain: </font></ins>N/A</dd>
   <dd><ins><font color="brown">Range: </font></ins>N/A</dd>
-<h1>RDF/dcterms:contributor</h1>
 <h1>RDF/relators:cre</h1>
 <dl>
   <dt><b>Description</b></dt>
