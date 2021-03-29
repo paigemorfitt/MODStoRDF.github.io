@@ -53,7 +53,7 @@
 			</tr>
 			<tr>
 				<td><a href="creators.md">IMI/creators</a></td>
-				<td><a href="rdf.relators-aut.md">RDF/dcterms:contributor/ relators:aut</a></td>
+				<td><a href="rdf.relators-aut.md">RDF/dcterms:contributor/ relators:aut OR relators:cre </a></td>
 			</tr>
 			<tr>
 				<td><a href="department.md">IMI/department</a></td>
