@@ -280,18 +280,13 @@
     <td><a href="rdf.type.md">dcterms:type</a></td>
   </tr>
   <tr>
-    <td><a href="conference_year.md">year_conference</a></td>
-    <td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
-    <td><a href="rdf.rdau.p60526.md">rdau:P60526</a></td>
-  </tr>
-  <tr>
     <td><a href="graduation_year.md">year_graduation</a></td>
     <td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
     <td><a href="rdf.rdau.p60514.md">rdau:P60514</td>
   </tr>
 </table>
 <dl>
-	<p><font color="red"><i>Last Updated: </i></font>3/29/2021</p>
+	<p><font color="red"><i>Last Updated: </i></font>4/16/2021</p>
 </dl>
 </body>
 </html>
