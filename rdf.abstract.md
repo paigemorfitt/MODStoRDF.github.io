@@ -16,14 +16,14 @@
   <dt><b>Description</b></dt>
   <dd><ins>Definition: </ins>A summary of the resource <a href="http://purl.org/dc/terms/abstract">(resource)</a></dd>
   <dd><ins>Label: </ins>Abstract</dd>
-  <dd><ins>Domain: </ins>N/A<</dd>
+  <dd><ins>Domain: </ins>N/A</dd>
   <dd><ins>Range: </ins>N/A</dd>
 </dl>
 <h2>Islandora 8 Machine Name/field_abstract</h2>
 	<dl>
-		<dt><ins>Type of Field: </ins>text -- formatted, long</dt>
-		<dt><ins>Label: </ins>Abstract</dt>
-		<dt><ins>Max Length/Repeatability: </ins>Limited (1)</dt>
+		<dd><ins>Type of Field: </ins>text -- formatted, long</dd>
+		<dd><ins>dLabel: </ins>Abstract</dt>
+		<dd><ins>Max Length/Repeatability: </ins>Limited (1)</dd>
 	</dl>
 <dl>
 	<p><i>Last Updated: </i>4/16/2021</p>
