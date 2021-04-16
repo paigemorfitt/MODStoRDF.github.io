@@ -14,10 +14,10 @@
 <h1>RDF/dcterms:abstract</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins>Definition:</font></ins>A summary of the resource <a href="http://purl.org/dc/terms/abstract">(resource)</a></dd>
-  <dd><ins>Label:</font></ins>Abstract</dd>
-  <dd><ins>Domain:</font>N/A</dd>
-  <dd><ins>Range:</font>N/A</dd>
+  <dd><ins>Definition:</ins>A summary of the resource <a href="http://purl.org/dc/terms/abstract">(resource)</a></dd>
+  <dd><ins>Label:</ins>Abstract</dd>
+  <dd><ins>Domain:N/A</ins></dd>
+  <dd><ins>Range:N/A</ins></dd>
 </dl>
 <h2>Islandora 8 Machine Name/field_abstract</h2>
 	<dl>
@@ -26,7 +26,7 @@
 		<dt><ins>Max Length/Repeatability: Limited (1)</dt>
 	</dl>
 <dl>
-	<p><i>Last Updated: </i></font>1/11/2021</p>
+	<p><i>Last Updated: </i>4/16/2021</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
