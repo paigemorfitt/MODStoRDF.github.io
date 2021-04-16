@@ -15,7 +15,7 @@
 <dl>
   <dt><b>Description</b></dt>
   <dd><ins>Definition:</ins>A summary of the resource <a href="http://purl.org/dc/terms/abstract">(resource)</a></dd>
-  <dd><ins>Label:</ins>Abstract</dd>
+  <dd><ins>Label:</ins>Abstract</ins></dd>
   <dd><ins>Domain:N/A</ins></dd>
   <dd><ins>Range:N/A</ins></dd>
 </dl>
