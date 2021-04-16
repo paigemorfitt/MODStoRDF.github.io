@@ -14,36 +14,37 @@
 <h1>[here]</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">ARMINDA Use:</font></ins>[here]</dd>
-  <dd><ins><font color="brown">Obligation:</font></ins> [here]</dd>
-  <dd><ins><font color="brown">Repeatable:</font></ins> [here]</dd>
-  <dd><ins><font color="brown">Public Field:</font></ins>[here]</dd>
-  <dd><ins><font color="brown">Public-facing name:</font></ins>[here]</dd>
-  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+  <dd><ins>ARMINDA Use:</ins>[here]</dd>
+  <dd><ins>Obligation:</ins> [here]</dd>
+  <dd><ins>Repeatable:</ins> [here]</dd>
+  <dd><ins>Public Field:</ins>[here]</dd>
+  <dd><ins>Public-facing name:</ins>[here]</dd>
+  <dd><ins>Syntax/Formatting:</ins>
 	<ul>
 		<li>[here]</li>
 	</ul>
   </dd>
-  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>[here]</dd>
-  <dd><ins><font color="brown">Notes: </font></ins>
+  <dd><ins>Recommended Controlled Vocabulary:</ins>[here]</dd>
+  <dd><ins>Notes: </ins>
 	<ul>
 		<li>[here]</li>
 		</ul>
 	</dd>
-  <dd><font color="blue"><i>Field Changes: </i></font>[here]</dd>
+  <dd><i>i8 Machine Name: </i>[here]</dd>
+  <dd><i>Field Changes: </i>[here]</dd>
 </dl>
 <dl>
 <dl>
     <dt><b>Location</b></dt>
-		<dd><ins><font color="brown">MODS XPath </font></ins> [here]</dd>
-		<dd><ins><font color="brown">RDF XPath</font></ins>[here]</dd>
-		<dd><ins><font color="brown">Solr Field(s)</font></ins>
+		<dd><ins>MODS XPath </ins> [here]</dd>
+		<dd><ins>RDF XPath</ins>[here]</dd>
+		<dd><ins>Solr Field(s)</ins>
 			<ul>
 				<li>[here]</li>
 			</ul>
 		</dd>
 </dl>
-	<p><font color="red"><i>Last Updated: </i></font>[here]</p>
+	<p><i>Last Updated: </i>[here]</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
