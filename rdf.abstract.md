@@ -22,7 +22,7 @@
 <h2>Islandora 8 Machine Name/field_abstract</h2>
 	<dl>
 		<dd><ins>Type of Field: </ins>text -- formatted, long</dd>
-		<dd><ins>dLabel: </ins>Abstract</dt>
+		<dd><ins>Label: </ins>Abstract</dt>
 		<dd><ins>Max Length/Repeatability: </ins>Limited (1)</dd>
 	</dl>
 <dl>
