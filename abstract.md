@@ -37,11 +37,15 @@
 	<dd> <ins>RDF XPath: </ins>/rdf:RDF/rdf:Description/dc:abstract</dd>
 	<dd> <ins>Solr field: </ins>
 		<ul>	
-			<li>mods_abstract_html_ms</li>
+			<li>mods_abstract_html_displayLabel_ms: mods_abstract_html_displayLabel_ms(string)</li>
+			<li>mods_abstract_html_ms: mods_abstract_html_ms(string)</li>
+			<li>mods_abstract_ms: mods_abstract_ms(string)</li>
+			<li>mods_abstract_abstract_displayLabel_ms: mods_abstract_abstract_displayLabel_ms(string)</li>
+			<li>mods_abstract_abstract_ms: mods_abstract_abstract_ms(string)</li>
 		</ul>
 	</dd>
 </dl>
-	<p><i>Last Updated: </i>1/21/2021</p>
+	<p><i>Last Updated: </i>4/16/2021</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
