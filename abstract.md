@@ -29,7 +29,7 @@
 		<li>Contains html, accents, and/or special characters</li>
 	</ul>
 	</dd>
-  <dd><i>i8 Machine Name: </i>field_abstract</dd>
+  <dd><ins>i8 Machine Name: </ins>field_abstract</dd>
   <dd><font><ins>Former field name:</ins> N/A</dd>
 </dl>
 <dl>
