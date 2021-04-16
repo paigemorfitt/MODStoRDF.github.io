@@ -19,7 +19,7 @@
   <dd><ins><font color="brown">Domain:</font></ins>N/A</dd>
   <dd><ins><font color="brown">Range:</font></ins>N/A</dd>
 </dl>
-<h1>Islandora 8 Machine Name/field_abstract</h1>
+<h2>Islandora 8 Machine Name/field_abstract</h2>
 	<dl>
 		<dt><b>Type of Field</b>text -- formatted, long</dt>
 		<dt><b>Label</b>Abstract</dt>
