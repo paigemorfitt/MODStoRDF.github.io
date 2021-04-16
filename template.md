@@ -30,7 +30,7 @@
 		<li>[here]</li>
 		</ul>
 	</dd>
-  <dd><i>i8 Machine Name: </i>[here]</dd>
+  <dd><ins>Islandora 8 Machine Name: </ins>[here]</dd>
   <dd><i>Field Changes: </i>[here]</dd>
 </dl>
 <dl>
