@@ -18,7 +18,7 @@
   <dd><ins>Obligation:</ins>Required, if applicable</dd>
   <dd><ins>Repeatable:</ins>No</dd>
   <dd><ins>Public Field:</ins>Yes</dd>
-  <dd><ins>Public-facing name: </ins>Access Conditions(?)</dd>
+  <dd><ins>Public-facing name: </ins>Limited Access</dd>
   <dd><ins>Syntax/Formatting:</ins>Free-text</dd>
   <dd><ins>Recommended Controlled Vocabulary:</ins> In-house standard Statement</dd>
   <dd><ins>Notes: </ins>
