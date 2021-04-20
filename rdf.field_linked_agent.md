@@ -26,6 +26,13 @@
   <dt><b>Description</b></dt>
   <dd><ins>Definition: </ins>Generic "Advisor" term.</dd>
   <dd><ins>Label: </ins> Advisor</dd>
+  <dd><ins>Format: </ins> local:adv:person[Lastname, Firstname]</dd>
+  <dd>
+  <ul>
+				<li>relator:ths:person:Philippe, Louis</li> 
+				<li>relator:ths:person:Philippe, Louis|relator:ths:person:Hayden, Viola</li>
+			</ul>
+	</dd>
   <dd><ins>Comment: </ins> This is a local term.</dd>
 </dl>
 <p><i>Last Updated: </i>[here]</p>
