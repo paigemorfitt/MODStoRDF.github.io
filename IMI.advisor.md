@@ -18,7 +18,7 @@
   <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
   <dd><ins><font color="brown">Repeatable:</font></ins> Yes</dd>
   <dd><ins><font color="brown">Public Field:</font></ins>Yes</dd>
-  <dd><ins><font color="brown">Front-end Name:</font></ins>Thesis advisor</dd>
+  <dd><ins><font color="brown">Front-end Name:</font></ins>Advisor</dd>
   <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
 	<ul>
 		<li>Free text : RDA 19.2</li>
@@ -70,13 +70,14 @@
 			</ul>
 		</dd>
 </dl>
-	<p><font color="red"><i>Last Updated: </i></font>3/26/2021</p>
+	<dd><ins>Islandora 8 Machine Name: </ins>field_linked_agent</dd>
+	<p><font color="red"><i>Last Updated: </i></font>4/20/2021</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
 			<td><a href="mods.name.md">MODS/name/namePart</a></td>
-			<td><a href="rdf.relators.ths.md">RDF/dcterms:contributor/relators:ths</a></td>
+			<td><a href="rdf.field_linked_agent.md">field_linked_agent / local:adv</a></td>
 		</table>
 </dl>
 </body>
