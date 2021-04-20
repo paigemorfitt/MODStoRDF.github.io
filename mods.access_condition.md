@@ -14,11 +14,11 @@
 <h1>MODS/accessCondition</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">Definition: </font></ins>Information about restrictions imposed on access to a resource.<a href="https://www.loc.gov/standards/mods/userguide/accesscondition.md"> (resource) </a></dd>
-  <dd><ins><font color="brown">Attributes: </font></ins> type; displayLabel; altRepGroup; altFormat; contentType; xlink; lang; xml:lang; script; transliteration</dd>
-  <dd><ins><font color="brown">Subelements: </font></ins> N/A</dd>
+  <dd><ins>Definition: </ins>Information about restrictions imposed on access to a resource.<a href="https://www.loc.gov/standards/mods/userguide/accesscondition.md"> (resource) </a></dd>
+  <dd><ins>Attributes: </ins> type; displayLabel; altRepGroup; altFormat; contentType; xlink; lang; xml:lang; script; transliteration</dd>
+  <dd><ins>Subelements: </ins> N/A</dd>
 <dl>
-	<p><font color="red"><i>Last Updated: </i></font>1/2/2021</p>
+	<p><i>Last Updated: </i>1/2/2021</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
