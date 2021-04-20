@@ -43,7 +43,7 @@
 		<li>Contains html, accents, and/or special characters</li>
 	</ul>
 	</dd>
-  <dd><font color="blue"><i>Field Changes: </i></font>Previous name: advisor1; content pipped into field_linked_agent</dd>
+  <dd><font color="blue"><i>Field Changes: </i></font>Previous name: advisor1; Will move to : field_linked_agent and include preface "local:adv"</dd>
 </dl>
 <dl>
     <dt><b>Location</b></dt>
