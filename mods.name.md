@@ -45,7 +45,7 @@
 		<table>
 			<tr>
 				<td><a href="IMI.advisor.md">IMI/advisors</a></td>
-				<td><a href="rdf.relators.ths.md">RDF/dctemrs:contributor/relators:ths</a></td>
+				<td><a href="rdf.field_linked_agent.md">field_linked_agent / local:adv</a></td>
 			</tr>
 			<tr>
 				<td><a href="contributors.md">IMI/contributors</a></td>
