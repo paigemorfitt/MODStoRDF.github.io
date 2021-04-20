@@ -16,28 +16,39 @@
 <h1>RDF/field_linked_agent</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">Definition: </font></ins>[here]</dd>
-  <dd><ins><font color="brown">Label: </font></ins> [here]</dd>
-  <dd><ins><font color="brown">Domain: </font></ins> [here]</dd>
-  <dd><ins><font color="brown">Range: </font></ins> [here]</dd>
-	<p><font color="red"><i>Last Updated: </i></font>[here]</p>
+  <dd><ins>Definition: </ins>[here]</dd>
+  <dd><ins>Label: </ins> [here]</dd>
+  <dd><ins>Domain: </ins> [here]</dd>
+  <dd><ins>Range: </ins> [here]</dd>
 </dl>
 <h2>local:adv</h2>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">Definition: </font></ins>[here]</dd>
-  <dd><ins><font color="brown">Label: </font></ins> [here]</dd>
-  <dd><ins><font color="brown">Domain: </font></ins> [here]</dd>
-  <dd><ins><font color="brown">Range: </font></ins> [here]</dd>
-	<p><font color="red"><i>Last Updated: </i></font>[here]</p>
+  <dd><ins>Definition: </ins>Generic "Advisor" term.</dd>
+  <dd><ins>Label: </ins> Advisor</dd>
+  <dd><ins>Comment: </ins> This is a local term.</dd>
 </dl>
+<p><i>Last Updated: </i>[here]</p>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			<td><a href="MODS.marccounty.md">[MODS/@authority="marccounty"]</a></td>
-			<td><a href="mods.place.placeterm.md">place/placeTerm</a></td>
-			<td><a href="rdf.rdau.p60163.md">rdau:P60163</a></td>
-		</table>
+			<tr>
+				<td><a href="IMI.advisor.md">IMI/advisors</a></td>
+				<td><a href="mods.name.md">MODS/name/namePart</a></td>
+			</tr>
+			<tr>
+				<td><a href="contributors.md">IMI/contributors</a></td>
+			</tr>
+			<tr>
+				<td><a href="creators.md">IMI/creators</a></td>
+			</tr>
+			<tr>
+				<td><a href="department.md">IMI/department</a></td>
+			</tr>
+			<tr>
+				<td><a href="funding_sources.md">IMI/funding_sources</a></td>
+			</tr>
+	</table>
 </dl>
 </body>
 </html>
