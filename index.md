@@ -48,7 +48,7 @@
    <tr>
     <td><a href="IMI.advisor.md">advisors</a></td>
     <td><a href="mods.name.md">name/namePart</a></td>
-    <td><a href="rdf.relators.ths.md">dcterms:contributor / relators:ths</a></td>
+    <td><a href="rdf.field_linked_agent.md">local:adv</a></td>
   </tr>
   <tr>
     <td><a href="imi.bucket.md">bucket</a></td>
@@ -63,7 +63,7 @@
   <tr>
     <td><a href="contributors.md">contributors</a></td>
     <td><a href="mods.name.md">name/namePart</a></td>
-    <td><a href="rdf.relators.ctb.md">dcterms:contributor/ relators:ctb</a></td>
+    <td><a href="">relator:ctb </a></td>
   </tr>
   <tr>
     <td><a href="coverage_spatial.md">coverage_spatial</a></td>
@@ -73,7 +73,7 @@
    <tr>
     <td><a href="creators.md">creators</a></td>
     <td><a href="mods.name.md">name/namePart</a></td>
-    <td><a href="rdf.relators_aut_cre.md">dcterms:contributor/ relators:aut OR relators:cre</a></td>
+    <td><a href="">relators:cre</a></td>
   </tr>
     <tr>
 		<td><a href="date.display.md">date_display</a></td>
@@ -98,7 +98,7 @@
   <tr>
     <td><a href="department.md">department</a></td>
     <td><a href="mods.name.md">name/namePart</a></td>
-    <td><a href="RDF.schema.department.md">schema:department</a></td>
+    <td><a href="">local:dpt</a></td>
   </tr>
   <tr>
     <td><a href="description.md">description</a></td>
@@ -218,7 +218,7 @@
    <tr>
     <td><a href="publisher.md">publisher</a></td>
     <td><a href="mods.originInfo-publisher.md">originInfo/publisher</a></td>
-    <td><a href="RDF.relators-pbl.md">dcterms:contributor / relators:pbl</a></td>
+    <td><a href="RDF.relators-pbl.md">relators:pbl</a></td>
   </tr> 
    <tr>
     <td><a href="rights.md">rights_contact</a></td>
@@ -286,7 +286,7 @@
   </tr>
 </table>
 <dl>
-	<p><font color="red"><i>Last Updated: </i></font>4/16/2021</p>
+	<p><i>Last Updated: </i>4/20/2021</p>
 </dl>
 </body>
 </html>
