@@ -16,7 +16,7 @@
 
  <h1>Arminda information page</h1> 
   
-<p>Collections in Arminda. For information about IMI field content <a href="imi.field.content.md">click here</a> For a list of fields that have been removed <a href="fields.removed.md">click here</a></p>
+<p>Collections in Arminda. For information about IMI field content <a href="imi.field.content.md">click here</a> For a list of fields that have been removed <a href="fields.removed.md">click here</a>. List of <a href="Islandora.8.terms.md">Terms</a> is in progress.</p>
    <tr>
     <th><a href="Archives.md">Archives</a></th>
 	<th><a href="Theses.md">Theses</a></th>
