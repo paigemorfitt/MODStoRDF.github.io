@@ -16,11 +16,11 @@
 <h1>RDF/rdau:P60496</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">Definition: </font></ins>Relates a resource to limitations placed on access to a resource <a href="http://www.rdaregistry.info/Elements/u/#P60496">(reference)</a></dd>
-  <dd><ins><font color="brown">Label: </font></ins> has restrictions on access</dd>
-  <dd><ins><font color="brown">Domain: </font></ins> N/A</dd>
-  <dd><ins><font color="brown">Range: </font></ins> N/A</dd>
-<p><font color="red"><i>Last Updated: </i></font>1/20/2021</p>
+  <dd><ins>Definition: </ins>Relates a resource to limitations placed on access to a resource <a href="http://www.rdaregistry.info/Elements/u/#P60496">(reference)</a></dd>
+  <dd><ins>Label: </ins> has restrictions on access</dd>
+  <dd><ins>Domain: </ins> N/A</dd>
+  <dd><ins>Range: </ins> N/A</dd>
+<p><i>Last Updated: </i>1/20/2021</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
