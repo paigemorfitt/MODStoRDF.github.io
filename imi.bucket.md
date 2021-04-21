@@ -14,19 +14,19 @@
 <h1>IMI/bucket</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">ARMINDA Use:</font></ins>BePress inherited field which indicated the collection --bucket-- an item is associated with</dd>
-  <dd><ins><font color="brown">Obligation:</font></ins> Optional</dd>
-  <dd><ins><font color="brown">Repeatable:</font></ins> No</dd>
-  <dd><ins><font color="brown">Public Field:</font></ins> No</dd>
-  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>Free text</dd>
-  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins>N/A</dd>
-  <dd><ins><font color="brown">Notes: </font></ins>Field discontinued</dd>
-  <dd><font color="blue"><i>Field Changes: </i></font>previous name : "issue"</dd>
+  <dd><ins>ARMINDA Use: </ins>BePress inherited field which indicated the collection --bucket-- an item is associated with</dd>
+  <dd><ins>Obligation: </ins> Optional</dd>
+  <dd><ins>Repeatable: </ins> No</dd>
+  <dd><ins>Public Field: </ins> No</dd>
+  <dd><ins>Syntax/Formatting: </ins>Free text</dd>
+  <dd><ins>Recommended Controlled Vocabulary: </ins>N/A</dd>
+  <dd><ins>Notes: </ins>Field discontinued. Not being migrated to RDF. Not being removed from Spreadsheets.  Will not be ingested into Islandora 8.</dd>
+  <dd><i>Field Changes: </i>previous name : "issue". Content now spells out the full collection name.</dd>
 </dl>
 <dl>
     <dt><b>Location</b></dt>
-	  <dd> <ins><font color="brown">MODS XPath </font></ins>/mods/relatedItem</dd>
-		<dd> <ins><font color="brown">Solr Field(s)</font></ins>
+	  <dd> <ins>MODS XPath </ins>/mods/relatedItem</dd>
+		<dd> <ins>Solr Field(s)</ins>
 			<ul>
 				<li>mods_relatedItem__displayLabel_ms: mods_relatedItem__displayLabel_ms(string)</li>
 				<li>mods_relatedItem_displayLabel_ms: mods_relatedItem_displayLabel_ms(string)</li>
@@ -35,7 +35,7 @@
 			</ul>
 		</dd>
 </dl>
-	<p><font color="red"><i>Last Updated: </i></font>12/23/2020</p>
+	<p><i>Last Updated: </i>4/21/2021</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
