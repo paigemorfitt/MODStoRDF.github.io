@@ -26,8 +26,8 @@
 		<li>for multiple advisors, separate with pipe with no space trailing</li>
 		<li>Add to <a href="field_linked_agent.md">field_linked_agent</a> in form:
 			<ul>
-				<li>relator:ths:person:Philippe, Louis</li> 
-				<li>relator:ths:person:Philippe, Louis|relator:ths:person:Hayden, Viola</li>
+				<li>local:adv:person:Philippe, Louis</li> 
+				<li>locas:adv:person:Philippe, Louis|local:adv:person:Hayden, Viola</li>
 			</ul>
 		</ul>
 	</dd>
