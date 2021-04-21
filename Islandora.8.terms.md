@@ -1,4 +1,4 @@
-## Islandora 8 Terms
+## Islandora 8 Terms and Facts
 
 <body>
 <table style="width:100%">
@@ -11,6 +11,12 @@
 </table>
 
 ---
-
+## Terms
 
 * Linked Agent
+
+
+
+
+## Facts
+* Relator term labels can not be changed. 
