@@ -29,8 +29,8 @@
   <dd><ins>Format: </ins> local:adv:person[Lastname, Firstname]</dd>
   <dd>
   <ul>
-				<li>relator:ths:person:Philippe, Louis</li> 
-				<li>relator:ths:person:Philippe, Louis|relator:ths:person:Hayden, Viola</li>
+				<li>local:adv:person:Philippe, Louis</li> 
+				<li>locas:adv:person:Philippe, Louis|local:adv:person:Hayden, Viola</li>
 			</ul>
 	</dd>
   <dd><ins>Comment: </ins> This is a local term.</dd>
