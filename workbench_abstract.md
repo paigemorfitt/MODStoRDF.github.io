@@ -21,13 +21,14 @@
 		<dd><ins>Max Length/Repeatability: </ins>Limited (1)</dd>
 	</dl>
 <dl>
-	<p><i>Last Updated: </i>4/16/2021</p>
+	<p><i>Last Updated: </i>4/23/2021</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
 			<td><a href="abstract.md">IMI/abstract</a></td>
 			<td><a href="mods.abstract.md">MODS/abstract</a></td>
+			<td><a href="rdf.abstract.md">RDF/dcterms:abstract </a></td>
 		</table>
 </dl>
 
