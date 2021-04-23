@@ -29,7 +29,7 @@
 		<li>Contains html, accents, and/or special characters</li>
 	</ul>
 	</dd>
-  <dd><font><ins>Field Changes:</ins>N/A</dd>
+  <dd><font><ins>Field Changes: </ins>N/A</dd>
 </dl>
 <dl>
     <dt><b>Location</b></dt>
