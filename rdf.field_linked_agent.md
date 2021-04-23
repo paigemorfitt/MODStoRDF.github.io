@@ -35,7 +35,20 @@
 	</dd>
   <dd><ins>Comment: </ins> This is a local term.</dd>
 </dl>
-<p><i>Last Updated: </i>[here]</p>
+<h2>relators:ctb</h2>
+<dl>
+  <dt><b>Description</b></dt>
+  <dd><ins><font color="brown">Definition: </font></ins>A person, family or organization responsible for making contributions to the resource. This includes those whose work has been contributed to a larger work, such as an anthology, serial publication, or other compilation of individual works. If a more specific role is available, prefer that, e.g. editor, compiler, illustrator <a href="http://id.loc.gov/vocabulary/relators/ctb.md">(reference)</a></font> </dd>
+  <dd><ins><font color="brown">Label:</font></ins>Contributor</dd>
+  <dd><ins>Format: </ins> local:adv:person[Lastname, Firstname]</dd>
+  <dd>
+  <ul>
+				<li>relators:ctb:person:Barrow, William,  1817-1877</li> 
+				<li>relators:ctb:person:Barrow, William,  1817-1877|relators:ctb:corporate_body:Oxford World's Classic</li>
+			</ul>
+	</dd>
+</dl>
+<p><i>Last Updated: </i>4/23/2021</p>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
