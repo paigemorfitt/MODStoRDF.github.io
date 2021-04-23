@@ -20,13 +20,14 @@
   <dd><ins>Obligation: </ins> Recommended, if applicable</dd>
   <dd><ins>Repeatable: </ins> Yes</dd>
   <dd><ins>Public Field: </ins>Yes</dd>
-  <dd><ins>Front-end name: </ins>Coverage</dd>
+  <dd><ins>Front-end name: </ins>Geographic Subject</dd>
   <dd><ins>Syntax/Formatting: </ins>Free-text</dd>
   <dd><ins>Recommended Controlled Vocabulary: </ins>LCSH, GNIS, Getty Geographic Names, MARC GAC, local geographic names list </dd>
   <dd><ins>Notes: </ins>
 	<ul>
 		<li>In tandem with IMI/keywords</li>
-		<li>Revisit when know more about islandora 8 entities/taxonomies work / when have more guidance</li>
+		<li>Geographic content is not a string</li>
+		<li>Multiple values separated by pipe with no spaces between termsField does NOT require prefix</li>
 		</ul>
 	</dd>
   <dd><i>Field Changes: </i>N/A</dd>
