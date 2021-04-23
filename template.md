@@ -30,19 +30,19 @@
 		<li>[here]</li>
 		</ul>
 	</dd>
-  <dd><ins>Islandora 8 Machine Name: </ins>[here]</dd>
   <dd><i>Field Changes: </i>[here]</dd>
 </dl>
 <dl>
 <dl>
     <dt><b>Location</b></dt>
-		<dd><ins>MODS XPath </ins> [here]</dd>
-		<dd><ins>RDF XPath</ins>[here]</dd>
-		<dd><ins>Solr Field(s)</ins>
+		<dd><ins>MODS XPath:  </ins> [here]</dd>
+		<dd><ins>RDF XPath: </ins>[here]</dd>
+		<dd><ins>Solr Field(s): </ins>
 			<ul>
 				<li>[here]</li>
 			</ul>
 		</dd>
+	<dd> <ins>Islandora /Workbench Machine Name: </ins>[here]</dd>
 </dl>
 	<p><i>Last Updated: </i>[here]</p>
 </dl>
