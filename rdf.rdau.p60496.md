@@ -20,13 +20,15 @@
   <dd><ins>Label: </ins> has restrictions on access</dd>
   <dd><ins>Domain: </ins> N/A</dd>
   <dd><ins>Range: </ins> N/A</dd>
-<p><i>Last Updated: </i>1/20/2021</p>
 </dl>
+<p><i>Last Updated: </i>4/23/2021</p>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
 			<td><a href="access_condition.md">IMI/access_condition</a></td>
 			<td><a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a></td>
+			<td> <ins>Islandora /Workbench Machine Name: </ins><a href="workbench_abstract.md">field_abstract</a></td>
+
 		</table>
 </dl>
 </body>
