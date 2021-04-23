@@ -27,7 +27,7 @@
 		<li>Opt-Out: "Thesis is opt-out and not available for public view. Submission for Honors requirements only. Accessible to library staff only."</li>
 		</ul>
 	</dd>
-  <dd><i>Field Changes: </i>N/A</dd>
+  <dd><i>Field Changes: </i>Will change to "field_limited_access"</dd>
 </dl>
 <dl>
 <dl>
