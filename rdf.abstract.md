@@ -19,5 +19,13 @@
   <dd><ins>Domain: </ins>N/A</dd>
   <dd><ins>Range: </ins>N/A</dd>
 </dl>
+<dl>
+	<dd><b>Related Fields</b></dd>
+		<table>
+			<td><a href="abstract.md">IMI/abstract</a></td>
+			<td><a href="mods.abstract.md">MODS/abstract</a></td>
+			<dd><a href="workbench_abstract.md">Machine Name/field_abstract</a></dd>
+		</table>
+</dl>
 </body>
 </html>
