@@ -72,7 +72,7 @@
 	<dd><b>Related Fields</b></dd>
 		<table>
 			<td><a href="mods.name.md">MODS/name/namePart</a></td>
-			<td><a href="rdf.field_linked_agent.md">RDF/dcterms:contributor/ relators:ctb</a></td>
+			<td><a href="rdf.field_linked_agent.md">RDF/relators:ctb</a></td>
 			<td><a href="workbench_field_linked_agent.md">Machine Name/field_linked_agent</a></td>
 		</table>
 </dl>
