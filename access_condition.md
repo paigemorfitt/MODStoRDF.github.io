@@ -36,8 +36,8 @@
 		<dd> <ins>RDF XPath</ins>/rdf:RDF/rdf:Description/reg:p60496</dd>
 		<dd> <ins>SOLR field(s)</ins>
 			<ul>
-				<li>mods_accessCondition_Access_Statement_ms: mods_accessCondition_Access_Statement_ms(string)</li>
-				<li>mods_accessCondition_ms: mods_accessCondition_ms(string) </li>
+				<li>mods_accessCondition_Access_Statement_ms</li>
+				<li>mods_accessCondition_ms</li>
 			</ul>
 		</dd>
 </dl>
