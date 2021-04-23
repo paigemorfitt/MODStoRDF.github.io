@@ -29,7 +29,7 @@
 		<li>Contains html, accents, and/or special characters</li>
 	</ul>
 	</dd>
-  <dd><font><ins>Former field name:</ins> Will rename to "field_abstract"</dd>
+  <dd><font><ins>Field Changes:</ins> Will rename to "field_abstract"</dd>
 </dl>
 <dl>
     <dt><b>Location</b></dt>
