@@ -15,7 +15,7 @@
 <p><a href="migration-questions.md">See migration questions</a></p>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins>ARMINDA Use:</font></ins>A summary of the resource, primarily used with scholarship objects</dd>
+  <dd><ins>ARMINDA Use:/ins>A summary of the resource, primarily used with scholarship objects</dd>
   <dd><ins>Obligation: </ins> Required, if applicable</dd>
   <dd><ins>Repeatable: </ins>No</dd>
   <dd><ins>Public Field: </ins>Yes</dd>
@@ -43,7 +43,6 @@
 			<li>mods_abstract_abstract_displayLabel_ms</li>
 			<li>mods_abstract_abstract_ms</li>
 		</ul>
-	<dd> <ins>Islandora /Workbench Machine Name: </ins><a href="workbench_abstract.md">field_abstract</a></dd>
 	</dd>
 </dl>
 	<p><i>Last Updated: </i>4/23/2021</p>
@@ -53,6 +52,7 @@
 		<table>
 			<td><a href="mods.abstract.md">MODS/abstract</a></td>
 			<td><a href="rdf.abstract.md">RDF/dcterms:abstract </a></td>
+			<dd><a href="workbench_abstract.md">Machine Name/field_abstract</a></dd>
 		</table>
 </dl>
 </body>
