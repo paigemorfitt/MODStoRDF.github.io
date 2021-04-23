@@ -58,7 +58,7 @@
   <tr>
     <td><a href="cmodel.md">cmodel</a></td>
     <td>N/A</td>
-    <td><a href="rdf.dcterms.provenance.md"></a>pcdm:memberOf</a></td>
+    <td><a href="rdf.dcterms.provenance.md">pcdm:memberOf</a></td>
   </tr>
   <tr>
     <td><a href="contributors.md">contributors</a></td>
