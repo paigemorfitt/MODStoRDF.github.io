@@ -32,8 +32,12 @@
 		<dd><ins><font color="brown">RDF XPath: </font></ins>N/A</dd>
 		<dd><ins><font color="brown">Solr Field(s) </font></ins>N/A</dd>
 </dl>
-	<p><font color="red"><i>Last Updated: </i></font>1/20/2021</p>
+<dl>
+	<dd><b>Related Fields</b></dd>
+		<table>
+			<td><a href="rdf.dcterms.provenance.md"></a>pcdm:memberOf</td>
+		</table>
 </dl>
-
+<p><font color="red"><i>Last Updated: </i></font>4/24/2021</p>
 </body>
 </html>
