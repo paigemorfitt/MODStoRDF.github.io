@@ -29,7 +29,7 @@
 		<li>Contains html, accents, and/or special characters</li>
 	</ul>
 	</dd>
-  <dd><font><ins>Field Changes:</ins> Will rename to "field_abstract"</dd>
+  <dd><font><ins>Field Changes:</ins>N/A</dd>
 </dl>
 <dl>
     <dt><b>Location</b></dt>
@@ -37,15 +37,16 @@
 	<dd> <ins>RDF XPath: </ins>/rdf:RDF/rdf:Description/dc:abstract</dd>
 	<dd> <ins>Solr field: </ins>
 		<ul>	
-			<li>mods_abstract_html_displayLabel_ms: mods_abstract_html_displayLabel_ms(string)</li>
-			<li>mods_abstract_html_ms: mods_abstract_html_ms(string)</li>
-			<li>mods_abstract_ms: mods_abstract_ms(string)</li>
-			<li>mods_abstract_abstract_displayLabel_ms: mods_abstract_abstract_displayLabel_ms(string)</li>
-			<li>mods_abstract_abstract_ms: mods_abstract_abstract_ms(string)</li>
+			<li>mods_abstract_html_displayLabel_ms</li>
+			<li>mods_abstract_html_ms</li>
+			<li>mods_abstract_ms</li>
+			<li>mods_abstract_abstract_displayLabel_ms</li>
+			<li>mods_abstract_abstract_ms</li>
 		</ul>
+	<dd> <ins>Islandora /Workbench Machine Name: </ins><a href="workbench_abstract.md">field_abstract</a></dd>
 	</dd>
 </dl>
-	<p><i>Last Updated: </i>4/16/2021</p>
+	<p><i>Last Updated: </i>4/23/2021</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
