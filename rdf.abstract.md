@@ -19,21 +19,5 @@
   <dd><ins>Domain: </ins>N/A</dd>
   <dd><ins>Range: </ins>N/A</dd>
 </dl>
-<h2>Islandora 8 Machine Name/field_abstract</h2>
-	<dl>
-		<dd><ins>Type of Field: </ins>text -- formatted, long</dd>
-		<dd><ins>Label: </ins>Abstract</dt>
-		<dd><ins>Max Length/Repeatability: </ins>Limited (1)</dd>
-	</dl>
-<dl>
-	<p><i>Last Updated: </i>4/16/2021</p>
-</dl>
-<dl>
-	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="abstract.md">IMI/abstract</a></td>
-			<td><a href="mods.abstract.md">MODS/abstract</a></td>
-		</table>
-</dl>
 </body>
 </html>
