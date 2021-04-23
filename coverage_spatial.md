@@ -27,7 +27,8 @@
 	<ul>
 		<li>In tandem with IMI/keywords</li>
 		<li>Geographic content is not a string</li>
-		<li>Multiple values separated by pipe with no spaces between termsField does NOT require prefix</li>
+		<li>Multiple values separated by pipe with no spaces between terms.</li>
+		<li>Field does NOT require prefix</li>
 		</ul>
 	</dd>
   <dd><i>Field Changes: </i>N/A</dd>
