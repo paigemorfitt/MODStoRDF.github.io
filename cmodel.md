@@ -35,7 +35,7 @@
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			<td><a href="rdf.dcterms.provenance.md"></a>pcdm:memberOf</a></td>
+			<td><a href="rdf.dcterms.provenance.md">pcdm:memberOf</a></td>
 			<td><a href="workbench_field_member_of.md">Machine Name/field_member_of</a></td>
 		</table>
 </dl>
