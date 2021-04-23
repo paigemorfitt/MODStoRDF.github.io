@@ -26,7 +26,7 @@
 		<li>Content now spells out the full collection name.</li>
 	</ul>
 	</dd>
-  <dd><i>Field Changes: </i>previous name : "issue". Content now spells out the full collection name.</dd>
+  <dd><i>Field Changes: </i>previous name : "issue".</dd>
 </dl>
 <dl>
     <dt><b>Location</b></dt>
