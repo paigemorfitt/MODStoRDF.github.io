@@ -20,7 +20,12 @@
   <dd><ins>Public Field: </ins> No</dd>
   <dd><ins>Syntax/Formatting: </ins>Free text</dd>
   <dd><ins>Recommended Controlled Vocabulary: </ins>N/A</dd>
-  <dd><ins>Notes: </ins>Field discontinued. Not being migrated to RDF. Not being removed from Spreadsheets.  Will not be ingested into Islandora 8.</dd>
+  <dd><ins>Notes: </ins>
+	<ul>
+		<dt>Field discontinued. Not being migrated to RDF. Not being removed from Spreadsheets.  Will not be ingested into Islandora 8.</dt>
+		<dt>Content now spells out the full collection name.</dt>
+	</ul>
+	</dd>
   <dd><i>Field Changes: </i>previous name : "issue". Content now spells out the full collection name.</dd>
 </dl>
 <dl>
@@ -28,14 +33,14 @@
 	  <dd> <ins>MODS XPath </ins>/mods/relatedItem</dd>
 		<dd> <ins>Solr Field(s)</ins>
 			<ul>
-				<li>mods_relatedItem__displayLabel_ms: mods_relatedItem__displayLabel_ms(string)</li>
-				<li>mods_relatedItem_displayLabel_ms: mods_relatedItem_displayLabel_ms(string)</li>
-				<li>mods_relatedItem_note_bucket_ms: mods_relatedItem_note_bucket_ms(string)</li>
-				<li>mods_relatedItem_note_issue_ms: mods_relatedItem_note_issue_ms(string)</li>
+				<li>mods_relatedItem__displayLabel_ms</li>
+				<li>mods_relatedItem_displayLabel_ms</li>
+				<li>mods_relatedItem_note_bucket_ms</li>
+				<li>mods_relatedItem_note_issue_ms</li>
 			</ul>
 		</dd>
 </dl>
-	<p><i>Last Updated: </i>4/21/2021</p>
+	<p><i>Last Updated: </i>4/23/2021</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
