@@ -26,7 +26,7 @@
 		<tr>
 			<td><a href="abstract.md">IMI/abstract</a></td>
 			<td><a href="rdf.abstract.md">RDF/dcterms:abstract </a></td>
-			<dd><a href="workbench_abstract.md">Machine Name/field_abstract</a></dd>
+			<td><a href="workbench_abstract.md">Machine Name/field_abstract</a></td>
 		</tr>
 		<tr>
 			<td><a href="description.md">IMI/description</a></td>
