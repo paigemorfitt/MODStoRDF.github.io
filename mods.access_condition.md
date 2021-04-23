@@ -26,6 +26,7 @@
 		   <tr>
 				<td><a href="access_condition.md">IMI/access_condition</a></td>
 				<td><a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a></td>
+				<td><a href="workbench_field_limited_access.md">Machine Name/field_limited_access</a></td>
 			</tr>
 			<tr>
 				<td><a href="rights.md">IMI/rights_contact</a></td>
