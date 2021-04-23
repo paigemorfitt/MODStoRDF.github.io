@@ -29,8 +29,7 @@
 		<li>Contains html, accents, and/or special characters</li>
 	</ul>
 	</dd>
-  <dd><ins>Islandora 8 Machine Name: </ins>field_abstract</dd>
-  <dd><font><ins>Former field name:</ins> N/A</dd>
+  <dd><font><ins>Former field name:</ins> Will rename to "field_abstract"</dd>
 </dl>
 <dl>
     <dt><b>Location</b></dt>
