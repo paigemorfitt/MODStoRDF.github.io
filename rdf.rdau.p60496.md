@@ -27,8 +27,7 @@
 		<table>
 			<td><a href="access_condition.md">IMI/access_condition</a></td>
 			<td><a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a></td>
-			<td> <ins>Islandora /Workbench Machine Name: </ins><a href="workbench_abstract.md">field_abstract</a></td>
-
+			<td><a href="workbench_field_limited_access.md">Machine Name/field_limited_access</a></td>
 		</table>
 </dl>
 </body>
