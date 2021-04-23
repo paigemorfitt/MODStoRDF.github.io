@@ -22,8 +22,8 @@
   <dd><ins>Recommended Controlled Vocabulary: </ins>N/A</dd>
   <dd><ins>Notes: </ins>
 	<ul>
-		<dt>Field discontinued. Not being migrated to RDF. Not being removed from Spreadsheets.  Will not be ingested into Islandora 8.</dt>
-		<dt>Content now spells out the full collection name.</dt>
+		<li>Field discontinued. Not being migrated to RDF. Not being removed from Spreadsheets.  Will not be ingested into Islandora 8.</li>
+		<li>Content now spells out the full collection name.</li>
 	</ul>
 	</dd>
   <dd><i>Field Changes: </i>previous name : "issue". Content now spells out the full collection name.</dd>
