@@ -21,14 +21,9 @@
   <dd><ins>Front-end Name:</ins>Advisor</dd>
   <dd><ins>Syntax/Formatting:</ins>
 	<ul>
-		<li>Free text : RDA 19.2</li>
-		<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
-		<li>for multiple advisors, separate with pipe with no space trailing</li>
-		<li>Add to <a href="field_linked_agent.md">field_linked_agent</a> in form:
-			<ul>
-				<li>local:adv:person:Philippe, Louis</li> 
-				<li>locas:adv:person:Philippe, Louis|local:adv:person:Hayden, Viola</li>
-			</ul>
+			<li>Free text : RDA 19.2</li>
+			<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
+			<li>for multiple advisors, separate with pipe with no space trailing</li>
 		</ul>
 	</dd>
   <dd><ins>Recommended Controlled Vocabulary:</ins> LCNAF, VIAF, my.whitman, local names list</dd>
