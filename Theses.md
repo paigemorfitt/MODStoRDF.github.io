@@ -46,11 +46,11 @@
 	<td>Yes</td>
   </tr>
   <tr>
-    <th><a href="advisor.md">advisors</a></th>
-	<th>Advisor</th>
-    <th>Required, if applicable</th>
-    <th>Yes</th>
-	<th>Yes</th>
+    <td><a href="advisor.md">advisors</a></td>
+	<td>Advisor</td>
+    <td>Required, if applicable</td>
+    <td>Yes</td>
+	<td>Yes</td>
   </tr>  
 </table>
 	<p><i>Last Updated: </i>04/26/2021</p>
