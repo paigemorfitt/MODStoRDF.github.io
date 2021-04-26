@@ -41,13 +41,15 @@
 		<dd>Label: 
 				<ul>
 					<li>Advisor</li>
+					<li>Contributor</li>
 				</ul>
 		</dd>
 		<dd>Max Length/Repeatability: [unchecked]</dd>
 	</dl>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				| <a href="advisor.md">advisors</a> | <a href="mods.name.md">name/namePart</a> | <a href="rdf.field_linked_agent.md">local:adv</a> | 
+				<dd>| <a href="advisor.md">advisors</a> | <a href="mods.name.md">name/namePart</a> | <a href="rdf.field_linked_agent.md">local:adv</a> | </dd>
+				<dd>| <a href="contributors.md">contributors</a> | <a href="mods.name.md">name/namePart</a> | <a href="rdf.field_linked_agent.md">relators:ctb</a> | </dd>
 	</dl>
 <h2>field_model</h2>
 	<dl>
