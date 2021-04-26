@@ -13,16 +13,15 @@
  <h1>Arminda MODS information page</h1> 
   
 <p>Collections in Arminda.</p>
+<table>
    <tr>
-    <th><a href="Archives.md">Archives</a></th>
-	<th>Theses</th>
-    <th><a href="Scholarship.md">Scholarship</a></th>
-    <th><a href="#">Offices & Programs</a></th>
-	<th><a href="#">Newspapers</a></th>
+		<th><a href="Archives.md">Archives</a></th>
+		<th><a href="Theses.md">Theses</a></th>
+		<th><a href="scholarship.md">Scholarship</a></th>
+		<th><a href="Offices&Programs.md">Offices & Programs</a></th>
+		<th><a href="Newspapers.md">Newspapers</a></th>
   </tr>
  </table>
-  
-</table>
 <p>Fields in use for Theses Master Sheet.</p>
 <table>
   <tr>
@@ -33,19 +32,17 @@
 	<th>Public Field</th>
   </tr>
   <tr>
-    <a href="abstract.md">abstract</a>
+    <td><a href="abstract.md">abstract</a><td>
 	<td>Abstract</td>
     <td>Required</td>
     <td>No</td>
 	<td>Yes</td>
-	<td>Yes</td>
   </tr>
   <tr>
-	<a href="access_condition.md">access_condition</a>
+	<td><a href="access_condition.md">access_condition</a></td>
 	<td>Limited Access</td>
     <td>Required, if applicable</td>
     <td>No</td>
-	<td>Yes</td>
 	<td>Yes</td>
   </tr>  
 </table>
