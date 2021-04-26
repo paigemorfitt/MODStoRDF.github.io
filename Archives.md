@@ -13,16 +13,15 @@
  <h1>Arminda MODS information page</h1> 
   
 <p>Collections in Arminda.</p>
+<table>
    <tr>
-    <th>Archives</th>
-	<th><a href="Theses.md">Theses</a></th>
-    <th><a href="scholarship.md">Scholarship</a></th>
-    <th><a href="Offices&Programs.md">Offices & Programs</a></th>
-	<th><a href="Newspapers.md">Newspapers</a></th>
+		<th><a href="Archives.md">Archives</a></th>
+		<th><a href="Theses.md">Theses</a></th>
+		<th><a href="scholarship.md">Scholarship</a></th>
+		<th><a href="Offices&Programs.md">Offices & Programs</a></th>
+		<th><a href="Newspapers.md">Newspapers</a></th>
   </tr>
  </table>
-  
-</table>
 <p>Fields used in Archives Master Sheet</p>
 <table>
   <tr>
