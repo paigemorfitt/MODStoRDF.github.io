@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>[here]</h1>
+<h1>[]</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>ARMINDA Use:[here]</dd>
@@ -46,8 +46,8 @@
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<li><a href="mods.note.md">MODS/note</a></li>
-		<li><a href="rdf.dcterms.provenance.md">RDF/dcterms:provenanc</a></li>
+		<li><a href="mods.note.md">[here]</a></li>
+		<li><a href="rdf.dcterms.provenance.md">[here]</a></li>
 </dl>
 <p><i>Last Updated: </i>[here]</p>
 </body>
