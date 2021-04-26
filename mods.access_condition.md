@@ -22,7 +22,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-			<dd> | <a href="access_condition.md">IMI/access_condition</a> | <a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a>< | </dd>
+			<dd> | <a href="access_condition.md">IMI/access_condition</a> | <a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> | </dd>
 			<dd> | <a href="rights.md">IMI/rights_contact</a> | <a href="rdf.accessibilityControl.md">RDF/schema:accessibilityControl</a> | </dd>
 			<dd> | <a href="rights_statement.md">IMI/rights_statement</a> | <a href="rdf.rdau.P60339.md">RDF/rdau:P60339</a> | </dd>
 </dl>
