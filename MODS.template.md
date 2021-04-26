@@ -16,17 +16,15 @@
 <h1>[here]</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">Definition: </font></ins>[here]</dd>
-  <dd><ins><font color="brown">Attributes: </font></ins> [here]</dd>
-  <dd><ins><font color="brown">Subelements: </font></ins> [here]</dd>
-	<p><font color="red"><i>Last Updated: </i></font>[here]</p>
+  <dd>Definition: [here]</dd>
+  <dd>Attributes:  [here]</dd>
+  <dd>Subelements:  [here]</dd>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="mods.note.md">MODS/note</a></td>
-			<td><a href="rdf.dcterms.provenance.md">RDF/dcterms:provenanc</a></td>
-		</table>
+		<li><a href="mods.note.md">[here]</a></li>
+		<li><a href="rdf.dcterms.provenance.md">[here]</a></li>
 </dl>
+<p><i>Last Updated: </i>[here]</p>
 </body>
 </html>
