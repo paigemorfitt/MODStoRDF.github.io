@@ -7,13 +7,13 @@
 
 <table style="width:100%">
   <tr>
-    <th>Main page</th>
-	<th><a href="IMI.md">IMI Column</a></th>
-    <th><a href="MODS.md">MODS Field</a></th>
-    <th><a href="RDF.md">RDF Field</a></th>
+    <th><a href="index.md">Main page</a></th>
+	<th><a href="IMI.md">IMI Columns</a></th>
+    <th><a href="MODS.md">MODS Fields</a></th>
+    <th><a href="RDF.md">RDF Fields</a></th>
   </tr>
-<table>
-<h1>Islandora 8 Machne Names</h1>
+</table>
+<h1>Islandora 8 Machine Names</h1>
 <h2>field_abstract</h2>
 	<dl>
 		<dd>Type of Field: text -- formatted, long</dd>
