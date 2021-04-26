@@ -5,12 +5,12 @@
 <body>
 <table style="width:100%">
   <tr>
-    <th><a href="index.md">Main page</a></th>
-	<th><a href="IMI.md">IMI Columns</a></th>
-    <th><a href="MODS.md">MODS Fields</a></th>
-    <th>RDF Fields</th>
+    <th>Main page</th>
+	<th><a href="IMI.md">IMI Column</a></th>
+    <th><a href="MODS.md">MODS Field</a></th>
+    <th><a href="RDF.md">RDF Field</a></th>
   </tr>
-</table>
+<table>
 
 <p>For Islandora 8 Machine name descriptions, go <a href="Islandora.8.MachineNames.md">here</a> (page in progress)</p>
 
