@@ -29,7 +29,7 @@
 	<dl>
 		<dd>Type of Field: [unchecked]</dd>
 		<dd>Label: Limited Access</dd>
-		<dd>Max Length/Repeatability: [uncecked]</dd>
+		<dd>Max Length/Repeatability: [unchecked]</dd>
 		<dd>
 			<dt><b>Related Fields</b></dt>
 				| <a href="access_condition.md">access_condition</a> | <a href="mods.access_condition.md">accessCondition</a> | <a href="rdf.rdau.p60496.md">rdau:P60496</a> | 
@@ -43,7 +43,7 @@
 					<li>Advisor</li>
 				</ul>
 		</dd>
-		<dd>Max Length/Repeatability: [uncecked]</dd>
+		<dd>Max Length/Repeatability: [unchecked]</dd>
 	</dl>
 	<dl>
 		<dt><b>Related Fields</b></dt>
