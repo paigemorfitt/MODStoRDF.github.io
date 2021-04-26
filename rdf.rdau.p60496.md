@@ -16,19 +16,15 @@
 <h1>RDF/rdau:P60496</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins>Definition: </ins>Relates a resource to limitations placed on access to a resource <a href="http://www.rdaregistry.info/Elements/u/#P60496">(reference)</a></dd>
-  <dd><ins>Label: </ins> has restrictions on access</dd>
-  <dd><ins>Domain: </ins> N/A</dd>
-  <dd><ins>Range: </ins> N/A</dd>
+  <dd>Definition: Relates a resource to limitations placed on access to a resource <a href="http://www.rdaregistry.info/Elements/u/#P60496">(reference)</a></dd>
+  <dd>Label:  has restrictions on access</dd>
+  <dd>Domain:  N/A</dd>
+  <dd>Range:  N/A</dd>
 </dl>
-<p><i>Last Updated: </i>4/23/2021</p>
 <dl>
-	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="access_condition.md">IMI/access_condition</a></td>
-			<td><a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a></td>
-			<td><a href="workbench_field_limited_access.md">Machine Name/field_limited_access</a></td>
-		</table>
+	<dt><b>Related Fields</b></dt>
+		| <a href="access_condition.md">IMI/access_condition</a> | <a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
 </dl>
+<p><i>Last Updated: </i>04/26/2021</p>
 </body>
 </html>
