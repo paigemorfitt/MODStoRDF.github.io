@@ -24,7 +24,6 @@
 		<th><a href="Newspapers.md">Newspapers</a></th>
   </tr>
  </table>
-<p>Field reflect what is currently being used in Newspapers. No clean up has happened so far. </p>
  <table>
   <tr>
     <th>IMI Column</th>
