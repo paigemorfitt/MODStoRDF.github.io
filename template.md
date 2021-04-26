@@ -30,7 +30,7 @@
 		<li>[here]</li>
 		</ul>
 	</dd>
-  <dd><b>Field Changes: </b>[here]</dd>
+  <dd>Field Changes: [here]</dd>
 </dl>
 <dl>
 <dl>
@@ -42,12 +42,10 @@
 				<li>[here]</li>
 			</ul>
 		</dd>
-	<dd> Islandora /Workbench Machine Name: [here]</dd>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<li><a href="MODS.template.md">[here]</a></li>
-		<li><a href="RDF.template.md">[here]</a></li>
+		|<a href="MODS.template.md">[here]</a> |<a href="RDF.template.md">[here]</a>|
 </dl>
 <p><i>Last Updated: </i>[here]</p>
 </body>
