@@ -50,10 +50,10 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="advisor.md">IMI/advisors</a> | <a href="mods.name.md">MODS/name/namePart</a> |
-		| <a href="contributors.md">IMI/contributors</a> | <a href="MODS.template.md">[here]</a> |
-		| <a href="creators.md">IMI/creators</a> | <a href="MODS.template.md">[here]</a> |
-		| <a href="department.md">IMI/department</a> | <a href="MODS.template.md">[here]</a> |
+			<dd>| <a href="advisor.md">IMI/advisors</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
+			<dd>| <a href="contributors.md">IMI/contributors</a> | <a href="MODS.template.md">[here]</a> |</dd>
+			<dd>| <a href="creators.md">IMI/creators</a> | <a href="MODS.template.md">[here]</a> |</dd>
+			<dd>| <a href="department.md">IMI/department</a> | <a href="MODS.template.md">[here]</a> |</dd>
 </dl>
 <p><i>Last Updated: </i>4/26/2021</p>
 </body>
