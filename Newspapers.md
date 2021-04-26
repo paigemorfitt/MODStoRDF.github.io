@@ -32,7 +32,13 @@
     <th>Repeatability</th>
 	<th>Public Field</th>
   </tr>
-
+  <tr>
+    <td><a href="cmodel.md">cmodel</a></td>
+	<td>N/A</td>
+    <td>Required</td>
+    <td>No</td>
+	<td>No</td>
+  </tr>
 </table>  
 	<p><i>Last Updated: </i>04/26/2021</p>
 </dl>
