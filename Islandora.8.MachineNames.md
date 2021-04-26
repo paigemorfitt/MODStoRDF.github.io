@@ -13,15 +13,30 @@
     <th><a href="RDF.md">RDF Field</a></th>
   </tr>
 <table>
-
-<h2>Islandora 8 Machine Name/field_abstract</h2>
+<h1>Islandora 8 Machne Names</h1>
+<h2>field_abstract</h2>
 	<dl>
-		<dd><ins>Type of Field: </ins>text -- formatted, long</dd>
-		<dd><ins>Label: </ins>Abstract</dt>
-		<dd><ins>Max Length/Repeatability: </ins>Limited (1)</dd>
+		<dd>Type of Field: text -- formatted, long</dd>
+		<dd>Label: Abstract</dt>
+		<dd>Max Length/Repeatability: Limited (1)</dd>
+		<dd>
+			<dt><b>Related Fields</b></dt>
+				|<a href="abstract.md">IMI/abstract</a>|<a href="mods.abstract.md">MODS/abstract</a>|<a href="rdf.abstract.md">RDF/dcterms:abstract </a>|
+		</dd>
 	</dl>
 <dl>
-</dl>
+<h2>field_limited_access</h2>
+	<dl>
+		<dd>Type of Field: [unchecked]</dd>
+		<dd>Label: Limited Access</dt>
+		<dd>Max Length/Repeatability: [uncecked]</dd>
+	</dl>
+<h2>field_limited_access</h2>
+	<dl>
+		<dd>Type of Field: [unchecked]</dd>
+		<dd>Label: Limited Access</dt>
+		<dd>Max Length/Repeatability: [uncecked]</dd>
+	</dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
 			|<a href="abstract.md">IMI/abstract</a>|<a href="mods.abstract.md">MODS/abstract</a>|<a href="rdf.abstract.md">RDF/dcterms:abstract </a>|
