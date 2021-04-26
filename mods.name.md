@@ -41,11 +41,11 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="advisor.md">IMI/advisors</a> | <a href="rdf.field_linked_agent.md">field_linked_agent / local:adv</a> |
-		| <a href="contributors.md">IMI/contributors</a> | <a href="rdf.field_linked_agent.md">RDF/dcterms:contributor/ relators:ctb</a> |
-		| <a href="creators.md">IMI/creators</a> | <td><a href="rdf.field_linked_agent.md">RDF/dcterms:contributor/ relators:aut OR relators:cre </a> |
-		| <a href="department.md">IMI/department</a> | <a href="ield_linked_agent.md">RDF/schema:department</a> |
-		| <a href="funding_sources.md">IMI/funding_sources</a> | <a href="rdf.p60451.md">RDF/rdau:P60451</a> |
+		<dd>| <a href="advisor.md">IMI/advisors</a> | <a href="rdf.field_linked_agent.md">field_linked_agent / local:adv</a> |</dd>
+		<dd>| <a href="contributors.md">IMI/contributors</a> | <a href="rdf.field_linked_agent.md">RDF/dcterms:contributor/ relators:ctb</a> |</dd>
+		<dd>| <a href="creators.md">IMI/creators</a> | <td><a href="rdf.field_linked_agent.md">RDF/dcterms:contributor/ relators:aut OR relators:cre </a> |</dd>
+		<dd>| <a href="department.md">IMI/department</a> | <a href="ield_linked_agent.md">RDF/schema:department</a> |</dd>
+		<dd>| <a href="funding_sources.md">IMI/funding_sources</a> | <a href="rdf.p60451.md">RDF/rdau:P60451</a> |</dd>
 </dl>
 <p><i>Last Updated: </i>04/26/2021</p>
 </body>
