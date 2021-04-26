@@ -11,34 +11,33 @@
   </tr>
 </table>
 
-
-
 <h1>IMI/cmodel</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins>ARMINDA Use:</ins>Tells what content model the file is -- audio, image.etc;  tells what type of file for Islandora to expect.</dd>
-  <dd><ins>Obligation: </ins>Required</dd>
-  <dd><ins>Repeatable: </ins>No</dd>
-  <dd><ins>Public Field: </ins>No</dd>
-  <dd><ins>Syntax/Formatting: </ins>Free text</dd>
-  <dd><ins>Recommended Controlled Vocabulary:</ins>Controlled Vocabulary</dd>
-  <dd><ins>Notes: </ins>Necessary for Islandora 7. Lifecycle in Islandora 8 is unknown</dd>
-  <dd><i>Field Changes: </i>N/A</dd>
+  <dd>ARMINDA Use: Tells what content model the file is -- audio, image.etc;  tells what type of file for Islandora to expect. </dd>
+  <dd>Obligation: Required</dd>
+  <dd>Repeatable: No</dd>
+  <dd>Public Field: No</dd>
+  <dd>Public-facing name:N/A</dd>
+  <dd>Syntax/Formatting: Free-text</dd>
+  <dd>Recommended Controlled Vocabulary: Yes</dd>
+  <dd>Notes: 
+	<ul>
+		<li>Necessary for Islandora 7. Unsure of its role in Islandora 8</li>
+		</ul>
+	</dd>
+  <dd>Field Changes: Will move to field_</dd>
 </dl>
-<dl>
 <dl>
     <dt><b>Location</b></dt>
 		<dd><ins>MODS XPath: </ins>N/A</dd>
 		<dd><ins>RDF XPath: </ins>N/A</dd>
 		<dd><ins>Solr Field(s) </ins>N/A</dd>
-</dl>
+</dl>	</dd>
 <dl>
-	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="rdf.pcdm_memberOf.md">RDF/pcdm:memberOf</a></td>
-			<td><a href="workbench_field_member_of.md">Machine Name/field_member_of</a></td>
-		</table>
+	<dt><b>Related Fields</b></dt>
+		| <a href="rdf.pcdm_memberOf.md">RDF/pcdm:memberOf</a> 
 </dl>
-<p><i>Last Updated: </i>4/24/2021</p>
+<p><i>Last Updated: </i>4/26/2021</p>
 </body>
 </html>
