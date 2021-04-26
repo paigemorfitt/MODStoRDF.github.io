@@ -12,48 +12,44 @@
 </table>
 
 <h1>IMI/abstract</h1>
-<p><a href="migration-questions.md">See migration questions</a></p>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins>ARMINDA Use:</ins>A summary of the resource, primarily used with scholarship objects</dd>
-  <dd><ins>Obligation: </ins> Required, if applicable</dd>
-  <dd><ins>Repeatable: </ins>No</dd>
-  <dd><ins>Public Field: </ins>Yes</dd>
-  <dd><ins>Public-facing name </ins>Abstract</dd>
-  <dd><ins>Syntax/Formatting: </ins>Free-text</dd>
-  <dd><ins>Recommended Controlled Vocabulary: </ins>N/A</dd>
-  <dd><ins>Notes: </ins>
+  <dd>ARMINDA Use: A summary of the resource, primarily used with scholarship objects</dd>
+  <dd>Obligation: Required, if applicable</dd>
+  <dd>Repeatable: No</dd>
+  <dd>Public Field:Yes</dd>
+  <dd>Public-facing name: Abstract</dd>
+  <dd>Syntax/Formatting:free-text
+  </dd>
+  <dd>Recommended Controlled Vocabulary:N/A</dd>
+  <dd>Notes: 
 	<ul>
-		<li>Use complete sentences</li>
-		<li>Some contents moved to IMI/description</li>
-		<li>Contains html, accents, and/or special characters</li>
+		<li>Use complete sentences<li>
+		<li>Some content moved to IMI/description<li>
+		<li>Contains html, accents, and/or special characters<li>
 	</ul>
 	</dd>
-  <dd><font><ins>Field Changes: </ins>N/A</dd>
+  <dd>Field Changes: will be renamed to field_abstract </dd>
 </dl>
+<dl>
 <dl>
     <dt><b>Location</b></dt>
-	 <dd> <ins>MODS XPath: </ins>/mods/abstract</dd>
-	<dd> <ins>RDF XPath: </ins>/rdf:RDF/rdf:Description/dc:abstract</dd>
-	<dd> <ins>Solr field: </ins>
-		<ul>	
-			<li>mods_abstract_html_displayLabel_ms</li>
-			<li>mods_abstract_html_ms</li>
-			<li>mods_abstract_ms</li>
-			<li>mods_abstract_abstract_displayLabel_ms</li>
-			<li>mods_abstract_abstract_ms</li>
-		</ul>
-	</dd>
-</dl>
-	<p><i>Last Updated: </i>4/23/2021</p>
+		<dd> <ins>MODS XPath: </ins>/mods/abstract</dd>
+		<dd> <ins>RDF XPath: </ins>/rdf:RDF/rdf:Description/dc:abstract</dd>
+		<dd> <ins>Solr field: </ins>
+			<ul>	
+				<li>mods_abstract_html_displayLabel_ms</li>
+				<li>mods_abstract_html_ms</li>
+				<li>mods_abstract_ms</li>
+				<li>mods_abstract_abstract_displayLabel_ms</li>
+				<li>mods_abstract_abstract_ms</li>
+			</ul>
+		</dd>
 </dl>
 <dl>
-	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="mods.abstract.md">MODS/abstract</a></td>
-			<td><a href="rdf.abstract.md">RDF/dcterms:abstract </a></td>
-			<td><a href="workbench_abstract.md">Machine Name/field_abstract</a></td>
-		</table>
+	<dt><b>Related Fields</b></dt>
+		|<a href="mods.abstract.md">MODS/abstract</a> |<a href="rdf.abstract.md">RDF/dcterms:abstract </a>|
 </dl>
+<p><i>Last Updated: </i>[here]</p>
 </body>
 </html>
