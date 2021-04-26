@@ -63,7 +63,7 @@
   <tr>
     <td><a href="contributors.md">contributors</a></td>
     <td><a href="mods.name.md">name/namePart</a></td>
-    <td><a href="">relator:ctb </a></td>
+    <td><a href="rdf.field_linked_agent.md">relators:ctb</a></td>
   </tr>
   <tr>
     <td><a href="coverage_spatial.md">coverage_spatial</a></td>
