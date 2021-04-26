@@ -22,9 +22,8 @@
   <dd>Range:  [here]</dd>
 </dl>
 <dl>
-	<dd><b>Related Fields</b></dd>
-		<li><a href="template.md">[here]</a></li>
-		<li><a href="MODS.template.md">[here]</a></li>
+	<dt><b>Related Fields</b></dt>
+		|<a href="template.md">[here]</a>|<a href="MODS.template.md">[here]</a>|
 </dl>
 <p><i>Last Updated: </i>[here]</p>
 </body>
