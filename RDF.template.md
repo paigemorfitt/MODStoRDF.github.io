@@ -16,19 +16,16 @@
 <h1>[here]</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">Definition: </font></ins>[here]</dd>
-  <dd><ins><font color="brown">Label: </font></ins> [here]</dd>
-  <dd><ins><font color="brown">Domain: </font></ins> [here]</dd>
-  <dd><ins><font color="brown">Range: </font></ins> [here]</dd>
-	<p><font color="red"><i>Last Updated: </i></font>[here]</p>
+  <dd>Definition: [here]</dd>
+  <dd>Label:  [[here]</dd>
+  <dd>Domain:  [here]</dd>
+  <dd>Range:  [here]</dd>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="MODS.marccounty.md">[MODS/@authority="marccounty"]</a></td>
-			<td><a href="mods.place.placeterm.md">place/placeTerm</a></td>
-			<td><a href="rdf.rdau.p60163.md">rdau:P60163</a></td>
-		</table>
+		<li><a href="mods.note.md">[here]</a></li>
+		<li><a href="rdf.dcterms.provenance.md">[here]</a></li>
 </dl>
+<p><i>Last Updated: </i>[here]</p>
 </body>
 </html>
