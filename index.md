@@ -46,7 +46,7 @@
     <td><a href="rdf.rdau.p60496.md">rdau:P60496</a></td>
   </tr>
    <tr>
-    <td><a href="IMI.advisor.md">advisors</a></td>
+    <td><a href="advisor.md">advisors</a></td>
     <td><a href="mods.name.md">name/namePart</a></td>
     <td><a href="rdf.field_linked_agent.md">local:adv</a></td>
   </tr>
