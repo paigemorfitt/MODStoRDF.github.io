@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>[here]</h1>
+<h1>IMI/access_condition</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>ARMINDA Use: Field that indicates item may be accessed by only current Whitman affiliates (netID holders).</dd>
@@ -49,6 +49,6 @@
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.access_condition.md">MODS/accessCondition</a> | <a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
 </dl>
-<p><i>Last Updated: </i>[here]</p>
+<p><i>Last Updated: </i>4/26/2021</p>
 </body>
 </html>
