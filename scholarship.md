@@ -39,6 +39,7 @@
     <td>Required</td>
     <td>No</td>
 	<td>Yes</td>
+	<td>Yes</td>
   </tr>
   <tr>
 	<a href="access_condition.md">access_condition</a>
@@ -46,7 +47,8 @@
     <td>Required, if applicable</td>
     <td>No</td>
 	<td>Yes</td>
-  </tr>
+	<td>Yes</td>
+  </tr>  
 </table>
 <p><i>Last Updated: </i>04/26/2021</p>
 </dl>
