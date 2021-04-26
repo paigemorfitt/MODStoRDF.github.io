@@ -35,6 +35,10 @@
 	</dd>
   <dd>Comment:  This is a local term.</dd>
 </dl>
+<dl>
+	<dt><b>Related Fields</b></dt>
+			<dd>| <a href="advisor.md">IMI/advisors</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
+</dl>
 <h2>relators:ctb</h2>
 <dl>
   <dt><b>Description</b></dt>
@@ -50,7 +54,6 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-			<dd>| <a href="advisor.md">IMI/advisors</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
 			<dd>| <a href="contributors.md">IMI/contributors</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
 			<dd>| <a href="creators.md">IMI/creators</a> | <a href="MODS.template.md">[here]</a> |</dd>
 			<dd>| <a href="department.md">IMI/department</a> | <a href="MODS.template.md">[here]</a> |</dd>
