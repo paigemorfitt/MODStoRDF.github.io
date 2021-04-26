@@ -44,7 +44,7 @@
 		</dd>
 </dl>
 <dl>
-	<dd><b>Related Fields</b></dd>
+	<dt><b>Related Fields</b></dt>
 		|<a href="MODS.template.md">[here]</a> |<a href="RDF.template.md">[here]</a>|
 </dl>
 <p><i>Last Updated: </i>[here]</p>
