@@ -22,8 +22,8 @@
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<li><a href="mods.note.md">[here]</a></li>
-		<li><a href="rdf.dcterms.provenance.md">[here]</a></li>
+		<li><a href="template.md">[here]</a></li>
+		<li><a href="RDF.template.md">[here]</a></li>
 </dl>
 <p><i>Last Updated: </i>[here]</p>
 </body>
