@@ -14,14 +14,14 @@
  <h1>Arminda MODS information page</h1> 
   
 <p>Collections in Arminda.</p>
+<table>
    <tr>
-    <th><a href="Archives.md">Archives</a></th>
-	<th><a href="Theses.md">Theses</a></th>
-    <th>Scholarship</th>
-    <th><a href="Offices&Programs.md">Offices & Programs</a></th>
-	<th><a href="Newspapers.md">Newspapers</a></th>
+		<th><a href="Archives.md">Archives</a></th>
+		<th><a href="Theses.md">Theses</a></th>
+		<th><a href="scholarship.md">Scholarship</a></th>
+		<th><a href="Offices&Programs.md">Offices & Programs</a></th>
+		<th><a href="Newspapers.md">Newspapers</a></th>
   </tr>
- </table>
 <p>Fields used for Shcholarship Master Sheet.</p>
 </table>
 <p>Fields in use for Theses Master Sheet.</p>
@@ -34,7 +34,7 @@
 	<th>Public Field</th>
   </tr>
   <tr>
-    <td><a href="abstract.md">abstract</a><td>
+    <td><a href="abstract.md">abstract</a></td>
 	<td>Abstract</td>
     <td>Required</td>
     <td>No</td>
