@@ -33,13 +33,7 @@
     <th>Repeatability</th>
 	<th>Public Field</th>
   </tr>
-  <tr>
-	<td>[filename field]</td>
-	<td>Front-end name</td>
-    <td>Required</td>
-    <td>Yes</td>
-	<td>Yes</td>
-  </tr>
+
 
 </table>
  <h2 id="sheehan">Sheehan Gallery</h2>
@@ -50,13 +44,6 @@
     <th>Obligation</th>
     <th>Repeatability</th>
 	<th>Public Field</th>
-  </tr>
-  <tr>
-	<td>[filename field]</td>
-	<td>Front-end name</td>
-    <td>Required</td>
-    <td>Yes</td>
-	<td>Yes</td>
   </tr>
 
  
