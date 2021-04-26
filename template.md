@@ -14,7 +14,7 @@
 <h1>[here]</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>ARMINDA Use:[here]</dd>
+  <dd>ARMINDA Use: </dd>
   <dd>Obligation: [here]</dd>
   <dd>Repeatable: [here]</dd>
   <dd>Public Field:[here]</dd>
