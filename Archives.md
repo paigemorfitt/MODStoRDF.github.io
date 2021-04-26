@@ -24,6 +24,8 @@
   
 </table>
 <p>Fields used in Archives Master Sheet</p>
+</table>
+<p>Fields in use for Theses Master Sheet.</p>
 <table>
   <tr>
     <th>IMI Column</th>
@@ -33,19 +35,17 @@
 	<th>Public Field</th>
   </tr>
   <tr>
-    <a href="abstract.md">abstract</a>
+    <td><a href="abstract.md">abstract</a><td>
 	<td>Abstract</td>
     <td>Required</td>
     <td>No</td>
 	<td>Yes</td>
-	<td>Yes</td>
   </tr>
   <tr>
-	<a href="access_condition.md">access_condition</a>
+	<td><a href="access_condition.md">access_condition</a></td>
 	<td>Limited Access</td>
     <td>Required, if applicable</td>
     <td>No</td>
-	<td>Yes</td>
 	<td>Yes</td>
   </tr>  
 </table>
