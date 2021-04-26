@@ -11,21 +11,20 @@
   </tr>
 </table>
 
-<h1>RDF/dcterms:abstract</h1>
+
+
+<h1>[here]</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins>Definition: </ins>A summary of the resource <a href="http://purl.org/dc/terms/abstract">(resource)</a></dd>
-  <dd><ins>Label: </ins>Abstract</dd>
-  <dd><ins>Domain: </ins>N/A</dd>
-  <dd><ins>Range: </ins>N/A</dd>
+  <dd>Definition: A summary of the resource <a href="http://purl.org/dc/terms/abstract">(resource)</a></dd>
+  <dd>Label:  Abstract</dd>
+  <dd>Domain:  N/A</dd>
+  <dd>Range:  N/A</dd>
 </dl>
 <dl>
-	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="abstract.md">IMI/abstract</a></td>
-			<td><a href="mods.abstract.md">MODS/abstract</a></td>
-			<td><a href="workbench_abstract.md">Machine Name/field_abstract</a></td>
-		</table>
+	<dt><b>Related Fields</b></dt>
+		| <a href="abstract.md">IMI/abstract</a> | <a href="mods.abstract.md">MODS/abstract</a> |
 </dl>
+<p><i>Last Updated: </i>4/26/2021</p>
 </body>
 </html>
