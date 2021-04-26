@@ -31,20 +31,18 @@
     <th>Obligation</th>
     <th>Repeatability</th>
 	<th>Public Field</th>
-	<th>Field Changes</th>
   </tr>
   <tr>
-	<td>[filename field]</td>
-	<td>Front-end name</td>
-    <td>Required</td>
-    <td>Yes</td>
-	<td>Yes</td>
-	<td>(under review)</td>
-  </tr>
-  <tr>
-    <td>abstract</td>
+    <a href="abstract.md">abstract</a>
 	<td>Abstract</td>
     <td>Required</td>
+    <td>No</td>
+	<td>Yes</td>
+  </tr>
+  <tr>
+	<a href="access_condition.md">access_condition</a>
+	<td>Limited Access</td>
+    <td>Required, if applicable</td>
     <td>No</td>
 	<td>Yes</td>
   </tr>
