@@ -44,6 +44,13 @@
     <td>Required, if applicable</td>
     <td>No</td>
 	<td>Yes</td>
+  </tr>
+  <tr>
+    <th><a href="advisor.md">advisors</a></th>
+	<th>Advisor</th>
+    <th>Required, if applicable</th>
+    <th>Yes</th>
+	<th>Yes</th>
   </tr>  
 </table>
 	<p><i>Last Updated: </i>04/26/2021</p>
