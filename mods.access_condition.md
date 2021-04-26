@@ -16,7 +16,7 @@
 <h1>MODS/accessCondition</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Information about restrictions imposed on access to a resource.<a href="https://www.loc.gov/standards/mods/userguide/accesscondition.md"> (resource) </dd>
+  <dd>Information about restrictions imposed on access to a resource.<a href="https://www.loc.gov/standards/mods/userguide/accesscondition.md"> (resource) </a></dd>
   <dd>Attributes:  type; displayLabel; altRepGroup; altFormat; contentType; xlink; lang; xml:lang; script; transliteration</dd>
   <dd>Subelements:  N/A</dd>
 </dl>
