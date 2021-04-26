@@ -39,14 +39,6 @@
     <td>No</td>
 	<td>Yes</td>
   </tr>
-    <tr>
-	<td>[filename field]</td>
-	<td>Front-end name</td>
-    <td>Required</td>
-    <td>Yes</td>
-	<td>Yes</td>
-	<td>(under review)</td>
-  </tr>
   <tr>
 	<a href="access_condition.md">access_condition</a>
 	<td>Limited Access</td>
