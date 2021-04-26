@@ -22,8 +22,7 @@
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<li><a href="template.md">[here]</a></li>
-		<li><a href="RDF.template.md">[here]</a></li>
+		|<a href="template.md">[here]</a>|<a href="RDF.template.md">[here]</a>|
 </dl>
 <p><i>Last Updated: </i>[here]</p>
 </body>
