@@ -24,8 +24,6 @@
   
 </table>
 <p>Fields used in Archives Master Sheet</p>
-</table>
-<p>Fields in use for Theses Master Sheet.</p>
 <table>
   <tr>
     <th>IMI Column</th>
