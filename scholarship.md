@@ -60,7 +60,14 @@
     <td>Required</td>
     <td>No</td>
 	<td>No</td>
-  </tr>  
+  </tr>
+  <tr>
+    <a href="contributors.md">contributors</a>
+	<td>Contributor</td>
+    <td>Required, if applicable</td>
+    <td>Yes</td>
+	<td>Yes</td>
+  </tr> 
 </table>
 <p><i>Last Updated: </i>04/26/2021</p>
 </dl>
