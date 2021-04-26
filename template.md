@@ -14,44 +14,41 @@
 <h1>[here]</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins>ARMINDA Use:</ins>[here]</dd>
-  <dd><ins>Obligation:</ins> [here]</dd>
-  <dd><ins>Repeatable:</ins> [here]</dd>
-  <dd><ins>Public Field:</ins>[here]</dd>
-  <dd><ins>Public-facing name:</ins>[here]</dd>
-  <dd><ins>Syntax/Formatting:</ins>
+  <dd>ARMINDA Use:[here]</dd>
+  <dd>Obligation: [here]</dd>
+  <dd>Repeatable: [here]</dd>
+  <dd>Public Field:[here]</dd>
+  <dd>Public-facing name:[here]</dd>
+  <dd>Syntax/Formatting:
 	<ul>
 		<li>[here]</li>
 	</ul>
   </dd>
-  <dd><ins>Recommended Controlled Vocabulary:</ins>[here]</dd>
-  <dd><ins>Notes: </ins>
+  <dd>Recommended Controlled Vocabulary:[here]</dd>
+  <dd>Notes: 
 	<ul>
 		<li>[here]</li>
 		</ul>
 	</dd>
-  <dd><i>Field Changes: </i>[here]</dd>
+  <dd><b>Field Changes: </b>[here]</dd>
 </dl>
 <dl>
 <dl>
     <dt><b>Location</b></dt>
-		<dd><ins>MODS XPath:  </ins> [here]</dd>
-		<dd><ins>RDF XPath: </ins>[here]</dd>
-		<dd><ins>Solr Field(s): </ins>
+		<dd>MODS XPath:   [here]</dd>
+		<dd>RDF XPath: [here]</dd>
+		<dd>Solr Field(s): 
 			<ul>
 				<li>[here]</li>
 			</ul>
 		</dd>
-	<dd> <ins>Islandora /Workbench Machine Name: </ins>[here]</dd>
-</dl>
-	<p><i>Last Updated: </i>[here]</p>
+	<dd> Islandora /Workbench Machine Name: [here]</dd>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="mods.note.md">MODS/note</a></td>
-			<td><a href="rdf.dcterms.provenance.md">RDF/dcterms:provenanc</a></td>
-		</table>
+		<li><a href="mods.note.md">MODS/note</a></li>
+		<li><a href="rdf.dcterms.provenance.md">RDF/dcterms:provenanc</a></li>
 </dl>
+<p><i>Last Updated: </i>[here]</p>
 </body>
 </html>
