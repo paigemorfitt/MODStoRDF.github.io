@@ -15,7 +15,7 @@
 <p><a href="migration-questions.md">See migration questions</a></p>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins>ARMINDA Use:/ins>A summary of the resource, primarily used with scholarship objects</dd>
+  <dd><ins>ARMINDA Use:</ins>A summary of the resource, primarily used with scholarship objects</dd>
   <dd><ins>Obligation: </ins> Required, if applicable</dd>
   <dd><ins>Repeatable: </ins>No</dd>
   <dd><ins>Public Field: </ins>Yes</dd>
