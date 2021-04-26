@@ -38,12 +38,14 @@
     <td>Required</td>
     <td>No</td>
 	<td>Yes</td>
+	<td>Yes</td>
   </tr>
   <tr>
 	<a href="access_condition.md">access_condition</a>
 	<td>Limited Access</td>
     <td>Required, if applicable</td>
     <td>No</td>
+	<td>Yes</td>
 	<td>Yes</td>
   </tr>  
 </table>
