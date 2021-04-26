@@ -21,12 +21,8 @@
   <dd>Public-facing name:N/A</dd>
   <dd>Syntax/Formatting: Free-text</dd>
   <dd>Recommended Controlled Vocabulary: Yes</dd>
-  <dd>Notes: 
-	<ul>
-		<li>Necessary for Islandora 7. Unsure of its role in Islandora 8</li>
-		</ul>
-	</dd>
-  <dd>Field Changes: Will move to field_</dd>
+  <dd>Notes: Necessary for Islandora 7. Unsure of its role in Islandora 8</dd>
+  <dd>Field Changes: Will move to field</dd>
 </dl>
 <dl>
     <dt><b>Location</b></dt>
