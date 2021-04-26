@@ -14,17 +14,15 @@
 <h1>MODS/abstract</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: A summary of the content of the resource <a href="https://www.loc.gov/standards/mods/userguide/abstract.md"> (reference)</dd>
+  <dd>Definition: A summary of the content of the resource <a href="https://www.loc.gov/standards/mods/userguide/abstract.md"> (reference)</a></dd>
   <dd>Attributes:  type; displayLabel; shareable; altRepGroup; altFormat; contentType; xlink; lang; xml:lang; script; transliteration</dd>
   <dd>Subelements:  N/A</dd>
 </dl>
 
 <dl>
 	<dt><b>Related Fields</b></dt>
-		<table>
-		<tr>
-			|<a href="abstract.md">IMI/abstract</a>|<a href="rdf.abstract.md">RDF/dcterms:abstract </a>|
-			|<a href="description.md">IMI/description</a>|<a href="RDF.description.md">RDF/dcterms:description</a>|
+		<dd>|<a href="abstract.md">IMI/abstract</a>|<a href="rdf.abstract.md">RDF/dcterms:abstract </a>|</dd>
+		<dd>|<a href="description.md">IMI/description</a>|<a href="RDF.description.md">RDF/dcterms:description</a>|</dd>
 </dl>
 <p><i>Last Updated: </i>4/26/2021</p>
 </body>
