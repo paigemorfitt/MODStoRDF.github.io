@@ -49,6 +49,16 @@
 		<dt><b>Related Fields</b></dt>
 				| <a href="advisor.md">advisors</a> | <a href="mods.name.md">name/namePart</a> | <a href="rdf.field_linked_agent.md">local:adv</a> | 
 	</dl>
+<h2>field_model</h2>
+	<dl>
+		<dd>Type of Field: [unchecked]</dd>
+		<dd>Label: Model</dd>
+		<dd>Max Length/Repeatability: [unchecked]</dd>
+	</dl>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="cmodel.md">cmodel</a> | <a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
+	</dl>
 <p><i>Last Updated: </i>4/26/2021</p>
 </body>
 </html>
