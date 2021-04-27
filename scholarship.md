@@ -62,14 +62,14 @@
 	<td>No</td>
   </tr>
   <tr>
-    <a href="contributors.md">contributors</a>
+    <td><a href="contributors.md">contributors</a></td>
 	<td>Contributor</td>
     <td>Required, if applicable</td>
     <td>Yes</td>
 	<td>Yes</td>
   </tr> 
 </table>
-<p><i>Last Updated: </i>04/26/2021</p>
+<p><i>Last Updated: </i>04/27/2021</p>
 </dl>
 </body>
 </html>
