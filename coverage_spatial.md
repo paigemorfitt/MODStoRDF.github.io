@@ -20,7 +20,7 @@
   <dd>Public Field: Yes</dd>
   <dd>Public-facing name: Geographic Subjects</dd>
   <dd>Syntax/Formatting: Free-text</dd>
-  <dd>Recommended Controlled Vocabulary:[here]</dd>
+  <dd>Recommended Controlled Vocabulary: LCSH, GNIS, Getty Geographic Names, MARC GAC  , local geographic names list </dd>
   <dd>Notes: 
 	<ul>
 		<li>In tandem with IMI/subject_keywords (Partial absorption by IMI/subject_keywords)</li>
