@@ -68,6 +68,13 @@
     <td>Yes</td>
 	<td>Yes</td>
   </tr> 
+  <tr>
+    <td><a href="coverage_spatial.md">coverage_spatial</a></td>
+	<td>Geographic Subject</td>
+    <td>Recommended, if applicable</td>
+    <td>Yes</td>
+	<td>Yes</td>
+  </tr> 
 </table>
 <p><i>Last Updated: </i>04/27/2021</p>
 </dl>
