@@ -44,7 +44,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <td><a href="mods.name.md">name/namePart</a></td> | <a href="rdf.dcterms_spatial.md">RDF/dcterms:spatial</a>|
+		| <td><a href="mods.subject_geographic.md">subject/geographic</a></td> | <a href="rdf.dcterms_spatial.md">RDF/dcterms:spatial</a>|
 </dl>
 <p><i>Last Updated: </i>4/27/2021</p>
 </body>
