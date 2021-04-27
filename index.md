@@ -68,7 +68,7 @@
   <tr>
     <td><a href="coverage_spatial.md">coverage_spatial</a></td>
     <td><a href="mods.subject_geographic.md">subject/geographic</a></td>
-    <td><a href="rdf.spatial.md">dcterms:spatial</a></td>
+    <td><a href="rdf.dcterms_spatial.md">dcterms:spatial</a></td>
   </tr>
    <tr>
     <td><a href="creators.md">creators</a></td>
