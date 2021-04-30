@@ -52,7 +52,7 @@
 <dl>
     <dt><b>Location</b></dt>
 	  <dd> <ins>MODS XPath </ins>/mods/name/namePart</dd>
-		<dd> <ins>RDF XPath</ins>/[dcterms:contributor]/[relators:ctb]</dd>
+		<dd> <ins>RDF XPath</ins> [relators:ctb]</dd>
 		<dd> <ins>Solr field(s) </ins>
 			<ul>
 				<li>mods_name_personal_contributor(s)_displayLabel_ms</li>
