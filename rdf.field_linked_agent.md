@@ -61,15 +61,16 @@
     <dd>
 		<ul>
 			<li>relators:cre:person:Dumas, Alexandre,  1802-1970</li> 
-			<li>relators:cre:person:Dumas, Alexandre,  1802-1970|relators:cre:person:OFairbanks, Douglas, 1883-1939</li>
+			<li>relators:cre:person:Dumas, Alexandre,  1802-1970|relators:cre:person:Fairbanks, Douglas, 1883-1939</li>
 		</ul>
 	</dd>
 </dl>
 <p><i>Last Updated: </i>4/30/2021</p>
 <dl>
 	<dt><b>Related Fields</b></dt>
+			<dd>| <a href="advisor.md">advisors</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
 			<dd>| <a href="contributors.md">IMI/contributors</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
-			<dd>| <a href="creators.md">IMI/creators</a> | <a href="MODS.template.md">[here]</a> |</dd>
+			<dd>| <a href="creators.md">IMI/creators</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
 			<dd>| <a href="department.md">IMI/department</a> | <a href="MODS.template.md">[here]</a> |</dd>
 </dl>
 </body>
