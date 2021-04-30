@@ -51,16 +51,16 @@
 		<dd> RDF XPath[relators:cre]</dd>
 		<dd> Solr Fields
 			<ul>
-				<li>mods_name_personal_author_ms: mods_name_personal_author_ms(string)</li>
-				<li>mods_name_personal_author_role_roleTerm_text_ms: mods_name_personal_author_role_roleTerm_text_ms(string)</li>
-				<li>mods_name_personal_creator(s)_displayForm_ms: mods_name_personal_creator(s)_displayForm_ms(string)</li>
-				<li>mods_name_personal_creator(s)_displayLabel_ms: mods_name_personal_creator(s)_displayLabel_ms(string)</li>
-				<li>mods_name_personal_creator(s)_ms: mods_name_personal_creator(s)_ms(string)</li>
-				<li>mods_name_personal_creator(s)_role_roleTerm_ms: mods_name_personal_creator(s)_role_roleTerm_ms(string)</li>
-				<li>mods_name_personal_creator(s)_role_roleTerm_text_ms: mods_name_personal_creator(s)_role_roleTerm_text_ms(string)</li>
-				<li>mods_name_personal_displayLabel_ms: mods_name_personal_displayLabel_ms(string)</li>
-				<li>mods_name_personal_namePart_ms: mods_name_personal_namePart_ms(string)</li>
-				<li>mods_name_personal_role_roleTerm_ms: mods_name_personal_role_roleTerm_ms(string)</li>
+				<li>mods_name_personal_author_ms</li>
+				<li>mods_name_personal_author_role_roleTerm_text_ms</li>
+				<li>mods_name_personal_creator(s)_displayForm_ms</li>
+				<li>mods_name_personal_creator(s)_displayLabel_ms</li>
+				<li>mods_name_personal_creator(s)_ms</li>
+				<li>mods_name_personal_creator(s)_role_roleTerm_ms</li>
+				<li>mods_name_personal_creator(s)_role_roleTerm_text_ms</li>
+				<li>mods_name_personal_displayLabel_ms</li>
+				<li>mods_name_personal_namePart_ms</li>
+				<li>mods_name_personal_role_roleTerm_ms</li>
 			</ul>
 	</dd>
 </dl>
