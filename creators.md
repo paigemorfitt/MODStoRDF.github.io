@@ -5,51 +5,51 @@
 <table style="width:100%">
   <tr>
     <th><a href="index.md">Main page</a></th>
-	<th>IMI Columns</th>
+	<th><a href="IMI.md">IMI Columns</a></th>
     <th><a href="MODS.md">MODS Fields</a></th>
-    <th><a href="#">RDF Fields</a></th>
+    <th><a href="RDF.md">RDF Fields</a></th>
   </tr>
 </table>
+
 <h1>IMI/creators</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">ARMINDA Use:</font></ins>  Identifies the entity/entities primarily responsible for making the resource</dd>
-  <dd><ins><font color="brown">Obligation:</font></ins>  Required, if applicable</dd>
-  <dd><ins><font color="brown">Repeatable:</font></ins> Yes</dd>
-  <dd><ins><font color="brown">Public Field:</font></ins>Yes</dd>
-  <dd><ins><font color="brown">Front-end name:</font></ins>Creator(s)</dd>
-  <dd><ins><font color="brown">Syntax/Formatting:</font></ins>
+  <dd>ARMINDA Use: identifies the entity/entities primarily responsible for making the resource </dd>
+  <dd>Obligation: Required, if applicable</dd>
+  <dd>Repeatable: Yes</dd>
+  <dd>Public Field: Yes</dd>
+  <dd>Public-facing name: Creator</dd>
+  <dd>Syntax/Formatting:
 	<ul>
-		<li>Free text /  RDA 19.2</li>
+		<li>Free text / RDA 19.2</li>
 		<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
-		<li>for multiple authors, separate with pipe with no space trailing</li>
-		<li>Add to <a href="field_linked_agent.md">field_linked_agent</a> in form:
-			<ul>
-				<li>relator:aut:person:Dumas, Alexandre</li> 
-				<li>relator:aut:person:Dumas, Alexandre|relator:aut:person:Chadwick, Elizabeth</li>
-			</ul>
-		</ul>
-	</dd>
+		<li>For multiple authors, separate with pipe with no space trailing.</li>
+	</ul>
   </dd>
-  <dd><ins><font color="brown">Recommended Controlled Vocabulary:</font></ins> LCNAF, VIAF, my.whitman, local names</dd>
-  <dd><ins><font color="brown">Notes: </font></ins>
-	<ul>
-		<li>Provide as much known information as possible (either provided on resource or found elsewhere)</li>
-		<li>Separate repeated terms consistently (with semicolon)</li>
-		<li>If names are not found in a controlled vocabulary, format personal names Renamed field. - Renamed from authors to creatorsas  Lastname , Firstname according to RDA/DACS</li> 
-		<li>If name(s) of creator(s) is not known, see master spreadsheet guidelines for specific details </li>
-		<li>No distinguishing between Private and Corporate creators</li>
-		<li>Do birthdate or death date unless to disambiguate identical named individuals </li>
-		<li>Specific roles are added in parentheses if needed/desired</li>
+  <dd>Recommended Controlled Vocabulary: LCNAF, VIAF, my.whitman, local names</dd>
+  <dd>Notes: 
+		<ul>
+			<li>Provide as much known information as possible (either provided on resource or found elsewhere)</li>
+			<li>Separate repeated terms consistently (with pipe)</li>
+			<li>If names are not found in a controlled vocabulary, format personal names as Lastname , Firstname according to RDA/DACS</li>
+			<li>If name(s) of creator(s) is not known, see master spreadsheet guidelines for specific details</li>
+			<li>No distinguishing between Private and Corporate creators</li>
+			<li>Do birthdate or death date unless to disambiguate identical named individuals</li>
+			<li>Contains html, accents, and/or special characters</li>
 		</ul>
 	</dd>
-  <dd><font color="blue"><i>Field Changes: </i></font>Former IMI field name: authors</dd>
+  <dd>Field Changes: 
+	<ul>
+		<li>previous name : authors</li>
+		<li>content moving to field_linked_agent</li>
+	</ul>
+  </dd>
 </dl>
 <dl>
     <dt><b>Location</b></dt>
-		<dd> <ins><font color="brown">MODS XPath </font></ins> /mods/name/@displayLabel="Creator(s)"</dd>
-		<dd> <ins><font color="brown">RDF XPath</font></ins>[dcterms:contributor]/[relators:aut]</dd>
-		<dd> <ins><font color="brown">Solr Fields</font></ins>
+		<dd> MODS XPath  /mods/name/@displayLabel="Creator(s)"</dd>
+		<dd> RDF XPath[relators:cre]</dd>
+		<dd> Solr Fields
 			<ul>
 				<li>mods_name_personal_author_ms: mods_name_personal_author_ms(string)</li>
 				<li>mods_name_personal_author_role_roleTerm_text_ms: mods_name_personal_author_role_roleTerm_text_ms(string)</li>
@@ -65,14 +65,9 @@
 	</dd>
 </dl>
 <dl>
-	<p><font color="red"><i>Last Updated: </i></font>2/3/2021</p>
+	<dt><b>Related Fields</b></dt>
+		| <a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/local:adv</a> |
 </dl>
-<dl>
-	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="mods.name.md">MODS/name/namePart</a></td>
-			<td><a href="rdf.relators_aut_cre.md">RDF/dcterms:contributor/ relators:aut OR relators:cre</a></td>
-		</table>
-</dl>
+<p><i>Last Updated: </i>4/30/2021</p>
 </body>
 </html>
