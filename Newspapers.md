@@ -60,6 +60,13 @@
     <td>No</td>
 	<td>No</td>
   </tr>
+  <tr>
+    <td><a href="date_issued.md">date_issued</a></td>
+	<td>N/A</td>
+    <td>Required</td>
+    <td>No</td>
+	<td>Yes</td>
+  </tr>
 </table>  
 	<p><i>Last Updated: </i>05/05/2021</p>
 </dl>
