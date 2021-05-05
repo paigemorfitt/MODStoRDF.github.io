@@ -23,7 +23,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="date.encoded.md">IMI/date_encoded</a>< | <a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a>< |
+		| <a href="date.encoded.md">IMI/date_encoded</a> | <a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> |
 </dl>
 <p><i>Last Updated: </i>05/05/2021</p>
 </body>
