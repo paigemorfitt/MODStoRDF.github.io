@@ -17,7 +17,7 @@
 <dl>
   <dd>Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource. <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html"> (resource)</a></dd>
   <dd>Attributes: lang; xml:lang; script; transliteration; altrepGroup;displayLabel; eventType</dd>
-  <dd>Subelements:  place; publisher; dateIssued; dateCreated; dateCaptured; dateValid; dateModified; copyrightDate; dateOther; edition; issuance; frequency</dd>>
+  <dd>Subelements:  place; publisher; dateIssued; dateCreated; dateCaptured; dateValid; dateModified; copyrightDate; dateOther; edition; issuance; frequency</dd>
 </dl>
 
 <h2>MODS/originInfo/dateOther</h2>
