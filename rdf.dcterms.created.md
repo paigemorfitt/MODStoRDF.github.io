@@ -16,20 +16,15 @@
 <h1>RDF/dcterms:created</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">Definition: </font></ins>Date of creation of the resource. <a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/created">(reference)</a></dd>
-    <dd><ins><font color="brown">Label: </font></ins> Date Created</dd>
-  <dd><ins><font color="brown">Comment: </font></ins> Recommended practice is to describe the date, date/time, or period of time as recommended for the property Date, of which this is a subproperty.</dd>
-  <dd><ins><font color="brown">Domain: </font></ins> N/A</dd>
-  <dd><ins><font color="brown">Range: </font></ins> Literal</dd>
+  <dd>Definition: Date of creation of the resource. <a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/created">(reference)</a></dd>
+  <dd>Label:  Date Created</dd>
+  <dd>Domain:  N/A</dd>
+  <dd>Range:  Literal</dd>
 </dl>
-	<p><font color="red"><i>Last Updated: </i></font>12/22/2020</p>
 <dl>
-	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="date.sort.md">IMI/date_sort</a></td>
-			<td><a href="imi.mods_date_created_keydate.md">IMI/[MODS/mods_date_created_keydate]</a></td>
-			<td><a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a></td>
-		</table>
+	<dt><b>Related Fields</b></dt>
+		| <a href="date.encoded.md">IMI/date_encoded</a>< | <a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a>< |
 </dl>
+<p><i>Last Updated: </i>05/05/2021</p>
 </body>
 </html>
