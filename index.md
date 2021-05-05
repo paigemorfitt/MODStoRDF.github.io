@@ -73,7 +73,7 @@
    <tr>
     <td><a href="creators.md">creators</a></td>
     <td><a href="mods.name.md">name/namePart</a></td>
-    <td><a href="">relators:cre</a></td>
+    <td><a href="a href="rdf.field_linked_agent.md">relators:cre</a></td>
   </tr>
     <tr>
 		<td><a href="date.display.md">date_display</a></td>
@@ -98,7 +98,7 @@
   <tr>
     <td><a href="department.md">department</a></td>
     <td><a href="mods.name.md">name/namePart</a></td>
-    <td><a href="">local:dpt</a></td>
+    <td><a href="a href="rdf.field_linked_agent.md"">local:dpt</a></td>
   </tr>
   <tr>
     <td><a href="description.md">description</a></td>
@@ -123,7 +123,7 @@
   <tr>
     <td><a href="field_linked_agent.md">field_linked_agent</a></td>
     <td>N/A</td>
-    <td><a href="">[unknown]</a></td>
+    <td><a href="a href="rdf.field_linked_agent.md"">[unknown]</a></td>
   </tr>
   <tr>
 	<td><a href="">field_weight</a></td>
@@ -218,7 +218,7 @@
    <tr>
     <td><a href="publisher.md">publisher</a></td>
     <td><a href="mods.originInfo-publisher.md">originInfo/publisher</a></td>
-    <td><a href="RDF.relators-pbl.md">relators:pbl</a></td>
+    <td><a href="rdf.field_linked_agent.md">relators:pbl</a></td>
   </tr> 
    <tr>
     <td><a href="rights.md">rights_contact</a></td>
