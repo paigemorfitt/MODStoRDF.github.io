@@ -78,7 +78,7 @@
     <tr>
 		<td><a href="date.display.md">date_display</a></td>
 		<td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
-		<td><a href="rdf.dcterms.date.md">dcterms:date</a></td>
+		<td><a href="rdf.rdau.p60527.md">rdau:P60527</a></td>
   </tr>
    <tr>
     <td><a href="date.encoded.md">date_encoded</a></td>
@@ -286,7 +286,7 @@
   </tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>4/20/2021</p>
+	<p><i>Last Updated: </i>05/05/2021</p>
 </dl>
 </body>
 </html>
