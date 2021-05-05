@@ -83,7 +83,7 @@
    <tr>
     <td><a href="date.encoded.md">date_encoded</a></td>
     <td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td>
-    <td><a href="rdf.rdau.p60527.md">rdau:P60527</a></td>
+    <td><a href="rdf.dcterms.created.md">dcterms:created</a></td>
   </tr>  
    <tr>
 		<td><a href="date_issued.md">date_issued</a></td>
