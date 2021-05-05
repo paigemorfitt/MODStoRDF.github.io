@@ -29,7 +29,7 @@
 
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="date.sort.md">IMI/date_sort</a> | <a href="rdf.dcterms.created.md">RDF/dcterms:created</a> |
+		| <a href="date.sort.md">IMI/date_sort</a> | <a href="rdf.rdau.p60527.md">rdau:P60527</a> |
 </dl>
 <p><i>Last Updated: </i>05/05/2021</p>
 </body>
