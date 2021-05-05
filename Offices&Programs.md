@@ -42,7 +42,13 @@
     <td>No</td>
 	<td>No</td>
   </tr>
-
+  <tr>
+    <td><a href="date.display.md">date_display</a></td>
+	<td>Date</td>
+    <td>Recommended, if applicable</td>
+    <td>No</td>
+	<td>Yes</td>
+  </tr> 
 </table>
  <h2 id="sheehan">Sheehan Gallery</h2>
  <table>
@@ -60,8 +66,14 @@
     <td>No</td>
 	<td>No</td>
   </tr>
- 
+   <tr>
+    <td><a href="date.display.md">date_display</a></td>
+	<td>Date</td>
+    <td>Recommended, if applicable</td>
+    <td>No</td>
+	<td>Yes</td>
+  </tr> 
 </table>
-<p><i>Last Updated: </i>04/26/2021</p>
+<p><i>Last Updated: </i>05/05/2021</p>
 </body>
 </html>
