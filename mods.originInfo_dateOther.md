@@ -22,7 +22,7 @@
 
 <h2>MODS/originInfo/dateOther</h2>
 <dl>
-  <dd>Definition: A date that does not fall into another category but is important to record.a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#dateother">(resource)</a></dd>
+  <dd>Definition: A date that does not fall into another category but is important to record. <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#dateother">(resource)</a></dd>
   <dd>Attributesencoding; point; keyDate; qualifier; lang; xml:lang; script; transliteration</dd>
   <dd>Subelements:N/A</dd>
 </dl>
