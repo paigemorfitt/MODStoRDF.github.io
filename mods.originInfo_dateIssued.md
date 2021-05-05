@@ -20,7 +20,7 @@
   <dd>Attributes:  lang; xml:lang; script; transliteration; altrepGroup;displayLabel; eventType</dd>
   <dd>Subelements:  place; publisher; dateIssued; dateCreated; dateCaptured; dateValid; dateModified; copyrightDate; dateOther; edition; issuance; frequency</dd>
 </dl>
-<h1>ODS/originInfo/dateIssued</h1>
+<h1>MODS/originInfo/dateIssued</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>Definition: The date that the resource was published, released, or issued..<a href="www.loc.gov/standards/mods/userguide/origininfo.html#dateissued">(resource)</a> </dd>
