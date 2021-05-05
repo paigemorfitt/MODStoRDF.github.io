@@ -47,7 +47,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> | <a href="rdf.dcterms.created.md">RDF/dcterms:created</a>|
+		| <a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> | <a href="rdf.dcterms.date.md">dcterms:date</a> |
 </dl>
 <p><i>Last Updated: </i>05/05/2021</p>
 </body>
