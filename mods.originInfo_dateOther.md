@@ -29,8 +29,8 @@
 
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="date.display.md">IMI/date_display</a> | <a href="rdf.rdau.p60527.md">rdau:P60527</a> |
-		| <a href="date.display.md">IMI/date_display</a> | <a href="rdf.rdau.p60527.md">rdau:P60527</a> |
+		<dd>| <a href="date.display.md">IMI/date_display</a> | <a href="rdf.rdau.p60527.md">rdau:P60527</a> | </dd>
+		<dd>| <a href="date.display.md">IMI/date_display</a> | <a href="rdf.rdau.p60527.md">rdau:P60527</a> | </dd>
 </dl>
 <p><i>Last Updated: </i>05/05/2021</p>
 </body>
