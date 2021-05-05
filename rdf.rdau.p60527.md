@@ -16,19 +16,15 @@
 <h1>RDF/rdau:P60527</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">Definition: </font></ins>Relates a resource to a timespan that is the earliest associated with a resource <a href="http://www.rdaregistry.info/Elements/u/#P60527">(reference)</a></dd>
-  <dd><ins><font color="brown">Label: </font></ins> has date of resource</dd>
-  <dd><ins><font color="brown">Domain: </font></ins>N/A</dd>
-  <dd><ins><font color="brown">Range: </font></ins> N/A</dd>
-	<p><font color="red"><i>Last Updated: </i></font>12/23/2020</p>
+  <dd>Definition: Relates a resource to a timespan that is the earliest associated with a resource <a href="http://www.rdaregistry.info/Elements/u/#P60527">(reference)</a></dd>
+  <dd>Label:  has date of resource</dd>
+  <dd>Domain: N/A</dd>
+  <dd>Range:  N/A</dd>
 </dl>
 <dl>
-	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="imi.mods_oai_harvester_date.md">IMI/[MODS/oai_harvester_date]</a></td>
-			<td><a href="date.encoded.md">IMI/date_encoded</a></td>
-			<td><a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a></td>
-		</table>
+	<dt><b>Related Fields</b></dt>
+		| <a href="date.encoded.md">IMI/date_encoded</a> | <a href="MODS.template.md">[here]</a> |
 </dl>
+<p><i>Last Updated: </i>05/05/2021</p>
 </body>
 </html>
