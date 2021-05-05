@@ -67,6 +67,13 @@
     <td>No</td>
 	<td>Yes</td>
   </tr>
+  <tr>
+    <td><a href="date.sort.md">date_sort</a></td>
+	<td>N/A</td>
+    <td>Required, if applicable. </td>
+    <td>No</td>
+	<td>No</td>
+  </tr>
 </table>  
 	<p><i>Last Updated: </i>05/05/2021</p>
 </dl>
