@@ -88,7 +88,7 @@
    <tr>
 		<td><a href="date_issued.md">date_issued</a></td>
 		<td><a href="mods.originInfo_dateIssued.md">originInfo/dateIssued</a></td>
-		<td><a href="rdf.valid.md">dcterms:valid</a></td>
+		<td><a href="rdf.dcterms.issued.md">dcterms:issued</a></td>
   </tr>
   <tr>
     <td><a href="date.sort.md">date_sort</a></td>
