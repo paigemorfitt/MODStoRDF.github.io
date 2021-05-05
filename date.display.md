@@ -45,7 +45,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> | <a href="rdf.dcterms.date.md">RDF/dcterms:date</a> |
+		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> | <a href="rdf.rdau.p60527.md">rdau:P60527</a> |
 </dl>
 <p><i>Last Updated: </i>05/05/2021</p>
 </body>
