@@ -38,6 +38,7 @@
   <tr>
     <td><a href="abstract.md" class ="magic-button" title="ARMINDA Use: A summary of the resource, primarily used with scholarship objects">abstract</a></td>
     <td><a href="mods.abstract.md">abstract</a></td>
+    <td><a href="rdf.abstract.md" class ="magic-button" title="Definition: A summary of the resource">abstract</a></td>
     <td><a href="rdf.abstract.md">dcterms:abstract </a></td>
   </tr>
    <tr>
