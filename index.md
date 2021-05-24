@@ -38,8 +38,7 @@
   <tr>
     <td><a href="abstract.md" class ="magic-button" title="ARMINDA Use: A summary of the resource, primarily used with scholarship objects">abstract</a></td>
     <td><a href="mods.abstract.md" class ="magic-button" title="Definition: A summary of the content of the resource" >abstract</a></td>
-    <td><a href="rdf.abstract.md" class ="magic-button" title="Definition: A summary of the resource">abstract</a></td>
-    <td><a href="rdf.abstract.md">dcterms:abstract </a></td>
+    <td><a href="rdf.abstract.md" class ="magic-button" title="Definition: A summary of the resource">dcterms:abstract </a></td>
   </tr>
    <tr>
     <td><a href="access_condition.md" class ="magic-button" title="ARMINDA Use: Field that indicates item may be accessed by only current Whitman affiliates (netID holders)" >access_condition</a></td>
