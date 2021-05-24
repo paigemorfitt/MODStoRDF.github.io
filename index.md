@@ -46,9 +46,9 @@
     <td><a href="rdf.rdau.p60496.md" class ="magic-button" title="Definition: Relates a resource to limitations placed on access to a resource">rdau:P60496</a></td>
   </tr>
    <tr>
-    <td><a href="advisor.md" class ="magic-button" title="[definition]">advisors</a></td>
-    <td><a href="mods.name.md" class ="magic-button" title="[definition]">name/namePart</a></td>
-    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">local:adv</a></td>
+    <td><a href="advisor.md" class ="magic-button" title="ARMINDA Use: A person under whose supervision a student develops and/or presents an academic paper or project, including theses and capstone projects.">advisors</a></td>
+    <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource ">name/namePart</a></td>
+    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: Generic "Advisor" term.">local:adv</a></td>
   </tr>
   <tr>
     <td><a href="imi.bucket.md" class ="magic-button" title="[definition]">bucket</a></td>
