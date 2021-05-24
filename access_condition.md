@@ -19,36 +19,21 @@
   <dd>Repeatable: No</dd>
   <dd>Public Field: Yes</dd>
   <dd>Public-facing name: Limited Access</dd>
-  <dd>Syntax/Formatting:
-	<ul>
-		<li>Free-text</li>
-	</ul>
-  </dd>
+  <dd>Syntax/Formatting:Free-text & controlled vocabulary* </dd>
   <dd>Recommended Controlled Vocabulary:In-house standard statement</dd>
   <dd>Notes: 
 	<ul>
 		<li>Limited Access: “The author(s) chose to restrict access to this thesis to current Whitman students, faculty, and staff. Please log in to view it.”</li>
 		<li>Opt-Out: “Thesis is opt-out and not available for public view. Submission for Honors requirements only. Accessible to library staff only.”</li>
+		<li>*There are two Access Condition fields for Islandora 8. One is a taxonomy, one is a text field. This is for the text field. Taxonomy terms have do to with solr indexing and how queries are made. More insight is needed for them.</li>
 		</ul>
 	</dd>
   <dd>Field Changes: will be renamed to field_limited_access</dd>
 </dl>
 <dl>
-<dl>
-    <dt><b>Location</b></dt>
-	  <dd> <ins>MODS XPath </ins>/mods/accessCondition</dd>
-		<dd> <ins>RDF XPath</ins>/rdf:RDF/rdf:Description/reg:p60496</dd>
-		<dd> <ins>SOLR field(s)</ins>
-			<ul>
-				<li>mods_accessCondition_Access_Statement_ms</li>
-				<li>mods_accessCondition_ms</li>
-			</ul>
-		</dd>
-</dl>
-<dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.access_condition.md">MODS/accessCondition</a> | <a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
 </dl>
-<p><i>Last Updated: </i>4/26/2021</p>
+<p><i>Last Updated: </i>05/24/2021</p>
 </body>
 </html>
