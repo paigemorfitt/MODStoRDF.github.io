@@ -42,9 +42,9 @@
     <td><a href="rdf.abstract.md">dcterms:abstract </a></td>
   </tr>
    <tr>
-    <td><a href="access_condition.md" class ="magic-button" title="[definition]" >access_condition</a></td>
-    <td><a href="mods.access_condition.md" class ="magic-button" title="[definition]">accessCondition</a></td>
-    <td><a href="rdf.rdau.p60496.md" class ="magic-button" title="[definition]">rdau:P60496</a></td>
+    <td><a href="access_condition.md" class ="magic-button" title="ARMINDA Use: Field that indicates item may be accessed by only current Whitman affiliates (netID holders)" >access_condition</a></td>
+    <td><a href="mods.access_condition.md" class ="magic-button" title="Definition: Information about restrictions imposed on access to a resource.">accessCondition</a></td>
+    <td><a href="rdf.rdau.p60496.md" class ="magic-button" title="Definition: Relates a resource to limitations placed on access to a resource">rdau:P60496</a></td>
   </tr>
    <tr>
     <td><a href="advisor.md" class ="magic-button" title="[definition]">advisors</a></td>
@@ -287,7 +287,7 @@
   </tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>05/05/2021</p>
+	<p><i>Last Updated: </i>05/24/2021</p>
 </dl>
 </body>
 </html>
