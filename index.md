@@ -14,7 +14,7 @@
   </tr>
 <table>
 
- <h1><a href="#" class ="magic-button" title="Hover text">Arminda information page</h1> 
+ <h1><a class ="magic-button" title="a test">Arminda information page</h1> 
   
 <p>Collections in Arminda. For information about IMI field content <a href="imi.field.content.md">click here</a> For a list of fields that have been removed <a href="fields.removed.md">click here</a>. List of <a href="Islandora.8.terms.md">Terms</a> is in progress.</p>
    <tr>
