@@ -14,7 +14,7 @@
   </tr>
 <table>
 
- <h1><a class ="magic-button" title="a test">Arminda information page</h1> 
+ <h1>Arminda information page</h1> 
   
 <p>Collections in Arminda. For information about IMI field content <a href="imi.field.content.md">click here</a> For a list of fields that have been removed <a href="fields.removed.md">click here</a>. List of <a href="Islandora.8.terms.md">Terms</a> is in progress.</p>
    <tr>
@@ -36,7 +36,7 @@
     <th>RDF field</th>
   </tr>
   <tr>
-    <td><a href="abstract.md">abstract</a></td>
+    <td><a href="abstract.md" class ="magic-button" title="ARMINDA Use: A summary of the resource, primarily used with scholarship objects">abstract</a></td>
     <td><a href="mods.abstract.md">abstract</a></td>
     <td><a href="rdf.abstract.md">dcterms:abstract </a></td>
   </tr>
