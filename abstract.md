@@ -26,30 +26,15 @@
 	<ul>
 		<li>Use complete sentences</li>
 		<li>Some content moved to IMI/description</li>
-		<li>Contains html, accents, and/or special characters</li>
+		<li>Contains, italics, bold,  accents, and/or special characters</li>
 	</ul>
 	</dd>
   <dd>Field Changes: will be renamed to field_abstract </dd>
 </dl>
 <dl>
-<dl>
-    <dt><b>Location</b></dt>
-		<dd> <ins>MODS XPath: </ins> /mods/abstract</dd>
-		<dd> <ins>RDF XPath: </ins> /rdf:RDF/rdf:Description/dc:abstract</dd>
-		<dd> <ins>Solr field: </ins>
-			<ul>	
-				<li>mods_abstract_html_displayLabel_ms</li>
-				<li>mods_abstract_html_ms</li>
-				<li>mods_abstract_ms</li>
-				<li>mods_abstract_abstract_displayLabel_ms</li>
-				<li>mods_abstract_abstract_ms</li>
-			</ul>
-		</dd>
-</dl>
-<dl>
 	<dt><b>Related Fields</b></dt>
 		|<a href="mods.abstract.md">MODS/abstract</a> |<a href="rdf.abstract.md">RDF/dcterms:abstract </a>|
 </dl>
-<p><i>Last Updated: </i>4/26/2021</p>
+<p><i>Last Updated: </i>5/24/2021</p>
 </body>
 </html>
