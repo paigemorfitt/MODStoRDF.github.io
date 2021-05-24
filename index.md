@@ -48,7 +48,7 @@
    <tr>
     <td><a href="advisor.md" class ="magic-button" title="ARMINDA Use: A person under whose supervision a student develops and/or presents an academic paper or project, including theses and capstone projects.">advisors</a></td>
     <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource ">name/namePart</a></td>
-    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: Generic "Advisor" term.">local:adv</a></td>
+    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: Generic Advisor term.">local:adv</a></td>
   </tr>
   <tr>
     <td><a href="imi.bucket.md" class ="magic-button" title="ARMINDA Use: BePress inherited field which indicated the collection --bucket-- an item is associated with">bucket</a></td>
