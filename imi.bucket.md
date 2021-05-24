@@ -14,31 +14,19 @@
 <h1>IMI/bucket</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins>ARMINDA Use: </ins>BePress inherited field which indicated the collection --bucket-- an item is associated with</dd>
-  <dd><ins>Obligation: </ins> Optional</dd>
-  <dd><ins>Repeatable: </ins> No</dd>
-  <dd><ins>Public Field: </ins> No</dd>
-  <dd><ins>Syntax/Formatting: </ins>Free text</dd>
-  <dd><ins>Recommended Controlled Vocabulary: </ins>N/A</dd>
-  <dd><ins>Notes: </ins>
+  <dd><ins>ARMINDA Use: BePress inherited field which indicated the collection --bucket-- an item is associated with</dd>
+  <dd><ins>Obligation: Optional</dd>
+  <dd><ins>Repeatable: No</dd>
+  <dd><ins>Public Field: No</dd>
+  <dd><ins>Syntax/Formatting: Free text</dd>
+  <dd><ins>Recommended Controlled Vocabulary: N/A</dd>
+  <dd><ins>Notes: 
 	<ul>
 		<li>Field discontinued. Not being migrated to RDF. Not being removed from Spreadsheets.  Will not be ingested into Islandora 8.</li>
 		<li>Content now spells out the full collection name.</li>
 	</ul>
 	</dd>
   <dd><i>Field Changes: </i>previous name : "issue".</dd>
-</dl>
-<dl>
-    <dt><b>Location</b></dt>
-	  <dd> <ins>MODS XPath </ins>/mods/relatedItem</dd>
-		<dd> <ins>Solr Field(s)</ins>
-			<ul>
-				<li>mods_relatedItem__displayLabel_ms</li>
-				<li>mods_relatedItem_displayLabel_ms</li>
-				<li>mods_relatedItem_note_bucket_ms</li>
-				<li>mods_relatedItem_note_issue_ms</li>
-			</ul>
-		</dd>
 </dl>
 	<p><i>Last Updated: </i>4/23/2021</p>
 </dl>
