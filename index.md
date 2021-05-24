@@ -51,8 +51,8 @@
     <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: Generic "Advisor" term.">local:adv</a></td>
   </tr>
   <tr>
-    <td><a href="imi.bucket.md" class ="magic-button" title="[definition]">bucket</a></td>
-    <td><a href="mods.relateditem_note.md" class ="magic-button" title="[definition]">relatedItem/note</a></td>
+    <td><a href="imi.bucket.md" class ="magic-button" title="ARMINDA Use: BePress inherited field which indicated the collection --bucket-- an item is associated with">bucket</a></td>
+    <td><a href="mods.relateditem_note.md" class ="magic-button" title="Definition: Information that identifies other resources related to the one being described">relatedItem/note</a></td>
     <td>N/A</td>
   </tr>
   <tr>
