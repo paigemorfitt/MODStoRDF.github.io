@@ -47,34 +47,9 @@
   </dd>
 </dl>
 <dl>
-    <dt><b>Location</b></dt>
-		 <dd> <ins>MODS XPath </ins>
-			<ul>
-				<li>/mods/name/namePart</li>
-				<li>/mods/name/role/roleTerm</li>
-			</ul>
-		 </dd>
-		<dd> <ins>RDF XPath</ins>/ [local:adv]</dd>
-		<dd> <ins>Solr Field(s)</ins>
-			<ul>
-				<li>mods_name_personal_advisor(s)_displayLabel_ms</li>
-				<li>mods_name_personal_advisor(s)_ms</li>
-				<li>mods_name_personal_advisor(s)_namePart_ms</li>
-				<li>mods_name_personal_advisor(s)_role_roleTerm_ms</li>
-				<li>mods_name_personal_role_roleTerm_ms</li>
-				<li>mods_name_personal_thesis_advisor_authority_marcrelator_ms</li>
-				<li>mods_name_personal_thesis_advisor_authority_marcrelator_role_roleTerm_text_authority_marcrelator_ms</li>
-				<li>mods_name_personal_thesis_advisor_authority_marcrelator_role_roleTerm_text_ms</li>
-				<li>mods_name_personal_thesis_advisor_ms</li>
-				<li>mods_name_personal_thesis_advisor_role_roleTerm_text_authority_marcrelator_ms</li>
-				<li>mods_name_personal_thesis_advisor_role_roleTerm_text_ms</li>
-			</ul>
-		</dd>
-</dl>
-<dl>
 	<dt><b>Related Fields</b></dt>
 		|<a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/local:adv</a>|
 </dl>
-<p><i>Last Updated: </i>4/30/2021</p>
+<p><i>Last Updated: </i>05/24/2021</p>
 </body>
 </html>
