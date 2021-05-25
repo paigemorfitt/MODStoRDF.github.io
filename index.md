@@ -166,9 +166,9 @@
     <td><a href="rdf.dcterms.isPartOf.md" class ="magic-button" title="Definition: A related resource in which the described resource is physically or logically included.">dcterms:isPartOf</a></td>
   </tr>
    <tr>
-    <td><a href="language.md" class ="magic-button" title="[definition]">language</a></td>
-    <td><a href="mods.language.languageTerm.md" class ="magic-button" title="[definition]">language/languageTerm</a></td>
-    <td><a href="rdf.language.md" class ="magic-button" title="[definition]">dcterms:language</a></td>
+    <td><a href="language.md" class ="magic-button" title="ARMINDA Use:  the non-English language of the source content being described : applies to textual or spoken word (linguistic) content).">language</a></td>
+    <td><a href="mods.language.languageTerm.md" class ="magic-button" title="Definition: A designation of the language in which the content of a resource is expressed.">language/languageTerm</a></td>
+    <td><a href="rdf.dcterms.language.md" class ="magic-button" title="Definition: A language of the resource">dcterms:language</a></td>
   </tr>
   <tr>
     <td><a href="license_file.md" class ="magic-button" title="[definition]">license_file</a></td>
