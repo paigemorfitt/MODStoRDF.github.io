@@ -187,8 +187,8 @@
   </tr>  
    <tr>
     <td><a href="origin.md" class ="magic-button" title="[definition]">origin</a></td>
-    <td><a href="mods.originInfo-place-placeTerm.md" class ="magic-button" title="[definition]">originInfo/place/placeTerm</a></td>
-    <td><a href="rdf.p60523.md" class ="magic-button" title="[definition]">rdau:P60523</a></td>
+    <td><a href="mods.originInfo_place_placeTerm.md" class ="magic-button" title="[definition]">originInfo/place/placeTerm</a></td>
+    <td><a href="rdf.rdau.p60523.md" class ="magic-button" title="[definition]">rdau:P60523</a></td>
   </tr>
   <tr>
 	<td><a href="" class ="magic-button" title="[definition]">parent_id</a></td>
