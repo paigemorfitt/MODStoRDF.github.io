@@ -116,28 +116,28 @@
     <td><a href="rdf.dcterms.extent.md" class ="magic-button" title="Definition: The size or duration of the resource.">dcterms:extent</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">file_display_hint</a></td>
+	<td><a href="" class ="magic-button" title="[definition]">file_display_hint (under construction)</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
   <tr>
-    <td><a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent</a></td>
+    <td><a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agentDefinition: The size or duration of the resource.</a></td>
     <td>N/A</td>
     <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">field_weight</a></td>
+	<td><a href="" class ="magic-button" title="[definition]">field_weightDefinition: The size or duration of the resource.</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">file</a></td>
+	<td><a href="" class ="magic-button" title="[definition]">file Definition: The size or duration of the resource.</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
     <tr>
-    <td><a href="filepath.md" class ="magic-button" title="[definition]">filepath</a></td>
-    <td><a href="identifier.md" class ="magic-button" title="[definition]">identifier</a></td>
+    <td><a href="filepath.md" class ="magic-button" title="ARMINDA Use: Used in ARMIDNA as the filename of object; often times includes in ingest path for field - filename is in path  -- a place holder field that keeps track of where items are, and helps us distinguish between individual objects along with unique_identifier)">filepath</a></td>
+    <td><a href="identifier.md" class ="magic-button" title="Definition: Contains a unique standard number or code that distinctively identifies a resource. ">identifier</a></td>
     <td>N/A</td>
   </tr>
     <tr>
