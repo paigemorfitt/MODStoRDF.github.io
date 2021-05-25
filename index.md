@@ -121,7 +121,7 @@
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
   <tr>
-    <td><a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agentDefinition: The size or duration of the resource.</a></td>
+    <td><a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent</a></td>
     <td>N/A</td>
     <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
