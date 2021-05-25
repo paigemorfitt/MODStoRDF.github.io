@@ -151,14 +151,14 @@
     <td><a href="rdf.schema.genre.md" class ="magic-button" title="Definition: Genre of the creative work, broadcast channel or group.">schema:genre</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">id</a></td>
+	<td><a href="" class ="magic-button" title="[definition]">id (under construction)</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
      <tr>
     <td><a href="context_key.md" class ="magic-button" title="[definition]">identifier_unique</a></td>
     <td><a href="MODS.identifier.md" class ="magic-button" title="[definition]">identifier</a></td>
-    <td><a href="RDF.identifier.md" class ="magic-button" title="[definition]">dc:identifier</a></td>
+    <td><a href="RDF.identifier.md" class ="magic-button" title="[definition]">dcterms:identifier</a></td>
   </tr>
   <tr>
     <td><a href="part.issue.md" class ="magic-button" title="[definition]">issue</a></td>
