@@ -101,14 +101,14 @@
     <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: College division in which the item is categorized">local:adv</a></td>
   </tr>
   <tr>
-    <td><a href="description.md" class ="magic-button" title="[definition]">description</a></td>
-    <td><a href="mods.abstract.md" class ="magic-button" title="[definition]">abstract</a></td>
-    <td><a href="RDF.description.md" class ="magic-button" title="[definition]">dcterms:description</a></td>
+    <td><a href="description.md" class ="magic-button" title="Definition: An account of the resource, primarily used for archival objects">description</a></td>
+    <td><a href="mods.abstract.md" class ="magic-button" title="Definition: A summary of the content of the resource">abstract</a></td>
+    <td><a href="RDF.description.md" class ="magic-button" title="An account of the resource.">dcterms:description</a></td>
   </tr>
   <tr>
-    <td><a href="embargo_date.md" class ="magic-button" title="[definition]">embargo_date</a></td>
-    <td><a href="mods.originInfo_dateValid.md" class ="magic-button" title="[definition]">originInfo/dateValid</a></td>
-    <td><a href="rdf.availabilityStarts.md" class ="magic-button" title="[definition]">schema:avalibilityStarts</a></td>
+    <td><a href="embargo_date.md" class ="magic-button" title="ARMINDA Use:Date when item is released for public viewing.">embargo_date</a></td>
+    <td><a href="mods.originInfo_dateValid.md" class ="magic-button" title="Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource. ">originInfo/dateValid</a></td>
+    <td><a href="rdf.schema.availabilityStarts.md" class ="magic-button" title="Definition: The beginning of the availability of the product or service included in the offer.">schema:avalibilityStarts</a></td>
   </tr>
   <tr>
     <td><a href="extent.md" class ="magic-button" title="[definition]">extent</a></td>
