@@ -28,7 +28,7 @@
   <dd><i>Field Changes: </i>Previous name : rights ; Will move to field_rights_contact</dd>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="mod.access_condition.md">MODS/accessCondition</a> | <a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a> |
+		| <a href="mods.access_condition.md">MODS/accessCondition</a> | <a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a> |
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
 </body>
