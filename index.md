@@ -71,9 +71,9 @@
     <td><a href="rdf.dcterms_spatial.md" class ="magic-button" title="Definition: Spatial characteristics of the resource.">dcterms:spatial</a></td>
   </tr>
    <tr>
-    <td><a href="creators.md" class ="magic-button" title="[definition]">creators</a></td>
-    <td><a href="mods.name.md" class ="magic-button" title="[definition]">name/namePart</a></td>
-    <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">relators:cre</a></td>
+    <td><a href="creators.md" class ="magic-button" title="ARMINDA Use: identifies the entity/entities primarily responsible for making the resource">creators</a></td>
+    <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
+    <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: Definition: A person or organization responsible for the intellectual or artistic content of a resource">relators:cre</a></td>
   </tr>
     <tr>
 		<td><a href="date.display.md" class ="magic-button" title="[definition]">date_display</a></td>
