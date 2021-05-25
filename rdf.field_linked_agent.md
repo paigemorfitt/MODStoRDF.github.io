@@ -54,7 +54,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-			<dd>| <a href="department.md">IMI/department</a> | <a href="MODS.template.md">[here]</a> |</dd>
+			<dd>| <a href="department.md">IMI/department</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
 </dl>
 <h2>relators:ctb</h2>
 <dl>
