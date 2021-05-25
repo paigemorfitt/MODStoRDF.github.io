@@ -21,7 +21,7 @@
   <dd>Public-facing name: No</dd>
   <dd>Syntax/Formatting: Numeration</dd>
   <dd>Recommended Controlled Vocabulary: N/A</dd>
-  <dd>Notes: (note under evaluation) This does not have a purpose unless there are compound objects. Once items have PIDS, this is moot. /dd>
+  <dd>Notes: (note under evaluation) This does not have a purpose unless there are compound objects. Once items have PIDS, this is moot. </dd>
   <dd>Field Changes: N/A</dd>
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
