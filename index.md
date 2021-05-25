@@ -73,7 +73,7 @@
    <tr>
     <td><a href="creators.md" class ="magic-button" title="ARMINDA Use: identifies the entity/entities primarily responsible for making the resource">creators</a></td>
     <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
-    <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: Definition: A person or organization responsible for the intellectual or artistic content of a resource">relators:cre</a></td>
+    <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: A person or organization responsible for the intellectual or artistic content of a resource">relators:cre</a></td>
   </tr>
     <tr>
 		<td><a href="date.display.md" class ="magic-button" title="ARMINDA Use: Date of creation or publication of original object in human readable format for public viewing">date_display</a></td>
@@ -91,9 +91,9 @@
 		<td><a href="rdf.dcterms.issued.md" class ="magic-button" title="Definition: Date of formal issuance of the resource.">dcterms:issued</a></td>
   </tr>
   <tr>
-    <td><a href="date.sort.md" class ="magic-button" title="[definition]">date_sort</a></td>
-    <td><a href="mods.originInfo.dateCreated.md" class ="magic-button" title="[definition]">originInfo/dateCreated</a></td>
-    <td><a href="rdf.dcterms.date.md" class ="magic-button" title="[definition]">dcterms:date</a></td>
+    <td><a href="date.sort.md" class ="magic-button" title="ARMINDA Use: Encoded date of creation or publication of the original object that strips out qualifiers and date ranges to allow us to sort on date in ARMINDA">date_sort</a></td>
+    <td><a href="mods.originInfo.dateCreated.md" class ="magic-button" title="Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource.">originInfo/dateCreated</a></td>
+    <td><a href="rdf.dcterms.date.md" class ="magic-button" title="Definition: A point or period of time associated with an event in the lifecycle of the resource.">dcterms:date</a></td>
   </tr>
   <tr>
     <td><a href="department.md" class ="magic-button" title="[definition]">department</a></td>
