@@ -29,7 +29,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="publisher.md">IMI/publisher</a> | <a href="rdf.field_linked_agent.md">relators:pub</a> |
+		| <a href="publisher.md">IMI/publisher</a> | <a href="rdf.field_linked_agent.md">relators:pbl</a> |
 </dl>
 <p><i>Last Updated: </i>05/21/2021</p>
 </body>
