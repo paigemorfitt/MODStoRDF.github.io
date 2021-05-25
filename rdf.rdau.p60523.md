@@ -16,7 +16,7 @@
 <h1>[here]</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: "Relates a resource to a place from which a resource originated." <a href="http://www.rdaregistry.info/Elements/u/">(resource)</a></dd>
+  <dd>Definition: Relates a resource to a place from which a resource originated. <a href="http://www.rdaregistry.info/Elements/u/">(resource)</a></dd>
   <dd>Label:  has place of origin of resource</dd>
   <dd>Domain:  N/A</dd>
   <dd>Range:  N/A</dd>
