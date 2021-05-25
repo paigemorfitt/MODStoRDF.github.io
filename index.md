@@ -181,7 +181,7 @@
     <td>N/A</td>
   </tr> 
    <tr>
-    <td><a href="obj_file.md" class ="magic-button" title="[definition]">obj_file</a></td>
+    <td><a href="obj_file.md" class ="magic-button" title="ARMINDA Use: Tells where the file is when item is uploaded to Islandora">obj_file</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>  
