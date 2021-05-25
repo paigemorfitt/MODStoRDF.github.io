@@ -16,10 +16,10 @@
 <h1>RDF/pcdm:memberOf</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: </font>Links from an Object or Collection to a containing Object or Collection.
+  <dd>Definition: Links from an Object or Collection to a containing Object or Collection.
 <a href="http://pcdm.org/models#memberOf
 ">(reference)</a></dd>
-  <dd>Label: </font> is member of</dd>
+  <dd>Label:  is member of</dd>
   <dd>Domain: ore:Aggregation</dd>
   <dd>Range: ore:Aggregation</dd>
 </dl>
@@ -27,6 +27,6 @@
 	<dt><b>Related Fields</b></dt>
 		| <a href="cmodel.md">IMI/cmodel</a> | 
 </dl>
-<p><i>Last Updated: </i>4/26/2021</p>
+<p><i>Last Updated: </i>05/25/2021</p>
 </body>
 </html>
