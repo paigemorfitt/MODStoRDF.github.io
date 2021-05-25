@@ -146,9 +146,9 @@
     <td><a href="rdf.rdau.p60451.md" class ="magic-button" title="Definition: Relates a resource to an agent who sponsors some aspect of a resource.">rdau:P60451</a></td>
   </tr>
   <tr>
-    <td><a href="genre.md" class ="magic-button" title="[definition]">genre</a></td>
-    <td><a href="mods.genre.md" class ="magic-button" title="[definition]">genre</a></td>
-    <td><a href="rdf.genre.md" class ="magic-button" title="[definition]">schema:genre</a></td>
+    <td><a href="genre.md" class ="magic-button" title="ARMINDA Use: A more detailed sub-type refining the broader Work Type element; provides a specific characterization of the nature or style of the original content source">genre</a></td>
+    <td><a href="mods.genre.md" class ="magic-button" title="Definition: A term or terms that designate a category characterizing a particular style, form, or content, such as artistic, musical, literary composition, etc.">genre</a></td>
+    <td><a href="rdf.schema.genre.md" class ="magic-button" title="Definition: Genre of the creative work, broadcast channel or group.">schema:genre</a></td>
   </tr>
   <tr>
 	<td><a href="" class ="magic-button" title="[definition]">id</a></td>
