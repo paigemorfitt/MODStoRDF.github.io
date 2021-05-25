@@ -24,7 +24,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		|<a href="filepath.md">IMI/filepath</a> |
-		|<a href="identifier.unique.md">identifier</a> | <a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a>|
+		|<a href="identifier.unique.md">IMI/identifier_unique</a> | <a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a>|
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
 </body>
