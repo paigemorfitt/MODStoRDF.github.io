@@ -176,7 +176,7 @@
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href="line_num.md" class ="magic-button" title="[definition]">line_num</a></td>
+    <td><a href="line_num.md" class ="magic-button" title="ARMINDA Use: The line_number is the CSV line number that the IMI module needs in order to keep the CSV in order.">line_num</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr> 
