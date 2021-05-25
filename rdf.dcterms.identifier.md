@@ -24,7 +24,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="identifier.unique.md">IMI/identifier_unique</a> | <a href="MODS.identifier.md">identifier</a>|
+		|<a href="identifier.unique.md">IMI/identifier_unique</a> | <a href="MODS.identifier.md">MODS/identifier</a>|
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
 </body>
