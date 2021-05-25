@@ -46,28 +46,9 @@
   </dd>
 </dl>
 <dl>
-    <dt><b>Location</b></dt>
-		<dd> MODS XPath  /mods/name/@displayLabel="Creator(s)"</dd>
-		<dd> RDF XPath[relators:cre]</dd>
-		<dd> Solr Fields
-			<ul>
-				<li>mods_name_personal_author_ms</li>
-				<li>mods_name_personal_author_role_roleTerm_text_ms</li>
-				<li>mods_name_personal_creator(s)_displayForm_ms</li>
-				<li>mods_name_personal_creator(s)_displayLabel_ms</li>
-				<li>mods_name_personal_creator(s)_ms</li>
-				<li>mods_name_personal_creator(s)_role_roleTerm_ms</li>
-				<li>mods_name_personal_creator(s)_role_roleTerm_text_ms</li>
-				<li>mods_name_personal_displayLabel_ms</li>
-				<li>mods_name_personal_namePart_ms</li>
-				<li>mods_name_personal_role_roleTerm_ms</li>
-			</ul>
-	</dd>
-</dl>
-<dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/local:adv</a> |
 </dl>
-<p><i>Last Updated: </i>4/30/2021</p>
+<p><i>Last Updated: </i>05/25/2021</p>
 </body>
 </html>
