@@ -23,8 +23,9 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="filepath.md">IMI/filepath</a> |
-		|<a href="identifier.unique.md">IMI/identifier_unique</a> | <a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a>|
+		<dd>|<a href="filepath.md">IMI/filepath</a> | </dd>
+		<dd>|<a href="identifier.unique.md">IMI/identifier_unique</a> | <a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a>|</dd>
+				<dd>|<a href="permanent_url.md">IMI/permanent_url</a> | <a href="rdf.rdau.p60919.md">RDF/rdau:p60919</a>|</dd>
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
 </body>
