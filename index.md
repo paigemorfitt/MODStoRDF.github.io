@@ -111,9 +111,9 @@
     <td><a href="rdf.schema.availabilityStarts.md" class ="magic-button" title="Definition: The beginning of the availability of the product or service included in the offer.">schema:avalibilityStarts</a></td>
   </tr>
   <tr>
-    <td><a href="extent.md" class ="magic-button" title="[definition]">extent</a></td>
-    <td><a href="mods.physicalDescription.md" class ="magic-button" title="[definition]">physicalDescription/extent</a></td>
-    <td><a href="rdf.dcterms.extent.md" class ="magic-button" title="[definition]">dcterms:extent</a></td>
+    <td><a href="extent.md" class ="magic-button" title="ARMINDA Use:Statement of the physical size or duration of the object, such as dimensions, number of items, pages, or running time.">extent</a></td>
+    <td><a href="mods.physicalDescription.md" class ="magic-button" title="Definition: Describes the physical characteristics of the resource.">physicalDescription/extent</a></td>
+    <td><a href="rdf.dcterms.extent.md" class ="magic-button" title="Definition: The size or duration of the resource.">dcterms:extent</a></td>
   </tr>
   <tr>
 	<td><a href="" class ="magic-button" title="[definition]">file_display_hint</a></td>
