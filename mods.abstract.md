@@ -14,7 +14,7 @@
 <h1>MODS/abstract</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: A summary of the content of the resource <a href="https://www.loc.gov/standards/mods/userguide/abstract.md"> (reference)</a></dd>
+  <dd>Definition: A summary of the content of the resource <a href="https://www.loc.gov/standards/mods/userguide/abstract.html"> (reference)</a></dd>
   <dd>Attributes:  type; displayLabel; shareable; altRepGroup; altFormat; contentType; xlink; lang; xml:lang; script; transliteration</dd>
   <dd>Subelements:  N/A</dd>
 </dl>
