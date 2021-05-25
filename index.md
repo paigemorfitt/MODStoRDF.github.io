@@ -216,9 +216,9 @@
     <td><a href="rdf.dcterms.provenance.md" class ="magic-button" title="Definition: A statement of any changes in ownership and custody of the resource since its creation that are significant for its authenticity, integrity, and interpretation.">dcterms:provenance</a></td>
 	</tr>
    <tr>
-    <td><a href="publisher.md" class ="magic-button" title="[definition]">publisher</a></td>
-    <td><a href="mods.originInfo-publisher.md" class ="magic-button" title="[definition]">originInfo/publisher</a></td>
-    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">relators:pbl</a></td>
+    <td><a href="publisher.md" class ="magic-button" title="ARMINDA Use: the name of the entity that published, printed, distributed, released, issued, or produced the resource.  This may be a formal publisher, or for unpublished materials, a university department or other corporate entity.">publisher</a></td>
+    <td><a href="mods.originInfo_publisher.md" class ="magic-button" title="Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource.">originInfo/publisher</a></td>
+    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: A person or organization responsible for publishing, releasing, or issuing a resource. ">relators:pbl</a></td>
   </tr> 
    <tr>
     <td><a href="rights.md" class ="magic-button" title="[definition]">rights_contact</a></td>
