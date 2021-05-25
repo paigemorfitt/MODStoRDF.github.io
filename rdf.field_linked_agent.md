@@ -78,7 +78,7 @@
   <dt><b>Description</b></dt>
   <dd>Definition: A person or organization responsible for the intellectual or artistic content of a resource<a href="https://id.loc.gov/vocabulary/relators/cre.html">(reference)</a></dd>
   <dd>Label: Creator</dd>
-  <dd>Format:  relatorscre:person[Lastname, Firstname]</dd>
+  <dd>Format:  relators:cre:person[Lastname, Firstname]</dd>
     <dd>
 		<ul>
 			<li>relators:cre:person:Dumas, Alexandre,  1802-1970</li> 
@@ -90,6 +90,23 @@
 	<dt><b>Related Fields</b></dt>
 						<dd>| <a href="creators.md">IMI/creators</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
 
+</dl>
+<h2>relators:pbl</h2>
+<dl>
+  <dt><b>Description</b></dt>
+  <dd>Definition: A person or organization responsible for publishing, releasing, or issuing a resource. <a href="http://id.loc.gov/vocabulary/relators/pbl.html">(reference)</a> </dd>
+  <dd>Label:Publisher</dd>
+  <dd>Format:  relators:pbl:person[Lastname, Firstname]</dd>
+  <dd>
+	<ul>
+		<li>relators:pbl:company: Le Siècle (newspaper)</li> 
+		<li>relators:pbl:person: Kanter, Albert Lewis, 1897-1973|relators:pbl:corporate_body:Elliot Publishing Company</li>
+		</ul>
+	</dd>
+<dl>
+<dl>
+	<dt><b>Related Fields</b></dt>
+			<dd>| <a href="publisher.md">IMI/publisher</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
 </body>
