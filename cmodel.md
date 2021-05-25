@@ -25,15 +25,9 @@
   <dd>Field Changes: Will move to field</dd>
 </dl>
 <dl>
-    <dt><b>Location</b></dt>
-		<dd><ins>MODS XPath: </ins>N/A</dd>
-		<dd><ins>RDF XPath: </ins>N/A</dd>
-		<dd><ins>Solr Field(s) </ins>N/A</dd>
-</dl>	</dd>
-<dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="rdf.pcdm_memberOf.md">RDF/pcdm:memberOf</a> |
 </dl>
-<p><i>Last Updated: </i>4/26/2021</p>
+<p><i>Last Updated: </i>05/25/2021</p>
 </body>
 </html>
