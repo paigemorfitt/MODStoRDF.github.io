@@ -61,9 +61,9 @@
     <td><a href="rdf.pcdm_memberOf.md" class ="magic-button" title="Definition: Links from an Object or Collection to a containing Object or Collection.">pcdm:memberOf</a></td>
   </tr>
   <tr>
-    <td><a href="contributors.md" class ="magic-button" title="[definition]">contributors</a></td>
-    <td><a href="mods.name.md" class ="magic-button" title="[definition]">name/namePart</a></td>
-    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">relators:ctb</a></td>
+    <td><a href="contributors.md" class ="magic-button" title="identifies the entity or entities that made contributions to the creation of the resource but whose contributions are secondary to any person or organization specified in the creator(s) field. ">contributors</a></td>
+    <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
+    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: A person, family or organization responsible for making contributions to the resource. This includes those whose work has been contributed to a larger work, such as an anthology, serial publication, or other compilation of individual works. If a more specific role is available, prefer that, e.g. editor, compiler, illustrator">relators:ctb</a></td>
   </tr>
   <tr>
     <td><a href="coverage_spatial.md" class ="magic-button" title="[definition]">coverage_spatial</a></td>
