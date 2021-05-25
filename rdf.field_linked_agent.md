@@ -39,6 +39,23 @@
 	<dt><b>Related Fields</b></dt>
 			<dd>| <a href="advisor.md">IMI/advisors</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
 </dl>
+<h2>local:dpt</h2>
+<dl>
+  <dt><b>Description</b></dt>
+  <dd>Definition: College division in which the item is categorized</dd>
+  <dd>Label:  Major Department or Program</dd>
+  <dd>Format:  local:dpt:corporation[department]</dd>
+  <dd>
+		<ul>
+			<li>local:dpt:corporate_body:Whitman College. Religion Department</li> 
+			<li>local:dpt:corporate_body:Whitman College. Geology Department|local:dpt:corporate_body:Whitman College. Physics Departmen</li>
+		</ul>
+	</dd>
+</dl>
+<dl>
+	<dt><b>Related Fields</b></dt>
+			<dd>| <a href="department.md">IMI/department</a> | <a href="MODS.template.md">[here]</a> |</dd>
+</dl>
 <h2>relators:ctb</h2>
 <dl>
   <dt><b>Description</b></dt>
@@ -74,11 +91,7 @@
 						<dd>| <a href="creators.md">IMI/creators</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
 
 </dl>
-<p><i>Last Updated: </i>4/30/2021</p>
-<dl>
-	<dt><b>Related Fields</b></dt>
-			<dd>| <a href="department.md">IMI/department</a> | <a href="MODS.template.md">[here]</a> |</dd>
-</dl>
+<p><i>Last Updated: </i>05/25/2021</p>
 </body>
 </html>
 
