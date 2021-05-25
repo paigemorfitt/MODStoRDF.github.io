@@ -24,7 +24,7 @@
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<a href="mods.note.md">MODS/note</a> | <a href="provenance.md">IMI/provenance</a> | 
+		| <a href="mods.note.md">MODS/note</a> | <a href="provenance.md">IMI/provenance</a> | 
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
 </body>
