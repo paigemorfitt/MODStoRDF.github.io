@@ -15,38 +15,21 @@
 <p><a href="migration-questions.md">See migration questions</a></p>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">ARMINDA Use:</font></ins>An account of the resource, primarily used for archival objects
-</dd>
-  <dd><ins><font color="brown">Obligation: </font></ins> Required</dd>
-  <dd><ins><font color="brown">Repeatable: </font></ins>No</dd>
-  <dd><ins><font color="brown">Public Field: </font></ins>Yes</dd>
-  <dd><ins><font color="brown">Public-facing name:</font></ins>Description</dd>
-  <dd><ins><font color="brown">Syntax/Formatting: </font></ins>Free-text</dd>
-  <dd><ins><font color="brown">Recommended Controlled Vocabulary: </font></ins>N/A</dd>
-  <dd><ins><font color="brown">Notes: </font></ins>
+  <dd>ARMINDA Use:An account of the resource, primarily used for archival objects</dd>
+  <dd>Obligation:  Required</dd>
+  <dd>Repeatable: No</dd>
+  <dd>Public Field: Yes</dd>
+  <dd>Public-facing name:Description</dd>
+  <dd>Syntax/Formatting: Free-text</dd>
+  <dd>Recommended Controlled Vocabulary: N/A</dd>
+  <dd>Notes: 
 	<ul>
 		<li>Use complete sentences</li>
 		<li>Some content moved from IMI/abstract</li>
-		<li>Contains html, accents, and/or special characters</li>
+		<li>Contains, italics, bold,  accents, and/or special characters</li>
 	</ul>
 	</dd>
-  <dd><font><ins>Field Changes:</ins> </font>Contains content from IMI/abstract</dd>
-</dl>
-<dl>
-    <dt><b>locations:</b></dt>
-	  <dd> <ins><font color="brown">MODS XPath: </font>/mods/abstract</dd>
-	<dd> <ins><font color="brown">RDF XPath: </font>/rdf:RDF/rdf:Description/dcterms:description</dd>
-	<dd>
-		<ul>
-			<li>mods_abstract_displayLabel_ms: mods_abstract_displayLabel_ms(string)</li>
-			<li>mods_abstract_ms: mods_abstract_ms(string)</li>
-			<li>mods_abstract_abstract_displayLabel_ms: mods_abstract_abstract_displayLabel_ms(string)</li>
-			<li>mods_abstract_description_displayLabel_ms: mods_abstract_description_displayLabel_ms(string)</li>
-			<li>mods_abstract_description_ms: mods_abstract_description_ms(string)</li>
-		</ul>
-	</dd>
-</dl>
-	<p><font color="red"><i>Last Updated: </i></font>2/17/2021</p>
+  <dd>Field Changes: Contains content from IMI/abstract; Will move to field_description_long</dd>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
@@ -55,5 +38,7 @@
 			<td><a href="RDF.description.md">RDF/dcterms:description</a></td>
 		</table>
 </dl>
+<p><i>Last Updated: </i></font>05/25/2021</p>
+
 </body>
 </html>
