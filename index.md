@@ -230,19 +230,19 @@
     <td><a href="rdf.rdau.P60339.md" class ="magic-button" title="Definition: Relates a resource to a statement relating to anidentification or function of any agents responsible for the creation of, or who contributes to a realization of, the intellectual or artistic content of a resource.">rdau:P60339</a></td>
   </tr>
   <tr>
-    <td><a href="rowNumber.md" class ="magic-button" title="[definition]">rowNumber</a></td>
+    <td><a href="rowNumber.md" class ="magic-button" title="ARMINDA Use: Row number that IMI ingest module needs in order to keep the CSV in order, used for newspapers. ">rowNumber</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href="seq_number.md" class ="magic-button" title="[definition]">seq_number</a></td>
+    <td><a href="seq_number.md" class ="magic-button" title="ARMINDA Use: Sequential number that IMI ingest module needs in order to keep the CSV in order, used for newspapers.">seq_number</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
   <tr>
     <td><a href="source.md" class ="magic-button" title="[definition]">source</a></td>
     <td><a href="mods.relatedItem.part.text.md" class ="magic-button" title="[definition]">relatedItem/part/text</a></td>
-    <td><a href="rdf.dc.source.md" class ="magic-button" title="[definition]">dcterms:source</a></td>
+    <td><a href="rdf.dcterms.source.md" class ="magic-button" title="[definition]">dcterms:source</a></td>
   </tr>
     <tr>
     <td><a href="keywords.md" class ="magic-button" title="[definition]">subject_keywords</a></td>
