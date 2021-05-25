@@ -76,9 +76,9 @@
     <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: Definition: A person or organization responsible for the intellectual or artistic content of a resource">relators:cre</a></td>
   </tr>
     <tr>
-		<td><a href="date.display.md" class ="magic-button" title="[definition]">date_display</a></td>
-		<td><a href="mods.originInfo_dateOther.md" class ="magic-button" title="[definition]">originInfo/dateOther</a></td>
-		<td><a href="rdf.rdau.p60527.md" class ="magic-button" title="[definition]">rdau:P60527</a></td>
+		<td><a href="date.display.md" class ="magic-button" title="ARMINDA Use: Date of creation or publication of original object in human readable format for public viewing">date_display</a></td>
+		<td><a href="mods.originInfo_dateOther.md" class ="magic-button" title="Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource.">originInfo/dateOther</a></td>
+		<td><a href="rdf.rdau.p60527.md" class ="magic-button" title="Definition: Relates a resource to a timespan that is the earliest associated with a resource">rdau:P60527</a></td>
   </tr>
    <tr>
     <td><a href="date.encoded.md" class ="magic-button" title="[definition]">date_encoded</a></td>
