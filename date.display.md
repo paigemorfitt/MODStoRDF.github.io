@@ -31,22 +31,9 @@
   </dd>
 </dl>
 <dl>
-    <dt><b>Location</b></dt>
-	<dd> MODS XPath :  /mods/originInfo/dateOther</dd>
-	<dd> RDF XPath : /rdf:RDF/rdf:Description/dcterms:date</dd>
-	<dd> Solr Field(s)
-		<ul>
-			<li>mods_originInfo_dateOther_ms</li>
-			<li>mods_originInfo_type_mods_display_date_dateOther_ms</li>
-			<li>mods_originInfo_displayLabel_ms</li>
-			<li>mods_originInfo_type_date_display_dateOther_ms</li>
-		</ul>
-	</dd>
-</dl>
-<dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> | <a href="rdf.rdau.p60527.md">rdau:P60527</a> |
 </dl>
-<p><i>Last Updated: </i>05/05/2021</p>
+<p><i>Last Updated: </i>05/25/2021</p>
 </body>
 </html>
