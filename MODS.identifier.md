@@ -22,10 +22,8 @@
   <dd>Subelements: N/A</dd>>
 </dl>
 <dl>
-	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="filepath.md">IMI/filepath</a></td>
-		</table>
+	<dt><b>Related Fields</b></dt>
+		|<a href="MODS.identifier.md">identifier</a> | <a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a>|
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
 </body>
