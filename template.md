@@ -33,17 +33,6 @@
   <dd>Field Changes: [here]</dd>
 </dl>
 <dl>
-<dl>
-    <dt><b>Location</b></dt>
-		<dd>MODS XPath:   [here]</dd>
-		<dd>RDF XPath: [here]</dd>
-		<dd>Solr Field(s): 
-			<ul>
-				<li>[here]</li>
-			</ul>
-		</dd>
-</dl>
-<dl>
 	<dt><b>Related Fields</b></dt>
 		|<a href="MODS.template.md">[here]</a> | <a href="RDF.template.md">[here]</a>|
 </dl>
