@@ -13,7 +13,7 @@
 
 
 
-<h1>[here]</h1>
+<h1>RDF/schema:accessCondition</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>Definition: Identifies input methods that are sufficient to fully control the described resource (WebSchemas wiki lists possible values). <a href="https://schema.org/accessibilityControl">(resource)</a></dd>
