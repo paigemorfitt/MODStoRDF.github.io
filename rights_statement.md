@@ -30,7 +30,7 @@
   <dd><i>Field Changes: </i>Will move to field_rights (need to verify)</dd>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		| <a href="rights_statement.md">IMI/rights_statement</a> | <a href="rdf.rdau.P60339.md">RDF/rdau:P60339</a> |
+		| <a href="mods.access_condition.md">MODS/accessCondition</a> | <a href="rdf.rdau.P60339.md">RDF/rdau:P60339</a> |
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
 </body>
