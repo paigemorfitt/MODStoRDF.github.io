@@ -29,19 +29,6 @@
   </dd>
 </dl>
 <dl>
-<dl>
-    <dt><b>Location</b></dt>
-		<dd> <ins><font color="brown">MODS XPath </font></ins>  /mods/originInfo/dateOther</dd>
-		<dd> <ins><font color="brown">RDF XPath: </font></ins>/rdf:RDF/rdf:Description/reg:P60527</dd>
-		<dd> <ins><font color="brown">Solr Field(s)</font></ins>
-			<ul>
-				<li>mods_originInfo_dateOther_ms</li>
-				<li>mods_originInfo_encoding_edtf_type_oai_harvester_date_dateOther_ms</li>
-				<li>mods_originInfo_displayLabel_ms</li>
-			</ul>
-		</dd>
-</dl>
-<dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> | <a href="rdf.dcterms.created.md">dcterms:created</a> |
 </dl>
