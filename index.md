@@ -240,9 +240,9 @@
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href="source.md" class ="magic-button" title="[definition]">source</a></td>
-    <td><a href="mods.relatedItem.part.text.md" class ="magic-button" title="[definition]">relatedItem/part/text</a></td>
-    <td><a href="rdf.dcterms.source.md" class ="magic-button" title="[definition]">dcterms:source</a></td>
+    <td><a href="source.md" class ="magic-button" title="ARMINDA Use: A related resource from which the described resource is derived.">source</a></td>
+    <td><a href="mods.relatedItem.part.text.md" class ="magic-button" title="Definition: Information that identifies other resources related to the one being described ">relatedItem/part/text</a></td>
+    <td><a href="rdf.dcterms.source.md" class ="magic-button" title="Definition: A related resource from which the described resource is derived.">dcterms:source</a></td>
   </tr>
     <tr>
     <td><a href="keywords.md" class ="magic-button" title="[definition]">subject_keywords</a></td>
@@ -286,7 +286,7 @@
   </tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>05/24/2021</p>
+	<p><i>Last Updated: </i>05/25/2021</p>
 </dl>
 </body>
 </html>
