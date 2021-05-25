@@ -201,9 +201,9 @@
     <td>N/A</td>
   </tr>
    <tr>
-    <td><a href="permanent_url.md" class ="magic-button" title="[definition]">permanent_url</a></td>
-    <td><a href="MODS.identifier.md" class ="magic-button" title="[definition]">identifier</a></td>
-    <td><a href="rdf.p60919.md" class ="magic-button" title="[definition]">rdau:P60919</a></td>
+    <td><a href="permanent_url.md" class ="magic-button" title="ARMINDA Use: Unique uri (uniform resource identifier) to the item">permanent_url</a></td>
+    <td><a href="mods.identifier.md" class ="magic-button" title="Definition: Contains a unique standard number or code that distinctively identifies a resource.">identifier</a></td>
+    <td><a href="rdf.rdau.p60919.md" class ="magic-button" title="Definition: Relates a resource to an appellation of resource that consists of a code, number, or other string, usually independent of natural language and social naming conventions, used to identify a resource">rdau:P60919</a></td>
   </tr>
   <tr>
     <td><a href="pid.md" class ="magic-button" title="[definition]">PID</a></td>
