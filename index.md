@@ -191,12 +191,12 @@
     <td><a href="rdf.rdau.p60523.md" class ="magic-button" title="Definition: Relates a resource to a place from which a resource originate">rdau:P60523</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="ARMINDA Use: Tells  Islandora 7l the hierarchy of where an object lives ">parent_id</a></td>
+	<td><a href="" class ="magic-button" title="[definition]">parent_id (under construction)</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
   <tr>
-    <td><a href="parent.md" class ="magic-button" title="[definition]">parent</a></td>
+    <td><a href="parent.md" class ="magic-button" title="ARMINDA Use: Tells  Islandora 7l the hierarchy of where an object lives ">parent</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
