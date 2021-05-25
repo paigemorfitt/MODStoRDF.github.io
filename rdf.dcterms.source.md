@@ -13,7 +13,7 @@
 
 
 
-<h1>dc:source</h1>
+<h1>dcterms:source</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>Definition: A related resource from which the described resource is derived.<a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/source">(reference)</a></dd>
