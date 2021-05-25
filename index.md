@@ -211,9 +211,9 @@
     <td>N/A</td>
   </tr>
    <tr>
-    <td><a href="provenance.md" class ="magic-button" title="[definition]">provenance</a></td>
-    <td><a href="mods.note.md" class ="magic-button" title="[definition]">note</a></td>
-    <td><a href="rdf.dcterms.provenance.md" class ="magic-button" title="[definition]">dcterms:provenance</a></td>
+    <td><a href="provenance.md" class ="magic-button" title="ARMINDA Use:Contains provenance information about the object: [currently] donor information and/or when and how the object was acquired by Whitman College.">provenance</a></td>
+    <td><a href="mods.note.md" class ="magic-button" title="Definition: General textual information relating to a resource.">note</a></td>
+    <td><a href="rdf.dcterms.provenance.md" class ="magic-button" title="Definition: A statement of any changes in ownership and custody of the resource since its creation that are significant for its authenticity, integrity, and interpretation.">dcterms:provenance</a></td>
 	</tr>
    <tr>
     <td><a href="publisher.md" class ="magic-button" title="[definition]">publisher</a></td>
