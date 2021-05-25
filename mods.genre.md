@@ -16,30 +16,15 @@
 <h1>MODS/genre</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">Definition: </font></ins>A term or terms that designate a category characterizing a particular style, form, or content, such as artistic, musical, literary composition, etc.
-<a href="https://www.loc.gov/standards/mods/userguide/genre.md">(resource)</a></dd>
-  <dd><ins><font color="brown">Attributes: </font></ins> authority; valueURI; authorityURI, lang; xml:lang; script; transliteration; altRepGroup; usage; displayLabel; type</dd>
-  <dd><ins><font color="brown">Subelements: </font></ins> N/A</dd>
-  <dd><ins><font color="brown">XPath:</font></ins>
-	<ul>
-		<li>/mods/genre/@authority="lctgm"</li>
-		<li>/mods/genre</li>
-	</ul>
-  </dd>
-  <dd><ins><font color="brown">SOLR:</font></ins>
-	<ul>
-		<li>mods_genre_authority_lctgm_ms</li>
-		<li>mods_genre_authority_marcgt_ms</li>
-		<li>mods_genre_ms</li>
-	</ul>
-  </dd>
-  <dd><ins><font color="brown">IMI Columns: </font></ins>
-	<ul>
-		<li>genre</li>
-		</ul>
-	</dd>
-	<p><font color="red"><i>Last Updated: </i></font>9/22/2020</p>
+  <dd>Definition: A term or terms that designate a category characterizing a particular style, form, or content, such as artistic, musical, literary composition, etc.
+<a href="https://www.loc.gov/standards/mods/userguide/genre.html">(resource)</a></dd>
+  <dd>Attributes:  authority; valueURI; authorityURI, lang; xml:lang; script; transliteration; altRepGroup; usage; displayLabel; type</dd>
+  <dd>Subelements:  N/A</dd>
 </dl>
-
+<dl>
+	<dt><b>Related Fields</b></dt>
+		|<a href="genre.md">IMI/genre</a> | <a href="rdf.schema.genre.md" >RDF/schema:genre</a>|
+</dl>
+<p><i>Last Updated: </i>5/25/2021</p>
 </body>
 </html>
