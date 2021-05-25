@@ -141,9 +141,9 @@
     <td>N/A</td>
   </tr>
     <tr>
-    <td><a href="funding_sources.md" class ="magic-button" title="[definition]">funding_sources</a></td>
-    <td><a href="mods.name.md" class ="magic-button" title="[definition]">name/namePart</a></td>
-    <td><a href="rdf.p60451.md" class ="magic-button" title="[definition]">rdau:P60451</a></td>
+    <td><a href="funding_sources.md" class ="magic-button" title="ARMINDA Use:Indicates institution or program that helped to fund research project">funding_sources</a></td>
+    <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
+    <td><a href="rdf.rdau.p60451.md" class ="magic-button" title="Definition: Relates a resource to an agent who sponsors some aspect of a resource.">rdau:P60451</a></td>
   </tr>
   <tr>
     <td><a href="genre.md" class ="magic-button" title="[definition]">genre</a></td>
