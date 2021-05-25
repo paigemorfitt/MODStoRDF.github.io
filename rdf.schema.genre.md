@@ -13,13 +13,11 @@
 <h1>schema:genre</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: Genre of the creative work, broadcast channel or group.
-<a href="https://schema.org/genre">(reference)</a></dd>
+  <dd>Definition: Genre of the creative work, broadcast channel or group.<a href="https://schema.org/genre">(reference)</a></dd>
   <dd>Label:  N/A</dd>
   <dd>Domain:  BroadcastChannel, CreativeWork, MusicGroup</dd>
   <dd>Range:  Text, URL</dd>
 </dl>
-<dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="genre.md">IMI/genre</a> | <td><a href="mods.genre.md" >MODS/genre</a>|
