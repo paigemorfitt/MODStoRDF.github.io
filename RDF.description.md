@@ -16,11 +16,10 @@
 <h1>RDF/dc:description</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd><ins><font color="brown">Definition: </font></ins>An account of the resource. <a href="http://purl.org/dc/terms/description">(reference)</a></dd>
-  <dd><ins><font color="brown">Label: </font></ins>Descrption</dd>
-  <dd><ins><font color="brown">Domain: </font></ins> N/A</dd>
-  <dd><ins><font color="brown">Range: </font></ins> N/A</dd>
-	<p><font color="red"><i>Last Updated: </i></font>2/17/2021</p>
+  <dd>Definition: An account of the resource. <a href="http://purl.org/dc/terms/description.html">(reference)</a></dd>
+  <dd>Label: Descrption</dd>
+  <dd>Domain: N/A</dd>
+  <dd>Range: N/A</dd>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
@@ -29,5 +28,6 @@
 			<td><a href="mods.abstract.md">MODS/abstract</a></td>
 		</table>
 </dl>
+<p><i>Last Updated: </i></font>05/25/2021</p>
 </body>
 </html>
