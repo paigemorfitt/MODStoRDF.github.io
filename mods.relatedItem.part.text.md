@@ -36,7 +36,7 @@
   <dd>Subelements: N/A</dd>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		| <a href="source.md">IMI/source</a> | <a href="rdf.dc.source.md">RDF/dcterms:source</a> |
+		| <a href="source.md">IMI/source</a> | <a href="rdf.dcterms.source.md">RDF/dcterms:source</a> |
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
 </body>
