@@ -16,15 +16,15 @@
 <h1>[here]</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: [here]</dd>
-  <dd>Label:  [[here]</dd>
-  <dd>Domain:  [here]</dd>
-  <dd>Range:  [here]</dd>
+  <dd>Definition: "Relates a resource to a place from which a resource originated." <a href="http://www.rdaregistry.info/Elements/u/">(resource)</a></dd>
+  <dd>Label:  has place of origin of resource</dd>
+  <dd>Domain:  N/A</dd>
+  <dd>Range:  N/A</dd>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="template.md">[here]</a> | <a href="MODS.template.md">[here]</a> |
+		| <a href="origin.md">IMI/origin</a> | <a href="mods.originInfo_place_placeTerm.md">MODS/originInfo/place/placeTerm</a> |
 </dl>
-<p><i>Last Updated: </i>[here]</p>
+<p><i>Last Updated: </i>05/25/2021</p>
 </body>
 </html>
