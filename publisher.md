@@ -30,7 +30,7 @@
 		<li>Contains prefix: relators:pbl</li>
 	</ul>
   </dd>
-  <dd>Field Changes: Contnet will move to field_linked_agent</dd>
+  <dd>Field Changes: Content will move to field_linked_agent</dd>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
