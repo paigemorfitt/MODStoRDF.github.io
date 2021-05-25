@@ -245,14 +245,14 @@
     <td><a href="rdf.dcterms.source.md" class ="magic-button" title="Definition: A related resource from which the described resource is derived.">dcterms:source</a></td>
   </tr>
     <tr>
-    <td><a href="keywords.md" class ="magic-button" title="[definition]">subject_keywords</a></td>
+    <td><a href="subject.keywords.md" class ="magic-button" title="[definition]">subject_keywords</a></td>
     <td><a href="mods.subject.topic.md" class ="magic-button" title="[definition]">subject/topic</a></td>
-    <td><a href="rdf.subject.md" class ="magic-button" title="[definition]">dcterms:subject</a></td>
+    <td><a href="rdf.dcterms.subject.md class ="magic-button" title="[definition]">dcterms:subject</a></td>
   </tr>
   <tr>
     <td><a href="title.md" class ="magic-button" title="[definition]">title</a></td>
     <td><a href="mods.titleInfo.title.md" class ="magic-button" title="[definition]">titleInfo/title</a></td>
-    <td><a href="rdf.title.md" class ="magic-button" title="[definition]">dcterms:title</a></td>
+    <td><a href="rdf.dcterms.title.md" class ="magic-button" title="[definition]">dcterms:title</a></td>
   </tr>
     <tr>
     <td><a href="nonenglish_title.md" class ="magic-button" title="[definition]">title_alternative</a></td>
