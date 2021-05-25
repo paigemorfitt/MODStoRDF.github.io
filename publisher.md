@@ -34,7 +34,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="mods.originInfo_publisher.md">MODS/originInfo/publisher</a> | <a href="rdf.field_linked_agent.md">RDF/relators:pub</a>|
+		|<a href="mods.originInfo_publisher.md">MODS/originInfo/publisher</a> | <a href="rdf.field_linked_agent.md">RDF/relators:pbl</a>|
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
 </body>
