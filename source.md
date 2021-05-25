@@ -32,7 +32,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="mods.relatedItem.part.text.md">MODS/relatedIetm/part/text</a> | <a href="rdf.dcterms.source.md">RDF/source</a>|
+		|<a href="mods.relatedItem.part.text.md">MODS/relatedIetm/part/text</a> | <a href="rdf.dcterms.source.md">RDF/dcterms:source</a>|
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
 </body>
