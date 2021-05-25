@@ -106,7 +106,7 @@
 <dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-			<dd>| <a href="publisher.md">IMI/publisher</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
+			<dd>| <a href="publisher.md">IMI/publisher</a> | <a href="mods.originInfo_publisher.md">MODS/originInfo/publisher</a> |</dd>
 </dl>
 <p><i>Last Updated: </i>05/25/2021</p>
 </body>
