@@ -29,26 +29,9 @@
   </dd>
 </dl>
 <dl>
-<dl>
-    <dt><b>Location</b></dt>
-		<dd> MODS XPath /mods/originInfo/dateCreated</dd>
-		<dd> RDF XPath/rdf:RDF/rdf:Description/dcterms:created</dd>
-		<dd> Solr Field(s)
-			<ul>
-				<li>  mods_originInfo_dateCreated_ms: mods_originInfo_dateCreated_ms(string)</li>
-				<li>  mods_originInfo_displayLabel_ms: mods_originInfo_displayLabel_ms(string)</li>
-				<li>  mods_originInfo_encoding_edtf_keyDate_yes_dateCreated_ms: mods_originInfo_encoding_edtf_keyDate_yes_dateCreated_ms(string)</li>
-				<li>  mods_originInfo_encoding_w3cdtf_keyDate_yes_dateCreated_ms: mods_originInfo_encoding_w3cdtf_keyDate_yes_dateCreated_ms(string)</li>
-				<li>  mods_originInfo_keyDate_yes_dateCreated_ms: mods_originInfo_keyDate_yes_dateCreated_ms(string)</li>
-				<li>  mods_originInfo_type_date_created_dateOther_ms: mods_originInfo_type_date_created_dateOther_ms(string)</li>
-				<li>  mods_originInfo_encoding_etdf_keyDate_yes_dateCreated_ms: mods_originInfo_encoding_etdf_keyDate_yes_dateCreated_ms(string)</li>
-			</ul>
-		</dd>
-</dl>
-<dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> | <a href="rdf.dcterms.date.md">dcterms:date</a> |
 </dl>
-<p><i>Last Updated: </i>05/05/2021</p>
+<p><i>Last Updated: </i>05/25/2021</p>
 </body>
 </html>
