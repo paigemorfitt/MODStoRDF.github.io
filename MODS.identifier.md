@@ -19,7 +19,7 @@
   <dd>Definition: Contains a unique standard number or code that distinctively identifies a resource. <a href="https://www.loc.gov/standards/mods/userguide/identifier.md"> (resource)</a>
 </dd>
   <dd>Attributes: lang; xml:lang; script; transliteration; altRepGroup; displayLabel; typeURI; type; invalid</dd>
-  <dd>Subelements: N/A</dd>>
+  <dd>Subelements: N/A</dd>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
