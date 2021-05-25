@@ -126,12 +126,12 @@
     <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">field_weightDefinition: The size or duration of the resource.</a></td>
+	<td><a href="" class ="magic-button" title="[definition]">field_weight</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">file Definition: The size or duration of the resource.</a></td>
+	<td><a href="" class ="magic-button" title="[definition]">file </a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
