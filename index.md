@@ -206,7 +206,7 @@
     <td><a href="rdf.rdau.p60919.md" class ="magic-button" title="Definition: Relates a resource to an appellation of resource that consists of a code, number, or other string, usually independent of natural language and social naming conventions, used to identify a resource">rdau:P60919</a></td>
   </tr>
   <tr>
-    <td><a href="pid.md" class ="magic-button" title="[definition]">PID</a></td>
+    <td><a href="pid.md" class ="magic-button" title="ARMINDA Use: Persistent Identifier that is generated sequentially, and is  a unique identifier for Islandora 7">PID</a></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
