@@ -16,8 +16,7 @@
 <h1>RDF/dcterms:isPartOf</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: A related resource in which the described resource is physically or logically included. <a href="http://purl.org/dc/terms/isPartOf
-">(reference)</a></dd>
+  <dd>Definition: A related resource in which the described resource is physically or logically included. <a href="http://purl.org/dc/terms/isPartOf">(reference)</a></dd>
   <dd>Label:  Is Part Of</dd>
   <dd>Domain:  N/A</dd>
   <dd>Range:  N/A</dd>
