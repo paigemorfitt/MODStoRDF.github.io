@@ -161,9 +161,9 @@
     <td><a href="rdf.dcterms.identifier.md" class ="magic-button" title="Definition: An unambiguous reference to the resource within a given context.">dcterms:identifier</a></td>
   </tr>
   <tr>
-    <td><a href="part.issue.md" class ="magic-button" title="[definition]">issue</a></td>
+    <td><a href="issue_num.md" class ="magic-button" title="[definition]">issue</a></td>
     <td><a href="mods.part-detail-number.md" class ="magic-button" title="[definition]">part/detail/number</a></td>
-    <td><a href="RDF.isPartOf.md" class ="magic-button" title="[definition]">dcterms:isPartOf</a></td>
+    <td><a href="rdf.dcterms.isPartOf.md" class ="magic-button" title="[definition]">dcterms:isPartOf</a></td>
   </tr>
    <tr>
     <td><a href="language.md" class ="magic-button" title="[definition]">language</a></td>
