@@ -50,21 +50,6 @@
 	</dd>
 </dl>
 <dl>
-    <dt><b>Location</b></dt>
-	  <dd> <ins>MODS XPath </ins>/mods/name/namePart</dd>
-		<dd> <ins>RDF XPath</ins> [relators:ctb]</dd>
-		<dd> <ins>Solr field(s) </ins>
-			<ul>
-				<li>mods_name_personal_contributor(s)_displayLabel_ms</li>
-				<li>mods_name_personal_contributor(s)_namePart_ms</li>
-				<li>mods_name_personal_contributor(s)_role_roleTerm_ms</li>
-				<li>mods_name_personal_displayLabel_ms</li>
-				<li>mods_name_personal_namePart_ms</li>
-				<li>mods_name_personal_role_roleTerm_ms</li>
-			</ul>
-		</dd>
-</dl>
-<dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/relators:ctb</a> |
 </dl>
