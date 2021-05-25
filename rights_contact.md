@@ -17,6 +17,7 @@
   <dd>Obligation: Required</dd>
   <dd>Repeatable: No</dd>
   <dd>Public Field: Yes</dd>
+  <dd>Front-end Name:Contact Us</dd>
   <dd>Syntax/Formatting: Free text</dd>
   <dd>Recommended Controlled Vocabulary: Whitman College Standard Statement</dd>
   <dd>Notes: 
