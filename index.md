@@ -63,7 +63,7 @@
   <tr>
     <td><a href="contributors.md" class ="magic-button" title="identifies the entity or entities that made contributions to the creation of the resource but whose contributions are secondary to any person or organization specified in the creator(s) field. ">contributors</a></td>
     <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
-    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: A person, family or organization responsible for making contributions to the resource. This includes those whose work has been contributed to a larger work, such as an anthology, serial publication, or other compilation of individual works. If a more specific role is available, prefer that, e.g. editor, compiler, illustrator">relators:ctb</a></td>
+    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="identifies the entity or entities that made contributions to the creation of the resource but whose contributions are secondary to any person or organization specified in the creator(s) field. ">local:adv</a></td>
   </tr>
   <tr>
     <td><a href="coverage_spatial.md" class ="magic-button" title="ARMINDA Use: Geographic subject headings">coverage_spatial</a></td>
@@ -73,7 +73,7 @@
    <tr>
     <td><a href="creators.md" class ="magic-button" title="ARMINDA Use: identifies the entity/entities primarily responsible for making the resource">creators</a></td>
     <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
-    <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: A person or organization responsible for the intellectual or artistic content of a resource">relators:cre</a></td>
+    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: identifies the entity/entities primarily responsible for making the resource ">local:adv</a></td>
   </tr>
     <tr>
 		<td><a href="date.display.md" class ="magic-button" title="ARMINDA Use: Date of creation or publication of original object in human readable format for public viewing">date_display</a></td>
@@ -96,9 +96,9 @@
     <td><a href="rdf.dcterms.date.md" class ="magic-button" title="Definition: A point or period of time associated with an event in the lifecycle of the resource.">dcterms:date</a></td>
   </tr>
   <tr>
-    <td><a href="department.md" class ="magic-button" title="[definition]">department</a></td>
-    <td><a href="mods.name.md" class ="magic-button" title="[definition]">name/namePart</a></td>
-    <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">local:dpt</a></td>
+    <td><a href="department.md" class ="magic-button" title="ARMINDA Use: College division in which the item is categorized">department</a></td>
+    <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
+    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: College division in which the item is categorized">local:adv</a></td>
   </tr>
   <tr>
     <td><a href="description.md" class ="magic-button" title="[definition]">description</a></td>
