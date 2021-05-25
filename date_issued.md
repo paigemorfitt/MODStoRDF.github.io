@@ -25,21 +25,9 @@
   <dd>Field Changes: Machine name : field_edtf_date_issued</dd>
 </dl>
 <dl>
-    <dt><b>Location</b></dt>
-		<dd> MODS XPath:   /mods/originInfo/dateIssued</dd>
-		<dd> RDF XPath/rdf:RDF/rdf: Description/dc:valid</dd>
-		<dd> Solr Field(s)
-			<ul>
-				<li>mods_originInfo_dateIssued_ms: mods_originInfo_dateIssued_ms(string)</li>
-				<li>mods_originInfo_displayLabel_ms: mods_originInfo_displayLabel_ms(string)</li>
-				<li>mods_originInfo_keyDate_yes_dateIssued_ms: mods_originInfo_keyDate_yes_dateIssued_ms(string)</li>
-			</ul>
-		</dd>
-</dl>
-<dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.originInfo_dateIssued.md">MODS/originInfo/dateIssued</a> | <a href="rdf.dcterms.issued.md">dcterms:issued</a> |
 </dl>
-<p><i>Last Updated: </i>05/05/2021</p>
+<p><i>Last Updated: </i>05/25/2021</p>
 </body>
 </html>
