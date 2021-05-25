@@ -157,7 +157,7 @@
   </tr>
      <tr>
     <td><a href="identifier.unique.md" class ="magic-button" title="ARMINDA Use: Character string or number that clearly and uniquely identifies a digital object or resource. This field ensures that individual digital objects can be accessed, managed, stored, recalled, and used reliably.">identifier_unique</a></td>
-    <td><a href="MODS.identifier.md" class ="magic-button" title="Definition: Contains a unique standard number or code that distinctively identifies a resource.">identifier</a></td>
+    <td><a href="mods.identifier.md" class ="magic-button" title="Definition: Contains a unique standard number or code that distinctively identifies a resource.">identifier</a></td>
     <td><a href="rdf.dcterms.identifier.md" class ="magic-button" title="Definition: An unambiguous reference to the resource within a given context.">dcterms:identifier</a></td>
   </tr>
   <tr>
@@ -191,7 +191,7 @@
     <td><a href="rdf.rdau.p60523.md" class ="magic-button" title="Definition: Relates a resource to a place from which a resource originate">rdau:P60523</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">parent_id</a></td>
+	<td><a href="" class ="magic-button" title="ARMINDA Use: Tells  Islandora 7l the hierarchy of where an object lives ">parent_id</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
