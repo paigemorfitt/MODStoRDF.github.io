@@ -245,9 +245,9 @@
     <td><a href="rdf.dcterms.source.md" class ="magic-button" title="Definition: A related resource from which the described resource is derived.">dcterms:source</a></td>
   </tr>
     <tr>
-    <td><a href="subject.keywords.md" class ="magic-button" title="[definition]">subject_keywords</a></td>
-    <td><a href="mods.subject.topic.md" class ="magic-button" title="[definition]">subject/topic</a></td>
-    <td><a href="rdf.dcterms.subject.md class ="magic-button" title="[definition]">dcterms:subject</a></td>
+    <td><a href="subject.keywords.md" class ="magic-button" title="ARMINDA Use: Term(s) representing the primary topic(s) on which a work is focused.">subject_keywords</a></td>
+    <td><a href="mods.subject.topic.md" class ="magic-button" title="Definition: A term or phrase representing the primary topic(s) on which a work is focused">subject/topic</a></td>
+    <td><a href="rdf.dcterms.subject.md class ="magic-button" title="Definition: The topic of the resource.">dcterms:subject</a></td>
   </tr>
   <tr>
     <td><a href="title.md" class ="magic-button" title="[definition]">title</a></td>
