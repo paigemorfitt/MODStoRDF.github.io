@@ -260,14 +260,14 @@
     <td><a href="rdf.dcterms.alternative.md" class ="magic-button" title="Definition: An alternative name for the resource.">dcterms:alternative</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">url_alias</a></td>
+	<td><a href="" class ="magic-button" title="[definition]">url_alias (under construction)</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
   <tr>
-    <td><a href="download_url.md" class ="magic-button" title="[definition]">url_external</a></td>
-    <td><a href="mods.location-url.md" class ="magic-button" title="[definition]">location/url</a></td>
-    <td><a href="RDF.url.md" class ="magic-button" title="[definition]">schema:url</a></td>
+    <td><a href="url.external.md" class ="magic-button" title="ARMINDA Use: URL linking file content not hosted in ARMINDA to metadata record, in ARMINDA">url_external</a></td>
+    <td><a href="mods.location_url.md" class ="magic-button" title="Definition: Identifies the institution or repository holding the resource, the physical location of the resource, and/or the electronic location in the form of the digital resource in the form of a URL.">location/url</a></td>
+    <td><a href="rdf.schema.url.md" class ="magic-button" title="Definition: URL of the item. ">schema:url</a></td>
   </tr>
   <tr>
     <td><a href="volume.md" class ="magic-button" title="[definition]">volume</a></td>
@@ -286,7 +286,7 @@
   </tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>05/25/2021</p>
+	<p><i>Last Updated: </i>05/26/2021</p>
 </dl>
 </body>
 </html>
