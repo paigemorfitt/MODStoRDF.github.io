@@ -277,7 +277,7 @@
   <tr>
     <td><a href="work_type.md" class ="magic-button" title="[definition]">work_type</a></td>
     <td><a href="mods.typeOfResource.md" class ="magic-button" title="[definition]">typeOfResource</a></td>
-    <td><a href="rdf.type.md" class ="magic-button" title="[definition]">dcterms:type</a></td>
+    <td><a href="rdf.dcterms.type.md" class ="magic-button" title="[definition]">dcterms:type</a></td>
   </tr>
   <tr>
     <td><a href="graduation_year.md" class ="magic-button" title="[definition]">year_graduation</a></td>
