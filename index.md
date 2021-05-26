@@ -270,9 +270,9 @@
     <td><a href="rdf.schema.url.md" class ="magic-button" title="Definition: URL of the item. ">schema:url</a></td>
   </tr>
   <tr>
-    <td><a href="volume.md" class ="magic-button" title="[definition]">volume</a></td>
-    <td><a href="mods.part-detail-number.md" class ="magic-button" title="[definition]">part/detail/number</a></td>
-    <td><a href="rdf.volumeNumber.md" class ="magic-button" title="[definition]">schema:volumeNumber</a></td>
+    <td><a href="volume_num.md" class ="magic-button" title="ARMINDA Use: Volume of newspaper">volume</a></td>
+    <td><a href="mods.part_detail_number.md" class ="magic-button" title="Definition: Numbering and type of designation of the part in relation to the host/parent.">part/detail/number</a></td>
+    <td><a href="rdf.schema.volumeNumber.md" class ="magic-button" title="Definition: Identifies the volume of publication or multi-part work; for example, "iii" or "2".">schema:volumeNumber</a></td>
   </tr>
   <tr>
     <td><a href="work_type.md" class ="magic-button" title="[definition]">work_type</a></td>
