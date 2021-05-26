@@ -35,6 +35,6 @@
 		| <a href="mods.titleInfotitle.md">MODS/titleInfo/title</a> | <a href="rdf.dcterms.title.md">RDF/dcterms:title</a> |
 </dl>
 </dl>
-<p><i>Last Updated: </i>11/25/2020</p>
+<p><i>Last Updated: </i>05/26/2021</p>
 </body>
 </html>
