@@ -16,7 +16,7 @@
 
  <h1>Arminda information page</h1> 
   
-<p>Collections in Arminda. For information about IMI field content <a href="imi.field.content.md">click here</a> For a list of fields that have been removed <a href="fields.removed.md">click here</a>. List of <a href="Islandora.8.terms.md">Terms</a> is in progress.</p>
+<p>Collections in Arminda. For information about IMI field content <a href="imi.field.content.md">click here</a> For a list of fields that have been removed <a href="fields.removed.md">click here</a>. List of <a href="Islandora.8.terms.md">Terms and Facts</a> (in progress).</p>
    <tr>
     <th><a href="Archives.md">Archives</a></th>
 	<th><a href="Theses.md">Theses</a></th>
@@ -250,9 +250,9 @@
     <td><a href="rdf.dcterms.subject.md class ="magic-button" title="Definition: The topic of the resource.">dcterms:subject</a></td>
   </tr>
   <tr>
-    <td><a href="title.md" class ="magic-button" title="[definition]">title</a></td>
-    <td><a href="mods.titleInfo.title.md" class ="magic-button" title="[definition]">titleInfo/title</a></td>
-    <td><a href="rdf.dcterms.title.md" class ="magic-button" title="[definition]">dcterms:title</a></td>
+    <td><a href="title.md" class ="magic-button" title="ARMINDA Use: Name given to the resource or supplied title if one is absent">title</a></td>
+    <td><a href="mods.titleInfo.title.md" class ="magic-button" title="Definition: A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it.">titleInfo/title</a></td>
+    <td><a href="rdf.dcterms.title.md" class ="magic-button" title="Definition: A name given to the resource.">dcterms:title</a></td>
   </tr>
     <tr>
     <td><a href="nonenglish_title.md" class ="magic-button" title="[definition]">title_alternative</a></td>
