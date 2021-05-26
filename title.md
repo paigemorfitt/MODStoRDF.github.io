@@ -25,14 +25,14 @@
 		<li>Avoid unnecessary punctuation (brackets, periods, quotations, etc)</li>
 		<li>*Non-english titles conventions may vary</li>
 		<li>If no title provided, provide content of item [see master spreadsheet guidelines for specific details]</li>
-		<li>Contains HTML, and accents</li>
+		<li>Contains, italics, bold,  accents, and/or special characters</li>
 	</ul>
   </dd>
-  <dd><i>Field Changes: </i> N/A </dd>
+  <dd><i>Field Changes: </i> Will move to field_display_title (under review) </dd>
   </dt>
   <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="template.md">[here]</a> | <a href="MODS.template.md">[here]</a> |
+		| <a href="mods.titleInfotitle.md">MODS/titleInfo/title</a> | <a href="rdf.dcterms.title.md">RDF/dcterms:title</a> |
 </dl>
 </dl>
 <p><i>Last Updated: </i>11/25/2020</p>
