@@ -29,7 +29,9 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="title.md">IMI/title</a> | <a href="rdf.dcterms.title.md">RDF/dcterms:title</a> |
+		<dd>| <a href="title.md">IMI/title</a> | <a href="rdf.dcterms.title.md">RDF/dcterms:title</a> | </dd>
+		<dd>| <a href="title.alternative.md">IMI/title_alternative</a> | <a href="rdf.dcterms.alternative.md">RDF/dcterms:alternative</a> | </dd>
+
 </dl>
 <p><i>Last Updated: </i>05/26/2021</p>
 </body>
