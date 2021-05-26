@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>[here]</h1>
+<h1>IMI/url_external</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>ARMINDA Use: URL linking file content not hosted in ARMINDA to metadata record, in ARMINDA </dd>
