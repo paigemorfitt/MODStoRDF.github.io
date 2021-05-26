@@ -16,8 +16,7 @@
 <h1>MODS/Part</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: Numbering and type of designation of the part in relation to the host/parent.
-<a href="http://www.loc.gov/standards/mods/userguide/part.md#detail">(resource)</a></dd>
+  <dd>Definition: Numbering and type of designation of the part in relation to the host/parent.<a href="http://www.loc.gov/standards/mods/userguide/part.md#detail">(resource)</a></dd>
   <dd>Attributes:  lang; xml:lang; script; transliteration; altRepGroup; ID; displayLabel; type; order</dd>
   <dd>Subelements:  detail; extent; date; text</dd>
 </dl>  
@@ -37,8 +36,10 @@
   <dd>Subelements: N/A</dd>
  <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="issue_num.md">IMI/issue_num</a> | <a href="rdf.dcterms.isPartOf.md">RDF/dcterms:isPartOf</a> |
+		 <dd>| <a href="issue_num.md">IMI/issue_num</a> | <a href="rdf.dcterms.isPartOf.md">RDF/dcterms:isPartOf</a> | </dd>
+		  <dd>| <a href="volume_num.md">IMI/volume_num</a> | <a href="rdf.schema.volumeNumber.md">RDF/schema:volumeNumber</a> | </dd>
+
 </dl>
-<p><i>Last Updated: </i>0/25/2021</p>
+<p><i>Last Updated: </i>05/26/2021</p>
 </body>
 </html>
