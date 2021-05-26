@@ -13,7 +13,7 @@
 <h1>IMI/subject_keywords</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>ARMINDA Use: Term(s) representing the primary topic(s) on which a work is focused</dd>
+  <dd>ARMINDA Use: Term(s) representing the primary topic(s) on which a work is focused.</dd>
   <dd>Obligation: Recommended</dd>
   <dd>Repeatable: Yes</dd>
   <dd>Public Field: Yes</dd>
