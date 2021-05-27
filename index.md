@@ -280,13 +280,13 @@
     <td><a href="rdf.dcterms.type.md" class ="magic-button" title="Definition: The nature or genre of the resource.">dcterms:type</a></td>
   </tr>
   <tr>
-    <td><a href="graduation_year.md" class ="magic-button" title="[definition]">year_graduation</a></td>
-    <td><a href="mods.originInfo_dateOther.md" class ="magic-button" title="[definition]">originInfo/dateOther</a></td>
-    <td><a href="rdf.rdau.p60514.md" class ="magic-button" title="[definition]">rdau:P60514</td>
+    <td><a href="graduation_year.md" class ="magic-button" title="ARMINDA Use: Year author graduated from Whitman College">year_graduation</a></td>
+    <td><a href="mods.originInfo_dateOther.md" class ="magic-button" title="Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource.">originInfo/dateOther</a></td>
+    <td><a href="rdf.rdau.p60514.md" class ="magic-button" title="Definition: Relates a resource to a timespan during which an academic degree is conferred by a granting institution or faculty">rdau:P60514</td>
   </tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>05/26/2021</p>
+	<p><i>Last Updated: </i>05/27/2021</p>
 </dl>
 </body>
 </html>
