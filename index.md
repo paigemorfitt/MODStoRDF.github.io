@@ -116,7 +116,7 @@
     <td><a href="rdf.dcterms.extent.md" class ="magic-button" title="Definition: The size or duration of the resource.">dcterms:extent</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">file_display_hint (under construction)</a></td>
+	<td><a href="file_display_hint.md" class ="magic-button" title="[definition]">file_display_hint (under construction)</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
@@ -126,12 +126,12 @@
     <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">field_weight (under construction)</a></td>
+	<td><a href="field_weight.md" class ="magic-button" title="[definition]">field_weight (under construction)</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">file </a></td>
+	<td><a href="file.md" class ="magic-button" title="[definition]">file </a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
@@ -151,7 +151,7 @@
     <td><a href="rdf.schema.genre.md" class ="magic-button" title="Definition: Genre of the creative work, broadcast channel or group.">schema:genre</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">id (under construction)</a></td>
+	<td><a href="id.md" class ="magic-button" title="[definition]">id (under construction)</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
@@ -191,7 +191,7 @@
     <td><a href="rdf.rdau.p60523.md" class ="magic-button" title="Definition: Relates a resource to a place from which a resource originate">rdau:P60523</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">parent_id (under construction)</a></td>
+	<td><a href="parent.id.md" class ="magic-button" title="[definition]">parent_id (under construction)</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
