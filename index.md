@@ -63,7 +63,7 @@
   <tr>
     <td><a href="contributors.md" class ="magic-button" title="identifies the entity or entities that made contributions to the creation of the resource but whose contributions are secondary to any person or organization specified in the creator(s) field. ">contributors</a></td>
     <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
-    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="identifies the entity or entities that made contributions to the creation of the resource but whose contributions are secondary to any person or organization specified in the creator(s) field. ">local:adv</a></td>
+    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="identifies the entity or entities that made contributions to the creation of the resource but whose contributions are secondary to any person or organization specified in the creator(s) field. ">relators:ctb</a></td>
   </tr>
   <tr>
     <td><a href="coverage_spatial.md" class ="magic-button" title="ARMINDA Use: Geographic subject headings">coverage_spatial</a></td>
@@ -73,7 +73,7 @@
    <tr>
     <td><a href="creators.md" class ="magic-button" title="ARMINDA Use: identifies the entity/entities primarily responsible for making the resource">creators</a></td>
     <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
-    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: identifies the entity/entities primarily responsible for making the resource ">local:adv</a></td>
+    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: identifies the entity/entities primarily responsible for making the resource ">relators:cre</a></td>
   </tr>
     <tr>
 		<td><a href="date.display.md" class ="magic-button" title="ARMINDA Use: Date of creation or publication of original object in human readable format for public viewing">date_display</a></td>
@@ -98,7 +98,7 @@
   <tr>
     <td><a href="department.md" class ="magic-button" title="ARMINDA Use: College division in which the item is categorized">department</a></td>
     <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
-    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: College division in which the item is categorized">local:adv</a></td>
+    <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: College division in which the item is categorized">local:dpt</a></td>
   </tr>
   <tr>
     <td><a href="description.md" class ="magic-button" title="Definition: An account of the resource, primarily used for archival objects">description</a></td>
@@ -260,7 +260,7 @@
     <td><a href="rdf.dcterms.alternative.md" class ="magic-button" title="Definition: An alternative name for the resource.">dcterms:alternative</a></td>
   </tr>
   <tr>
-	<td><a href="" class ="magic-button" title="[definition]">url_alias (under construction)</a></td>
+	<td><a href="url_alias.md" class ="magic-button" title="[definition]">url_alias (under construction)</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
