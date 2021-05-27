@@ -13,18 +13,18 @@
 
 
 
-<h1>[here]</h1>
+<h1>RDF/dcterms:type</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: [here]</dd>
-  <dd>Label:  [[here]</dd>
-  <dd>Domain:  [here]</dd>
-  <dd>Range:  [here]</dd>
+  <dd>Definition: The nature or genre of the resource. <a href="http://purl.org/dc/terms/type">(resource)</a></dd>
+  <dd>Label: Type</dd>
+  <dd>Domain: N/A</dd>
+  <dd>Range: N/A</dd>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="template.md">[here]</a> | <a href="MODS.template.md">[here]</a> |
+		| <a href="work_type.md">IMI/work_type</a> | <a href="mods.typeOfResource.md">MODS/typeOfResource</a> |
 </dl>
-<p><i>Last Updated: </i>[here]</p>
+<p><i>Last Updated: </i>05/27/2021</p>
 </body>
 </html>
