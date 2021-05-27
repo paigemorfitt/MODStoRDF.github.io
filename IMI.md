@@ -6,9 +6,9 @@
 <table style="width:100%">
   <tr>
     <th><a href="index.md">Main page</a></th>
-	<th>IMI Columns</th>
-    <th><a href="MODS.md">MODS Fields</a></th>
-    <th><a href="#">RDF Fields</a></th>
+	<th><a href="IMI.md">IMI Column</a></th>
+    <th><a href="MODS.md">MODS Field</a></th>
+    <th><a href="RDF.md">RDF Field</a></th>
   </tr>
 </table>
 
@@ -19,40 +19,39 @@
 <table>
 <h2>A's</h2>
 	<tr>	
-		<li><a href="#abstract">abstract</a></li>
+		<li><a href="abstract.md">abstract (field_abstract)</a></li>
 		<li><a href="#abstract_format">abstract_format</a> - removed</li>
-		<li><a href="#access_condition">access_condition</a></li>
+		<li><a href="access_condition.md">access_condition (field_limited_access)</a></li>
 		<li><a href="#removed">accession_number</a> - removed</li>
-		<li><a href="#advisor1">advisors</a></li>	
+		<li><a href="advisor.md">advisors (field_linked_agent)</a></li>	
 		<li><a href="#removed">attach_additional_files</a> - removed</li>
 		<li><a href="#removed">author#_fname</a> - removed</li>
 		<li><a href="#removed">author#_lname</a> - removed</li>
 		<li><a href="#removed">author#_mname</a> - removed</li>
 		<li><a href="#removed">author#_suffix</a> - removed</li>
-		<li><a href="#authors">creators</a></li>
 	</tr>
 <h2>B's</h2>	
 	<tr>	
 		<li><a href="#removed">bp_categories</a> - removed</li>
 		<li><a href="#removed">broad_creation_date</a> - removed</li>
 		<li><a href="#removed">broad_date</a> - removed</li>
-		<li><a href="#box">box</a></li>
+		<li><a href="#removed">box</a> - removed</li>
+		<li><a href="imi.bucket.md">bucket</a></li>
 		<li><a href="#removed">buy_link</a> - removed</li>
 	</tr>	
 <h2>C's</h2>
 	<tr>		
 		<li><a href="#removed">calc_thumbnail_image_url	</a> - removed</li>
 		<li><a href="#removed">calc_url</a> - removed</li>
-		<li><a href="#removed">campus_location - removed	</a></li>
+		<li><a href="#removed">campus_location</a> - removed</li>
 		<li><a href="#removed">catalog_id</a> - removed</li>
-		<li><a href="#city">city - TWG/city	</a>(not finished</li>		
-		<li><a href="#cmodel">cmodel	</a></li>
+		<li><a href="#removed">city - TWG/city</a> - removed</li>		
+		<li><a href="cmodel.md">cmodel (field_model)</a></li>
 		<li><a href="#removed">collection_name	</a> - removed</li>
 		<li><a href="#removed">comments</a> - removed</li>
 		<li><a href="#removed">conference_track</a> - removed</li>
-		<li><a href="#conference_year">year_conference</a></li>	
-		<li><a href="#context_key">identifier_unique</a></li>
-		<li><a href="#contributors">contributors</a></li>
+		<li><a href="#removed">year_conference</a> - removed</li>	
+		<li><a href="contributors.md">contributors (field_linked_agent)</a> </li>
 		<li><a href="#removed">copyright_notes</a> - removed</li>
 		<li><a href="#removed">costume_design</a> - removed</li>
 		<li><a href="#removed">cover_image_url</a> - removed</li>
@@ -193,18 +192,11 @@
 		<li><a href="#volume">volume	</a> </li>
 		<li><a href="#removed">wf_areyouuploadingaf1</a> - removed</li>
 		<li><a href="#work_type">work_type	</a></li>
-	</tr>
-<h2>New Fields</h2>
-		<li><a href="#genre">MODS/genre	</a></li>		
-		<li><a href="#extent">IMI/extent</a></li>
 	</tr>		
 </table>
-<h1> IMI Columns used in ARMINDA</h1>
 <h2 id="removed">Removed from Master Sheets</h2>
-<p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>
-	
+<p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
 <p><a href="#top">top</a></p>
-
-<p><font color="red"><i>Last Updated: </i></font>8/10/2020</p>
+<p><i>Last Updated: </i>05/27/2021</p>
 </dl>
 </html>
