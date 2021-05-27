@@ -17,7 +17,7 @@
   <dd>Obligation: Required</dd>
   <dd>Repeatable: No</dd>
   <dd>Public Field: No</dd>
-  <dd>Syntax/Formatting:Free text</dd>
+  <dd>Syntax/Formatting:Free-text</dd>
   <dd>Recommended Controlled Vocabulary:Yes [Collection; Dataset; Image; Interactive Resource; Moving Image; Physical Object; Service; Software; Sound; Still Image; Text]</dd>
   <dd>Notes: 
 	<ul>
@@ -30,10 +30,10 @@
 		<li>We need this field in order to make our display work</li>
 	</ul>
   </dd>
-  <dd><i>Field Changes: </i> Absorbed content from IMI/type_of_work</dd>
+  <dd><i>Field Changes: </i> Absorbed content from IMI/type_of_work ; Will move to field_resource_type (need to double check)</dd>
 </dl>
 <dd><b>Related Fields</b></dd>
-	| <a href="mods.typeOfResource.md">MODS/typeOfResource</a> | <a href="rdf.type.md">RDF/dcterms:type</a> |
-</dl>
+	| <a href="mods.typeOfResource.md">MODS/typeOfResource</a> | <a href="rdf.dcterms.type.md">RDF/dcterms:type</a> |
+</dl>s
 </body>
 </html>
