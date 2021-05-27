@@ -7,7 +7,7 @@
   <tr>
     <th><a href="index.md">Main page</a></th>
 	<th><a href="IMI.md">IMI Column</a></th>
-    <th><a href="MODS.md">MODS Field</a></th>
+    <th>MODS Field</th>
     <th><a href="RDF.md">RDF Field</a></th>
   </tr>
 </table>
