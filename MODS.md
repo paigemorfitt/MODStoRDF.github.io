@@ -6,9 +6,9 @@
 <table style="width:100%">
   <tr>
     <th><a href="index.md">Main page</a></th>
-	<th><a href="IMI.md">IMI Columns</a></th>
-    <th>MODS Fields</th>
-    <th><a href="RDF.md">RDF Fields</a></th>
+	<th><a href="IMI.md">IMI Column</a></th>
+    <th><a href="MODS.md">MODS Field</a></th>
+    <th><a href="RDF.md">RDF Field</a></th>
   </tr>
 </table>
 
