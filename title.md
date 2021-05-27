@@ -28,13 +28,13 @@
 		<li>Contains, italics, bold,  accents, and/or special characters</li>
 	</ul>
   </dd>
-  <dd><i>Field Changes: </i> Will move to field_display_title (under review) </dd>
+  <dd><i>Field Changes: </i> Will move to title (under review) </dd>
   </dt>
   <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.titleInfotitle.md">MODS/titleInfo/title</a> | <a href="rdf.dcterms.title.md">RDF/dcterms:title</a> |
 </dl>
 </dl>
-<p><i>Last Updated: </i>05/26/2021</p>
+<p><i>Last Updated: </i>05/27/2021</p>
 </body>
 </html>
