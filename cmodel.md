@@ -20,14 +20,14 @@
   <dd>Public Field: No</dd>
   <dd>Public-facing name:N/A</dd>
   <dd>Syntax/Formatting: Free-text</dd>
-  <dd>Recommended Controlled Vocabulary: Yes</dd>
-  <dd>Notes: Necessary for Islandora 7. Unsure of its role in Islandora 8</dd>
-  <dd>Field Changes: Will move to field</dd>
+  <dd>Recommended Controlled Vocabulary: Islandora Model terms</dd>
+  <dd>Notes: Necessary for Islandora. Necessary for Islandora. This is the "type" of resource, this does affect how it is displayed/viewed. </dd>
+  <dd>Field Changes: Repurpose. Strip terms for Controlled Terms.; Will move to :   field_model</dd>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="rdf.pcdm_memberOf.md">RDF/pcdm:memberOf</a> |
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>06/16/2021</p>
 </body>
 </html>
