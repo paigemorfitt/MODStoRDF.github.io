@@ -26,6 +26,8 @@
 		<li>In tandem with IMI/subject_keywords (Partial absorption by IMI/subject_keywords)</li>
 		<li>Geographic content is not a string</li>
 		<li>Multiple values separated by pipe with no spaces between termsField does NOT require prefix</li>
+		<li>Does not contain string terms (contain ""--"")</li>
+		<li>Exception are local terms which all start with ""Whitman College"</li>
 	</ul>
 	</dd>
   <dd>Field Changes: partial absorption by IMI/subject-keywords, will be renamed to field_geographic_subject</dd>
@@ -34,6 +36,6 @@
 	<dt><b>Related Fields</b></dt>
 		| <td><a href="mods.subject_geographic.md">subject/geographic</a></td> | <a href="rdf.dcterms_spatial.md">RDF/dcterms:spatial</a>|
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>06/17/2021</p>
 </body>
 </html>
