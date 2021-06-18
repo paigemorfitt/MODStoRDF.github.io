@@ -46,6 +46,7 @@
   <dd>Field Changes: 
 		<ul>
 			<li>Content will be moved to field_linked_agent</li>
+			<li>Being removed. Non-mapped fields are being removed.</li>
 		</ul>
 	</dd>
 </dl>
@@ -53,6 +54,6 @@
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/relators:ctb</a> |
 </dl>
-<p><i>Last Updated: </i>4/26/2021</p>
+<p><i>Last Updated: </i>06/16/2021</p>
 </body>
 </html>
