@@ -20,7 +20,12 @@
   <dd>Public Field: No</dd>
   <dd>Syntax/Formatting: EDTF according to DateFormattingGuidelinesARMINDA </dd>
   <dd>Recommended Controlled Vocabulary: N/A</dd>
-  <dd>Notes: Currently this is maintained in order to have an encoded date that is as granular as possible within edtf</dd>
+  <dd>Notes: 
+		<ul>
+			<li>Currently this is maintained in order to have an encoded date that is as granular as possible within edtf</li>
+			<li>Single digit months must be prefixed with a 0. 1955-5 fails, 1955-05 is fine.</li>
+		</ul>
+	</dd>
   <dd>Field Changes: 
 	<ul>
 		<li>Previous name oai_harvester_date</li>
@@ -32,6 +37,6 @@
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> | <a href="rdf.dcterms.created.md">dcterms:created</a> |
 </dl>
-<p><i>Last Updated: </i>05/05/2021</p>
+<p><i>Last Updated: </i>06/18/2021</p>
 </body>
 </html>
