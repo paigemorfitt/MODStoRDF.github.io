@@ -27,6 +27,7 @@
 		<ul>
 			<li>[name will not change in order to allow this field to stand out from other date fields]</li>
 			<li>Do not add encoding to field in IMI spreadsheet (ex: "||edtf||")</li>
+			<li>Single digit months must be prefixed with a 0. 1955-5 fails, 1955-05 is fine.</li>
 		</ul>
 	</dd>
 	<dd><i>Field Changes: </i></font>Will change to field_embargo_date</dd>
@@ -38,6 +39,6 @@
 			<td><a href="rdf.schema.availabilityStarts.md">RDF/schema:avalibilityStarts</a></td>
 		</table>
 </dl>
-<p><i>Last Updated: </i></font>05/24/2021</p>
+<p><i>Last Updated: </i></font>06/30/2021</p>
 </body>
 </html>
