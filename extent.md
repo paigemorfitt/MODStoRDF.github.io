@@ -20,7 +20,6 @@
   <dd>Public-facing name:Extent</dd>
   <dd>Syntax/Formatting:Free text</dd>
   <dd>Recommended Controlled Vocabulary:N/A</dd>
-  
 	<dd>Notes: 
 		<ul>
 			<li>This is not applied to digital file sizes or dpi</li>
