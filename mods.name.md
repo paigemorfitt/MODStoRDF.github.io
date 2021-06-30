@@ -44,9 +44,9 @@
 		<dd>| <a href="advisor.md">IMI/advisors</a> | <a href="rdf.field_linked_agent.md">field_linked_agent / local:adv</a> |</dd>
 		<dd>| <a href="contributors.md">IMI/contributors</a> | <a href="rdf.field_linked_agent.md">RDF/dcterms:contributor/ relators:ctb</a> |</dd>
 		<dd>| <a href="creators.md">IMI/creators</a> | <td><a href="rdf.field_linked_agent.md">field_linked_agent/ relators:cre </a> |</dd>
-		<dd>| <a href="department.md">IMI/department</a> | <a href="ield_linked_agent.md">RDF/schema:department</a> |</dd>
+		<dd>| <a href="department.md">IMI/department</a> | <td><a href="rdf.field_linked_agent.md">RDF/local:dpt</a></td> |</dd>
 		<dd>| <a href="funding_sources.md">IMI/funding_sources</a> | <a href="rdf.p60451.md">RDF/rdau:P60451</a> |</dd>
 </dl>
-<p><i>Last Updated: </i>04/30/2021</p>
+<p><i>Last Updated: </i>06/30/2021</p>
 </body>
 </html>
