@@ -18,7 +18,7 @@
   <dd>Repeatable: Yes</dd>
   <dd>Public Field: Yes</dd>
   <dd>Front-end name: Major Department or Program</dd>
-  <dd>Syntax/Formatting:Free text; must contain prefix “local:dpt:corporate_body:Whitman College. “</dd>
+  <dd>Syntax/Formatting:Free text; must contain prefix “local:dpt:corporate_body:Whitman College.“</dd>
   <dd>Recommended Controlled Vocabulary:</font>In house: College catalog official names</dd>
   <dd>Notes: Record information that is listed on Certificate of Approval </dd>
   <dd><i>Field Changes: </i>Content moving to field_linked_agent</dd></dl>
@@ -27,8 +27,8 @@
 	<dd><b>Related Fields</b></dd>
 		<table>
 			<td><a href="mods.name.md">MODS/name/namePart</a></td>
-			<td><a href="RDF.schema.department.md">RDF/schema:department</a></td>
+			<td><a href="rdf.field_linked_agent.md">RDF/local:dpt</a></td>
 		</table>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>06/30/2021</p>
 </dl>
 </html>
