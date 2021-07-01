@@ -20,7 +20,7 @@
   <dd>Public Field: Yes</dd>
   <dd>Public-facing name: Genre</dd>
   <dd>Syntax/Formatting: Free-text</dd>
-  <dd>Recommended Controlled Vocabulary: AAT/LCSH, COAR, and Whitman College local genre list </dd>
+  <dd>Recommended Controlled Vocabulary: AAT, COAR, and Whitman College local genre list </dd>
   <dd>Notes: 
 	<ul>
 		<li>Caution: do not confuse with the more general type category or with format/physical description.</li>
