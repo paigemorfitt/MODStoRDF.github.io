@@ -162,8 +162,8 @@
   </tr>
   <tr>
     <td><a href="issue_num.md" class ="magic-button" title="ARMINDA Use: Indicate issue number sequential order of volume">issue</a></td>
-    <td><a href="mods.part-detail-number.md" class ="magic-button" title="Definition: Numbering and type of designation of the part in relation to the host/parent">part/detail/number</a></td>
-    <td><a href="rdf.rdf.schema.issueNumber.md" class ="magic-button" title="Definition : Identifies the issue of publication; for example, "iii" or "2".">schema:issueNumber</a></td>
+    <td><a href="mods.part.detail.number.md" class ="magic-button" title="Definition: Numbering and type of designation of the part in relation to the host/parent">part/detail/number</a></td>
+    <td><a href="rdf.schema.issueNumber.md" class ="magic-button" title="Definition : Identifies the issue of publication; for example, "iii" or "2".">schema:issueNumber</a></td>
   </tr>
    <tr>
     <td><a href="language.md" class ="magic-button" title="ARMINDA Use:  the non-English language of the source content being described : applies to textual or spoken word (linguistic) content).">language</a></td>
