@@ -25,8 +25,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="mods.part-detail-number.md">MODS/part/detail/number</a> | <a href="rdf.dcterms.isPartOf.md">RDF:isPartOf</a> |
+		| <a href="mods.part-detail-number.md">MODS/part/detail/number</a> | <a href="rdf.schema.issueNumber.md">RDF/schema:issueNumber</a> |
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>07/08/2021</p>
 </body>
 </html>
