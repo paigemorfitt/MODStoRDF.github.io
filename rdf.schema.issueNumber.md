@@ -13,7 +13,7 @@
 
 
 
-<h1>RDF/dcterms:isPartOf</h1>
+<h1>RDF/schema:issueNumber</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>Definition: Identifies the issue of publication; for example, "iii" or "2".
@@ -24,7 +24,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="issue_num.md">IMI/issue_num</a> | <a href="mods.part.detailnumber.md">MODS/part/detail/number</a> |
+		| <a href="issue_num.md">IMI/issue_num</a> | <a href="mods.part.detail.number.md">MODS/part/detail/number</a> |
 </dl>
 <p><i>Last Updated: </i>07/08/2021</p>
 </body>
