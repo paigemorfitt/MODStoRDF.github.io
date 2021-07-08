@@ -163,7 +163,7 @@
   <tr>
     <td><a href="issue_num.md" class ="magic-button" title="ARMINDA Use: Indicate issue number sequential order of volume">issue</a></td>
     <td><a href="mods.part-detail-number.md" class ="magic-button" title="Definition: Numbering and type of designation of the part in relation to the host/parent">part/detail/number</a></td>
-    <td><a href="rdf.dcterms.isPartOf.md" class ="magic-button" title="Definition: A related resource in which the described resource is physically or logically included.">dcterms:isPartOf</a></td>
+    <td><a href="rdf.rdf.schema.issueNumber.md" class ="magic-button" title="Definition : Identifies the issue of publication; for example, "iii" or "2".">schema:issueNumber</a></td>
   </tr>
    <tr>
     <td><a href="language.md" class ="magic-button" title="ARMINDA Use:  the non-English language of the source content being described : applies to textual or spoken word (linguistic) content).">language</a></td>
@@ -286,7 +286,7 @@
   </tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>05/27/2021</p>
+	<p><i>Last Updated: </i>07/08/2021</p>
 </dl>
 </body>
 </html>
