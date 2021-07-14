@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>[here]</h1>
+<h1>IMI/field_access_terms</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>ARMINDA Use: “Terms used to limit, restrict or coordinate access” - Islandora 8</dd>
