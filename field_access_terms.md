@@ -29,10 +29,6 @@
 	</dd>
   <dd>Field Changes: N/A</dd>
 </dl>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		|<a href="MODS.template.md">[here]</a> | <a href="RDF.template.md">[here]</a>|
-</dl>
 <p><i>Last Updated: </i>07/14/2021</p>
 </body>
 </html>
