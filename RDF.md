@@ -15,7 +15,11 @@
 <p>For Islandora 8 Machine name descriptions, go <a href="Islandora.8.MachineNames.md">here</a> (page in progress)</p>
 
 <h1 id="top">RDF Fields</h1>
+<details>
+<summary>DC terms</summary>
+<br>
 <table>
+</details>
 <h2>dcterms</h2>
 	<tr>
 		<li>dcterms:abstract</li>
