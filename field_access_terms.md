@@ -10,11 +10,6 @@
     <th><a href="RDF.md">RDF Fields</a></th>
   </tr>
 </table>
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
 <h1>IMI/field_access_terms</h1>
 <dl>
   <dt><b>Description</b></dt>
