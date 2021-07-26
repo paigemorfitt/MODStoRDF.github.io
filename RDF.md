@@ -13,17 +13,18 @@
 <table>
 
 <p>For Islandora 8 Machine name descriptions, go <a href="Islandora.8.MachineNames.md">here</a> (page in progress)</p>
+<details>
 
 <h1 id="top">RDF Fields</h1>
-<details>
-<summary>DC terms</summary>
-<br>
 <table>
-</details>
+<summary>How do I dropdown?</summary>
+<br>
 <h2>dcterms</h2>
 	<tr>
 		<li>dcterms:abstract</li>
 	</tr>
+This is how you dropdown.
+</details>
 <h2>rdau</h2>
 	<tr>
 		<li>rdau:P60496</li>
