@@ -23,6 +23,7 @@
 	<tr>
 		<li>dcterms:abstract</li>
 	</tr>
+</br>
 </details>
 <h2>rdau</h2>
 	<tr>
