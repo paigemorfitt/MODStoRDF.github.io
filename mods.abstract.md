@@ -21,9 +21,9 @@
 
 <dl>
 	<dt><b>Related Fields</b></dt>
-		<dd>| <a href="abstract.md">IMI/abstract</a> | <a href="rdf.abstract.md">RDF/dcterms:abstract </a> |</dd>
+		<dd>| <a href="abstract.md">IMI/field_abstract</a> | <a href="rdf.abstract.md">RDF/dcterms:abstract </a> |</dd>
 		<dd>| <a href="description.md">IMI/description</a> |<a href="RDF.description.md">RDF/dcterms:description</a> |</dd>
 </dl>
-<p><i>Last Updated: </i>4/26/2021</p>
+<p><i>Last Updated: </i>07/27/2021</p>
 </body>
 </html>
