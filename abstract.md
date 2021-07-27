@@ -22,14 +22,20 @@
   <dd>Syntax/Formatting:free-text
   </dd>
   <dd>Recommended Controlled Vocabulary:N/A</dd>
-  <dd>Notes: 
+  <dd><b>Notes<b>: 
 	<ul>
 		<li>Use complete sentences</li>
 		<li>Some content moved to IMI/description</li>
 		<li>Contains, italics, bold,  accents, and/or special characters</li>
 	</ul>
 	</dd>
-  <dd>Field Changes: will be renamed to field_abstract </dd>
+	<details>
+	<summary>Islandora 8 notes</summary>
+	<li>Custom created field</li>
+	<li>Type of field: text--formatted long</li>
+	<li>Max Length/Repeatability: Limited/(1)</li>
+	</details>
+  <dd><b>Field Changes<b>: will be renamed to field_abstract </dd>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
