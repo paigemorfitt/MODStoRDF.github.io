@@ -31,11 +31,12 @@
 	</dd>
 	<details>
 	<summary><b>Islandora 8 notes</b></summary>
-	<li>Custom created field</li>
+	<li> Note: Custom created field</li>
 	<li>Type of field: text--formatted long</li>
 	<li>Max Length/Repeatability: Limited/(1)</li>
+	<li>Type of Item Reference/Vocabulary: N/A</li>
 	</details>
-  <dd><b>Field Changes<b>: will be renamed to field_abstract </dd>
+  <dd><b>Field Changes</b>: will be renamed to field_abstract </dd>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
