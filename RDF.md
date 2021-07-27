@@ -13,31 +13,25 @@
 <table>
 
 <p>For Islandora 8 Machine name descriptions, go <a href="Islandora.8.MachineNames.md">here</a> (page in progress)</p>	
-	
-<h1 id="top">RDF Fields</h1>
-<table>
-<h2>dcterms</h2>	
-	<tr>
-		<li>dcterms:abstract</li>
-	</tr>
-<h2>rdau</h2>
-	<tr>
-		<li>rdau:P60496</li>
-		<li>rdau:P60527</li>
-	</tr>
-<h2>relators/foaf</h2>
-	<tr>
-		<li>relators:ths (under review)</li>
-	</tr>
-<h2>schema.org</h2>	
-	<tr>
-		<li></li>
-	</tr>	
-</table>
 
-	
-<p><a href="#top">top</a></p>
+<details>
+<summary>dcterms</summary>
+	<li><a href="rdf.abstract.md">RDF/dcterms:abstract </a></li>
+</details>
+<details>
+<summary>rdau</summary>
+	<li></li>
+</details>
+<details>
+<summary>relators</summary>
+	<li></li>
+</details>
+<details>
+<summary>schema.org</summary>
+	<li></li>
+</details>
 
-<p><font color="red"><i>Last Updated: </i></font>12/23/2020</p>
+
+<p><font color="red"><i>Last Updated: </i></font>07/27/2021</p>
 </dl>
 </html>
