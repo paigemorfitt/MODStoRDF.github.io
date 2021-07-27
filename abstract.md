@@ -30,7 +30,7 @@
 	</ul>
 	</dd>
 	<details>
-	<summary>Islandora 8 notes</summary>
+	<summary><b>Islandora 8 notes</b></summary>
 	<li>Custom created field</li>
 	<li>Type of field: text--formatted long</li>
 	<li>Max Length/Repeatability: Limited/(1)</li>
