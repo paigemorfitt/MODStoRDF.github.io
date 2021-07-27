@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>IMI/abstract</h1>
+<h1>field_abstract</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>ARMINDA Use: A summary of the resource, primarily used with scholarship objects</dd>
@@ -36,7 +36,7 @@
 	<li>Max Length/Repeatability: Limited/(1)</li>
 	<li>Type of Item Reference/Vocabulary: N/A</li>
 	</details>
-  <dd><b>Field Changes</b>: will be renamed to field_abstract </dd>
+  <dd><b>Field Changes</b>: former name IMI/abstract </dd>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
