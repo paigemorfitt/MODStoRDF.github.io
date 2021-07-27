@@ -19,7 +19,7 @@
 <details>
 <summary>A's</summary>
 <br>	
-		<li><a href="abstract.md">abstract (field_abstract)</a></li>
+		<li><a href="abstract.md">field_abstract</a></li>
 		<li><a href="#abstract_format">abstract_format</a> - removed</li>
 		<li><a href="access_condition.md">access_condition (field_limited_access)</a></li>
 		<li><a href="#removed">accession_number</a> - removed</li>
