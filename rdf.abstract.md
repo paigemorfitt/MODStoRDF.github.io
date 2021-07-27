@@ -23,8 +23,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="abstract.md">IMI/abstract</a> | <a href="mods.abstract.md">MODS/abstract</a> |
+		| <a href="abstract.md">IMI/field_abstract</a> | <a href="mods.abstract.md">MODS/abstract</a> |
 </dl>
-<p><i>Last Updated: </i>5/24/2021</p>
+<p><i>Last Updated: </i>07/27/2021</p>
 </body>
 </html>
