@@ -45,15 +45,18 @@
 	</dd>
   <dd>Field Changes: 
 		<ul>
-			<li>Content will be moved to field_linked_agent</li>
-			<li>Being removed. Non-mapped fields are being removed.</li>
+			<li>Majority of spreadsheets do not have this field and proceed to add content directly to field_linked_agent</li>
 		</ul>
 	</dd>
 </dl>
+	<details>
+		<summary><b>Islandora 8 notes</b></summary>
+			<li>Content moving to field_linked_agent</li>
+	</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/relators:ctb</a> |
 </dl>
-<p><i>Last Updated: </i>06/16/2021</p>
+<p><i>Last Updated: </i>07/29/2021</p>
 </body>
 </html>
