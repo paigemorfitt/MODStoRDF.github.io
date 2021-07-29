@@ -11,11 +11,7 @@
   </tr>
 </table>
 
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
+
 
 <h1>IMI/box</h1>
 <dl>
