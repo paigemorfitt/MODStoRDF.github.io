@@ -66,7 +66,7 @@
     <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="identifies the entity or entities that made contributions to the creation of the resource but whose contributions are secondary to any person or organization specified in the creator(s) field. ">relators:ctb</a></td>
   </tr>
   <tr>
-    <td><a href="coverage_spatial.md" class ="magic-button" title="ARMINDA Use: Geographic subject headings">coverage_spatial</a></td>
+    <td><a href="coverage_spatial.md" class ="magic-button" title="ARMINDA Use: Geographic subject headings">field_geographic_subject</a></td>
     <td><a href="mods.subject_geographic.md" class ="magic-button" title="Definition: A term or phrase representing the primary topic(s) on which a work is focused">subject/geographic</a></td>
     <td><a href="rdf.dcterms_spatial.md" class ="magic-button" title="Definition: Spatial characteristics of the resource.">dcterms:spatial</a></td>
   </tr>
