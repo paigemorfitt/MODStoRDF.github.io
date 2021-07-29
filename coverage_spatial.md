@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>IMI/coverage_spatial</h1>
+<h1>field_geographic_subject</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>ARMINDA Use: Geographic subject headings</dd>
@@ -30,12 +30,22 @@
 		<li>Exception are local terms which all start with ""Whitman College"</li>
 	</ul>
 	</dd>
-  <dd>Field Changes: partial absorption by IMI/subject-keywords, will be renamed to field_geographic_subject</dd>
+  <dd><b>Field Changes:</b> 
+		<li>partial absorption by IMI/subject-keywords </li>
+		<li>former name Imi/coverage_spatial</li>
+	</dd>
+	<details>
+		<summary><b>Islandora 8 notes</b></summary>
+			<li> Note: default field</li>
+			<li>Type of field: Entity reference</li>
+			<li>Max Length/Repeatability: Unlimited</li>
+			<li>Type of Item Reference/Vocabulary: Taxonomy Term / Geographic Location </li>
+	</details>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <td><a href="mods.subject_geographic.md">subject/geographic</a></td> | <a href="rdf.dcterms_spatial.md">RDF/dcterms:spatial</a>|
 </dl>
-<p><i>Last Updated: </i>06/17/2021</p>
+<p><i>Last Updated: </i>07/29/2021</p>
 </body>
 </html>
