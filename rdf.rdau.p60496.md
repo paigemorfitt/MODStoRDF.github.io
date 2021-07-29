@@ -24,8 +24,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="access_condition.md">IMI/access_condition</a> | <a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
+		| <a href="access_condition.md">field_limited_access</a> | <a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
 </dl>
-<p><i>Last Updated: </i>05/24/2021</p>
+<p><i>Last Updated: </i>07/29/2021</p>
 </body>
 </html>
