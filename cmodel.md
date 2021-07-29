@@ -21,7 +21,9 @@
   <dd>Public-facing name:N/A</dd>
   <dd>Syntax/Formatting: Free-text</dd>
   <dd>Recommended Controlled Vocabulary: Islandora Model terms</dd>
-  <dd><b>Notes:</b> Necessary for Islandora. Necessary for Islandora. This is the "type" of resource, this does affect how it is displayed/viewed. </dd>
+  <dd><b>Notes:</b>
+	<li>Necessary for Islandora. Necessary for Islandora. This is the "type" of resource, this does affect how it is displayed/viewed.</li>
+	</dd>
   <dd>Field Changes: 
 	<li>Repurpose. Strip terms for Controlled Terms.</li>
 	<li>former name IMI/cmodel</li>
