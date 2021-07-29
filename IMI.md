@@ -57,7 +57,7 @@
 		<li><a href="#removed">copyright_notes</a> - removed</li>
 		<li><a href="#removed">costume_design</a> - removed</li>
 		<li><a href="#removed">cover_image_url</a> - removed</li>
-		<li><a href="coverage_spatial.md">coverage_spatial (field_geographic_subject)</a></li>		
+		<li><a href="coverage_spatial.md">field_geographic_subject</a></li>		
 		<li><a href="#removed">create_openurl	</a> - removed</li>
 		<li><a href="creators.md">creators (field_linked_agent)	</a></li>
 		<li><a href="#removed">cultural_affiliation</a> - removed</li>
