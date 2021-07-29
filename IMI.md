@@ -48,7 +48,7 @@
 		<li><a href="#removed">campus_location</a> - removed</li>
 		<li><a href="#removed">catalog_id</a> - removed</li>
 		<li><a href="#removed">city - TWG/city</a> - removed</li>		
-		<li><a href="cmodel.md">cmodel (field_model)</a></li>
+		<li><a href="cmodel.md">field_model</a></li>
 		<li><a href="#removed">collection_name	</a> - removed</li>
 		<li><a href="#removed">comments</a> - removed</li>
 		<li><a href="#removed">conference_track</a> - removed</li>
