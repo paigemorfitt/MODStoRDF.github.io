@@ -56,7 +56,7 @@
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href="cmodel.md" class ="magic-button" title="Tells what content model the file is -- audio, image.etc;  tells what type of file for Islandora to expect. ">cmodel</a></td>
+    <td><a href="cmodel.md" class ="magic-button" title="Tells what content model the file is -- audio, image.etc;  tells what type of file for Islandora to expect. ">field_model</a></td>
     <td>N/A</td>
     <td><a href="rdf.pcdm_memberOf.md" class ="magic-button" title="Definition: Links from an Object or Collection to a containing Object or Collection.">pcdm:memberOf</a></td>
   </tr>
