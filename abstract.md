@@ -29,15 +29,16 @@
 		<li>Contains, italics, bold,  accents, and/or special characters</li>
 	</ul>
 	</dd>
-	<details>
-	<summary><b>Islandora 8 notes</b></summary>
-	<li> Note: Custom created field</li>
-	<li>Type of field: text--formatted long</li>
-	<li>Max Length/Repeatability: Limited/(1)</li>
-	<li>Type of Item Reference/Vocabulary: N/A</li>
-	</details>
+
   <dd><b>Field Changes</b>: former name IMI/abstract </dd>
 </dl>
+	<details>
+		<summary><b>Islandora 8 notes</b></summary>
+			<li> Note: Custom created field</li>
+			<li>Type of field: text--formatted long</li>
+			<li>Max Length/Repeatability: 255 characters / Limited (1)</li>
+			<li>Type of Item Reference/Vocabulary: N/A</li>
+	</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
 		|<a href="mods.abstract.md">MODS/abstract</a> |<a href="rdf.abstract.md">RDF/dcterms:abstract </a>|
