@@ -17,6 +17,7 @@
 <details>
 <summary>dcterms</summary>
 	<li><a href="rdf.abstract.md">RDF/dcterms:abstract </a></li>
+	 <li><a href="rdf.dcterms_spatial.md" class ="magic-button" title="Definition: Spatial characteristics of the resource.">dcterms:spatial</a></li>
 </details>
 <details>
 <summary>rdau</summary>
