@@ -25,11 +25,10 @@
 		<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
 		<li>For multiple authors, separate with pipe with no space trailing.</li>
 		<li>All names prefaces with the "local:adv:person:"</li>
-		<li>This field is being added to field_linked_agent for Islandora 8 ingest</li>
 	</ul>
   </dd>
   <dd>Recommended Controlled Vocabulary: LCNAF, VIAF, my.whitman, local names</dd>
-  <dd>Notes: 
+  <dd><b>Notes:</b> 
 	<ul>
 		<li>Provide as much known information as possible (either provided on resource or found elsewhere)</li>
 		<li>Separate repeated terms consistently (with pipe)</li>
@@ -39,18 +38,21 @@
 		<li>Contains html, accents, and/or special characters</li>
 		</ul>
 	</dd>
-  <dd>Field Changes: 
+  <dd><b>Field Changes:</b> 
 		<ul>
 			<li>previous name: advisor1</li>
-			<li>content moving to field_linked_agent</li>
-			<li>Being removed. Non-mapped fields are being removed.</li>
+			<li>Majority of spreadsheets do not have this field and proceed to add content directly into field_linked_agent</li>
 		</ul>
   </dd>
+  <details>
+		<summary><b>Islandora 8 notes</b></summary>
+			<li> Note: Content moving to field_linked_agent. </li>
+	</details>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/local:adv</a>|
+	<a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent</a>|<a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/local:adv</a>|
 </dl>
-<p><i>Last Updated: </i>06/16/2021</p>
+<p><i>Last Updated: </i>07/29/2021</p>
 </body>
 </html>
