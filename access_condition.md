@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>IMI/access_condition</h1>
+<h1>field_limited_access</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>ARMINDA Use: Field that indicates item may be accessed by only current Whitman affiliates (netID holders).</dd>
@@ -26,12 +26,19 @@
 		<li>There are two Access Condition fields.The other is field_access_terms.</li>
 		</ul>
 	</dd>
-  <dd>Field Changes: will be renamed to field_limited_access</dd>
+  <dd>Field Changes: former name IMI/access_condition</dd>
 </dl>
+	<details>
+		<summary><b>Islandora 8 notes</b></summary>
+			<li> Note: Custom created field</li>
+			<li>Type of field: text</li>
+			<li>Max Length/Repeatability: Limited/(1)</li>
+			<li>Type of Item Reference/Vocabulary: N/A</li>
+	</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.access_condition.md">MODS/accessCondition</a> | <a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
 </dl>
-<p><i>Last Updated: </i>06/14/2021</p>
+<p><i>Last Updated: </i>07/29/2021</p>
 </body>
 </html>
