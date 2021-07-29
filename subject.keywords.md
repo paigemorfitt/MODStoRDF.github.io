@@ -24,7 +24,7 @@
 			<li>Library of Congress Subject Headings (LCSH)</li>
 			<li>Medical Subejct Headings (MeSH)</li>
 			<li>Whitman College localized Subject list</li>
-			<li><a href="https://sites.google.com/whitman.edu/islandoratermselector/home"test personalized subject search</a></li>
+			<li><a href="https://sites.google.com/whitman.edu/islandoratermselector/home">test personalized subject search</a></li>
 		</ul>
   </dd>
   <dd>Notes: 
