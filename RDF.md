@@ -20,7 +20,7 @@
 </details>
 <details>
 <summary>rdau</summary>
-	<li></li>
+    <td><a href="rdf.rdau.p60496.md" class ="magic-button" title="Definition: Relates a resource to limitations placed on access to a resource">rdau:P60496</a></td>
 </details>
 <details>
 <summary>relators</summary>
@@ -32,6 +32,6 @@
 </details>
 
 
-<p><font color="red"><i>Last Updated: </i></font>07/27/2021</p>
+<p><i>Last Updated:</font>07/27/2021</p>
 </dl>
 </html>
