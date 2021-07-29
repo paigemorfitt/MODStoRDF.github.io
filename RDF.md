@@ -20,7 +20,7 @@
 </details>
 <details>
 <summary>rdau</summary>
-    <td><a href="rdf.rdau.p60496.md" class ="magic-button" title="Definition: Relates a resource to limitations placed on access to a resource">rdau:P60496</a></td>
+    <li><a href="rdf.rdau.p60496.md" class ="magic-button" title="Definition: Relates a resource to limitations placed on access to a resource">rdau:P60496</a></li>
 </details>
 <details>
 <summary>relators</summary>
