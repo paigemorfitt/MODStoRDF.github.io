@@ -21,7 +21,7 @@
 <br>	
 		<li><a href="abstract.md">field_abstract</a></li>
 		<li><a href="#abstract_format">abstract_format</a> - removed</li>
-		<li><a href="access_condition.md">access_condition (field_limited_access)</a></li>
+		<li><a href="access_condition.md">field_limited_access</a></li>
 		<li><a href="#removed">accession_number</a> - removed</li>
 		<li><a href="advisor.md">advisors (field_linked_agent)</a></li>	
 		<li><a href="#removed">attach_additional_files</a> - removed</li>
