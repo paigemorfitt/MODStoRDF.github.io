@@ -23,8 +23,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="coverage_spatial.md">IMI/coverage_spatial</a> | <a href="mods.subject_geographic.md">MODS/subject/geographic</a> |
+		| <a href="coverage_spatial.md">field_geographic_subject</a> | <a href="mods.subject_geographic.md">MODS/subject/geographic</a> |
 </dl>
-<p><i>Last Updated: </i>04/27/2021</p>
+<p><i>Last Updated: </i>07/29/2021</p>
 </body>
 </html>
