@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>field_abstract</h1>
+<h1>[field]</h1>
 <table>
 <tr>
 	<th>Description</th>
