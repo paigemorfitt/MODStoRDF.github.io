@@ -70,12 +70,9 @@
 			<table>
 				<tr>
 					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
 				</tr>
 				<tr>
-					<p>Content moving to field_linked_agent</p>
+					<td>Content moving to field_linked_agent</td>
 				</tr>
 			</table>
 </details>
