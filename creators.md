@@ -76,6 +76,6 @@
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/local:adv</a> |
 </dl>
-<p><i>Last Updated: </i>06/17/2021</p>
+<p><i>Last Updated: </i>08/03/2021</p>
 </body>
 </html>
