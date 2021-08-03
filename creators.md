@@ -75,10 +75,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i>
 				</tr>
 				<tr>
-					<td>Content moving to field_linked_agent</td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<p>Content moving to field_linked_agent</p>
 				</tr>
 			</table>
 </details>
