@@ -14,9 +14,6 @@
 <h1>IMI/creators</h1>
 <table>
 <tr>
-	<th>Description</th>
-</tr>
-<tr>
 	<th>ARMINDA Use</th>
 	<td>identifies the entity/entities primarily responsible for making the resource</td>
 </tr>
