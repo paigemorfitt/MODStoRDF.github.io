@@ -38,7 +38,9 @@
 					<td></td>
 					<td></td>
 					<td></td>
-	</details>
+				</tr>
+			</table>
+</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
 		|<a href=""></a> |<a href=""></a>|
