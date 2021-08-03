@@ -14,14 +14,43 @@
 <h1>field_abstract</h1>
 <table>
 <tr>
-	<th>1</th>
+	<th>Description</th>
 	<td>2</td>
-	<td>3</td>
 </tr>
 <tr>
-	<th>1</th>
+	<th>ARMINDA Use</th>
 	<td>2</td>
-	<td>3</td>
+</tr>
+<tr>
+	<th>Obligation</th>
+	<td>2</td>
+</tr>
+<tr>
+	<th>Repeatable</th>
+	<td>2</td>
+</tr>
+<tr>
+	<th>Public Field</th>
+	<td>2</td>
+</tr>
+<tr>
+	<th>Public-facint name</th>
+	<td>2</td>
+</tr>
+<tr>
+	<th>Syntax/Formatting</th>
+	<td>2</td>
+</tr>
+<tr>
+	<th>Recommended Controlled Vocabulary</th>
+	<td>2</td>
+</tr>
+<tr>
+	<th>Notes</th>
+	<td>
+		<li></li>
+		<li></li>
+	</td>
 </tr>
 </table>
 <details>
