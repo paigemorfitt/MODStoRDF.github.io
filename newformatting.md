@@ -11,12 +11,8 @@
   </tr>
 </table>
 
-<h1>field_abstract</h1>
+<h1>[field]</h1>
 <table>
-<tr>
-	<th>Description</th>
-	<td>2</td>
-</tr>
 <tr>
 	<th>ARMINDA Use</th>
 	<td>2</td>
