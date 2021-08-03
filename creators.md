@@ -12,22 +12,47 @@
 </table>
 
 <h1>IMI/creators</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>ARMINDA Use: identifies the entity/entities primarily responsible for making the resource </dd>
-  <dd>Obligation: Required, if applicable</dd>
-  <dd>Repeatable: Yes</dd>
-  <dd>Public Field: Yes</dd>
-  <dd>Public-facing name: Creator</dd>
-  <dd>Syntax/Formatting:
-	<ul>
-		<li>Free text / RDA 19.2</li>
-		<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
-		<li>For multiple authors, separate with pipe with no space trailing.</li>
-	</ul>
-  </dd>
-  <dd>Recommended Controlled Vocabulary: LCNAF, VIAF, my.whitman, local names</dd>
-  <dd>Notes: 
+<table>
+<tr>
+	<th>Description</th>
+</tr>
+<tr>
+	<th>ARMINDA Use</th>
+	<td>identifies the entity/entities primarily responsible for making the resource</td>
+</tr>
+<tr>
+	<th>Obligation</th>
+	<td>Required, if applicable</td>
+</tr>
+<tr>
+	<th>Repeatable</th>
+	<td>Yes</td>
+</tr>
+<tr>
+	<th>Public Field</th>
+	<td>Yes</td>
+</tr>
+<tr>
+	<th>Public-facing name</th>
+	<td>Creator</td>
+</tr>
+<tr>
+	<th>Syntax/Formatting</th>
+	<td>
+		<ul>
+			<li>Free text / RDA 19.2</li>
+			<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
+			<li>For multiple authors, separate with pipe with no space trailing.</li>
+		</ul>
+	</td>
+</tr>
+<tr>
+	<th>Recommended Controlled Vocabulary</th>
+	<td>LCNAF, VIAF, my.whitman, local names</td>
+</tr>
+<tr>
+	<th>Notes</th>
+	<td>
 		<ul>
 			<li>Provide as much known information as possible (either provided on resource or found elsewhere)</li>
 			<li>Separate repeated terms consistently (with pipe)</li>
@@ -37,16 +62,26 @@
 			<li>Do birthdate or death date unless to disambiguate identical named individuals</li>
 			<li>Contains html, accents, and/or special characters</li>
 		</ul>
-	</dd>
-  <dd>Field Changes: 
-	<ul>
-		<li>previous name : authors</li>
-		<li>content moving to field_linked_agent</li>
-		<li>Being removed. Non-mapped fields are being removed.</li>
-	</ul>
-  </dd>
-</dl>
-<dl>
+	</td>
+</tr>
+</table>
+<details>
+		<summary><b>Islandora 8 notes</b></summary>
+			<table>
+				<tr>
+					<th><i>Note</i>
+					<th><i>Type of field</i>
+					<th><i>Max Length/Repeatability</i>
+					<th><i>Type of Item Reference/Vocabulary</i>
+				</tr>
+				<tr>
+					<td>Content moving to field_linked_agent</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+</details>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/local:adv</a> |
 </dl>
