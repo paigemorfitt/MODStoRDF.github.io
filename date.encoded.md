@@ -11,32 +11,76 @@
   </tr>
 </table>
 
-<h1>IMI/date_encoded</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>ARMINDA Use: Encoded date of creation or publication of the original object with qualifiers and date ranges when applicable</dd>
-  <dd>Obligation: Required, if applicable</dd>
-  <dd>Repeatable: No</dd>
-  <dd>Public Field: No</dd>
-  <dd>Syntax/Formatting: EDTF according to DateFormattingGuidelinesARMINDA </dd>
-  <dd>Recommended Controlled Vocabulary: N/A</dd>
-  <dd>Notes: 
+<h1>field_edtf_date_created</h1>
+<table>
+<tr>
+	<th>ARMINDA Use</th>
+	<td>Encoded date of creation or publication of the original object with qualifiers and date ranges when applicable</td>
+</tr>
+<tr>
+	<th>Obligation</th>
+	<td>Required, if applicable</td>
+</tr>
+<tr>
+	<th>Repeatable</th>
+	<td>No</td>
+</tr>
+<tr>
+	<th>Public Field</th>
+	<td>No</td>
+</tr>
+<tr>
+	<th>Public-facing name</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Syntax/Formatting</th>
+	<td>EDTF according to DateFormattingGuidelinesARMINDA</td>
+</tr>
+<tr>
+	<th>Recommended Controlled Vocabulary</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Notes</th>
+	<td>
 		<ul>
 			<li>Currently this is maintained in order to have an encoded date that is as granular as possible within edtf</li>
 			<li>Single digit months must be prefixed with a 0. 1955-5 fails, 1955-05 is fine.</li>
 		</ul>
-	</dd>
-  <dd>Field Changes: 
-	<ul>
-		<li>Previous name oai_harvester_date</li>
-		<li>Machine name:field_edtf_date_created</li>
-	</ul>
-  </dd>
-</dl>
+	</td>
+</tr>
+<tr>
+	<th>Field changes</th>
+	<td>
+		<ul>
+		<li>former name: oai_harvester_date</li>
+		<li>former name: IMI/date_encoded</li>
+		</ul>
+	</td>
+</tr>
+</table>
+<details>
+		<summary><b>Islandora 8 notes</b></summary>
+			<table>
+				<tr>
+					<th><i>Note</i>
+					<th><i>Type of field</i>
+					<th><i>Max Length/Repeatability</i>
+					<th><i>Type of Item Reference/Vocabulary</i>
+				</tr>
+				<tr>
+					<td>Default fied?</td>
+					<td>EDTF</td>
+					<td>128 Characters / Unlimited</td>
+					<td>N/A</td>
+				</tr>
+			</table>
+</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> | <a href="rdf.dcterms.created.md">dcterms:created</a> |
 </dl>
-<p><i>Last Updated: </i>06/18/2021</p>
+<p><i>Last Updated: </i>08/04/2021</p>
 </body>
 </html>
