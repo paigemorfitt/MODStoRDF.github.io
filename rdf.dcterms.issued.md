@@ -23,7 +23,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="date_issued.md">IMI/date_issued</a> | <a href="mods.originInfo_dateIssued.md">MODS/originInfo/dateIssued</a> |
+		| <a href="date_issued.md">field_edtf_date_issued</a> | <a href="mods.originInfo_dateIssued.md">MODS/originInfo/dateIssued</a> |
 </dl>
 <p><i>Last Updated: </i>05/05/2021</p>
 </body>
