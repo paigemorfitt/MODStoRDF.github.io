@@ -29,7 +29,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="date_issued.md">IMI/date_issued</a> | <a href="rdf.dcterms.issued.md">dcterms:issued</a> |
+		| <a href="date_issued.md">field_edtf_date_issued</a> | <a href="rdf.dcterms.issued.md">dcterms:issued</a> |
 </dl>
 <p><i>Last Updated: </i>05/05/2021</p>
 </body>
