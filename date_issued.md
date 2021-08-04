@@ -11,19 +11,6 @@
   </tr>
 </table>
 
-<!DOCTYPE html>
-<html>
-
-<body>
-<table style="width:100%">
-  <tr>
-    <th><a href="index.md">Main page</a></th>
-	<th><a href="IMI.md">IMI Columns</a></th>
-    <th><a href="MODS.md">MODS Fields</a></th>
-    <th><a href="RDF.md">RDF Fields</a></th>
-  </tr>
-</table>
-
 <h1>field_edtf_date_issued</h1>
 <table>
 <tr>
