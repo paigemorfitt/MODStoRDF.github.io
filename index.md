@@ -81,7 +81,7 @@
 		<td><a href="rdf.rdau.p60527.md" class ="magic-button" title="Definition: Relates a resource to a timespan that is the earliest associated with a resource">rdau:P60527</a></td>
   </tr>
    <tr>
-    <td><a href="date.encoded.md" class ="magic-button" title="ARMINDA Use: Encoded date of creation or publication of the original object with qualifiers and date ranges when applicable">date_encoded</a></td>
+    <td><a href="date.encoded.md" class ="magic-button" title="ARMINDA Use: Encoded date of creation or publication of the original object with qualifiers and date ranges when applicable">field_edtf_date_created</a></td>
 		<td><a href="mods.originInfo_dateOther.md" class ="magic-button" title="Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource.">originInfo/dateOther</a></td>
     <td><a href="rdf.dcterms.created.md" class ="magic-button" title="Definition: Date of creation of the resource. ">dcterms:created</a></td>
   </tr>  
