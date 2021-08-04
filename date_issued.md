@@ -46,7 +46,7 @@
 	<td>
 		<ul>
 			<li>Single digit months must be prefixed with a 0. 1955-5 fails, 1955-05 is fine.</li>
-			</li>Date issued needs to be displayed in order to work for newspapers</li>
+			<li>Date issued needs to be displayed in order to work for newspapers</li>
 		</ul>
 	</td>
 </tr>
