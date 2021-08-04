@@ -86,7 +86,7 @@
     <td><a href="rdf.dcterms.created.md" class ="magic-button" title="Definition: Date of creation of the resource. ">dcterms:created</a></td>
   </tr>  
    <tr>
-		<td><a href="date_issued.md" class ="magic-button" title="ARMINDA Use: Issue date of the newspaper">date_issued</a></td>
+		<td><a href="date_issued.md" class ="magic-button" title="ARMINDA Use: Issue date of the newspaper">field_edtf_date_issued</a></td>
 		<td><a href="mods.originInfo_dateIssued.md" class ="magic-button" title="Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource.">originInfo/dateIssued</a></td>
 		<td><a href="rdf.dcterms.issued.md" class ="magic-button" title="Definition: Date of formal issuance of the resource.">dcterms:issued</a></td>
   </tr>
