@@ -265,9 +265,9 @@
     <td><a href="rdf.dcterms.alternative.md" class ="magic-button" title="Definition: An alternative name for the resource.">dcterms:alternative</a></td>
   </tr>
   <tr>
-	<td><a href="url_alias.md" class ="magic-button" title="[definition]">url_alias (under construction)</a></td>
+	<td><a href="url_alias.md" class ="magic-button" title="Reserved Workbench CSV column used for created and updating : similar to Permalink handle)">url_alias</a></td>
 	<td>N/A</td>
-	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
+	<td>N/A</td>
   </tr>
   <tr>
     <td><a href="url.external.md" class ="magic-button" title="ARMINDA Use: URL linking file content not hosted in ARMINDA to metadata record, in ARMINDA">url_external</a></td>
@@ -291,7 +291,7 @@
   </tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>07/14/2021</p>
+	<p><i>Last Updated: </i>08/20/2021</p>
 </dl>
 </body>
 </html>
