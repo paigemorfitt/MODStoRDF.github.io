@@ -136,9 +136,9 @@
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
   <tr>
-	<td><a href="file.md" class ="magic-button" title="[definition]">file </a></td>
+	<td><a href="file.md" class ="magic-button" title=""Values contain field location of fields that are used to create Drupal Media"">file </a></td>
 	<td>N/A</td>
-	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
+	<td>N/A</td>
   </tr>
     <tr>
     <td><a href="filepath.md" class ="magic-button" title="ARMINDA Use: Used in ARMIDNA as the filename of object; often times includes in ingest path for field - filename is in path  -- a place holder field that keeps track of where items are, and helps us distinguish between individual objects along with unique_identifier)">filepath</a></td>
