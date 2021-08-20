@@ -116,9 +116,9 @@
     <td><a href="rdf.dcterms.extent.md" class ="magic-button" title="Definition: The size or duration of the resource.">dcterms:extent</a></td>
   </tr>
   <tr>
-	<td><a href="file_display_hint.md" class ="magic-button" title="[definition]">file_display_hint (under construction)</a></td>
+	<td><a href="file_display_hint.md" class ="magic-button" title="Terms that will change how this resource is displayed">file_display_hint</a></td>
 	<td>N/A</td>
-	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
+	<td>N/A</td>
   </tr>
     <tr>
 	<td><a href="field_access_terms.md" class ="magic-button" title="“Terms used to limit, restrict or coordinate access” - Islandora 8">field_access_terms</a></td>
@@ -153,7 +153,7 @@
   <tr>
     <td><a href="genre.md" class ="magic-button" title="ARMINDA Use: A more detailed sub-type refining the broader Work Type element; provides a specific characterization of the nature or style of the original content source">genre</a></td>
     <td><a href="mods.genre.md" class ="magic-button" title="Definition: A term or terms that designate a category characterizing a particular style, form, or content, such as artistic, musical, literary composition, etc.">genre</a></td>
-    <td><a href="rdf.schema.genre.md" class ="magic-button" title="Definition: Genre of the creative work, broadcast channel or group.">schema:genre</a></td>
+    <td><a href="rdf.schema.genre.md" class ="magic-button" title="Definition: Genre of the creative work, broadcast channel or group."><b>schema:genre</b> I8 mapping needs correcting</a></td>
   </tr>
   <tr>
 	<td><a href="id.md" class ="magic-button" title="[definition]">id (under construction)</a></td>
