@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>IMI/license_file</h1>
+<h1>license_file</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>ARMINDA Use: Field used for ingest into ARMINDA. </dd>
@@ -25,10 +25,11 @@
 	<ul>
 		<li>Maintain for ingest reasons.</li>
 		<li>Temporary location for information used for item ingest into ARMINDA</li>
+		<li>Maintain for internal non-ingest reasons</li>
 	</ul>
 	</dd>
   <dd>Field Changes: N/A</dd>
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>08/20/2021</p>
 </body>
 </html>
