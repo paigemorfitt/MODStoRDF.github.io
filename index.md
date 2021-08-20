@@ -136,7 +136,7 @@
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
   <tr>
-	<td><a href="file.md" class ="magic-button" title=""Values contain field location of fields that are used to create Drupal Media"">file </a></td>
+	<td><a href="file.md" class ="magic-button" title="Values contain field location of fields that are used to create Drupal Media">file </a></td>
 	<td>N/A</td>
 	<td>N/A</td>
   </tr>
