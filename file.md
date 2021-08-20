@@ -26,11 +26,7 @@
 		<li>Not a field in Islandora 8</li>
 		<li>Not mapped</li>
 		<li>Workbench field</li>
-		<li>It can create more than one (depends on what media you want to pull over)</li>
-		<li>Type of media is determined by identifying in your configuration file a value from “Islandora Media Use” vocabulary (terms to define how a media object is to be used) </li>
-		<li>Relative, absolute and URL file locations can exist within the same CSV</li>
-		<li>By default, if value is empty Workbench will show “error” </li>
-		<li>Workbench downloads files identified by URLS and safes them to directory. Files identified by URLS must be accessible by Workbench script, and cannot point to a wrapper, or password protected page (firewalls are ok so long as computer running Workbench is allowed to retrieve files upon authentication) </li>
+		<li>(to be finished)</li>
 		</ul>
 	</dd>
   <dd>Field Changes: Parallel field : obj_file (removed)</dd>
