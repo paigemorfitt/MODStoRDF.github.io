@@ -54,7 +54,7 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Contains content from IMI/abstract, former name: IMI/description<td>
+	<td>Contains content from IMI/abstract, former name: IMI/description</td>
 </tr>
 </table>
 <details>
