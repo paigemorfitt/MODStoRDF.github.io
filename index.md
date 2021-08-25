@@ -101,9 +101,9 @@
     <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: College division in which the item is categorized">local:dpt</a></td>
   </tr>
   <tr>
-    <td><a href="description.md" class ="magic-button" title="Definition: An account of the resource, primarily used for archival objects">description</a></td>
+    <td><a href="description.md" class ="magic-button" title="Definition: An account of the resource, primarily used for archival objects">field_description_long</a></td>
     <td><a href="mods.abstract.md" class ="magic-button" title="Definition: A summary of the content of the resource">abstract</a></td>
-    <td><a href="RDF.description.md" class ="magic-button" title="An account of the resource.">dcterms:description</a></td>
+    <td><a href="rdf.dcterms.description.md" class ="magic-button" title="An account of the resource.">dcterms:description</a></td>
   </tr>
   <tr>
     <td><a href="embargo_date.md" class ="magic-button" title="ARMINDA Use:Date when item is released for public viewing.">embargo_date</a></td>
