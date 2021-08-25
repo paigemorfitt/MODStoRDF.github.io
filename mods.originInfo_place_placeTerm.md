@@ -36,8 +36,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="origin.md">IMI/origin</a> | <a href="rdf.rdau.p60523.md">RDF/rdau:p60523</a> |
+		| <a href="origin.md">field_origin</a> | <a href="rdf.rdau.p60523.md">RDF/rdau:p60523</a> |
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>08/25/2021</p>
 </body>
 </html>
