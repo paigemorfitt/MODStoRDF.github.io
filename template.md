@@ -11,30 +11,66 @@
   </tr>
 </table>
 
-<h1>[here]</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>ARMINDA Use: </dd>
-  <dd>Obligation: [here]</dd>
-  <dd>Repeatable: [here]</dd>
-  <dd>Public Field:[here]</dd>
-  <dd>Public-facing name:[here]</dd>
-  <dd>Syntax/Formatting:
-	<ul>
-		<li>[here]</li>
-	</ul>
-  </dd>
-  <dd>Recommended Controlled Vocabulary:[here]</dd>
-  <dd>Notes: 
-	<ul>
-		<li>[here]</li>
+<h1>[field]</h1>
+<table>
+<tr>
+	<th>ARMINDA Use</th>
+	<td>[here]</td>
+</tr>
+<tr>
+	<th>Obligation</th>
+	<td>[here]</td>
+</tr>
+<tr>
+	<th>Repeatable</th>
+	<td>[here]</td>
+</tr>
+<tr>
+	<th>Public Field</th>
+	<td>[here]</td>
+</tr>
+<tr>
+	<th>Public-facing name</th>
+	<td>[here]</td>
+</tr>
+<tr>
+	<th>Syntax/Formatting</th>
+	<td>[here]</td>
+</tr>
+<tr>
+	<th>Recommended Controlled Vocabulary</th>
+	<td>[here]</td>
+</tr>
+<tr>
+	<th>Notes</th>
+	<td>
+		<ul>
+			<li>[here]</li>
+			<li>[here]</li>
 		</ul>
-	</dd>
-  <dd>Field Changes: [here]</dd>
-</dl>
+	</td>
+</tr>
+</table>
+<details>
+		<summary><b>Islandora 8 notes</b></summary>
+			<table>
+				<tr>
+					<th><i>Note</i>
+					<th><i>Type of field</i>
+					<th><i>Max Length/Repeatability</i>
+					<th><i>Type of Item Reference/Vocabulary</i>
+				</tr>
+				<tr>
+					<td>[here]</td>
+					<td>[here]</td>
+					<td>[here]</td>
+					<td>[ere]/td>
+				</tr>
+			</table>
+</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="MODS.template.md">[here]</a> | <a href="RDF.template.md">[here]</a>|
+		| <a href="[here]">MODS/[here]</a> | <a href="[here]">RDF/[here]</a> |
 </dl>
 <p><i>Last Updated: </i>[here]</p>
 </body>
