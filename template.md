@@ -50,6 +50,10 @@
 		</ul>
 	</td>
 </tr>
+<tr>
+	<th>Field Changes</th>
+	<td>[here]</td>
+</tr>
 </table>
 <details>
 		<summary><b>Islandora 8 notes</b></summary>
