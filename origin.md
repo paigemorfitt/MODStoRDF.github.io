@@ -13,28 +13,71 @@
 
 
 
-<h1>IMI/origin</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>ARMINDA Use: Provides place names associated with the creation or issuance of a resource. </dd>
-  <dd>Obligation: Required, if applicable</dd>
-  <dd>Repeatable: Yes, if applicable*</dd>
-  <dd>Public Field: Yes</dd>
-  <dd> Front-end name: Origin </dd>
-  <dd>Syntax/Formatting: Free text</dd>
-  <dd>Recommended Controlled Vocabulary: Library of Congress Subject Headings</dd>
-  <dd>Notes: 
-	<ul>
-		<li>Field applies to Sheehan collection</li>
-		<li>*Repeatability only for special cases in Sheehan Gallery Collection</li>
+<h1>field_origin</h1>
+<table>
+<tr>
+	<th>ARMINDA Use</th>
+	<td>Provides place names associated with the creation or issuance of a resource. </td>
+</tr>
+<tr>
+	<th>Obligation</th>
+	<td>Required, if applicable</td>
+</tr>
+<tr>
+	<th>Repeatable</th>
+	<td>Yes, if applicable*</td>
+</tr>
+<tr>
+	<th>Public Field</th>
+	<td>Yes</td>
+</tr>
+<tr>
+	<th>Public-facing name</th>
+	<td>Origin</td>
+</tr>
+<tr>
+	<th>Syntax/Formatting</th>
+	<td>Free-text</td>
+</tr>
+<tr>
+	<th>Recommended Controlled Vocabulary</th>
+	<td>LCSH</td>
+</tr>
+<tr>
+	<th>Notes</th>
+	<td>
+		<ul>
+			<li>Field applies to Sheehan collection</li>
+			<li>* Repeatability only for special cases in Sheehan Gallery Collection</li>
 		</ul>
-	</dd>
-  <dd><i>Field Changes: </i>Will move to field_origin</dd>
-</dl>
+	</td>
+</tr>
+<tr>
+	<th>Field Changes</th>
+	<td>Former Name: IMI/origin</td>
+</tr>
+</table>
+<details>
+		<summary><b>Islandora 8 notes</b></summary>
+			<table>
+				<tr>
+					<th><i>Note</i>
+					<th><i>Type of field</i>
+					<th><i>Max Length/Repeatability</i>
+					<th><i>Type of Item Reference/Vocabulary</i>
+				</tr>
+				<tr>
+					<td>Custom field(?)</td>
+					<td>text, long, plain</td>
+					<td>Unlimited</td>
+					<td>N/A</td>
+				</tr>
+			</table>
+</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.originInfo_place_placeTerm.md">MODS/originInfo/place/placeTerm</a> | <a href="rdf.rdau.p60523.md">RDF/rdau:p60523</a> |
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>08/25/2021</p>
 </body>
 </html>
