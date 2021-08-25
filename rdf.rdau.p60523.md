@@ -23,8 +23,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="origin.md">IMI/origin</a> | <a href="mods.originInfo_place_placeTerm.md">MODS/originInfo/place/placeTerm</a> |
+		| <a href="origin.md">field_origin</a> | <a href="mods.originInfo_place_placeTerm.md">MODS/originInfo/place/placeTerm</a> |
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>08/25/2021</p>
 </body>
 </html>
