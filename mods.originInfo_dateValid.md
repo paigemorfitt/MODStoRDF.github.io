@@ -27,10 +27,10 @@
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			<td><a href="embargo_date.md">IMI/embargo_date</a></td>
+			<td><a href="embargo_date.md">field_embargo_date</a></td>
 			<td><a href="rdf.schema.availabilityStarts.md">RDF/schema:avalibilityStarts</a></td>
 		</table>
 </dl>
-<p><i>Last Updated: </i></font>05/25/2021</p>
+<p><i>Last Updated: </i></font>08/25/2021</p>
 </body>
 </html>
