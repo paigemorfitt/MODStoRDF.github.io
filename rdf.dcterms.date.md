@@ -23,8 +23,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="date.sort.md">IMI/date_sort</a> | <a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> |
+		| <a href="date.sort.md">field_edtf_date</a> | <a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> |
 </dl>
-<p><i>Last Updated: </i>05/05/2021</p>
+<p><i>Last Updated: </i>08/25/2021</p>
 </body>
 </html>
