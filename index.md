@@ -126,14 +126,14 @@
 	<td class ="magic-button" title="[This I8 field will not be  mapped to RDF as it reproduces information in IMI/access_condition]">N/A</td>
   </tr>
   <tr>
-    <td><a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent</a></td>
+    <td><a href="field_linked_agent.md" class ="magic-button" title="[Label of a field instance populated by taxonomy terms from Corporate Body, Family and Person vocabularies]">field_linked_agent</a></td>
     <td>[see <a href="mods.name.md">name/namePart </a>]</td>
     <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">[Undetermined]</a></td>
   </tr>
   <tr>
-	<td><a href="field_weight.md" class ="magic-button" title="[definition]">field_weight (under construction)</a></td>
+	<td><a href="field_weight.md" class ="magic-button" title="[Indicates the order of a resource in a collection of resources]">field_weight</a></td>
 	<td>N/A</td>
-	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
+	<td class ="magic-button" title="[This I8 field will not be  mapped to RDF]">N/A</td>
   </tr>
   <tr>
 	<td><a href="file.md" class ="magic-button" title="Values contain field location of fields that are used to create Drupal Media">file </a></td>
