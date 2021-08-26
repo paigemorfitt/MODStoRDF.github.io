@@ -123,7 +123,7 @@
     <tr>
 	<td><a href="field_access_terms.md" class ="magic-button" title="“Terms used to limit, restrict or coordinate access” - Islandora 8">field_access_terms</a></td>
 	<td>N/A</td>
-	<td><a href="" class ="magic-button" title="[This I8 field will not be  mapped to RDF as it reproduces information in IMI/access_condition]">N/A</a></td>
+	<td class ="magic-button" title="[This I8 field will not be  mapped to RDF as it reproduces information in IMI/access_condition]">N/A</td>
   </tr>
   <tr>
     <td><a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent (under construction)</a></td>
