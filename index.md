@@ -116,7 +116,7 @@
     <td><a href="rdf.dcterms.extent.md" class ="magic-button" title="Definition: The size or duration of the resource.">dcterms:extent</a></td>
   </tr>
   <tr>
-	<td><a href="file_display_hint.md" class ="magic-button" title="Terms that will change how this resource is displayed">file_display_hint</a></td>
+	<td><a href="field_display_hint.md" class ="magic-button" title="Terms that will change how this resource is displayed">field_display_hint</a></td>
 	<td>N/A</td>
 	<td>N/A</td>
   </tr>
