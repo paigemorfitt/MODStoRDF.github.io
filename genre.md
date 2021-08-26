@@ -26,6 +26,9 @@
 		<li>Caution: do not confuse with the more general type category or with format/physical description.</li>
 		<li>Capitalize words</li>
 		<li>Content from Maxey and Sheehan removed. Moving forward, that field will be required for them to fill out</li>
+		<li>We are NOT using the codes for this field. In lue of an Islandora reboot, codes would change.</li>
+		<li>NOTE Islandora 8 Vocabulary is not a Controlled vocabulary  and terms can be deleted from I8. </li>
+		<li>Our mapping is not the default Isllandora 8 RDF mapping.</li>
 		</ul>
 	</dd>
   <dd>Field Changes: Contains content from IMI/grant_information ; Will move to field_funding_sources</dd>
