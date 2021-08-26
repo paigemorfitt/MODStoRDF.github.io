@@ -28,6 +28,8 @@
 		<li>Multiple values separated by pipe with no spaces between termsField does NOT require prefix</li>
 		<li>Does not contain string terms (contain ""--"")</li>
 		<li>Exception are local terms which all start with ""Whitman College"</li>
+		<li>We are NOT using the codes for this field. In lue of an Islandora reboot, codes would change.</li>
+		<li>NOTE Islandora 8 Vocabulary is not a Controlled vocabulary  and terms can be deleted from I8. </li>
 	</ul>
 	</dd>
   <dd><b>Field Changes:</b> 
