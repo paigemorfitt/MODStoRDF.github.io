@@ -55,6 +55,8 @@
 			<li>If name(s) of creator(s) is not known, see specific Master Sheet guidance.</li>
 			<li>We are NOT using the codes for this field. In lue of an Islandora reboot, codes would change.</li>
 			<li>(migration) New terms are added to the taxonomy on ingest, as long as the .yml file says to create new terms. The exception is, you can't create new relators via Workbench, and you can't create new nested terms via Workbench (unless that was recently updated)</li>
+			<li>We are NOT using the codes for this field. In lue of an Islandora reboot, codes would change.</li>
+			<li>NOTE Islandora 8 Vocabulary is not a Controlled vocabulary  and terms can be deleted from I8. </li>
 		</ul>
 	</td>
 </tr>
