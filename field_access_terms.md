@@ -49,8 +49,7 @@
 	</td>
 </tr>
 <tr>
-	<th>Field Changes</th>
-	<td>08/26/2021</td>
+	<th>N/A</td>
 </tr>
 </table>
 <details>
