@@ -22,8 +22,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="genre.md">IMI/genre</a> | <a href="rdf.schema.genre.md" >RDF/schema:genre</a>|
+		|<a href="field_genre.md">field_genre</a> | <a href="rdf.schema.genre.md" >RDF/schema:genre</a>|
 </dl>
-<p><i>Last Updated: </i>5/25/2021</p>
+<p><i>Last Updated: </i>08/26/2021</p>
 </body>
 </html>
