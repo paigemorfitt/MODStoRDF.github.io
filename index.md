@@ -150,11 +150,6 @@
     <td><a href="mods.genre.md" class ="magic-button" title="Definition: A term or terms that designate a category characterizing a particular style, form, or content, such as artistic, musical, literary composition, etc.">genre</a></td>
     <td><a href="rdf.schema.genre.md" class ="magic-button" title="Definition: Genre of the creative work, broadcast channel or group."><b>schema:genre</b></a> I8 mapping needs correcting</td>
   </tr>
-  <tr>
-	<td><a href="id.md" class ="magic-button" title="[definition]">id (under construction)</a></td>
-	<td>N/A</td>
-	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
-  </tr>
      <tr>
     <td><a href="field_identifier.md" class ="magic-button" title="ARMINDA Use: Character string or number that clearly and uniquely identifies a digital object or resource. This field ensures that individual digital objects can be accessed, managed, stored, recalled, and used reliably.">field_identifier</a></td>
     <td><a href="mods.identifier.md" class ="magic-button" title="Definition: Contains a unique standard number or code that distinctively identifies a resource.">identifier</a></td>
