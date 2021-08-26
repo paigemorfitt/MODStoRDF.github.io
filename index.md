@@ -126,9 +126,9 @@
 	<td class ="magic-button" title="[This I8 field will not be  mapped to RDF as it reproduces information in IMI/access_condition]">N/A</td>
   </tr>
   <tr>
-    <td><a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent (under construction)</a></td>
-    <td>N/A</td>
-    <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">[unknown]</a></td>
+    <td><a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent</a></td>
+    <td>[see <a href=""mods.name.namePart>name/namePart </a>]</td>
+    <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">[Undetermined]</a></td>
   </tr>
   <tr>
 	<td><a href="field_weight.md" class ="magic-button" title="[definition]">field_weight (under construction)</a></td>
