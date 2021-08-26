@@ -67,6 +67,7 @@
 		<li>IMI/ext_links</li>
 		<li>IMI/file_list</li>
 		<li>IMI/file_name_id</li>
+		<li>IMI/filepath</li>
 		<li>IMI/format</li>
 		<li>IMI/front_end_url</li>
 		<li>IMI/grant_information</li>
@@ -98,7 +99,7 @@
 		<li>IMI/publication_date</li>
 	</ul>
 </dd> 
-	<p><font color="red"><i>Last Updated: </i></font>3/29/2021</p>
+	<p><i>Last Updated: </i>08/26/2021</p>
 </dl>
 </body>
 </html>
