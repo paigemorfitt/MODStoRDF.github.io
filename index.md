@@ -156,7 +156,7 @@
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
      <tr>
-    <td><a href="identifier.unique.md" class ="magic-button" title="ARMINDA Use: Character string or number that clearly and uniquely identifies a digital object or resource. This field ensures that individual digital objects can be accessed, managed, stored, recalled, and used reliably.">identifier_unique</a></td>
+    <td><a href="field_identifier.md" class ="magic-button" title="ARMINDA Use: Character string or number that clearly and uniquely identifies a digital object or resource. This field ensures that individual digital objects can be accessed, managed, stored, recalled, and used reliably.">field_identifier</a></td>
     <td><a href="mods.identifier.md" class ="magic-button" title="Definition: Contains a unique standard number or code that distinctively identifies a resource.">identifier</a></td>
     <td><a href="rdf.dcterms.identifier.md" class ="magic-button" title="Definition: An unambiguous reference to the resource within a given context.">dcterms:identifier</a></td>
   </tr>
