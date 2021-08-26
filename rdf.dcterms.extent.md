@@ -25,7 +25,7 @@
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			 <td><a href="field_extent.md">IMI/extent</a></td>
+			 <td><a href="field_extent.md">field_extent</a></td>
 			<td><a href="mods.physicalDescription.extent.md">MODS/physicalDescription/extent</a></td>
 		</table>
 </dl>
