@@ -30,7 +30,7 @@
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			 <td><a href="field_extent.md">IMI/extent</a></td>
+			 <td><a href="field_extent.md">field_extent</a></td>
 			<td><a href="rdf.dcterms.extent.md">RDF/dcterms:extent</a></td>
 		</table>
 </dl>
