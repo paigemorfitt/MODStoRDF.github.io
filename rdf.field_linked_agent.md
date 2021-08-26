@@ -15,11 +15,11 @@
 
 <h1>RDF/field_linked_agent</h1>
 <dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: [here]</dd>
-  <dd>Label:  [here]</dd>
-  <dd>Domain:  [here]</dd>
-  <dd>Range:  [here]</dd>
+  <p>Due to complexity of field, there is no one field_linked_agent to RDF mapping. Instead, it is parsed out by Role.</p>
+  <dl>
+	<dt><b>Related Fields</b></dt>
+			<dd>| <a href="field_linked_agent.md">field_linked_agent</a> | <a href="mods.name.md">MODS/name/namePart</a> |</dd>
+</dl>
 </dl>
 <h2>local:adv</h2>
 <dl>
@@ -108,7 +108,7 @@
 	<dt><b>Related Fields</b></dt>
 			<dd>| <a href="publisher.md">IMI/publisher</a> | <a href="mods.originInfo_publisher.md">MODS/originInfo/publisher</a> |</dd>
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>08/26/2021</p>
 </body>
 </html>
 
