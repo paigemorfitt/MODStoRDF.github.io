@@ -127,7 +127,7 @@
   </tr>
   <tr>
     <td><a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent</a></td>
-    <td>[see <a href=""mods.name.namePart>name/namePart </a>]</td>
+    <td>[see <a href="mods.name.md">name/namePart </a>]</td>
     <td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">[Undetermined]</a></td>
   </tr>
   <tr>
