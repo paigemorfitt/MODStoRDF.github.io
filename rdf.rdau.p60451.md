@@ -24,10 +24,10 @@
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-				<td><a href="funding_sources.md">IMI/funding_sources</a></td>
+				<td><a href="field_funding_sources.md">field_funding_sources</a></td>
 				<td><a href="mods.name.md">MODS/name/namePart</a></td>
 		</table>
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>08/26/2021</p>
 </body>
 </html>
