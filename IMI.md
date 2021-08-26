@@ -98,7 +98,7 @@
 		<li><a href="file.md">file</a></li>
 		<li><a href="#removed">file_list</a> - removed</li>
 		<li><a href="#removed">file_name_id</a> - removed</li>
-		<li><a href="filepath.md">filepath</a></li>
+		<li><a href="filepath.md">filepath</a> - removed</li>
 		<li><a href="#removed">format</a> - removed</li>
 		<li><a href="#removed">front_end_url</a> - removed</li>
 		<li><a href="funding_sources.md">funding_sources (field_funding_sources)	</a></li>
@@ -221,6 +221,6 @@
 <h2 id="removed">Removed from Master Sheets</h2>
 <p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
 <p><a href="#top">top</a></p>
-<p><i>Last Updated: </i>05/27/2021</p>
+<p><i>Last Updated: </i>08/26/2021</p>
 </dl>
 </html>
