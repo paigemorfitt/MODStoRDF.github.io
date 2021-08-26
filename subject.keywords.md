@@ -24,8 +24,6 @@
 			<li>Library of Congress Subject Headings (LCSH)</li>
 			<li>Medical Subejct Headings (MeSH)</li>
 			<li>Whitman College localized Subject list</li>
-			<li><a href="https://sites.google.com/whitman.edu/islandoratermselector/home">test personalized subject search</a></li>
-			<li><a href="https://docs.google.com/spreadsheets/d/1A7Gge_IntiFteMyc4UNnBAhcHKEZI8K7CaboYZ40RTg/edit#gid=1406408848">test list two</a></li>
 		</ul>
   </dd>
   <dd>Notes: 
@@ -37,6 +35,8 @@
 		<li>All terms must contain prefix of either “subject:”,”family:”,”person:”, or corporate_body</li>
 		<li>Corporate_body is for non-string terms Any term that begins with a corporate_body and is a string, must be prefixed with “subject:”</li>
 		<li>Geographic terms in this field will be prefixed with “subject:”. Non-string geographic terms can solely be used in IMI/coverage_spatial</li>
+		<li>We are NOT using the codes for this field. In lue of an Islandora reboot, codes would change.</li>
+		<li>NOTE Islandora 8 Vocabulary is not a Controlled vocabulary  and terms can be deleted from I8. </li>
 	</ul>
   </dd>
   <dd><i>Field Changes: </i>Former name : IMI/keywords, contains partial absorption of IMI/coverage_spatial; Will move to field_subject </dd>
