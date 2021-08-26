@@ -49,7 +49,8 @@
 	</td>
 </tr>
 <tr>
-	<th>N/A</td>
+	<th>Field Changes</th>
+	<td>N/A</td>
 </tr>
 </table>
 <details>
