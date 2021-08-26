@@ -141,11 +141,6 @@
 	<td>N/A</td>
   </tr>
     <tr>
-    <td><a href="filepath.md" class ="magic-button" title="ARMINDA Use: Used in ARMIDNA as the filename of object; often times includes in ingest path for field - filename is in path  -- a place holder field that keeps track of where items are, and helps us distinguish between individual objects along with unique_identifier)">filepath</a></td>
-    <td><a href="identifier.md" class ="magic-button" title="Definition: Contains a unique standard number or code that distinctively identifies a resource. ">identifier</a></td>
-    <td>N/A</td>
-  </tr>
-    <tr>
     <td><a href="funding_sources.md" class ="magic-button" title="ARMINDA Use:Indicates institution or program that helped to fund research project">funding_sources</a></td>
     <td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
     <td><a href="rdf.rdau.p60451.md" class ="magic-button" title="Definition: Relates a resource to an agent who sponsors some aspect of a resource.">rdau:P60451</a></td>
