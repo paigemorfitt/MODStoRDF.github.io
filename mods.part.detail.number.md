@@ -36,10 +36,10 @@
   <dd>Subelements: N/A</dd>
  <dl>
 	<dt><b>Related Fields</b></dt>
-		 <dd>| <a href="issue_num.md">IMI/issue_num</a> | <a href="rdf.schema.issueNumber.md">RDF/schema:issueNumberf</a> | </dd>
+		 <dd>| <a href="field_issue_num.md">field_issue_num</a> | <a href="rdf.schema.issueNumber.md">RDF/schema:issueNumberf</a> | </dd>
 		  <dd>| <a href="volume_num.md">IMI/volume_num</a> | <a href="rdf.schema.volumeNumber.md">RDF/schema:volumeNumber</a> | </dd>
 
 </dl>
-<p><i>Last Updated: </i>07/08/2021</p>
+<p><i>Last Updated: </i>08/27/2021</p>
 </body>
 </html>
