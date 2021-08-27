@@ -26,10 +26,10 @@
 </dl>
 <table>
    <tr>
-    <td><a href="language.md">IMI/language</a></td>
+    <td><a href="field_language.md">field_language</a></td>
     <td><a href="rdf.dcterms.language.md">RDF/dcterms:language</a></td>
   </tr>
 </table>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>08/27/2021</p>
 </body>
 </html>
