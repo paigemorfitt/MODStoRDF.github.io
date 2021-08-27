@@ -12,24 +12,46 @@
 </table>
 
 <h1>license_file</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>ARMINDA Use: Field used for ingest into ARMINDA. </dd>
-  <dd>Obligation: Required</dd>
-  <dd>Repeatable: No</dd>
-  <dd>Public Field: No</dd>
-  <dd>Public-facing name: No</dd>
-  <dd>Syntax/Formatting:N/A</dd>
-  <dd>Recommended Controlled Vocabulary: N/A</dd>
-  <dd>Notes: 
-	<ul>
-		<li>Maintain for ingest reasons.</li>
-		<li>Temporary location for information used for item ingest into ARMINDA</li>
-		<li>Maintain for internal non-ingest reasons</li>
-	</ul>
-	</dd>
-  <dd>Field Changes: N/A</dd>
-</dl>
-<p><i>Last Updated: </i>08/20/2021</p>
+<table>
+<tr>
+	<th>ARMINDA Use</th>
+	<td>Field used for ingest into ARMINDA. </td>
+</tr>
+<tr>
+	<th>Obligation</th>
+	<td>Required</td>
+</tr>
+<tr>
+	<th>Repeatable</th>
+	<td>No</td>
+</tr>
+<tr>
+	<th>Public Field</th>
+	<td>No</td>
+</tr>
+<tr>
+	<th>Syntax/Formatting</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Recommended Controlled Vocabulary</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Notes</th>
+	<td>
+		<ul>
+			<li>Temporary location for information used for item ingest into ARMINDA</li>
+			<li>Includes files such as permission forms for theses</li>
+			<li>Maintain for internal reasons</li>
+		</ul>
+	</td>
+</tr>
+<tr>
+	<th>Field Changes</th>
+	<td>N/A</td>
+</tr>
+</table>
+<p><i>Last Updated: </i>08/27/2021</p>
 </body>
 </html>
