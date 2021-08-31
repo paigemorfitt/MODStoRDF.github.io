@@ -185,15 +185,15 @@
     <td><a href="mods.originInfo_place_placeTerm.md" class ="magic-button" title="Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource.">originInfo/place/placeTerm</a></td>
     <td><a href="rdf.rdau.p60523.md" class ="magic-button" title="Definition: Relates a resource to a place from which a resource originate">rdau:P60523</a></td>
   </tr>
+    <tr>
+    <td><a href="parent.md" class ="magic-button" title="ARMINDA Use: Tells  Islandora 7 the hierarchy of where an object lives ">parent</a></td>
+    <td>N/A</td>
+    <td>N/A</td>
+  </tr>
   <tr>
 	<td><a href="parent.id.md" class ="magic-button" title="[definition]">parent_id (under construction)</a></td>
 	<td>N/A</td>
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
-  </tr>
-  <tr>
-    <td><a href="parent.md" class ="magic-button" title="ARMINDA Use: Tells  Islandora 7l the hierarchy of where an object lives ">parent</a></td>
-    <td>N/A</td>
-    <td>N/A</td>
   </tr>
    <tr>
     <td><a href="permanent_url.md" class ="magic-button" title="ARMINDA Use: Unique uri (uniform resource identifier) to the item">permanent_url</a></td>
