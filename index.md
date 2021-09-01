@@ -196,7 +196,7 @@
 	<td><a href="" class ="magic-button" title="[definition]">[unknown]</a></td>
   </tr>
    <tr>
-    <td><a href="permanent_url.md" class ="magic-button" title="ARMINDA Use: Unique uri (uniform resource identifier) to the item">permanent_url</a></td>
+    <td><a href="field_permanent_url.md" class ="magic-button" title="ARMINDA Use: Unique uri (uniform resource identifier) to the item">field_permanent_url</a></td>
     <td><a href="mods.identifier.md" class ="magic-button" title="Definition: Contains a unique standard number or code that distinctively identifies a resource.">identifier</a></td>
     <td><a href="rdf.rdau.p60919.md" class ="magic-button" title="Definition: Relates a resource to an appellation of resource that consists of a code, number, or other string, usually independent of natural language and social naming conventions, used to identify a resource">rdau:P60919</a></td>
   </tr>
