@@ -73,7 +73,7 @@
 </details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="MODS.identifier.md">MODS/identifier</a> | <a href="rdf.rdaup60919.md">RDF/rdau:p60919</a>|
+		|<a href="MODS.identifier.md">MODS/identifier</a> | <a href="rdf.rdau.p60919.md">RDF/rdau:p60919</a>|
 </dl>
 <p><i>Last Updated: </i>09/01/2021</p>
 </body>
