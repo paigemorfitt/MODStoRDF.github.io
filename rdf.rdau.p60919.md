@@ -23,8 +23,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="permanent_url.md">IMI/permanent_url</a> | <a href="mods.identifier.md">MODS/identifier</a> |
+		| <a href="field_permanent_url.md">field_permanent_url</a> | <a href="mods.identifier.md">MODS/identifier</a> |
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>09/01/2021</p>
 </body>
 </html>
