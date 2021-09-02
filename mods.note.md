@@ -23,8 +23,8 @@
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		|<a href="provenance.md">IMI/provenance</a> | <a href="rdf.dcterms.provenance.md">RDF/dcterms:provenance</a> |
+		|<a href="field_provenance.md">field_provenance</a> | <a href="rdf.dcterms.provenance.md">RDF/dcterms:provenance</a> |
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>09/02/2021</p>
 </body>
 </html>
