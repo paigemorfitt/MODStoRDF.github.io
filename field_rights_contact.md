@@ -52,7 +52,7 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Former name: rights, former name: IMI/rights_contact</td>
+	<td>Former name: rights (do not confuse with field_rights), former name: IMI/rights_contact</td>
 </tr>
 </table>
 <details>
