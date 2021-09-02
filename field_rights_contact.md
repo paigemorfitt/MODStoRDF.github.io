@@ -72,6 +72,10 @@
 				</tr>
 			</table>
 </details>
+<dl>
+	<dt><b>Related Fields</b></dt>
+		| <a href="mods.access_condition.md">MODS/accessCondition</a> | <a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a>  |
+</dl>
 <p><i>Last Updated: </i>09/02/2021</p>
 </body>
 </html>
