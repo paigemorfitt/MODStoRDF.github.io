@@ -23,8 +23,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="rights_contact.md">IMI/rights_contact</a> | <a href="mods.access_condition.md">MODS/accessCondition</a> |
+		| <a href="field_rights_contact.md">field_rights_contact</a> | <a href="mods.access_condition.md">MODS/accessCondition</a> |
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>09/02/2021</p>
 </body>
 </html>
