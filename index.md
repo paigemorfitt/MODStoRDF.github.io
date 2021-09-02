@@ -216,7 +216,7 @@
     <td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: A person or organization responsible for publishing, releasing, or issuing a resource. ">relators:pbl</a></td>
   </tr> 
    <tr>
-    <td><a href="rights_contact.md" class ="magic-button" title="ARMINDA Use: HTML link to ARMINDA page linking to contact information for use by end users who wish to pursue required permissions for publication, dissemination, etc">rights_contact</a></td>
+    <td><a href="field_rights_contact.md" class ="magic-button" title="ARMINDA Use: HTML link to ARMINDA page linking to contact information for use by end users who wish to pursue required permissions for publication, dissemination, etc">field_rights_contact</a></td>
     <td><a href="mods.access_condition.md" class ="magic-button" title="Definition: Information about restrictions imposed on access to a resource.">accessCondition</a></td>
     <td><a href="rdf.schema.accessibilityControl.md" class ="magic-button" title="Definition: Identifies input methods that are sufficient to fully control the described resource (WebSchemas wiki lists possible values).">schema:accessibilityControl</a></td>
   </tr>
