@@ -24,7 +24,7 @@
 	<dt><b>Related Fields</b></dt>
 			<dd> | <a href="access_condition.md">field_limited_access</a> | <a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> | </dd>
 			<dd> | <a href="field_rights_contact.md">field_rights_contact</a> | <a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a> | </dd>
-			<dd> | <a href="rights_statement.md">IMI/rights_statement</a> | <a href="rdf.rdau.P60339.md">RDF/rdau:P60339</a> | </dd>
+			<dd> | <a href="field_rights.md">field_rights</a> | <a href="rdf.rdau.P60339.md">RDF/rdau:P60339</a> | </dd>
 </dl>
 <p><i>Last Updated: </i>09/02/2021</p>
 </body>
