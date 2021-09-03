@@ -97,9 +97,11 @@
 		<li>IMI/pdf_filename</li>
 		<li>IMI/pdf_filesize</li>
 		<li>IMI/publication_date</li>
+		<li>IMI/rowNumber</li>
+		<li>IMI/seq_number</li>
 	</ul>
 </dd> 
-	<p><i>Last Updated: </i>08/26/2021</p>
+	<p><i>Last Updated: </i>09/03/2021</p>
 </dl>
 </body>
-</html>
+</html
