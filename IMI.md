@@ -183,7 +183,7 @@
 		<li><a href="rowNumber.md">rowNumber</a> - removed</li>
 		<li><a href="#removed">series_id</a> - removed</li>
 		<li><a href="#removed">session	</a> - removed</li>
-		<li><a href="#seq_number">seq_number</a> - removed</li>		
+		<li><a href="seq_number.md">seq_number</a> - removed</li>		
 		<li><a href="#removed">set_design	</a> - removed</li>
 		<li><a href="#removed">sound_design	</a> - removed</li>
 		<li><a href="source.md">source (field_source)</a></li>
