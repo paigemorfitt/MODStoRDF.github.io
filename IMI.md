@@ -180,10 +180,10 @@
 		<li><a href="#removed">research_project	</a> - removed</li>		
 		<li><a href="rights_contact.md">rights_contact (field_rights_contact)</a></li>
 		<li><a href="rights_statement.md">rights_statement (field_rights)</a></li>
-		<li><a href="rowNumber.md">rowNumber</a></li>
+		<li><a href="rowNumber.md">rowNumber</a> - removed</li>
 		<li><a href="#removed">series_id</a> - removed</li>
 		<li><a href="#removed">session	</a> - removed</li>
-		<li><a href="#seq_number">seq_number	</a></li>		
+		<li><a href="#seq_number">seq_number</a> - removed</li>		
 		<li><a href="#removed">set_design	</a> - removed</li>
 		<li><a href="#removed">sound_design	</a> - removed</li>
 		<li><a href="seq_number.md">seq_number</a></li>
@@ -221,6 +221,6 @@
 <h2 id="removed">Removed from Master Sheets</h2>
 <p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
 <p><a href="#top">top</a></p>
-<p><i>Last Updated: </i>08/26/2021</p>
+<p><i>Last Updated: </i>09/03/2021</p>
 </dl>
 </html>
