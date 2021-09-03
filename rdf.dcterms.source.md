@@ -28,8 +28,8 @@
   </dd>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="source.md">IMI/source</a> | <a href="modsrelateditem.part.text.md">MODS/relatedItem/part/text</a>|
+		|<a href="field_source.md">field_source</a> | <a href="modsrelateditem.part.text.md">MODS/relatedItem/part/text</a>|
 </dl>
-<p><i>Last Updated: </i>05/25/2021</p>
+<p><i>Last Updated: </i>09/03/2021</p>
 </body>
 </html>
