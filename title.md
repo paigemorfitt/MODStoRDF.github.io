@@ -79,7 +79,7 @@
 </details>
   <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="mods.titleInfotitle.md">MODS/titleInfo/title</a> | <a href="rdf.dcterms.title.md">RDF/dcterms:title</a> |
+		| <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> | <a href="rdf.dcterms.title.md">RDF/dcterms:title</a> |
 </dl>
 </dl>
 <p><i>Last Updated: </i>09/03/2021</p>
