@@ -186,7 +186,6 @@
 		<li><a href="#seq_number">seq_number</a> - removed</li>		
 		<li><a href="#removed">set_design	</a> - removed</li>
 		<li><a href="#removed">sound_design	</a> - removed</li>
-		<li><a href="seq_number.md">seq_number</a></li>
 		<li><a href="source.md">source (field_source)</a></li>
 		<li><a href="subject.keywords.md">subject_keywords (field_subject)</a></li>
 		<li><a href="#removed">source_publication	</a> - removed</li>
