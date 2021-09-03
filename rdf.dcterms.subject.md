@@ -23,7 +23,7 @@
   <dd>Range: N/A</dd>
 </dl>
 <dd><b>Related Fields</b></dd>
-	| <a href="keywords.md">IMI/subject_keywords</a> | <a href="mods.subject.topic.md">MODS/subject/topic</a> |
+	| <a href="field_subject.md">field_subject</a> | <a href="mods.subject.topic.md">MODS/subject/topic</a> |
 </dl>
 <p><i>Last Updated: </i>05/26/2021</p>
 </body>
