@@ -250,8 +250,8 @@
 	<td>N/A</td>
   </tr>
   <tr>
-    <td><a href="url.external.md" class ="magic-button" title="ARMINDA Use: URL linking file content not hosted in ARMINDA to metadata record, in ARMINDA">url_external</a></td>
-    <td><a href="mods.location_url.md" class ="magic-button" title="Definition: Identifies the institution or repository holding the resource, the physical location of the resource, and/or the electronic location in the form of the digital resource in the form of a URL.">location/url</a></td>
+    <td><a href="field_url_external.md" class ="magic-button" title="ARMINDA Use: URL linking file content not hosted in ARMINDA to metadata record, in ARMINDA">field_url_external</a></td>
+    <td><a href="mods.location.url.md" class ="magic-button" title="Definition: Identifies the institution or repository holding the resource, the physical location of the resource, and/or the electronic location in the form of the digital resource in the form of a URL.">location/url</a></td>
     <td><a href="rdf.schema.url.md" class ="magic-button" title="Definition: URL of the item. ">schema:url</a></td>
   </tr>
   <tr>
