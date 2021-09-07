@@ -23,8 +23,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="url.external.md">IMI/url_external</a> | <a href="mods.location_url.md">MODS/location/url</a> |
+		| <a href="field_url_external.md">field_url_external</a> | <a href="mods.location.url.md">MODS/location/url</a> |
 </dl>
-<p><i>Last Updated: </i>05/26/2021</p>
+<p><i>Last Updated: </i>09/07/2021</p>
 </body>
 </html>
