@@ -23,8 +23,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="title.alternative.md">IMI/title_alternative</a> | <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> |
+		| <a href="field_alternative_title.md">field_alternative_title</a> | <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> |
 </dl>
-<p><i>Last Updated: </i>05/26/2021</p>
+<p><i>Last Updated: </i>09/07/2021</p>
 </body>
 </html>
