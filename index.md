@@ -240,7 +240,7 @@
     <td><a href="rdf.dcterms.title.md" class ="magic-button" title="Definition: A name given to the resource.">dcterms:title</a></td>
   </tr>
     <tr>
-    <td><a href="title.alternative.md" class ="magic-button" title="ARMINDA Use:An alternative title of the described resource including abbreviations and translations">title_alternative</a></td>
+    <td><a href="field_alternative_title.md" class ="magic-button" title="ARMINDA Use:An alternative title of the described resource including abbreviations and translations">field_alternative_title</a></td>
     <td><a href="mods.titleInfo.title.md" class ="magic-button" title="Definition: A word, phrase, character, or group of characters, normally appearing in a resource, that names it or the work contained in it.">titleInfo/title</a></td>
     <td><a href="rdf.dcterms.alternative.md" class ="magic-button" title="Definition: An alternative name for the resource.">dcterms:alternative</a></td>
   </tr>
