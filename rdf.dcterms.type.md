@@ -23,8 +23,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="work_type.md">IMI/work_type</a> | <a href="mods.typeOfResource.md">MODS/typeOfResource</a> |
+		| <a href="field_resource_type.md">field_resource_type</a> | <a href="mods.typeOfResource.md">MODS/typeOfResource</a> |
 </dl>
-<p><i>Last Updated: </i>05/27/2021</p>
+<p><i>Last Updated: </i>09/17/2021</p>
 </body>
 </html>
