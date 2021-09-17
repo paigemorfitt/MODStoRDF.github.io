@@ -45,9 +45,10 @@
 			<li>Expectation: one type is sufficient for most object, however specific collections may have more guidance on particular cases</li>
 			<li>If a term does not fit, bring to Metadata Working Group</li>
 			<li>Born-digital uses this field for theming</li>
-			<li>Newspaper generates field in TWIG</li>
-			<li>We need this field in order to make our display work</li>
-			<li><b>Do not confuse with field_work_type</b></li>
+			<li>IMI/work_type was describing physical object, but field_resource_type is using digital object</li>
+			<li>Capitalize first work only</li>
+			<li>NOT using image, ARE using still image</li>
+			<li>This field has been reformatted in current spreadsheets as field_resource_type HOWEVER, there is still a field_work_type in Islandora 8. <b>Do not confuse with field_work_type</b></li>
 		</ul>
 	</td>
 </tr>
