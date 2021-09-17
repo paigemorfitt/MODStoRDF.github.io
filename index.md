@@ -260,7 +260,7 @@
     <td><a href="rdf.schema.volumeNumber.md" class ="magic-button" title="Definition: Identifies the volume of publication or multi-part work; for example, "iii" or "2".">schema:volumeNumber</a></td>
   </tr>
   <tr>
-    <td><a href="work_type.md" class ="magic-button" title="ARMINDA Use: Basic conceptual indication of the kind of object being described, using broad terms.">work_type</a></td>
+    <td><a href="field_resource_type.md" class ="magic-button" title="ARMINDA Use: Basic conceptual indication of the kind of object being described, using broad terms.">field_resource_type</a></td>
     <td><a href="mods.typeOfResource.md" class ="magic-button" title="Definition: A term that specifies the characteristics and general type of content of the resource.">typeOfResource</a></td>
     <td><a href="rdf.dcterms.type.md" class ="magic-button" title="Definition: The nature or genre of the resource.">dcterms:type</a></td>
   </tr>
