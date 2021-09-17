@@ -31,8 +31,8 @@
 	<dt><b>Related Fields</b></dt>
 		<dd>| <a href="date.display.md">field_date_display</a> | <a href="rdf.rdau.p60527.md">rdau:P60527</a> | </dd>
 		<dd>| <a href="date.encoded.md">field_edtf_date_created</a> | <a href="rdf.dcterms.created.md">RDF/dcterms:created</a> | </dd>
-		<dd>| <a href="graduation_year.md">IMI/year_graduation</a> | <a href="rdf.rdau.p60514.md">RDF/rdau:p60514</a> | </dd>
+		<dd>| <a href="field_graduation_year.md>field_graduation_year</a> | <a href="rdf.rdau.p60514.md">RDF/rdau:p60514</a> | </dd>
 </dl>
-<p><i>Last Updated: </i>05/27/2021</p>
+<p><i>Last Updated: </i>09/17/2021</p>
 </body>
 </html>
