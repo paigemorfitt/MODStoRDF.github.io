@@ -23,8 +23,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="volume_num.md">IMI/volume_num</a> | <a href="mods.part_detail_number.md">MODS/part/detail/number</a> |
+		| <a href="field_volume_num.md">field_volume_num</a> | <a href="mods.part_detail_number.md">MODS/part/detail/number</a> |
 </dl>
-<p><i>Last Updated: </i>05/26/2021</p>
+<p><i>Last Updated: </i>09/17/2021</p>
 </body>
 </html>
