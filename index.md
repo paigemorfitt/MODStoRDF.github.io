@@ -255,7 +255,7 @@
     <td><a href="rdf.schema.url.md" class ="magic-button" title="Definition: URL of the item. ">schema:url</a></td>
   </tr>
   <tr>
-    <td><a href="volume_num.md" class ="magic-button" title="ARMINDA Use: Volume of newspaper">volume</a></td>
+    <td><a href="field_volume_num.md" class ="magic-button" title="ARMINDA Use: Volume of newspaper">field_volume_num</a></td>
     <td><a href="mods.part_detail_number.md" class ="magic-button" title="Definition: Numbering and type of designation of the part in relation to the host/parent.">part/detail/number</a></td>
     <td><a href="rdf.schema.volumeNumber.md" class ="magic-button" title="Definition: Identifies the volume of publication or multi-part work; for example, "iii" or "2".">schema:volumeNumber</a></td>
   </tr>
@@ -271,7 +271,7 @@
   </tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>09/03/2021</p>
+	<p><i>Last Updated: </i>09/17/2021</p>
 </dl>
 </body>
 </html>
