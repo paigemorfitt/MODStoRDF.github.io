@@ -23,8 +23,8 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="graduation_year.md">IMI/year_graduation</a> | <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
+		| <a href="field_graduation_year.md">field_graduation_year</a> | <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
 </dl>
-<p><i>Last Updated: </i>05/27/2021</p>
+<p><i>Last Updated: </i>09/17/2021</p>
 </body>
 </html>
