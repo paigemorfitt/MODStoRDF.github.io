@@ -18,8 +18,7 @@
 	<td>URL linking file content not hosted in ARMINDA to metadata record, in ARMINDA </td>
 </tr>
 <tr>
-	<th>Obligation</th>
-	<td>Required, if applicable</td>
+	<th>Obligation</th>	<td>Required, if applicable</td>
 </tr>
 <tr>
 	<th>Repeatable</th>
