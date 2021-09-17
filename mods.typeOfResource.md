@@ -16,14 +16,14 @@
 <h1>MODS/typeOfResources</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: A term that specifies the characteristics and general type of content of the resource.<a href="http://www.loc.gov/standards/mods/userguide/typeofresource.md">(reference)</a></dd>
+  <dd>Definition: A term that specifies the characteristics and general type of content of the resource.<a href="http://www.loc.gov/standards/mods/userguide/typeofresource.html">(reference)</a></dd>
   <dd>Attributes: authority; authorityURI; valueURI; lang; xml:lang; script; transliteration; altRepGroup; displayLabel; usage; collection; manuscript</dd>
   <dd>Subelements: N/A</dd> 
 </dl>
 <dl>
 <dd><b>Related Fields</b></dd>
-	| <a href="work_type.md">IMI/work_type</a> | <a href="rdf.dcterms.type.md">RDF/dcterms:type</a> |
+	| <a href="field_resource_type.md">field_resource_type</a> | <a href="rdf.dcterms.type.md">RDF/dcterms:type</a> |
 </dl>
-<p><i>Last Updated: </i>05/27/2021<p>
+<p><i>Last Updated: </i>09/17/2021<p>
 </body>
 </html>
