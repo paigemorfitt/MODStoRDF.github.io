@@ -73,7 +73,7 @@
 </details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="mods.part_detail_number.md">MODS/part/detail/number</a> | <a href="rdf.schema.volumeNumber.md">RDF/schema:volumeNumber</a>|
+		|<a href="mods.part.detail.number.md">MODS/part/detail/number</a> | <a href="rdf.schema.volumeNumber.md">RDF/schema:volumeNumber</a>|
 </dl>
 <p><i>Last Updated: </i>09/17/2021</p>
 </body>
