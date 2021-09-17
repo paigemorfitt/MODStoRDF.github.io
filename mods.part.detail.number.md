@@ -8,7 +8,7 @@
 	<th><a href="IMI.md">IMI Columns</a></th>
     <th><a href="MODS.md">MODS Fields</a></th>
     <th><a href="RDF.md">RDF Fields</a></th>
-  </tr>>
+  </tr>
 </table>
 
 
