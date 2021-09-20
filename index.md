@@ -46,7 +46,7 @@
     <td>N/A</td>
   </tr>
   <tr>
-    <td><a href="abstract.md" class ="magic-button" title="ARMINDA Use: A summary of the resource, primarily used with scholarship objects">field_abstract</a></td>
+    <td><a href="field_abstract.md" class ="magic-button" title="ARMINDA Use: A summary of the resource, primarily used with scholarship objects">field_abstract</a></td>
     <td><a href="mods.abstract.md" class ="magic-button" title="Definition: A summary of the content of the resource" >abstract</a></td>
     <td><a href="rdf.abstract.md" class ="magic-button" title="Definition: A summary of the resource">dcterms:abstract </a></td>
   </tr>
