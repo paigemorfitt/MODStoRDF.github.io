@@ -14,28 +14,28 @@
 <h1>MODS/name</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource <a href="https://www.loc.gov/standards/mods/userguide/name.md"> (resources)<a/></dd>
+  <dd>Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource <a href="https://www.loc.gov/standards/mods/userguide/name.html"> (resources)<a/></dd>
   <dd>Attributes:  type; authority; authorityURI; valueURI; usage; displayLabel; nameTitleGroup; altRepGroup; xlink; ID; lang; xml:lang; script; transliteration; etal</dd>
   <dd>Subelements: namePart,nameIdentifier,displayForm,affiliation,role,description,etal</dd>
 <dl>
 <h2>MODS/name/namePart</h2>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: The individual parsed parts that together make up the full name.<a href="https://www.loc.gov/standards/mods/userguide/name.md#namepart"> (resources)<a/></dd>
+  <dd>Definition: The individual parsed parts that together make up the full name.<a href="https://www.loc.gov/standards/mods/userguide/name.html#namepart"> (resources)<a/></dd>
   <dd>Attributes: lang; xml:lang; script; transliteration; altRepGroup; displayLabel; type</dd>
   <dd>Subelements: N/A</dd>
 </dl>
 <h2>MODS/name/role</h2>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: Designates the relationship (role) of the entity recorded in name to the resource described in the record.<a href="https://www.loc.gov/standards/mods/userguide/name.md#role"> (resources)<a/></dd>
+  <dd>Definition: Designates the relationship (role) of the entity recorded in name to the resource described in the record.<a href="https://www.loc.gov/standards/mods/userguide/name.html#role"> (resources)<a/></dd>
   <dd>Attributes: N/A</dd>
   <dd>Subelements: roleTerm</dd>
 </dl>
 <h3>MODS/name/role/roleTerm</h3>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: Contains the textual or coded form of a relator/role.<a href="https://www.loc.gov/standards/mods/userguide/name.md#roleterm"> (resources)<a/></dd>
+  <dd>Definition: Contains the textual or coded form of a relator/role.<a href="https://www.loc.gov/standards/mods/userguide/name.html#roleterm"> (resources)<a/></dd>
   <dd>Attributes: authority; authorityURI; valueURI; lang; xml:lang; script; transliteration; type</dd>
   <dd>Subelements: N/A</dd>
 </dl>
@@ -47,6 +47,6 @@
 		<dd>| <a href="department.md">IMI/department</a> | <td><a href="rdf.field_linked_agent.md">RDF/local:dpt</a></td> |</dd>
 		<dd>| <a href="field_funding_sources.md">field_funding_sources</a> |     <td><a href="rdf.rdau.p60451.md">rdau:P60451</a></td>|</dd>
 </dl>
-<p><i>Last Updated: </i>08/26/2021</p>
+<p><i>Last Updated: </i>09/21/2021</p>
 </body>
 </html>
