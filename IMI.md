@@ -22,13 +22,11 @@
 		<li><a href="#removed">abstract_format</a> (removed): format of the abstract</li>
 		<li><a href="#removed">accession_number</a> (removed): number associated with gallery items</li>
 		<li><a href="advisor.md">advisors</a>: A person under whose supervision a student develops and/or presents an academic paper or project, including theses and capstone projects. </li>
-		<li><a href="abstract.md">field_abstract</a></li>
-		<li><a href="access_condition.md">field_limited_access</a></li>	
-		<li><a href="#removed">attach_additional_files</a> - removed</li>
-		<li><a href="#removed">author#_fname</a> - removed</li>
-		<li><a href="#removed">author#_lname</a> - removed</li>
-		<li><a href="#removed">author#_mname</a> - removed</li>
-		<li><a href="#removed">author#_suffix</a> - removed</li>
+		<li><a href="#removed">attach_additional_files</a> (removed)</li>
+		<li><a href="#removed">author#_fname</a> (removed)</li>
+		<li><a href="#removed">author#_lname</a> (removed)</li>
+		<li><a href="#removed">author#_mname</a> (removed)</li>
+		<li><a href="#removed">author#_suffix</a> (removed)</li>
 </details>
 <details>
 <summary>B's</summary>
@@ -102,6 +100,8 @@
 		<li><a href="#removed">format</a> - removed</li>
 		<li><a href="#removed">front_end_url</a> - removed</li>
 		<li><a href="funding_sources.md">funding_sources (field_funding_sources)	</a></li>
+		<li><a href="abstract.md">field_abstract</a></li>
+		<li><a href="access_condition.md">field_limited_access</a></li>	
 </details>
 <details>
 <summary>G's, H's, & I's's</summary>
