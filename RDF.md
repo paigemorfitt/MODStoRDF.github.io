@@ -12,7 +12,7 @@
   </tr>
 <table>
 
-<p>For Islandora 8 Machine name descriptions, go <a href="Islandora.8.MachineNames.md">here</a> (page in progress)</p>	
+<p>Drupal field descriptions, go <a href="drupalfields.md">here</a> (page in progress)</p>	
 
 <details>
 <summary>dcterms</summary>
