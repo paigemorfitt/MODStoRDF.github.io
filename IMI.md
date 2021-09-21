@@ -44,11 +44,10 @@
 		<li><a href="#removed">calc_url</a> (removed): Possible URL used in BePress</li>
 		<li><a href="#removed">campus_location</a> (removed): Location of art on Whitman College campus where Sheehan art is displayed or stored.</li>
 		<li><a href="#removed">catalog_id</a> (removed): Catalog number of museum item</li>
-		<li><a href="#removed">city - TWG/city</a> - removed</li>		
-		<li><a href="cmodel.md">field_model</a></li>
-		<li><a href="#removed">collection_name	</a> - removed</li>
-		<li><a href="#removed">comments</a> - removed</li>
-		<li><a href="#removed">conference_track</a> - removed</li>
+		<li><a href="#removed">city </a> (removed): City of publication</li>		
+		<li><a href="#removed">collection_name	</a> (removed): Name of collection item is found in.</li>
+		<li><a href="#removed">comments</a> (removed): Field for information not held elsewhere.</li>
+		<li><a href="#removed">conference_track</a> (removed):Indicates WUC conference track in which item was presented. </li>
 		<li><a href="#removed">year_conference</a> - removed</li>	
 		<li><a href="contributors.md">contributors (field_linked_agent)</a> </li>
 		<li><a href="#removed">copyright_notes</a> - removed</li>
@@ -101,6 +100,7 @@
 		<li><a href="funding_sources.md">funding_sources (field_funding_sources)	</a></li>
 		<li><a href="abstract.md">field_abstract</a></li>
 		<li><a href="access_condition.md">field_limited_access</a></li>	
+			<li><a href="cmodel.md">field_model</a></li>
 </details>
 <details>
 <summary>G's, H's, & I's's</summary>
@@ -219,6 +219,6 @@
 <h2 id="removed">Removed from Master Sheets</h2>
 <p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
 <p><a href="#top">top</a></p>
-<p><i>Last Updated: </i>09/03/2021</p>
+<p><i>Last Updated: </i>09/21/2021</p>
 </dl>
 </html>
