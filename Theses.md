@@ -4,7 +4,7 @@
 
 <table style="width:100%">
   <tr>
-    <th>Main page</th>
+    <th><a href="index.md">Main page</a></th>
 	<th><a href="IMI.md">IMI Column</a></th>
     <th><a href="MODS.md">MODS Field</a></th>
 	<th><a href="DrupalFields.md">Drupal Fields</a></th>
