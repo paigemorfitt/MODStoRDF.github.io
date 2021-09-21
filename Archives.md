@@ -4,12 +4,13 @@
 
 <table style="width:100%">
   <tr>
-    <th><a href="index.md">Main page</a></th>
-	<th><a href="IMI.md">IMI Columns</a></th>
-    <th><a href="MODS.md">MODS Fields</a></th>
-    <th><a href="#">RDF Fields</a></th>
+    <th>Main page</th>
+	<th><a href="IMI.md">IMI Column</a></th>
+    <th><a href="MODS.md">MODS Field</a></th>
+	<th><a href="DrupalFields.md">Drupal Fields</a></th>
+    <th><a href="RDF.md">RDF Field</a></th>
   </tr>
-  <table>
+<table>
  <h1>Arminda MODS information page</h1> 
   
 <p>Collections in Arminda.</p>
