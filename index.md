@@ -10,6 +10,7 @@
     <th>Main page</th>
 	<th><a href="IMI.md">IMI Column</a></th>
     <th><a href="MODS.md">MODS Field</a></th>
+	<th><a href="DrupalFields.md">Drupal Fields</a></th>
     <th><a href="RDF.md">RDF Field</a></th>
   </tr>
 <table>
@@ -39,31 +40,31 @@
 <tr>
 	<td><a href="advisor.md" class ="magic-button" title="ARMINDA Use: A person under whose supervision a student develops and/or presents an academic paper or project, including theses and capstone projects.">advisors</a></td>
 	<td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource ">name/namePart</a></td>
-	<td></td>
+	<td>N/A</td>
 	<td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: Generic Advisor term.">local:adv</a></td>
 </tr>
 <tr>
 	<td><a href="imi.bucket.md" class ="magic-button" title="ARMINDA Use: BePress inherited field which indicated the collection --bucket-- an item is associated with">bucket</a></td>
 	<td><a href="mods.relateditem_note.md" class ="magic-button" title="Definition: Information that identifies other resources related to the one being described">relatedItem/note</a></td>
-	<td></td>
+	<td>N/A</td>
 	<td>N/A</td>
 </tr>
 <tr>
 	<td><a href="contributors.md" class ="magic-button" title="identifies the entity or entities that made contributions to the creation of the resource but whose contributions are secondary to any person or organization specified in the creator(s) field. ">contributors</a></td>
 	<td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
-	<td></td>
+	<td>N/A</td>
 	<td><a href="rdf.field_linked_agent.md" class ="magic-button" title="identifies the entity or entities that made contributions to the creation of the resource but whose contributions are secondary to any person or organization specified in the creator(s) field. ">relators:ctb</a></td>
 </tr>
 <tr>
 	<td><a href="creators.md" class ="magic-button" title="ARMINDA Use: identifies the entity/entities primarily responsible for making the resource">creators</a></td>
 	<td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
-	<td></td>
+	<td>N/A</td>
 	<td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: identifies the entity/entities primarily responsible for making the resource ">relators:cre</a></td>
 </tr>
 <tr>
 	<td><a href="department.md" class ="magic-button" title="ARMINDA Use: College division in which the item is categorized">department</a></td>
 	<td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
-	<td></td>
+	<td>N/A</td>
 	<td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: College division in which the item is categorized">local:dpt</a></td>
 </tr>
 <tr>
