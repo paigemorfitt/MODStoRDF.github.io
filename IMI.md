@@ -15,7 +15,7 @@
 
 
 <h1 id="top">IMI Columns</h1>
-<p>The following IMI column names are legacy field names from our migration from BePress into Islandora 7. </p>
+<p>The following is both legacy and active IMI columns (or fields) used in spreadsheets.</p>
 <details>
 <summary>A's</summary>
 <br>	
