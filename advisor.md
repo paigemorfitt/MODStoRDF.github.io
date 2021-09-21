@@ -11,48 +11,31 @@
   </tr>
 </table>
 
-<h1>IMI/advisors</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>ARMINDA Use: A person under whose supervision a student develops and/or presents an academic paper or project, including theses and capstone projects.</dd>
-  <dd>Obligation: Required, if applicable</dd>
-  <dd>Repeatable: Yes</dd>
-  <dd>Public Field: Yes</dd>
-  <dd>Public-facing name: Advisor</dd>
-  <dd>Syntax/Formatting:
-	<ul>
-		<li>Free text / RDA 19.2</li>
-		<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
-		<li>For multiple authors, separate with pipe with no space trailing.</li>
-		<li>All names prefaces with the "local:adv:person:"</li>
-	</ul>
-  </dd>
-  <dd>Recommended Controlled Vocabulary: LCNAF, VIAF, my.whitman, local names</dd>
-  <dd><b>Notes:</b> 
-	<ul>
-		<li>Provide as much known information as possible (either provided on resource or found elsewhere)</li>
-		<li>Separate repeated terms consistently (with pipe)</li>
-		<li>If names are not found in a controlled vocabulary, format personal names as Lastname , Firstname according to RDA/DACS</li>
-		<li>If name(s) of creator(s) is not known, see specific Master Sheet guidance.</li>
-		<li>Do not use birthdate or death dates unless to disambiguate identically named individuals</li>
-		<li>Contains html, accents, and/or special characters</li>
-		</ul>
-	</dd>
-  <dd><b>Field Changes:</b> 
+<h1>advisors</h1>
+<table>
+<tr>
+	<th>ARMINDA Use</th>
+	<td>A person under whose supervision a student develops and/or presents an academic paper or project, including theses and capstone projects</td>
+</tr>
+<tr>
+	<th>Notes</th>
+	<td>
 		<ul>
-			<li>previous name: advisor1</li>
-			<li>Majority of spreadsheets do not have this field and proceed to add content directly into field_linked_agent</li>
+			<li>See <a href="field_linked_agent.md">field_linked_agent</a></li>
+			<li>Field removed from all ingest spreadsheets/tabs</li>
 		</ul>
-  </dd>
-  <details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<li> Note: Content moving to field_linked_agent. </li>
-	</details>
+	</td>
+</tr>
+<tr>
+	<th>Field Changes</th>
+	<td>Former name: advisor1</td>
+</tr>
+</table>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
 	<a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent</a>|<a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/local:adv</a>|
 </dl>
-<p><i>Last Updated: </i>07/29/2021</p>
+<p><i>Last Updated: </i>09/21/2021</p>
 </body>
 </html>
