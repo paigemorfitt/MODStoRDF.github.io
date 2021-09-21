@@ -59,10 +59,10 @@
 		<summary><b>Islandora 8 notes</b></summary>
 			<table>
 				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
+					<th><i>Note</i></th>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
 				</tr>
 				<tr>
 					<td>[here]</td>
