@@ -54,9 +54,7 @@
 <p><i>Last Updated: </i>00/21/2021</p>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="mods.relateditem_note.md">MODS/relatedItem/note</a></td>
-		</table>
+		|<a href="mods.relateditem_note.md">MODS/relatedItem/note</a>|
 </dl>
 </body>
 </html>
