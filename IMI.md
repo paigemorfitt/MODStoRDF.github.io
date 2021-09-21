@@ -35,15 +35,15 @@
 		<li><a href="#removed">broad_creation_date</a> (removed): Date to accomidate a range associated with the creation of an item</li>
 		<li><a href="#removed">broad_date</a> (removed): Date to accomidate a range associated with an item</li>
 		<li><a href="bucket.md">bucket</a> : BePress inherited field which indicated the collection --bucket-- an item is associated with.</li>
-		<li><a href="#removed">buy_link</a> - removed</li>	
+		<li><a href="#removed">buy_link</a> (removed)</li>	
 </details>
 <details>
 <summary>C's</summary>
 <br>	
-		<li><a href="#removed">calc_thumbnail_image_url	</a> - removed</li>
-		<li><a href="#removed">calc_url</a> - removed</li>
-		<li><a href="#removed">campus_location</a> - removed</li>
-		<li><a href="#removed">catalog_id</a> - removed</li>
+		<li><a href="#removed">calc_thumbnail_image_url	</a> (removed)</li>
+		<li><a href="#removed">calc_url</a> (removed): Possible URL used in BePress</li>
+		<li><a href="#removed">campus_location</a> (removed): Location of art on Whitman College campus where Sheehan art is displayed or stored.</li>
+		<li><a href="#removed">catalog_id</a> (removed): Catalog number of museum item</li>
 		<li><a href="#removed">city - TWG/city</a> - removed</li>		
 		<li><a href="cmodel.md">field_model</a></li>
 		<li><a href="#removed">collection_name	</a> - removed</li>
