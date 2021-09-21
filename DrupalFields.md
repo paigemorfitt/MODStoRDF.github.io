@@ -13,7 +13,7 @@
     <th><a href="RDF.md">RDF Fields</a></th>
   </tr>
 </table>
-<h1>Islandora 8 Machine Names</h1>
+<h1>Drupal Field descriptions</h1>
 <h2>Abstract</h2>
 			<table>
 				<tr>
