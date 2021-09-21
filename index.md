@@ -33,7 +33,7 @@
   <tr>
     <th>IMI Column</th>
     <th>MODS field</th>
-	<th>Drupal field</th>
+	<th>Drupal field*</th>
     <th>RDF field</th>
   </tr>
 <tr>
@@ -320,6 +320,7 @@
 </tr>
 </table>
 <dl>
+<p>*Completed with medium confidence</p>
 	<p><i>Last Updated: </i>09/21/2021</p>
 </dl>
 </body>
