@@ -32,9 +32,7 @@
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="bucket.md">IMI/bucket</a></td>
-		</table>
+		|<a href="bucket.md">IMI/bucket</a>|
 </dl>
 </body>
 </html>
