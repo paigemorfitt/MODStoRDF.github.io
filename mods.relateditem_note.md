@@ -24,7 +24,7 @@
 <h2>MODS/relatedItem/note</h2>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: General textual information relating to a resource.<a href="www.loc.gov/standards/mods/userguide/note.md">(resource)</a></dd>
+  <dd>Definition: General textual information relating to a resource.<a href="www.loc.gov/standards/mods/userguide/note.html">(resource)</a></dd>
   <dd>Attributes:  lang; xml:lang; script; transliteration; altRepGroup; xlink:href; ID; displayLabel; typeURI; type</dd>
   <dd>Subelements:  N/A</dd>
 </dl>
