@@ -12,7 +12,7 @@
   </tr>
 <table>
 
-<p>Drupal field descriptions, go <a href="drupalfields.md">here</a> (page in progress)</p>	
+<p>Drupal field descriptions, go<th><a href="DrupalFields.md">Main page</a></th></p>	
 
 <details>
 <summary>dcterms</summary>
