@@ -19,8 +19,8 @@
 <details>
 <summary>A's</summary>
 <br>	
-		<li><b>abstract_format</b> (removed): format of the abstract</li>
-		<li><b>accession_number</b> (removed): number associated with gallery items</li>
+		<li><a href="#removed">abstract_format</a> (removed): format of the abstract</li>
+		<li><a href="#removed">accession_number</a> (removed): number associated with gallery items</li>
 		<li><a href="abstract.md">field_abstract</a></li>
 		<li><a href="access_condition.md">field_limited_access</a></li>
 		<li><a href="advisor.md">advisors (field_linked_agent)</a></li>	
