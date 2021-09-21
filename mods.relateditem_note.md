@@ -16,7 +16,7 @@
 <h1>MODS/relatedItem</h1>
 <dl>
   <dt><b>Description</b></dt>
-  <dd>Definition: Information that identifies other resources related to the one being described <a href="http://www.loc.gov/standards/mods/userguide/relateditem.md">(resource)</a></dd>
+  <dd>Definition: Information that identifies other resources related to the one being described <a href="http://www.loc.gov/standards/mods/userguide/relateditem.tml">(resource)</a></dd>
   <dd><i>Comment</i>A wrapper element that contains other MODS elemetns</dd>
   <dd>Attributes: xlink:href; ID; displayLabel; type; otherType; otherTypeAUth; otherTypeAuthURI; otherTypeURI</dd>
   <dd>Subelements: titleInfo; name; typeOfResource; genre; originInfo; language; physicalDescription; abstract; tableOfContents; targetAudience; note; subject; classification; relatedItem; identifier; location; accessCondition; part; extension; recordInfo</dd>
@@ -28,12 +28,12 @@
   <dd>Attributes:  lang; xml:lang; script; transliteration; altRepGroup; xlink:href; ID; displayLabel; typeURI; type</dd>
   <dd>Subelements:  N/A</dd>
 </dl>
-	<p><i>Last Updated: </i></font>11/03/2020</p>
+	<p><i>Last Updated: </i></font>09/21/2021</p>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			<td><a href="imi.bucket.md">IMI/bucket</a></td>
+			<td><a href="bucket.md">IMI/bucket</a></td>
 		</table>
 </dl>
 </body>
