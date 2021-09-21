@@ -30,10 +30,10 @@
 <details>
 <summary>B's</summary>
 <br>	
-		<li><a href="#removed">bp_categories</a> - removed</li>
-		<li><a href="#removed">broad_creation_date</a> - removed</li>
-		<li><a href="#removed">broad_date</a> - removed</li>
-		<li><a href="#removed">box</a> - removed</li>
+		<li><a href="#removed">box</a> (removed): Box in which newspapers live in in the Archives</li>
+		<li><a href="#removed">bp_categories</a> (removed): Possibly BePress categories of Academic Discipline</li>
+		<li><a href="#removed">broad_creation_date</a> (removed): Date to accomidate a range associated with the creation of an item</li>
+		<li><a href="#removed">broad_date</a> (removed): Date to accomidate a range associated with an item</li>
 		<li><a href="imi.bucket.md">bucket</a></li>
 		<li><a href="#removed">buy_link</a> - removed</li>	
 </details>
