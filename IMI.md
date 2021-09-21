@@ -21,9 +21,9 @@
 <br>	
 		<li><a href="#removed">abstract_format</a> (removed): format of the abstract</li>
 		<li><a href="#removed">accession_number</a> (removed): number associated with gallery items</li>
+		<li><a href="advisor.md">advisors</a>: A person under whose supervision a student develops and/or presents an academic paper or project, including theses and capstone projects. </li>
 		<li><a href="abstract.md">field_abstract</a></li>
-		<li><a href="access_condition.md">field_limited_access</a></li>
-		<li><a href="advisor.md">advisors (field_linked_agent)</a></li>	
+		<li><a href="access_condition.md">field_limited_access</a></li>	
 		<li><a href="#removed">attach_additional_files</a> - removed</li>
 		<li><a href="#removed">author#_fname</a> - removed</li>
 		<li><a href="#removed">author#_lname</a> - removed</li>
