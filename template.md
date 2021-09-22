@@ -91,12 +91,14 @@
 	<td>[here]</td>
 </tr>
 </table>
+
+
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="[here]">MODS/[here]</a> | <a href="[here]">RDF/[here]</a> |
 </dl>
 
-<h2>field_model</h2>
+<h2>[drupal field]</h2>
 			<table>
 				<tr>
 					<th><i>Type of field</i></th>
