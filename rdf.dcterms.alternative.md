@@ -12,19 +12,29 @@
 </table>
 
 
-
 <h1>RDF/dcterms:alternative</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: An alternative name for the resource.<a href="http://purl.org/dc/terms/alternative">(resource)</a></dd>
-  <dd>Label: Alternative Title</dd>
-  <dd>Domain: N/A</dd>
-  <dd>Range: Literal</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>An alternative name for the resource.<a href="http://purl.org/dc/terms/alternative">(resource)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>Alternative Title</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>Literal</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_alternative_title.md">field_alternative_title</a> | <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> |
+		| <a href="field_alternative_title.md">field_alternative_title</a> | <a href="DrupalFields.md">Drupal fields</a> <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> |
 </dl>
-<p><i>Last Updated: </i>09/07/2021</p>
+<p><i>Last Updated: </i>09/22/2021</p>
 </body>
 </html>
