@@ -14,7 +14,7 @@
 <h1>MODS/abstract</h1>
 <table>
 <tr>
-	<th>Description</th>
+	<th>Definition</th>
 	<td>A summary of the content of the resource <a href="https://www.loc.gov/standards/mods/userguide/abstract.html"> (reference)</a><</td>
 </tr>
 <tr>
