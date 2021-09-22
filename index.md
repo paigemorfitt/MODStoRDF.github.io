@@ -69,9 +69,9 @@
 </tr>
 <tr>
 	<td><a href="field_abstract.md" class ="magic-button" title="ARMINDA Use: A summary of the resource, primarily used with scholarship objects">field_abstract</a></td>
-	<td><a href="mods.abstract.md" class ="magic-button" title="Definition: A summary of the content of the resource" >abstract</a></td>
+	<td><a href="mods.abstract.md" class ="magic-button" title="Definition: A summary of the content of the resource" >abstract</a>Abstract/Text (formatted,long)</td>
 	<td></td>
-	<td><a href="rdf.abstract.md" class ="magic-button" title="Definition: A summary of the resource">dcterms:abstract </a></td>
+	<td><a href="rdf.dcterms.abstract.md" class ="magic-button" title="Definition: A summary of the resource">dcterms:abstract </a></td>
 </tr>
 <tr>
 	<td><a href="field_access_terms.md" class ="magic-button" title="“Terms used to limit, restrict or coordinate access” - Islandora 8">field_access_terms</a></td>
@@ -322,7 +322,7 @@
 </table>
 <dl>
 <p>*Completed with medium confidence</p>
-	<p><i>Last Updated: </i>09/21/2021</p>
+	<p><i>Last Updated: </i>09/22/2021</p>
 </dl>
 </body>
 </html>
