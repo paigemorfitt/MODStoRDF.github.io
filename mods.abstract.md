@@ -12,18 +12,25 @@
 <table>
 
 <h1>MODS/abstract</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: A summary of the content of the resource <a href="https://www.loc.gov/standards/mods/userguide/abstract.html"> (reference)</a></dd>
-  <dd>Attributes:  type; displayLabel; shareable; altRepGroup; altFormat; contentType; xlink; lang; xml:lang; script; transliteration</dd>
-  <dd>Subelements:  N/A</dd>
-</dl>
-
+<table>
+<tr>
+	<th>Description</th>
+	<td>A summary of the content of the resource <a href="https://www.loc.gov/standards/mods/userguide/abstract.html"> (reference)</a><</td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>type; displayLabel; shareable; altRepGroup; altFormat; contentType; xlink; lang; xml:lang; script; transliteration</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		<dd>| <a href="field_abstract.md">field_abstract</a> | <a href="rdf.abstract.md">RDF/dcterms:abstract </a> |</dd>
-		<dd>| <a href="description.md">field_description_long</a> |<a href="rdf.dcterms.description.md">RDF/dcterms:description</a> |</dd>
+		<dd>| <a href="field_abstract.md">field_abstract</a> |a href="DrupalFields.md">Drupal Field</a>|<a href="rdf.dcterms.abstract.md">RDF/dcterms:abstract </a> |</dd>
+		<dd>| <a href="description.md">field_description_long</a>|a href="DrupalFields.md">Drupal Field</a>|<a href="rdf.dcterms.description.md">RDF/dcterms:description</a> |</dd>
 </dl>
-<p><i>Last Updated: </i>09/20/2021</p>
+<p><i>Last Updated: </i>09/22/2021</p>
 </body>
 </html>
