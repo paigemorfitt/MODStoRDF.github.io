@@ -200,7 +200,7 @@
 		<li><a href="#removed">supplemental_filesizes</a> - removed</li>
 </details>
 <details>
-<summary>T's, U's, V's & W's</summary>
+<summary>T's, U's, V's & W's, Y's</summary>
 <br>
 		<li><a href="#removed">tech_director</a> - removed</li>
 		<li><a href="#removed">terms_of_use</a> - removed</li>
@@ -214,8 +214,7 @@
 		<li><a href="url_alias.md">url_alias</a></li>
 		<li><a href="#removed">volnum</a> - removed</li>
 		<li><a href="#removed">wf_areyouuploadingaf1</a> - removed</li>
-
-				<li><a href="#removed">year_conference</a> - removed</li>	
+		<li><a href="#removed">year_conference</a> - removed</li>	
 </details>
 <h2 id="removed">Removed from Master Sheets</h2>
 <p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
