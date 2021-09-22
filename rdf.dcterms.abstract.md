@@ -11,11 +11,11 @@
   </tr>
 </table>
 
-<h1>[RDF]</h1>
+<h1>RDF/dcterms:abstract</h1>
 <table>
 <tr>
 	<th>Definition</th>
-	<td>A summary of the resource <a href="http://purl.org/dc/terms/abstract">(resource)</a><</td>
+	<td>A summary of the resource <a href="http://purl.org/dc/terms/abstract">(resource)</a></td>
 </tr>
 <tr>
 	<th>Label</th>
