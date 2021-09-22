@@ -11,20 +11,29 @@
   </tr>
 </table>
 
-
-
-<h1>RDF/dcterms:title</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: A name given to the resource.<a href="http://purl.org/dc/terms/title">(resource)</a></dd>
-  <dd>Label: Title</dd>
-  <dd>Domain: N/A</dd>
-  <dd>Range: Literal</dd>
-</dl>
+<h1>[RDF]</h1>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>A name given to the resource.<a href="http://purl.org/dc/terms/title">(resource)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>Title</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>Literal</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="title.md">IMI/title</a> | <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> |
+		| <a href="title.md">IMI/title</a> | <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> | <a href="DrupalFields.md">Drupal fields</a>|
 </dl>
-<p><i>Last Updated: </i>05/26/2021</p>
+<p><i>Last Updated: </i>09/22/2021</p>
 </body>
 </html>
