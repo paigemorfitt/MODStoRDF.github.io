@@ -55,23 +55,42 @@
 	<td>[here]</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i></th>
-					<th><i>Type of field</i></th>
-					<th><i>Max Length/Repeatability</i></th>
-					<th><i>Type of Item Reference/Vocabulary</i></th>
-				</tr>
-				<tr>
-					<td>[here]</td>
-					<td>[here]</td>
-					<td>[here]</td>
-					<td>[here]</td>
-				</tr>
-			</table>
-</details>
+
+<h1>[MODS]</h1>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>[here]</td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>[here]</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>[here]</td>
+</tr>
+</table>
+
+<h1>[RDF]</h1>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>[here]</td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>[here]</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>[here]</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>[here]</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="[here]">MODS/[here]</a> | <a href="[here]">RDF/[here]</a> |
