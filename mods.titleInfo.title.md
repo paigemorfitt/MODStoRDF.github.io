@@ -24,6 +24,8 @@
 <tr>
 	<th>Subelements</th>
 	<td>title; subTitle; partNumber; partName; nonSort</td>
+</table>
+<table>
 <h2>MODS/title</h2>
 <table>
 <tr>
