@@ -62,7 +62,7 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Includes the following fields: <a href="advisor.md">IMI/advisor</a>, <a href="creators.md">IMI/creator</a>, <a href="contributors.md">IMI/contributor</a>, and <a href="publishers.md">IMI/publisher</a></td>
+	<td>Includes the following fields: <a href="advisor.md">IMI/advisor</a>, <a href="creators.md">IMI/creator</a>, <a href="contributors.md">IMI/contributor</a>, <a href="publishers.md">IMI/publisher</a>, and <a href="department.md">IMI/department</a></td>
 </tr>
 </table>
 <details>
