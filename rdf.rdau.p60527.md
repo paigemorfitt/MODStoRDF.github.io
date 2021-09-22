@@ -12,19 +12,29 @@
 </table>
 
 
-
 <h1>RDF/rdau:P60527</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Relates a resource to a timespan that is the earliest associated with a resource <a href="http://www.rdaregistry.info/Elements/u/#P60527">(reference)</a></dd>
-  <dd>Label:  has date of resource</dd>
-  <dd>Domain: N/A</dd>
-  <dd>Range:  N/A</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Relates a resource to a timespan that is the earliest associated with a resource <a href="http://www.rdaregistry.info/Elements/u/#P60527">(reference)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>has date of resource</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="date.display.md">field_date_display</a> | <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
+		| <a href="field_date_display.md">field_date_display</a> | <a href="DrupalFields.md">Drupal field</a> <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
 </dl>
-<p><i>Last Updated: </i>05/05/2021</p>
+<p><i>Last Updated: </i>09/22/2021</p>
 </body>
 </html>
