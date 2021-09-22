@@ -21,15 +21,15 @@
 					<th><i>Machine name</i></th>
 				</tr>
 				<tr>
-					<td>[here]</td>
-					<td>[here]</td>
-					<td>[here]</td>
-					<td>[here]</td>
+					<td>Text (formatted, long)</td>
+					<td>N/A / Limited (1)</td>
+					<td>N/A</td>
+					<td>field_abstract</td>
 				</tr>
 			</table>
 	<dl>
 			<dt><b>Related Fields</b></dt>
-				| <a href="abstract.md">IMI/abstract</a> | <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.abstract.md">RDF/dcterms:abstract </a> |
+				| <a href="field_abstract.md">IMI/abstract</a> | <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.dcterms.abstract.md">RDF/dcterms:abstract </a> |
 		</dd>
 	</dl>
 <dl>
@@ -92,6 +92,6 @@
 		<dt><b>Related Fields</b></dt>
 				| <a href="cmodel.md">cmodel</a> | <a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
 	</dl>
-<p><i>Last Updated: </i>09/21/2021</p>
+<p><i>Last Updated: </i>09/22/2021</p>
 </body>
 </html>
