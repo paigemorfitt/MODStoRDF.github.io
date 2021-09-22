@@ -54,28 +54,11 @@
 	<td>Former name: nonenglish_title, former name: IMI/title_alternative</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Default field(?)</td>
-					<td>text (plain)</td>
-					<td>255 characters / Limited (1)</td>
-					<td>N/A</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> | <a href="rdf.dcterms.alternative.md">RDF/dcterms:alternative</a> |
+		| <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> |<a href="DrupalFields.md">Drupal fields</a>| <a href="rdf.dcterms.alternative.md">RDF/dcterms:alternative</a> |
 </dl>
-<p><i>Last Updated: </i>09/07/2021</p>
+<p><i>Last Updated: </i>09/22/2021</p>
 </dl>
 </body>
 </html>
