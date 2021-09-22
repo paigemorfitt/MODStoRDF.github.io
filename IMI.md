@@ -55,18 +55,18 @@
 		<li><a href="#removed">create_openurl	</a> (removed)</li>
 		<li><a href="creators.md">creators</a>: identifies the entity/entities primarily responsible for maknig the resource.</li>
 		<li><a href="#removed">cultural_affiliation</a> (removed): Affiliation related to item.</li>
-		<li><a href="#removed">custom_citation	</a> (removed)d</li>
+		<li><a href="#removed">custom_citation	</a> (removed)</li>
 </details>
 <details>
 <summary>D's</summary>
 <br>	
-		<li><a href="#removed">date_created	</a> - removed</li>
-		<li><a href="#removed">date_processed	</a> - removed</li>
+		<li><a href="#removed">date_created</a> (removed)</li>
+		<li><a href="#removed">date_processed	</a> (removed)</li>
 		<li><a href="date.display.md">date_display (field_date_display)</a></li>
 		<li><a href="date.encoded.md">date_encoded (field_edtf_date_created)</a></li>
 		<li><a href="date_issued.md">date_issued (field_edtf_date_issue)</a></li>
 		<li><a href="date_sort.md">date_sort (field_edtf_date)</a></li>
-		<li><a href="department.md">department (field_linked_agent)	</a></li>
+		<li><a href="department.md">department</a>: college division in which the item is categorized</li>
 		<li><a href="description.md">description (field_description_long)</a></li>
 		<li><a href="#removed">director</a> - removed</li>
 		<li><a href="#removed">distribution_license	</a> - removed</li>
