@@ -19,18 +19,41 @@
 					<th><i>Max Length/Repeatability</i></th>
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
 				</tr>
 				<tr>
 					<td>Text (formatted, long)</td>
 					<td>N/A / Limited (1)</td>
 					<td>N/A</td>
 					<td>field_abstract</td>
+					<td>Custom field</td>
 				</tr>
 			</table>
 	<dl>
 			<dt><b>Related Fields</b></dt>
 				| <a href="field_abstract.md">field_abstract</a> | <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.dcterms.abstract.md">RDF/dcterms:abstract </a> |
 		</dd>
+	</dl>
+<h2>field_access_terms</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Entity reference</td>
+					<td>N/A / Unlimited</td>
+					<td>Taxonomy term / Islandora Access</td>
+					<td>field_access_terms</td>
+					<td>Custom field?</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				<dd>| <a href="field_access_terms.md">field_access_terms</a> 
 	</dl>
 <dl>
 <h2>field_limited_access</h2>
