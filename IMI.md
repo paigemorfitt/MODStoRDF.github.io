@@ -79,43 +79,44 @@
 <details>
 <summary>F's</summary>
 <br>	
-		<li><a href="embargo_date.md">embargo_date (field_embargo_date)</a></li>
-		<li><a href="extent.md">extent (field_extent)</a></li>
-		<li><a href="file_display_hint.md">file_display_hint</a></li>
+		<li><a href="field_abstract.md">field_abstract</a></li>
+		<li><a href="title.alternative.md">field_alternative_title</a></li>
+		<li><a href="date.display.md">field_date_display</a></li>
+		<li><a href="description.md">field_description_long</a></li>
+		<li><a href="date.encoded.md">field_edtf_date_created</a></li>
+		<li><a href="date_issued.md">field_edtf_date_issue</a></li>
+		<li><a href="date_sort.md">field_edtf_date</a></li>
+		<li><a href="embargo_date.md">field_embargo_date</a></li>
+		<li><a href="extent.md">field_extent</a></li>
+		<li><a href="funding_sources.md">field_funding_sources</a></li>
+		<li><a href="genre.md">field_genre</a></li>
+		<li><a href="coverage_spatial.md">field_geographic_subject</a></li>
+		<li><a href="#graduation_year">field_graduation_year</a></li>
+		<li><a href="identifier.unique.md">field_identifier</a></li>
+		<li><a href="issue_num.md">field_issue_num</a></li>
+		<li><a href="language.md">field_language</a></li>
+		<li><a href="access_condition.md">field_limited_access</a></li>
 		<li><a href="field_linked_agent.md">field_linked_agent</a></li>
+		<li><a href="cmodel.md">field_model</a></li>
+		<li><a href="origin.md">field_origin</a></li>
+		<li><a href="permanent_url.md">field_permanent_url</a></li>
+		<li><a href="permanent_url.md">field_permanent_url</a></li>
+		<li><a href="work_type.md">field_resource_type</a></li>
+		<li><a href="rights_contact.md">field_rights_contact</a></li>
+		<li><a href="rights_statement.md">field_rights</a></li>
+		<li><a href="source.md">field_source</a></li>
+		<li><a href="subject.keywords.md">field_subject</a></li>
+		<li><a href="url_external.md">field_url_external</a></li>
+		<li><a href="volume_num.md">field_volume_num</a></li>
 		<li><a href="field_weight.md">field_weight</a></li>
+		<li><a href="file_display_hint.md">file_display_hint</a></li>
+		<li><a href="#removed">file_list</a>-removed</li>
+		<li><a href="#removed">file_name_id</a>-removed</li>
 		<li><a href="file.md">file</a></li>
-		<li><a href="#removed">file_list</a> - removed</li>
-		<li><a href="#removed">file_name_id</a> - removed</li>
-		<li><a href="filepath.md">filepath</a> - removed</li>
-		<li><a href="#removed">format</a> - removed</li>
-		<li><a href="#removed">front_end_url</a> - removed</li>
-		<li><a href="funding_sources.md">funding_sources (field_funding_sources)	</a></li>
-		<li><a href="abstract.md">field_abstract</a></li>
-		<li><a href="access_condition.md">field_limited_access</a></li>	
-			<li><a href="cmodel.md">field_model</a></li>
-			<li><a href="coverage_spatial.md">field_geographic_subject</a></li>
-					<li><a href="date.display.md">date_display (field_date_display)</a></li>
-		<li><a href="date.encoded.md">date_encoded (field_edtf_date_created)</a></li>
-		<li><a href="date_issued.md">date_issued (field_edtf_date_issue)</a></li>
-		<li><a href="date_sort.md">date_sort (field_edtf_date)</a></li>
-		<li><a href="description.md">description (field_description_long)</a></li>
-		<li><a href="genre.md">genre (field_genre)</a></li>
-		<li><a href="#graduation_year">graduation_year	</a></li>
-		<li><a href="identifier.unique.md">identifier_unique (field_identifier)</a></li>
-		<li><a href="issue_num.md">issue_num (field_issue_num)</a></li>
-		<li><a href="language.md">language (field_language)</a></li>
-		<li><a href="origin.md">origin (field_origin)</a></li>
-		<li><a href="permanent_url.md">permanent_url (field_permanent_url)</a></li>
-		<li><a href="rights_contact.md">rights_contact (field_rights_contact)</a></li>
-		<li><a href="rights_statement.md">rights_statement (field_rights)</a></li>
-		<li><a href="permanent_url.md">permanent_url (field_permanent_url)</a></li>
-				<li><a href="source.md">source (field_source)</a></li>
-		<li><a href="subject.keywords.md">subject_keywords (field_subject)</a></li>
-				<li><a href="title.alternative.md">title_alternative (field_alternative_title)</a></li>
-								<li><a href="url_external.md">url_external (field_url_external)</a></li>
-		<li><a href="volume_num.md">volume_num (field_volume_num)</a> </li>
-		<li><a href="work_type.md">work_type (field_resource_type)	</a></li>
+		<li><a href="filepath.md">filepath</a>-removed</li>
+		<li><a href="#removed">format</a>-removed</li>
+		<li><a href="#removed">front_end_url</a>-removed</li>
+
 </details>
 <details>
 <summary>G's, H's, & I's's</summary>
