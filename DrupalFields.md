@@ -65,7 +65,7 @@
 					<th><i>Note</i></th>
 				</tr>
 				<tr>
-					<td>[here]Text (plain)</td>
+					<td>Text (plain)</td>
 					<td>255 Characters / Limited (1)</td>
 					<td>N/A</td>
 					<td>field_alternative_title</td>
