@@ -59,10 +59,9 @@
 </table>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="mods.abstract.md">MODS/abstract</a></td>
-			<td><a href="rdf.dcterms.description.md">RDF/dcterms:description</a></td>
-		</table>
+			<a href="mods.abstract.md">MODS/abstract</a> | 
+			<a href="DrupalFields.md">Drupal Field</a> |
+			<a href="rdf.dcterms.description.md">RDF/dcterms:description</a>
 </dl>
 <p><i>Last Updated: </i></font>09/22/2021</p>
 
