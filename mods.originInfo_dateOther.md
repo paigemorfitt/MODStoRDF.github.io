@@ -15,7 +15,7 @@
 <table>
 <tr>
 	<th>Definition</th>
-	<td>Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource. <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html"> (resource)</a><</td>
+	<td>Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource. <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html"> (resource)</a></td>
 </tr>
 <tr>
 	<th>Attributes</th>
