@@ -95,6 +95,27 @@
 	<dt><b>Related Fields</b></dt>
 		| <a href="[here]">MODS/[here]</a> | <a href="[here]">RDF/[here]</a> |
 </dl>
+
+<h2>field_model</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+				</tr>
+				<tr>
+					<td>[here]</td>
+					<td>[here]</td>
+					<td>[here]</td>
+					<td>[here]</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="cmodel.md">cmodel</a> | <a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
+	</dl>
+
 <p><i>Last Updated: </i>[here]</p>
 </body>
 </html>
