@@ -56,27 +56,10 @@
 	<td>Some content moved to field_description_ong, Former name: IMI/abstract</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Custom Field</td>
-					<td>Text (formatted, long)</td>
-					<td>Limited (1)</td>
-					<td>N/A</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="mods.abstract.md">MODS/abstract</a> |<a href="rdf.abstract.md">RDF/dcterms:abstract </a>|
+		|<a href="mods.abstract.md">MODS/abstract</a> |a href="DrupalFields.md">Drupal Field</a>|<a href="rdf.dcterms.abstract.md">RDF/dcterms:abstract </a>|
 </dl>
-<p><i>Last Updated: </i>09/20/2021</p>
+<p><i>Last Updated: </i>09/22/2021</p>
 </body>
 </html>
