@@ -28,6 +28,7 @@
 		<li><a href="mods.originInfo_dateIssued.md">originInfo/dateIssued</a></li>
 		<li><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></li>
 		<li><a href="mods.originInfo_dateValid.md">originInfo/dateValid</a></li>
+		<li><a href="mods.originInfo_dateValid.md">originInfo/issuance</a></li>
 		<li><a href="mods.originInfo_place_placeTerm.md">originInfo/place/placeTerm</a></li>
 		<li><a href="mods.originInfo_publisher.md">originInfo/publisher</a></li>
 		<li><a href="mods.part_detail_number.md">part/detail/number</a></li>
