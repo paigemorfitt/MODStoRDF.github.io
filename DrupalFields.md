@@ -34,7 +34,7 @@
 				| <a href="field_abstract.md">field_abstract</a> | <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.dcterms.abstract.md">RDF/dcterms:abstract </a> |
 		</dd>
 	</dl>
-<h2>field_access_terms</h2>
+<h2>Access Control</h2>
 			<table>
 				<tr>
 					<th><i>Type of field</i></th>
