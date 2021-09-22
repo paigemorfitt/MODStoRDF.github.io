@@ -29,7 +29,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		<dd>| <a href="field_abstract.md">field_abstract</a> |a href="DrupalFields.md">Drupal Field</a>|<a href="rdf.dcterms.abstract.md">RDF/dcterms:abstract </a> |</dd>
-		<dd>| <a href="description.md">field_description_long</a>|a href="DrupalFields.md">Drupal Field</a>|<a href="rdf.dcterms.description.md">RDF/dcterms:description</a> |</dd>
+		<dd>| <a href="field_description_long.md">field_description_long</a>|a href="DrupalFields.md">Drupal Field</a>|<a href="rdf.dcterms.description.md">RDF/dcterms:description</a> |</dd>
 </dl>
 <p><i>Last Updated: </i>09/22/2021</p>
 </body>
