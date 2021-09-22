@@ -55,6 +55,29 @@
 		<dt><b>Related Fields</b></dt>
 				<dd>| <a href="field_access_terms.md">field_access_terms</a> 
 	</dl>
+<h2>Alternative Title</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>[here]Text (plain)</td>
+					<td>255 Characters / Limited (1)</td>
+					<td>N/A</td>
+					<td>field_alternative_title</td>
+					<td>Default field</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+			 <a href="field_alternative_title.md">field_alternative_title</a>| <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> |<a href="DrupalFields.md">Drupal fields</a>| <a href="rdf.dcterms.alternative.md">RDF/dcterms:alternative</a> |
+	</dl>
+	
+	
 <dl>
 <h2>field_limited_access</h2>
 			<table>
