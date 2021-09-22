@@ -33,7 +33,7 @@
 </table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_alternative_title.md">field_alternative_title</a> | <a href="DrupalFields.md">Drupal fields</a> <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> |
+		| <a href="field_alternative_title.md">field_alternative_title</a> | <a href="DrupalFields.md">Drupal fields</a> | <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> |
 </dl>
 <p><i>Last Updated: </i>09/22/2021</p>
 </body>
