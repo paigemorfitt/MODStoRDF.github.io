@@ -48,14 +48,12 @@
 		<li><a href="#removed">collection_name	</a> (removed): Name of collection item is found in.</li>
 		<li><a href="#removed">comments</a> (removed): Field for information not held elsewhere.</li>
 		<li><a href="#removed">conference_track</a> (removed):Indicates WUC conference track in which item was presented. </li>
-		<li><a href="#removed">year_conference</a> - removed</li>	
-		<li><a href="contributors.md">contributors (field_linked_agent)</a> </li>
-		<li><a href="#removed">copyright_notes</a> - removed</li>
-		<li><a href="#removed">costume_design</a> - removed</li>
-		<li><a href="#removed">cover_image_url</a> - removed</li>
-		<li><a href="coverage_spatial.md">field_geographic_subject</a></li>		
-		<li><a href="#removed">create_openurl	</a> - removed</li>
-		<li><a href="creators.md">creators (field_linked_agent)	</a></li>
+		<li><a href="contributors.md">contributors</a>: Identifies the entity or entities that made contributions to the creation of the resource, but whose contributions are secondary to any person or organization specified in the creator(s) field.</li>
+		<li><a href="#removed">copyright_notes</a> (removed)</li>
+		<li><a href="#removed">costume_design</a> (removed): Responsible party credited for the design of costumes depicted in image</li>
+		<li><a href="#removed">cover_image_url</a> (removed)</li>		
+		<li><a href="#removed">create_openurl	</a> (removed)</li>
+		<li><a href="creators.md">creators</a>: identifies the entity/entities primarily responsible for maknig the resource.</li>
 		<li><a href="#removed">cultural_affiliation</a> - removed</li>
 		<li><a href="#removed">custom_citation	</a> - removed</li>
 </details>
@@ -101,6 +99,7 @@
 		<li><a href="abstract.md">field_abstract</a></li>
 		<li><a href="access_condition.md">field_limited_access</a></li>	
 			<li><a href="cmodel.md">field_model</a></li>
+			<li><a href="coverage_spatial.md">field_geographic_subject</a></li>
 </details>
 <details>
 <summary>G's, H's, & I's's</summary>
@@ -215,10 +214,11 @@
 		<li><a href="volume_num.md">volume_num (field_volume_num)</a> </li>
 		<li><a href="#removed">wf_areyouuploadingaf1</a> - removed</li>
 		<li><a href="work_type.md">work_type (field_resource_type)	</a></li>
+				<li><a href="#removed">year_conference</a> - removed</li>	
 </details>
 <h2 id="removed">Removed from Master Sheets</h2>
 <p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
 <p><a href="#top">top</a></p>
-<p><i>Last Updated: </i>09/21/2021</p>
+<p><i>Last Updated: </i>09/22/2021</p>
 </dl>
 </html>
