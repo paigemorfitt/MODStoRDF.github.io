@@ -15,7 +15,7 @@
 <table>
 <tr>
 	<th>Definition</th>
-	<td>A summary of the content of the resource <a href="https://www.loc.gov/standards/mods/userguide/abstract.html"> (reference)</a><</td>
+	<td>A summary of the content of the resource <a href="https://www.loc.gov/standards/mods/userguide/abstract.html"> (reference)</a></td>
 </tr>
 <tr>
 	<th>Attributes</th>
