@@ -14,20 +14,31 @@
 
 
 <h1>RDF/dc:description</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: An account of the resource. <a href="http://purl.org/dc/terms/description.html">(reference)</a></dd>
-  <dd>Label: Descrption</dd>
-  <dd>Domain: N/A</dd>
-  <dd>Range: N/A</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>An account of the resource. <a href="http://purl.org/dc/terms/description.html">(reference)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>Descrption</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			<td><a href="description.md">field_description_long</a></td>
+			<td><a href="field_description_long.md">field_description_long</a></td>
 			<td><a href="mods.abstract.md">MODS/abstract</a></td>
 		</table>
 </dl>
-<p><i>Last Updated: </i></font>08/25/2021</p>
+<p><i>Last Updated: </i></font>09/22/2021</p>
 </body>
 </html>
