@@ -28,7 +28,7 @@
 </tr>
 </table>
 	<dt><b>Related Fields</b></dt>
-		<a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent</a>|| <a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/local:adv</a> |
+		<a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent</a>| <a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/local:adv</a> |
 </dl>
 <p><i>Last Updated: </i>09/22/2021</p>
 </body>
