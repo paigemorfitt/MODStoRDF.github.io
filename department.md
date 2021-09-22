@@ -7,28 +7,34 @@
     <th><a href="index.md">Main page</a></th>
 	<th><a href="IMI.md">IMI Columns</a></th>
     <th><a href="MODS.md">MODS Fields</a></th>
-    <th><a href="#">RDF Fields</a></th>
+    <th><a href="RDF.md">RDF Fields</a></th>
   </tr>
 </table>
 <h1>IMI/department</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>ARMINDA Use: College division in which the item is categorized</dd>
-  <dd>Obligation:  Required, if applicable</dd>
-  <dd>Repeatable: Yes</dd>
-  <dd>Public Field: Yes</dd>
-  <dd>Front-end name: Major Department or Program</dd>
-  <dd>Syntax/Formatting:Free text; must contain prefix “local:dpt:corporate_body:Whitman College.“</dd>
-  <dd>Recommended Controlled Vocabulary:</font>In house: College catalog official names</dd>
-  <dd>Notes: Record information that is listed on Certificate of Approval </dd>
-  <dd><i>Field Changes: </i>Content moving to field_linked_agent</dd></dl>
+<table>
+<tr>
+	<th>ARMINDA Use</th>
+	<td>College division in which the item is categorized</td>
+</tr>
+<tr>
+	<th>Notes</th>
+	<td>
+		<ul>
+			<li>See <a href="field_linked_agent.md">field_linked_agent</a></li>
+			<li>Field removed from all ingest spreadsheets/tabs</li>
+		</ul>
+	</td>
+</tr>
+<tr>
+	<th>Field Changes</th>
+	<td>N/A</td>
+</tr>
+</table>
 </body>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			<td><a href="mods.name.md">MODS/name/namePart</a></td>
-			<td><a href="rdf.field_linked_agent.md">RDF/local:dpt</a></td>
-		</table>
-<p><i>Last Updated: </i>06/30/2021</p>
+		<a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent</a> | <a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/local:dpt</a>
+<p><i>Last Updated: </i>09/22/2021</p>
 </dl>
 </html>
