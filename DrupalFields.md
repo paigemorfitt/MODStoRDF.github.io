@@ -29,7 +29,7 @@
 			</table>
 	<dl>
 			<dt><b>Related Fields</b></dt>
-				| <a href="field_abstract.md">IMI/abstract</a> | <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.dcterms.abstract.md">RDF/dcterms:abstract </a> |
+				| <a href="field_abstract.md">field_abstract</a> | <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.dcterms.abstract.md">RDF/dcterms:abstract </a> |
 		</dd>
 	</dl>
 <dl>
