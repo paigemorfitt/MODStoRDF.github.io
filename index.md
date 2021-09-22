@@ -92,9 +92,9 @@
 	<td><a href="rdf.rdau.p60527.md" class ="magic-button" title="Definition: Relates a resource to a timespan that is the earliest associated with a resource">rdau:P60527</a></td>
 </tr>
 <tr>
-	<td><a href="description.md" class ="magic-button" title="Definition: An account of the resource, primarily used for archival objects">field_description_long</a></td>
+	<td><a href="field_description_long.md" class ="magic-button" title="Definition: An account of the resource, primarily used for archival objects">field_description_long</a></td>
 	<td><a href="mods.abstract.md" class ="magic-button" title="Definition: A summary of the content of the resource">abstract</a></td>
-	<td></td>
+	<td>Description/Text (formatted, long)</td>
 	<td><a href="rdf.dcterms.description.md" class ="magic-button" title="An account of the resource.">dcterms:description</a></td>
 </tr>
 <tr>
