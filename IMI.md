@@ -62,12 +62,7 @@
 <br>	
 		<li><a href="#removed">date_created</a> (removed)</li>
 		<li><a href="#removed">date_processed	</a> (removed)</li>
-		<li><a href="date.display.md">date_display (field_date_display)</a></li>
-		<li><a href="date.encoded.md">date_encoded (field_edtf_date_created)</a></li>
-		<li><a href="date_issued.md">date_issued (field_edtf_date_issue)</a></li>
-		<li><a href="date_sort.md">date_sort (field_edtf_date)</a></li>
-		<li><a href="department.md">department</a>: college division in which the item is categorized</li>
-		<li><a href="description.md">description (field_description_long)</a></li>
+		<li><a href="department.md">department</a>: college division in which the item is </li>
 		<li><a href="#removed">director</a> - removed</li>
 		<li><a href="#removed">distribution_license	</a> - removed</li>
 		<li><a href="#removed">display_date</a> - removed</li>
@@ -100,6 +95,11 @@
 		<li><a href="access_condition.md">field_limited_access</a></li>	
 			<li><a href="cmodel.md">field_model</a></li>
 			<li><a href="coverage_spatial.md">field_geographic_subject</a></li>
+					<li><a href="date.display.md">date_display (field_date_display)</a></li>
+		<li><a href="date.encoded.md">date_encoded (field_edtf_date_created)</a></li>
+		<li><a href="date_issued.md">date_issued (field_edtf_date_issue)</a></li>
+		<li><a href="date_sort.md">date_sort (field_edtf_date)</a></li>
+		<li><a href="description.md">description (field_description_long)</a></li>
 </details>
 <details>
 <summary>G's, H's, & I's's</summary>
