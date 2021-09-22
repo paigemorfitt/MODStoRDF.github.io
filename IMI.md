@@ -81,7 +81,7 @@
 <br>	
 		<li><a href="field_abstract.md">field_abstract</a>: a summary of the resource, primarily used with scholarship objects.</li>
 		<li><a href="field_access_terms.md">field_access)terms</a>: "Terms used to limit, restrict or coordinate access" - Islandora 8</li>
-		<li><a href="title.alternative.md">field_alternative_title</a></li>
+		<li><a href="field_alternative_title.md">field_alternative_title</a>: an alternative title of the described reresource including abbreviations and translations</li>
 		<li><a href="date.display.md">field_date_display</a></li>
 		<li><a href="description.md">field_description_long</a></li>
 		<li><a href="date.encoded.md">field_edtf_date_created</a></li>
