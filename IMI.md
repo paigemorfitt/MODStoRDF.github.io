@@ -80,10 +80,10 @@
 <summary>F's</summary>
 <br>	
 		<li><a href="field_abstract.md">field_abstract</a>: a summary of the resource, primarily used with scholarship objects.</li>
-		<li><a href="field_access_terms.md">field_access)terms</a>: "Terms used to limit, restrict or coordinate access" - Islandora 8</li>
+		<li><a href="field_access_terms.md">field_access_terms</a>: "Terms used to limit, restrict or coordinate access" - Islandora 8</li>
 		<li><a href="field_alternative_title.md">field_alternative_title</a>: an alternative title of the described reresource including abbreviations and translations</li>
-		<li><a href="field_dateDdisplay.md">field_date_display</a>: date of creation or publication of original object in human readable format for public viewing</li>
-		<li><a href="description.md">field_description_long</a></li>
+		<li><a href="field_date.display.md">field_date_display</a>: date of creation or publication of original object in human readable format for public viewing</li>
+		<li><a href="field_description_long.md">field_description_long</a>: an account of the resource, primarily used for archival objects</li>
 		<li><a href="date.encoded.md">field_edtf_date_created</a></li>
 		<li><a href="date_issued.md">field_edtf_date_issue</a></li>
 		<li><a href="date_sort.md">field_edtf_date</a></li>
