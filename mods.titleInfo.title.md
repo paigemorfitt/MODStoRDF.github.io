@@ -44,7 +44,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		<dd>| <a href="title.md">IMI/title</a> | <a href="rdf.dcterms.title.md">RDF/dcterms:title</a> | </dd>
-		<dd>| <a href="field_alternative_title.md">field_alternative_title</a> | <a href="DrupalFields.md">Drupal fields</a>|<a href="rdf.dcterms.alternative.md">RDF/dcterms:alternative</a> | </dd>
+		<dd>| <a href="field_alternative_title.md">field_alternative_title</a> | <a href="DrupalFields.md">Drupal fields</a> | <a href="rdf.dcterms.alternative.md">RDF/dcterms:alternative</a> | </dd>
 
 </dl>
 <p><i>Last Updated: </i>09/22/2021</p>
