@@ -70,11 +70,11 @@
 		<li><a href="#removed">donor</a> (removed)</li>
 		<li><a href="#removed">download_file_format	</a> (removed)</li>
 		<li><a href="#removed">duration	</a> (removed)</li>
-		<li><a href="#removed">editor</a> - removed</li>
-		<li><a href="#removed">end_date</a> - removed</li>
-		<li><a href="#removed">endowment</a> - removed</li>
-		<li><a href="#remove">equipment</a> - removed</li>
-		<li><a href="#removed">ext_links</a> - removed</li>
+		<li><a href="#removed">editor</a> (removed)</li>
+		<li><a href="#removed">end_date</a> (removed)</li>
+		<li><a href="#removed">endowment</a> (removed)</li>
+		<li><a href="#remove">equipment</a> (removed)</li>
+		<li><a href="#removed">ext_links</a> (removed)</li>
 </details>
 <details>
 <summary>F's</summary>
