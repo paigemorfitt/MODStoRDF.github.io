@@ -54,8 +54,8 @@
 		<li><a href="#removed">cover_image_url</a> (removed)</li>		
 		<li><a href="#removed">create_openurl	</a> (removed)</li>
 		<li><a href="creators.md">creators</a>: identifies the entity/entities primarily responsible for maknig the resource.</li>
-		<li><a href="#removed">cultural_affiliation</a> - removed</li>
-		<li><a href="#removed">custom_citation	</a> - removed</li>
+		<li><a href="#removed">cultural_affiliation</a> (removed): Affiliation related to item.</li>
+		<li><a href="#removed">custom_citation	</a> (removed)d</li>
 </details>
 <details>
 <summary>D's</summary>
