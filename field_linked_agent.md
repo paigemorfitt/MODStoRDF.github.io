@@ -62,7 +62,7 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Includes the following fields: <a href="advisor.md">IMI/advisor</a>, IMI/creator, IMI/contributor, and IMI/publisher</td>
+	<td>Includes the following fields: <a href="advisor.md">IMI/advisor</a>, <a href="creator.md">IMI/creator</a>, <a href="contributor.md">IMI/contributor</a>, and <a href="publisher.md">IMI/publisher</a></td>
 </tr>
 </table>
 <details>
@@ -86,6 +86,6 @@
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.name.md">MODS/name/namePart</a> | RDF/[Undetermined. See<a href="rdf.field_linked_agent.md">RDF/field_linked_agent</a>] |
 </dl>
-<p><i>Last Updated: </i>08/26/2021</p>
+<p><i>Last Updated: </i>09/22/2021</p>
 </body>
 </html>
