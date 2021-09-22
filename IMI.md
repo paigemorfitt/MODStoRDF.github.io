@@ -65,11 +65,11 @@
 		<li><a href="department.md">department</a>: college division in which the item is </li>
 		<li><a href="#removed">director</a> (removed): responsible party credited for directing the play depicted in image</li>
 				<li><a href="#removed">display_date</a> (removed)</li>
-		<li><a href="#removed">distribution_license	</a> - removed</li>
-		<li><a href="#removed">document_type	</a> - removed</li>		
-		<li><a href="#removed">donor</a> - removed</li>
-		<li><a href="#removed">download_file_format	</a> - removed</li>
-		<li><a href="#removed">duration	</a> - removed</li>
+		<li><a href="#removed">distribution_license	</a> (removed) </li>
+		<li><a href="#removed">document_type	</a> (removed) </li>		
+		<li><a href="#removed">donor</a> (removed)</li>
+		<li><a href="#removed">download_file_format	</a> (removed)</li>
+		<li><a href="#removed">duration	</a> (removed)</li>
 </details>
 <details>
 <summary>E's & F's</summary>
