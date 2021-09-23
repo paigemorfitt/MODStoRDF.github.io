@@ -51,23 +51,10 @@
 	<td>N/A</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Default Field</td>
-					<td>Entity Reference</td>
-					<td>Limited (1)</td>
-					<td>Taxonomy Term / Islandora Display</td>
-				</tr>
-			</table>
-</details>
-<p><i>Last Updated: </i>08/26/2021</p>
+<dl>
+	<dt><b>Related Fields</b></dt>
+	<a href="DrupalFields.md">Drupal Field</a>
+</dl>
+<p><i>Last Updated: </i>09/23/2021</p>
 </body>
 </html>
