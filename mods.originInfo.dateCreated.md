@@ -14,25 +14,42 @@
 
 
 <h1>MODS/originInfo</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource. <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html"> (resource)</a></dd>
-  <dd>Attributes:  lang; xml:lang; script; transliteration; altrepGroup;displayLabel; eventType</dd>
-  <dd>Subelements:  place; publisher; dateIssued; dateCreated; dateCaptured; dateValid; dateModified; copyrightDate; dateOther; edition; issuance; frequency</dd>
-</dl>
-
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource. <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html"> (resource)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>lang; xml:lang; script; transliteration; altrepGroup;displayLabel; eventType</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>place; publisher; dateIssued; dateCreated; dateCaptured; dateValid; dateModified; copyrightDate; dateOther; edition; issuance; frequency</td>
+</tr>
+</table>
 <h2>MODS/originInfo/dateCreated</h2>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: The date of creation of the resource.<a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#datecreated">(resource)</a></dd>
-  <dd>Attributes:  encoding; point; keyDate; qualifier; lang; xml:lang; script; transliteration</dd>
-  <dd>Subelements:  N/A</dd>
-</dl>
-
+<table>
+<tr>
+	<th>Definition</th>
+	<td>The date of creation of the resource.<a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#datecreated">(resource)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>encoding; point; keyDate; qualifier; lang; xml:lang; script; transliteration</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="date.sort.md">field_edtf_date</a> | <a href="rdf.dcterms.date.md">dcterms:date</a> |
+		| <a href="field_edtf_date.md">field_edtf_date</a> | 
+		<a href="DrupalFields.md">Drupal field</a> | 
+		<a href="rdf.dcterms.date.md">dcterms:date</a> |
 </dl>
-<p><i>Last Updated: </i>08/25/2021</p>
+<p><i>Last Updated: </i>09/23/2021</p>
 </body>
 </html>
+
