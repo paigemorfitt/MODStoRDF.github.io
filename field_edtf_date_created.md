@@ -62,7 +62,9 @@
 </table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> | <a href="rdf.dcterms.created.md">dcterms:created</a> |
+		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> | 
+		<a href="DrupalFields.md">Drupal Field</a> |
+		<a href="rdf.dcterms.created.md">dcterms:created</a> |
 </dl>
 <p><i>Last Updated: </i>09/23/2021</p>
 </body>
