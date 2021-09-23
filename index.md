@@ -98,7 +98,7 @@
 	<td><a href="rdf.dcterms.description.md" class ="magic-button" title="An account of the resource.">dcterms:description</a></td>
 </tr>
 <tr>
-	<td><a href="field_display_hint.md" class ="magic-button" title="Terms that will change how this resource is displayed">field_display_hint</a></td>
+	<td><a href="field_display_hints.md" class ="magic-button" title="Terms that will change how this resource is displayed">field_display_hints</a></td>
 	<td>N/A</td>
 	<td></td>
 	<td>N/A</td>
