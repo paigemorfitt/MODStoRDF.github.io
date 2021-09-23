@@ -104,9 +104,9 @@
 	<td>N/A</td>
 </tr>
 <tr>
-	<td><a href="date.sort.md" class ="magic-button" title="ARMINDA Use: Encoded date of creation or publication of the original object that strips out qualifiers and date ranges to allow us to sort on date in ARMINDA">field_edtf_date</a></td>
+	<td><a href="field_edtf_date.md" class ="magic-button" title="ARMINDA Use: Encoded date of creation or publication of the original object that strips out qualifiers and date ranges to allow us to sort on date in ARMINDA">field_edtf_date</a></td>
 	<td><a href="mods.originInfo.dateCreated.md" class ="magic-button" title="Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource.">originInfo/dateCreated</a></td>
-	<td></td>
+	<td>Date (EDTF)/EDTF</td>
 	<td><a href="rdf.dcterms.date.md" class ="magic-button" title="Definition: A point or period of time associated with an event in the lifecycle of the resource.">dcterms:date</a></td>
 </tr>
 <tr>
