@@ -162,7 +162,7 @@
 		<dt><b>Related Fields</b></dt>
 				| <a href="field_edtf_date.md">field_edtf_date</a> | 
 				<a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> |
-				<a href="rdf.dcterms.date.md">dcterms:date</a> |
+				<a href="rdf.dcterms.date.md">RDF/dcterms:date</a> |
 	</dl>
 <h2>field_model</h2>
 			<table>
