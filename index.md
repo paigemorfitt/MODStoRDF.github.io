@@ -100,7 +100,7 @@
 <tr>
 	<td><a href="field_display_hints.md" class ="magic-button" title="Terms that will change how this resource is displayed">field_display_hints</a></td>
 	<td>N/A</td>
-	<td></td>
+	<td>Display hints/Entity reference</td>
 	<td>N/A</td>
 </tr>
 <tr>
@@ -322,7 +322,7 @@
 </table>
 <dl>
 <p>*Completed with medium confidence</p>
-	<p><i>Last Updated: </i>09/22/2021</p>
+	<p><i>Last Updated: </i>09/23/2021</p>
 </dl>
 </body>
 </html>
