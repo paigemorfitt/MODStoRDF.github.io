@@ -112,7 +112,7 @@
 <tr>
 	<td><a href="field_edtf_date_created.md" class ="magic-button" title="ARMINDA Use: Encoded date of creation or publication of the original object with qualifiers and date ranges when applicable">field_edtf_date_created</a></td>
 	<td><a href="mods.originInfo_dateOther.md" class ="magic-button" title="Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource.">originInfo/dateOther</a></td>
-	<td>Date Created (EDTF / EDTF</td>
+	<td>Date Created (EDTF) / EDTF</td>
 	<td><a href="rdf.dcterms.created.md" class ="magic-button" title="Definition: Date of creation of the resource. ">dcterms:created</a></td>
 </tr>  
 <tr>
