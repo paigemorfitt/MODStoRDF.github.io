@@ -14,17 +14,31 @@
 
 
 <h1>RDF/dcterms:created</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Date of creation of the resource. <a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/created">(reference)</a></dd>
-  <dd>Label:  Date Created</dd>
-  <dd>Domain:  N/A</dd>
-  <dd>Range:  Literal</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Date of creation of the resource. <a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/created">(reference)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>Date Created</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>Literal</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="date.encoded.md">field_edtf_date_created</a> | <a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> |
+		| <a href="field_edtf_date_created.md">field_edtf_date_created</a> | 
+		<a href="DrupalFields.md">Drupal Field</a> |
+		<a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> |
 </dl>
-<p><i>Last Updated: </i>05/05/2021</p>
+<p><i>Last Updated: </i>09/23/2021</p>
 </body>
 </html>
+
