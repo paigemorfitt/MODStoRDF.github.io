@@ -138,7 +138,7 @@
 			</table>
 	<dl>
 			<dt><b>Related Fields</b></dt>
-				| <a href="access_condition.md">access_condition</a> | <a href="mods.access_condition.md">accessCondition</a> | <a href="rdf.rdau.p60496.md">rdau:P60496</a> | 
+				| <a href="field_display_hints.md">field_display_hints</a> 
 		</dd>
 	</dl>
 <h2>field_linked_agent</h2>
