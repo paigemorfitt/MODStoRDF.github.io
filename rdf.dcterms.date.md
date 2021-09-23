@@ -13,7 +13,7 @@
 
 
 
-<h1>[RDF]</h1>
+<h1>RDF/dcterms:date</h1>
 <table>
 <tr>
 	<th>Definition</th>
