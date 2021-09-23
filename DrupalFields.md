@@ -119,19 +119,21 @@
 				| <a href="field_description_long.md">field_description_long</a> | <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.dcterms.descriptions.md">RDF/description</a> | 
 	</dl>	
 <dl>
-<h2>field_limited_access</h2>
+<h2>Display Hints</h2>
 			<table>
 				<tr>
 					<th><i>Type of field</i></th>
 					<th><i>Max Length/Repeatability</i></th>
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
+					<th><i>Notes</i></th>
 				</tr>
 				<tr>
-					<td>[here]</td>
-					<td>[here]</td>
-					<td>[here]</td>
-					<td>[here]</td>
+					<td>Entity reference</td>
+					<td>Limited (1)</td>
+					<td>Taxonomy/Islandora Display</td>
+					<td>field_display_hints</td>
+					<td>Default field</td>
 				</tr>
 			</table>
 	<dl>
@@ -178,6 +180,6 @@
 		<dt><b>Related Fields</b></dt>
 				| <a href="cmodel.md">cmodel</a> | <a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
 	</dl>
-<p><i>Last Updated: </i>09/22/2021</p>
+<p><i>Last Updated: </i>09/23/2021</p>
 </body>
 </html>
