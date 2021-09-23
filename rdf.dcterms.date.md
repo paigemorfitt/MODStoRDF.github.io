@@ -13,18 +13,33 @@
 
 
 
-<h1>RDF/dcterms:date</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: A point or period of time associated with an event in the lifecycle of the resource. <a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/date">(reference)</a></dd>
-  <dd>Label:  Date</dd>
-  <dd>Domain:  N/A</dd>
-  <dd>Range:  Literal</dd>
-</dl>
+<h1>[RDF]</h1>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>A point or period of time associated with an event in the lifecycle of the resource. <a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/date">(reference)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>Date</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>Literal</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="date.sort.md">field_edtf_date</a> | <a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> |
+		| <a href="field_edtf_date.md">field_edtf_date</a> | 
+		<a href="DrupalFields.md">Drupal field</a> | 
+		<a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> |
 </dl>
-<p><i>Last Updated: </i>08/25/2021</p>
+<p><i>Last Updated: </i>09/23/2021</p>
 </body>
 </html>
+
+
