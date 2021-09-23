@@ -86,6 +86,9 @@
 		<li><a href="field_description_long.md">field_description_long</a>: an account of the resource, primarily used for archival objects</li>
 		<li><a href="file_display_hints.md">file_display_hints</a>: terms that will change how this resource is displayed</li>
 		<li><a href="field_edtf_date.md">field_edtf_date</a>: encoded date of creation or publication of the original object that strips out qualifiers and date ranges to allow us to sort on date in ARMINDA</li>
+		<li><a href="field_edtf_date_created.md">field_edtf_date_created</a>: encoded date of creation or publication of the original object with qualifiers and date ranges when applicable</li>
+
+
 		
 		
 		
