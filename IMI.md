@@ -84,6 +84,10 @@
 		<li><a href="field_alternative_title.md">field_alternative_title</a>: an alternative title of the described reresource including abbreviations and translations</li>
 		<li><a href="field_date.display.md">field_date_display</a>: date of creation or publication of original object in human readable format for public viewing</li>
 		<li><a href="field_description_long.md">field_description_long</a>: an account of the resource, primarily used for archival objects</li>
+		<li><a href="file_display_hints.md">file_display_hints</a>: terms that will change how this resource is displayed</li>
+		
+		
+		
 		<li><a href="date.encoded.md">field_edtf_date_created</a></li>
 		<li><a href="date_issued.md">field_edtf_date_issue</a></li>
 		<li><a href="date_sort.md">field_edtf_date</a></li>
@@ -110,7 +114,6 @@
 		<li><a href="url_external.md">field_url_external</a></li>
 		<li><a href="volume_num.md">field_volume_num</a></li>
 		<li><a href="field_weight.md">field_weight</a></li>
-		<li><a href="file_display_hint.md">file_display_hint</a></li>
 		<li><a href="#removed">file_list</a>-removed</li>
 		<li><a href="#removed">file_name_id</a>-removed</li>
 		<li><a href="file.md">file</a></li>
