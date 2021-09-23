@@ -138,28 +138,31 @@
 			</table>
 	<dl>
 			<dt><b>Related Fields</b></dt>
-				| <a href="field_display_hints.md">field_display_hints</a> 
+				| <a href="field_display_hints.md">field_display_hints</a> |
 		</dd>
 	</dl>
-<h2>field_linked_agent</h2>
+<h2>Date (EDTF)</h2>
 			<table>
 				<tr>
 					<th><i>Type of field</i></th>
 					<th><i>Max Length/Repeatability</i></th>
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
 				</tr>
 				<tr>
-					<td>[here]</td>
-					<td>[here]</td>
-					<td>[here]</td>
-					<td>[here]</td>
+					<td>EDTF</td>
+					<td>128 characters / Unlimited</td>
+					<td>N/A</td>
+					<td>field_edtf_date</td>
+					<td>Custom field</td>
 				</tr>
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				<dd>| <a href="advisor.md">advisors</a> | <a href="mods.name.md">name/namePart</a> | <a href="rdf.field_linked_agent.md">local:adv</a> | </dd>
-				<dd>| <a href="contributors.md">contributors</a> | <a href="mods.name.md">name/namePart</a> | <a href="rdf.field_linked_agent.md">relators:ctb</a> | </dd>
+				| <a href="field_edtf_date.md">field_edtf_date</a> | 
+				<a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> |
+				<a href="rdf.dcterms.date.md">dcterms:date</a> |
 	</dl>
 <h2>field_model</h2>
 			<table>
