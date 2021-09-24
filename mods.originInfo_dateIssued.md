@@ -11,26 +11,44 @@
   </tr>
 </table>
 
-
-
 <h1>MODS/originInfo</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource. <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html"> (resource)</a></dd>
-  <dd>Attributes:  lang; xml:lang; script; transliteration; altrepGroup;displayLabel; eventType</dd>
-  <dd>Subelements:  place; publisher; dateIssued; dateCreated; dateCaptured; dateValid; dateModified; copyrightDate; dateOther; edition; issuance; frequency</dd>
-</dl>
-<h1>MODS/originInfo/dateIssued</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: The date that the resource was published, released, or issued..<a href="www.loc.gov/standards/mods/userguide/origininfo.html#dateissued">(resource)</a> </dd>
-  <dd>Attributes: encoding; point; keyDate; qualifier; lang; xml:lang; script; transliteration  </dd>
-  <dd>Subelements: N/A </dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource. <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html"> (resource)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>lang; xml:lang; script; transliteration; altrepGroup;displayLabel; eventType</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>place; publisher; dateIssued; dateCreated; dateCaptured; dateValid; dateModified; copyrightDate; dateOther; edition; issuance; frequency</td>
+</tr>
+</table>
+<h2>MODS/originInfo/dateIssued</h2>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>The date that the resource was published, released, or issued..<a href="www.loc.gov/standards/mods/userguide/origininfo.html#dateissued">(resource)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>encoding; point; keyDate; qualifier; lang; xml:lang; script; transliteration</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="date_issued.md">field_edtf_date_issued</a> | <a href="rdf.dcterms.issued.md">dcterms:issued</a> |
+		| <a href="field_edtf_date_issued.md">field_edtf_date_issued</a> |
+		<a href="DrupalFields.md">Drupal Fields</a> |
+		<a href="rdf.dcterms.issued.md">dcterms:issued</a> |
 </dl>
-<p><i>Last Updated: </i>05/05/2021</p>
+<p><i>Last Updated: </i>09/24/2021</p>
 </body>
 </html>
+
+
