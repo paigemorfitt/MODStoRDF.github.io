@@ -188,6 +188,28 @@
 				<a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> | 
 				<a href="rdf.dcterms.created.md">dcterms:created</a> |
 	</dl>
-<p><i>Last Updated: </i>09/23/2021</p>
+	
+<h2>Date Issued (EDTF)</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>EDTF</td>
+					<td>128 characters / Unlimited</td>
+					<td>N/A</td>
+					<td>field_edtf_date_issued</td>
+					<td>Default field</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="cmodel.md">cmodel</a> | <a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
+	</dl>
+<p><i>Last Updated: </i>09/24/2021</p>
 </body>
 </html>
