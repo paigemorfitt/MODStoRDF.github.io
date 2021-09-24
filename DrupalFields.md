@@ -54,7 +54,7 @@
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				<dd>| <a href="field_access_terms.md">field_access_terms</a> 
+				<dd>| <a href="field_access_terms.md">field_access_terms</a>  |
 	</dl>
 <h2>Alternative Title</h2>
 			<table>
