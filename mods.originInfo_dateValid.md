@@ -12,25 +12,42 @@
 </table>
 
 <h1>MODS/originInfo</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource. <a href="https://www.loc.gov/standards/mods/userguide/origininfo.md"> (resource)</a>
-</dd>
-  <dd>Attributes: lang; xml:lang; script; transliteration; altrepGroup;displayLabel; eventType</dd>
-  <dd>Subelements:  place; publisher; dateIssued; dateCreated; dateCaptured; dateValid; dateModified; copyrightDate; dateOther; edition; issuance; frequency</dd>
-<h2 id="dateValid">MODS/originInfo/dateValid</h2>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>DefinitionA date in which the content of a resource is valid.<a href="https://www.loc.gov/standards/mods/userguide/origininfo.md#datevalid">(resource)</a></dd>
-  <dd>Attributesencoding; point; keyDate; qualifier; calendar; lang; xml:lang; script; transliteration</dd>
-  <dd>Subelements:N/A</dd> 
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource. <a href="https://www.loc.gov/standards/mods/userguide/origininfo.md"> (resource)</td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>lang; xml:lang; script; transliteration; altrepGroup;displayLabel; eventType</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>place; publisher; dateIssued; dateCreated; dateCaptured; dateValid; dateModified; copyrightDate; dateOther; edition; issuance; frequency</td>
+</tr>
+</table>
+<h2>MODS/originInfo/dateValid</h2>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>A date in which the content of a resource is valid.<a href="https://www.loc.gov/standards/mods/userguide/origininfo.md#datevalid">(resource)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>encoding; point; keyDate; qualifier; calendar; lang; xml:lang; script; transliteration<</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>N/A</td>
+</tr>
+</table> 
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
-			<td><a href="embargo_date.md">field_embargo_date</a></td>
-			<td><a href="rdf.schema.availabilityStarts.md">RDF/schema:avalibilityStarts</a></td>
-		</table>
+			| <a href="field_embargo_date.md">field_embargo_date</a> | 
+			<a href="DrupalFields.md">Drupal Fields</a> | 
+			<a href="rdf.schema.availabilityStarts.md">RDF/schema:avalibilityStarts</a> | 
 </dl>
-<p><i>Last Updated: </i></font>08/25/2021</p>
+<p><i>Last Updated: </i></font>09/24/2021</p>
 </body>
 </html>
