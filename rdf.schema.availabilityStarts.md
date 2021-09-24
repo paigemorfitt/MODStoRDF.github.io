@@ -30,7 +30,7 @@
 	<th>Range</th>
 	<td>Date, DateTime, Time</td>
 </tr>
-</table>ange: Date, DateTime, Time</dd>
+</table></dd>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
