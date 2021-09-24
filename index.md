@@ -15,9 +15,9 @@
   </tr>
 <table>
 
- <h1>Arminda metadata information page</h1> 
+ <h1>Arminda information page</h1> 
   
-<p>This is an explination of metadata that is in Arminda, moving from IMI to MODS to RDF. Below are the fields moving from IMI to MODS to RDF, fields that have been through the review process. See link for  <a href="IMItoMODS.md">IMI to MODS</a> or <a href="IMItoRDF.md">IMI to RDF</a> (both untested).</p>
+<p>Collections in Arminda. For information about IMI field content <a href="imi.field.content.md">click here</a> For a list of fields that have been removed <a href="fields.removed.md">click here</a>. List of <a href="Islandora.8.terms.md">Terms and Facts</a> (in progress).</p>
    <tr>
     <th><a href="Archives.md">Archives</a></th>
 	<th><a href="Theses.md">Theses</a></th>
