@@ -14,18 +14,31 @@
 
 
 <h1>RDF/dcterms:issued</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Date of formal issuance of the resource.</dd>
-  <dd>Label:  Date Issued</dd>
-  <dd>Domain:  N/A</dd>
-  <dd>Range:  Literal</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Date of formal issuance of the resource.</td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>Date Issued</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>Literal</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="date_issued.md">field_edtf_date_issued</a> | <a href="mods.originInfo_dateIssued.md">MODS/originInfo/dateIssued</a> |
+		| <a href="field_edtf_date_issued.md">field_edtf_date_issued</a> | 
+		<a href="DrupalFields.md">Drupal Fields</a> |
+		<a href="mods.originInfo_dateIssued.md">MODS/originInfo/dateIssued</a> |
 </dl>
-<p><i>Last Updated: </i>05/05/2021</p>
+<p><i>Last Updated: </i>09/24/2021</p>
 </body>
 </html>
 
