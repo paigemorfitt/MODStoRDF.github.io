@@ -88,15 +88,14 @@
 		<li><a href="field_edtf_date.md">field_edtf_date</a>: encoded date of creation or publication of the original object that strips out qualifiers and date ranges to allow us to sort on date in ARMINDA</li>
 		<li><a href="field_edtf_date_created.md">field_edtf_date_created</a>: encoded date of creation or publication of the original object with qualifiers and date ranges when applicable</li>
 		<li><a href="field_edtf_date_issued.md">field_edtf_date_issue</a>: issue date of the newspaper</li>
-		<li><a href="date.encoded.md">field_edtf_date_created</a></li>
+		<li><a href="field_embargo_date.md">field_embargo_date</a>: date when item is released for public viewing</li>
+		
 
 
 		
 		
 		
 		
-		<li><a href="date.encoded.md">field_edtf_date_created</a></li>
-		<li><a href="field_embargo_date.md">field_embargo_date</a></li>
 		<li><a href="extent.md">field_extent</a></li>
 		<li><a href="funding_sources.md">field_funding_sources</a></li>
 		<li><a href="genre.md">field_genre</a></li>
