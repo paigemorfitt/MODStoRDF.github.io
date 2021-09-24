@@ -123,7 +123,7 @@
 <tr>
 	<td><a href="field_embargo_date.md" class ="magic-button" title="ARMINDA Use:Date when item is released for public viewing.">field_embargo_date</a></td>
 	<td><a href="mods.originInfo_dateValid.md" class ="magic-button" title="Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource. ">originInfo/dateValid</a></td>
-	<td></td>
+	<td>Embargoed/EDTF</td>
 	<td><a href="rdf.schema.availabilityStarts.md" class ="magic-button" title="Definition: The beginning of the availability of the product or service included in the offer.">schema:avalibilityStarts</a></td>
 </tr>
 <tr>
