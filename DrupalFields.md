@@ -231,8 +231,8 @@
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				| <a href="mods.originInfo_dateValid.md">MODS/originInfo/dateValid</a> | 
-				<a href="field_embargo_date.md">field_embargo_date</a> | 
+				| <a href="field_embargo_date.md">field_embargo_date</a> |  
+				<a href="mods.originInfo_dateValid.md">MODS/originInfo/dateValid</a> | 
 				<a href="rdf.schema.availabilityStarts.md">RDF/schema:avalibilityStarts</a>| 
 	</dl>
 <p><i>Last Updated: </i>09/24/2021</p>
