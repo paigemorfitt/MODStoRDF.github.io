@@ -57,30 +57,12 @@
 	<td>New field. Comprised of IMI/pagecount, IMI/duration, IMI/artifact_number; Former name: IMI/extent</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Default Field</td>
-					<td>text (plain)</td>
-					<td>255 characters/ Unlimited</td>
-					<td>N/A</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="mods.physicalDescription.extent.md">MODS/physicalDescription/extent</a></td>
-			<td><a href="rdf.dcterms.extent.md">RDF/dcterms:extent</a></td>
-		</table>
+			| <a href="mods.physicalDescription.extent.md">MODS/physicalDescription/extent | 
+			<a href="DrupalFields.md">Drupal Fields</a> | 
+			<a href="rdf.dcterms.extent.md">RDF/dcterms:extent</a> | 
 </dl>
-<p><i>Last Updated: </i></font>08/26/2021</p>
+<p><i>Last Updated: </i></font>09/24/2021</p>
 </body>
 </html>
