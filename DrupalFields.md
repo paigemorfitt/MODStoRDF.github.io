@@ -75,7 +75,7 @@
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-			 <a href="field_alternative_title.md">field_alternative_title</a>| <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> | <a href="rdf.dcterms.alternative.md">RDF/dcterms:alternative</a> |
+			 | <a href="field_alternative_title.md">field_alternative_title</a>| <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> | <a href="rdf.dcterms.alternative.md">RDF/dcterms:alternative</a> |
 	</dl>
 <h2>Date</h2>
 			<table>
