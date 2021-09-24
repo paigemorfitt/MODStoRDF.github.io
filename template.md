@@ -105,8 +105,10 @@
 					<th><i>Max Length/Repeatability</i></th>
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
 				</tr>
 				<tr>
+					<td>[here]</td>
 					<td>[here]</td>
 					<td>[here]</td>
 					<td>[here]</td>
