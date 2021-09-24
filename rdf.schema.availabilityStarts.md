@@ -12,22 +12,32 @@
 </table>
 
 
-
 <h1>RDF/schema:availabilityStarts</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: The beginning of the availability of the product or service included in the offer.<a href="https://schema.org/availabilityStarts">(reference)</a></dd>
-  <dd>Label: N/A</dd>
-  <dd>Domain: ActionAccessSpecifications, Demand, Offer</dd>
-  <dd>Range: Date, DateTime, Time</dd>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>The beginning of the availability of the product or service included in the offer.<a href="https://schema.org/availabilityStarts">(reference)</td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>ActionAccessSpecifications, Demand, Offer</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>Date, DateTime, Time</td>
+</tr>
+</table>ange: Date, DateTime, Time</dd>
 </dl>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<table>
-			<td><a href="embargo_date.md">field_embargo_date</a></td>
-			<td><a href="mods.originInfo_dateValid.md">MODS/originInfo/dateValid</a></td>
-		</table>
+			<a href="field_embargo_date.md">field_embargo_date</a> | 
+			<a href="DrupalFields.md">Drupal Fields</a> |
+			<a href="mods.originInfo_dateValid.md">MODS/originInfo/dateValid</a> |
 </dl>
-<p><i>Last Updated: </i></font>08/25/2021</p>
+<p><i>Last Updated: </i></font>09/24/2021</p>
 </body>
 </html>
