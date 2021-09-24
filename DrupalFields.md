@@ -12,6 +12,7 @@
   </tr>
 <table>
 <h1>Drupal Field descriptions</h1>
+	<p>There is no designated set of Drupal fields, however, there is a list of <a href="https://www.drupal.org/docs/drupal-apis/entity-api/fieldtypes-fieldwidgets-and-fieldformatters">drupal field types</a> that are used to create Drupal fields. These are our fields in Islandora 8, and their descriptions.</p>
 <h2>Abstract</h2>
 			<table>
 				<tr>
