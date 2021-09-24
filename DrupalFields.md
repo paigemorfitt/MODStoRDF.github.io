@@ -208,7 +208,9 @@
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				| <a href="cmodel.md">cmodel</a> | <a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
+				| <a href="field_edtf_date_issued.md">field_edtf_date_issued</a> | 
+				<a href="mods.originInfo_dateIssued.md">MODS/originInfo/dateIssued</a> | 
+				<a href="rdf.dcterms.issued.md">RDF/dcterms:issued</a> |
 	</dl>
 <p><i>Last Updated: </i>09/24/2021</p>
 </body>
