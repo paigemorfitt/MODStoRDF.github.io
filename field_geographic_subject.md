@@ -63,7 +63,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.subject_geographic.md">subject/geographic</a></td> |
-		<a href="DrupalFields.md#geographic">Drupal Fields</a>
+		<a href="DrupalFields.md#geographic-subject">Drupal Fields</a> | 
 		<a href="rdf.dcterms_spatial.md">RDF/dcterms:spatial</a>|
 </dl>
 <p><i>Last Updated: </i>09/27/2021</p>
