@@ -53,10 +53,9 @@
 			<a href="creators.md">IMI/creators</a> | 
 			<td><a href="rdf.field_linked_agent.md">field_linked_agent/ relators:cre </a> |
 		</dd>
-		<dd> 
-			
+		<dd>
 			| <a href="department.md">IMI/department</a> | 
-			<a href="rdf.field_linked_agent.md">RDF/local:dpt</a>< |
+			<a href="rdf.field_linked_agent.md">RDF/local:dpt</a> |
 		</dd>
 		<dd>
 			| <a href="field_funding_sources.md">field_funding_sources</a> |     
