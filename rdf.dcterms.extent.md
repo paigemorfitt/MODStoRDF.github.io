@@ -12,24 +12,37 @@
 </table>
 
 
-
 <h1>RDF/dcterms:extent</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: The size or duration of the resource.<a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/extent">(reference)</a></dd>
-  <dd>Comment: Recommended practice is to specify the file size in megabytes and duration in ISO 8601 format.</dd>
-  <dd>Label:  Extent</dd>
-  <dd>Domain: N/A</dd>
-  <dd>Range:  SizeOrDuration</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td> The size or duration of the resource.<a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/extent">(reference)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>Extent</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>SizeOrDuration</td>
+</tr>
+<tr>
+	<th>Comment</th>
+	<td>Recommended practice is to specify the file size in megabytes and duration in ISO 8601 format.</td>
+</tr>
+</table>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<table>
-			 <td><a href="field_extent.md">field_extent</a></td>
-			<td><a href="mods.physicalDescription.extent.md">MODS/physicalDescription/extent</a></td>
-		</table>
+			<a href="field_extent.md">field_extent</a> | 
+			 <a href="DrupalFields">Drupal Fields</a>
+			<td><a href="mods.physicalDescription.extent.md">MODS/physicalDescription/extent</a> | 
 </dl>
-<p><i>Last Updated: </i></font>08/26/2021</p>
+<p><i>Last Updated: </i></font>09/27/2021</p>
 
 </body>
 </html>
+
