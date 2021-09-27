@@ -327,6 +327,29 @@
 				<a href="mods.subject_geographic.md">MODS/subject/geographic</a> |
 				<a href="rdf.dcterms_spatial.md">RDF/dcterms:spatial</a> | 
 	</dl>
+<h2>Graduation Year</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>EDTF</td>
+					<td>255 characters / Limited (1)</td>
+					<td>N/A</td>
+					<td>field_graduation_year</td>
+					<td>Custom field</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_graduation_year.md">field_graduation_year</a> | 
+				<a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
+				<a href="rdf.rdau.p60514.md">RDF/rdau:p60514</a> |
+	</dl>
 <p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
