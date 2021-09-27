@@ -14,13 +14,24 @@
 
 
 <h1>RDF/rdau:P60451</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Relates a resource to an agent who sponsors some aspect of a resource.<a href="http://www.rdaregistry.info/Elements/u/#P60451">(reference)</a></dd>
-  <dd>Label: "has sponsoring agent of resource"</dd>
-  <dd>Domain: N/A</dd>
-  <dd>Range: N/A</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Relates a resource to an agent who sponsors some aspect of a resource.<a href="http://www.rdaregistry.info/Elements/u/#P60451">(reference)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>"has sponsoring agent of resource"</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		<table>
@@ -28,6 +39,6 @@
 				<td><a href="mods.name.md">MODS/name/namePart</a></td>
 		</table>
 </dl>
-<p><i>Last Updated: </i>08/26/2021</p>
+<p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
