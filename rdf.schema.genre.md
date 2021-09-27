@@ -10,18 +10,31 @@
     <th><a href="RDF.md">RDF Fields</a></th>
   </tr>
 </table>
-<h1>schema:genre</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Genre of the creative work, broadcast channel or group.<a href="https://schema.org/genre">(reference)</a></dd>
-  <dd>Label:  N/A</dd>
-  <dd>Domain:  BroadcastChannel, CreativeWork, MusicGroup</dd>
-  <dd>Range:  Text, URL</dd>
-</dl>
+<h1>RDF/schema:genre</h1>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Genre of the creative work, broadcast channel or group.<a href="https://schema.org/genre">(reference)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>BroadcastChannel, CreativeWork, MusicGroup</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>Text, URL</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_genre.md">field_genre</a> | <td><a href="mods.genre.md" >MODS/genre</a>|
+		| <a href="field_genre.md">field_genre</a> | 
+		<a href="DrupalFields.md">Drupal Fields</a> | 
+		<a href="mods.genre.md" >MODS/genre</a> |
 </dl>
-<p><i>Last Updated: </i>08/26/2021</p>
+<p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
