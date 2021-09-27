@@ -15,7 +15,7 @@
 <table>
 <tr>
 	<th>Definition</th>
-	<td>The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource <a href="https://www.loc.gov/standards/mods/userguide/name.html"> (resources)<a/><td>
+	<td>The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource <a href="https://www.loc.gov/standards/mods/userguide/name.html"> (resources)<a/></td>
 </tr>
 <tr>
 	<th>Attributes</th>
@@ -75,27 +75,27 @@
 	<dt><b>Related Fields</b></dt>
 		<dd>| 
 			<a href="advisor.md">IMI/advisors</a> | 
-			<a href="DrupalFields.md>Drupal Fields</a> |
+			<a href="DrupalFields.md">Drupal Fields</a> |
 			<a href="rdf.field_linked_agent.md">field_linked_agent / local:adv</a> |
 		</dd>
 		<dd>|
 			<a href="contributors.md">IMI/contributors</a> | 
-			<a href="DrupalFields.md>Drupal Fields</a> |
+			<a href="DrupalFields.md">Drupal Fields</a> |
 			<a href="rdf.field_linked_agent.md">RDF/dcterms:contributor/ relators:ctb</a> |
 		</dd>
 		<dd>| 
 			<a href="creators.md">IMI/creators</a> | 
-			<a href="DrupalFields.md>Drupal Fields</a> |
+			<a href="DrupalFields.md">Drupal Fields</a> |
 			<td><a href="rdf.field_linked_agent.md">field_linked_agent/ relators:cre </a> |
 		</dd>
 		<dd>
 			| <a href="department.md">IMI/department</a> | 
-			<a href="DrupalFields.md>Drupal Fields</a> |
+			<a href="DrupalFields.md">Drupal Fields</a> |
 			<a href="rdf.field_linked_agent.md">RDF/local:dpt</a> |
 		</dd>
 		<dd>
 			| <a href="field_funding_sources.md">field_funding_sources</a> | 
-			<a href="DrupalFields.md>Drupal Fields</a> |				
+			<a href="DrupalFields.md">Drupal Fields</a> |				
 			<a href="rdf.rdau.p60451.md">rdau:P60451</a> |
 		</dd>
 </dl>
