@@ -59,13 +59,6 @@
 	<td>former name: IMI/coverage_spatial</td>
 </tr>
 </table>
-	<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<li> Note: default field</li>
-			<li>Type of field: Entity reference</li>
-			<li>Max Length/Repeatability: Unlimited</li>
-			<li>Type of Item Reference/Vocabulary: Taxonomy Term / Geographic Location </li>
-	</details>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
