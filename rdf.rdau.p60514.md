@@ -12,19 +12,31 @@
 </table>
 
 
-
 <h1>RDF/rdau:p60514</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Relates a resource to a timespan during which an academic degree is conferred by a granting institution or faculty <a href="http://www.rdaregistry.info/Elements/u/">(resource)</a></dd>
-  <dd>Label:  has year degree granted</dd>
-  <dd>Domain: N/A</dd>
-  <dd>Range: N/A</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Relates a resource to a timespan during which an academic degree is conferred by a granting institution or faculty <a href="http://www.rdaregistry.info/Elements/u/">(resource)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>has year degree granted</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_graduation_year.md">field_graduation_year</a> | <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
+		| <a href="field_graduation_year.md">field_graduation_year</a> | 
+		<a href="DrupalFields.md#graduation-year">Drupal Field</a> |
+		<a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
 </dl>
-<p><i>Last Updated: </i>09/17/2021</p>
+<p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
