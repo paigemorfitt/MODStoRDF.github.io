@@ -300,7 +300,7 @@
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				| <a href="field_genre.md">field_genre</a>
+				| <a href="field_genre.md">field_genre</a> | 
 				<a href="mods.genre.md" >MODS/genre</a> |
 				<a href="rdf.schema.genre.md" >RDF/schema:genre</a> | 
 	</dl>
