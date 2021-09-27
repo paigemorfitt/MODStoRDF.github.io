@@ -29,7 +29,8 @@
 	<th>Range</th>
 	<td>Location</td>
 </tr>
-</table>ge:  Location</dd>
+</table>
+</dd>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
