@@ -12,18 +12,27 @@
 </table>
 
 
-
 <h1>MODS/genre</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: A term or terms that designate a category characterizing a particular style, form, or content, such as artistic, musical, literary composition, etc.<a href="https://www.loc.gov/standards/mods/userguide/genre.html">(resource)</a></dd>
-  <dd>Attributes:  authority; valueURI; authorityURI, lang; xml:lang; script; transliteration; altRepGroup; usage; displayLabel; type</dd>
-  <dd>Subelements:  N/A</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>A term or terms that designate a category characterizing a particular style, form, or content, such as artistic, musical, literary composition, etc.<a href="https://www.loc.gov/standards/mods/userguide/genre.html">(resource)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>authority; valueURI; authorityURI, lang; xml:lang; script; transliteration; altRepGroup; usage; displayLabel; type</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="field_genre.md">field_genre</a> | <a href="rdf.schema.genre.md" >RDF/schema:genre</a>|
+		|<a href="field_genre.md">field_genre</a> | 
+		<a href="DrupalFields.md">Drupal Fields</a>
+		<a href="rdf.schema.genre.md" >RDF/schema:genre</a>|
 </dl>
-<p><i>Last Updated: </i>08/26/2021</p>
+<p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
