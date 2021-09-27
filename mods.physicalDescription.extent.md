@@ -11,29 +11,42 @@
   </tr>
 </table>
 
-
-
 <h1>MODS/physicalDescription</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Describes the physical characteristics of the resource.<a href="https://www.loc.gov/standards/mods/userguide/physicaldescription.html">(reference)</a></dd>
-  <dd>Attributes:  lang; xml:lang; script; transliteration; altRepGroup; xlink; ID; displayLabel; typeURI</dd>
-  <dd>Subelements:  form; reformattingQuality; internatMediaType; extent; digitalOrigin; note</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Describes the physical characteristics of the resource.<a href="https://www.loc.gov/standards/mods/userguide/physicaldescription.html">(reference)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>lang; xml:lang; script; transliteration; altRepGroup; xlink; ID; displayLabel; typeURI</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>form; reformattingQuality; internatMediaType; extent; digitalOrigin; note</td>
+</tr>
+</table>
 <h2>MODS/extent</h2>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: A statement about the physical extent of the resource, in terms of units of measurement and material.<a href="https://www.loc.gov/standards/mods/userguide/physicaldescription.html#extent">(reference)</a></dd>
-  <dd>Attributes: lang; xml:lang; script; transliteration; supplied; unit</dd>
-  <dd>Subelements:  N/A</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>A statement about the physical extent of the resource, in terms of units of measurement and material.<a href="https://www.loc.gov/standards/mods/userguide/physicaldescription.html#extent">(reference)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>lang; xml:lang; script; transliteration; supplied; unit</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<table>
-			 <td><a href="field_extent.md">field_extent</a></td>
-			<td><a href="rdf.dcterms.extent.md">RDF/dcterms:extent</a></td>
-		</table>
+			| <a href="field_extent.md">field_extent</a> | 
+			<a href="DrupalFields">Drupal Field</a> | 
+			 <a href="rdf.dcterms.extent.md">RDF/dcterms:extent</a> | 
 </dl>
-<p><i>Last Updated: </i></font>08/26/2021</p>
+<p><i>Last Updated: </i></font>09/27/2021</p>
 </body>
 </html>
