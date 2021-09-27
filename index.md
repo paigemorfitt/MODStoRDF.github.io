@@ -145,7 +145,7 @@
 	<td><a href="rdf.schema.genre.md" class ="magic-button" title="Definition: Genre of the creative work, broadcast channel or group."><b>schema:genre</b></a> I8 mapping needs correcting</td>
 </tr>
 <tr>
-	<td><a href="field_geographic_subjectmagic-button" title="ARMINDA Use: Geographic subject headings">field_geographic_subject</a></td>
+	<td><a href="field_geographic_subject.md" class="magic-button" title="ARMINDA Use: Geographic subject headings">field_geographic_subject</a></td>
 	<td><a href="mods.subject_geographic.md" class ="magic-button" title="Definition: A term or phrase representing the primary topic(s) on which a work is focused">subject/geographic</a></td>
 	<td>Geographic Subject / Entity Reference</td>
 	<td><a href="rdf.dcterms_spatial.md" class ="magic-button" title="Definition: Spatial characteristics of the resource.">dcterms:spatial</a></td>
