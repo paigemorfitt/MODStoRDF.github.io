@@ -34,10 +34,9 @@
 </table>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<table>
-				<td><a href="field_funding_sources.md">field_funding_sources</a></td>
-				<td><a href="mods.name.md">MODS/name/namePart</a></td>
-		</table>
+				| <a href="field_funding_sources.md">field_funding_sources</a> | 
+				<a href="DrupalFields.md">Drupal Fields</a> |
+				<td><a href="mods.name.md">MODS/name/namePart</a> | 
 </dl>
 <p><i>Last Updated: </i>09/27/2021</p>
 </body>
