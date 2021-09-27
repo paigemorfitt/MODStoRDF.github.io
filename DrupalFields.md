@@ -281,6 +281,29 @@
 				<td><a href="mods.name.md">MODS/name/namePart</a> |  
 				<a href="rdf.rdau.p60451.md">rdau:P60451</a> |
 	</dl>
+<h2>Genre</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Entity reference</td>
+					<td>N/A / Unlimited</td>
+					<td>Taxonomy term / Genre</td>
+					<td>field_genre</td>
+					<td>Custom field (mapping change from dc:type to schema:genre)</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_genre.md">field_genre</a>
+				<a href="mods.genre.md" >MODS/genre</a> |
+				<a href="rdf.schema.genre.md" >RDF/schema:genre</a> | 
+	</dl>
 <p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
