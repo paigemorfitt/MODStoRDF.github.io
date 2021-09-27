@@ -41,11 +41,27 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		<dd>| <a href="advisor.md">IMI/advisors</a> | <a href="rdf.field_linked_agent.md">field_linked_agent / local:adv</a> |</dd>
-		<dd>| <a href="contributors.md">IMI/contributors</a> | <a href="rdf.field_linked_agent.md">RDF/dcterms:contributor/ relators:ctb</a> |</dd>
-		<dd>| <a href="creators.md">IMI/creators</a> | <td><a href="rdf.field_linked_agent.md">field_linked_agent/ relators:cre </a> |</dd>
-		<dd>| <a href="department.md">IMI/department</a> | <td><a href="rdf.field_linked_agent.md">RDF/local:dpt</a></td> |</dd>
-		<dd>| <a href="field_funding_sources.md">field_funding_sources</a> |     <td><a href="rdf.rdau.p60451.md">rdau:P60451</a></td>|</dd>
+		<dd>| 
+			<a href="advisor.md">IMI/advisors</a> | 
+			<a href="rdf.field_linked_agent.md">field_linked_agent / local:adv</a> |
+		</dd>
+		<dd>|
+			<a href="contributors.md">IMI/contributors</a> | 
+			<a href="rdf.field_linked_agent.md">RDF/dcterms:contributor/ relators:ctb</a> |
+		</dd>
+		<dd>| 
+			<a href="creators.md">IMI/creators</a> | 
+			<td><a href="rdf.field_linked_agent.md">field_linked_agent/ relators:cre </a> |
+		</dd>
+		<dd> 
+			
+			| <a href="department.md">IMI/department</a> | 
+			<a href="rdf.field_linked_agent.md">RDF/local:dpt</a>< |
+		</dd>
+		<dd>
+			| <a href="field_funding_sources.md">field_funding_sources</a> |     
+			<a href="rdf.rdau.p60451.md">rdau:P60451</a> |
+		</dd>
 </dl>
 <p><i>Last Updated: </i>09/21/2021</p>
 </body>
