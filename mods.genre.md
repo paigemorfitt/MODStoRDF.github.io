@@ -30,7 +30,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		|<a href="field_genre.md">field_genre</a> | 
-		<a href="DrupalFields.md">Drupal Fields</a>
+		<a href="DrupalFields.md">Drupal Fields</a> | 
 		<a href="rdf.schema.genre.md" >RDF/schema:genre</a>|
 </dl>
 <p><i>Last Updated: </i>09/27/2021</p>
