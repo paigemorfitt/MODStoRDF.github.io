@@ -11,20 +11,32 @@
   </tr>
 </table>
 
-
-
 <h1>RDF/dcterms:spatial</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Spatial characteristics of the resource.<a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/spatial">(reference)</a></dd>
-  <dd>Label:  Spatial Coverage</dd>
-  <dd>Domain:  N/A</dd>
-  <dd>Range:  Location</dd>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Spatial characteristics of the resource.<a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/spatial">(reference)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>Spatial Coverage</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>Location</td>
+</tr>
+</table>ge:  Location</dd>
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="coverage_spatial.md">field_geographic_subject</a> | <a href="mods.subject_geographic.md">MODS/subject/geographic</a> |
+		| <a href="coverage_spatial.md">field_geographic_subject</a> | 
+			<a href="DrupalFields.md#geographic">Drupal Fields</a> | 
+		<a href="mods.subject_geographic.md">MODS/subject/geographic</a> |
 </dl>
-<p><i>Last Updated: </i>07/29/2021</p>
+<p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
