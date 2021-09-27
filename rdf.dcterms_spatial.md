@@ -33,7 +33,7 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="coverage_spatial.md">field_geographic_subject</a> | 
+		| <a href="field_geographic_subject.md">field_geographic_subject</a> | 
 		<a href="DrupalFields.md#geographic-subject">Drupal Fields</a> | 
 		<a href="mods.subject_geographic.md">MODS/subject/geographic</a> |
 </dl>
