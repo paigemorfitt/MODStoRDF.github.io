@@ -49,7 +49,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.genre.md" >MODS/genre</a> |
-		<a href="DrupalFields.md">Drupal Fields</a> | 
+		<a href="https://github.com/paigemorfitt/MODStoRDF.github.io/blob/master/DrupalFields.md#genre">Drupal Fields</a> | 
 		<a href="rdf.schema.genre.md" >RDF/schema:genre</a> |
 </dl>
 <p><i>Last Updated: </i>09/27/2021</p>
