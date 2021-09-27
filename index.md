@@ -141,7 +141,7 @@
 <tr>
 	<td><a href="field_genre.md" class ="magic-button" title="ARMINDA Use: A more detailed sub-type refining the broader Work Type element; provides a specific characterization of the nature or style of the original content source">field_genre</a></td>
 	<td><a href="mods.genre.md" class ="magic-button" title="Definition: A term or terms that designate a category characterizing a particular style, form, or content, such as artistic, musical, literary composition, etc.">genre</a></td>
-	<td></td>
+	<td>Genre / Entity reference</td>
 	<td><a href="rdf.schema.genre.md" class ="magic-button" title="Definition: Genre of the creative work, broadcast channel or group."><b>schema:genre</b></a> I8 mapping needs correcting</td>
 </tr>
 <tr>
