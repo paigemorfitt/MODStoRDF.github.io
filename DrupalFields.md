@@ -235,6 +235,28 @@
 				<a href="mods.originInfo_dateValid.md">MODS/originInfo/dateValid</a> | 
 				<a href="rdf.schema.availabilityStarts.md">RDF/schema:avalibilityStarts</a>| 
 	</dl>
-<p><i>Last Updated: </i>09/24/2021</p>
+<h2>Extent</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Text (plain)</td>
+					<td>255 characters / Unlimited</td>
+					<td>N/A</td>
+					<td>field_extent</td>
+					<td>Default field</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="cmodel.md">cmodel</a> | <a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
+	</dl>
+	
+<p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
