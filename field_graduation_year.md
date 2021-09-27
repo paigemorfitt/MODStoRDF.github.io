@@ -58,7 +58,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
-		<a href="DrupalFields.md#graduation-year">Drupal Fields</a>
+		<a href="DrupalFields.md#graduation-year">Drupal Fields</a> | 
 		<a href="rdf.rdau.p60514.md">RDF/rdau:p60514</a> |
 </dl>
 <p><i>Last Updated: </i>09/27/2021</p>
