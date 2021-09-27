@@ -304,6 +304,29 @@
 				<a href="mods.genre.md" >MODS/genre</a> |
 				<a href="rdf.schema.genre.md" >RDF/schema:genre</a> | 
 	</dl>
+<h2>Geographic Subject</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Entity reference</td>
+					<td>N/A / Unlimited</td>
+					<td>Taxonomy term / Geographic Location</td>
+					<td>field_geographic_subject</td>
+					<td>Default field</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_geographic_subject.md">field_geographic_subject</a> | 
+				<a href="mods.subject_geographic.md">MODS/subject/geographic</a> |
+				<a href="rdf.dcterms_spatial.md">RDF/dcterms:spatial</a> | 
+	</dl>
 <p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
