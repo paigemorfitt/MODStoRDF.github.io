@@ -54,30 +54,12 @@
 	<td>Contains content from IMI/grant_information; Former name: funding_sources</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Custom Field</td>
-					<td>text (long, formatted)</td>
-					<td>Limited (1)</td>
-					<td>N/A</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		<table>
-				<td><a href="mods.name.md">MODS/name/namePart</a></td>
-				<td><a href="rdf.rdau.p60451.md">RDF/rdau:P60451</a></td>
-		</table>
+				| <a href="mods.name.md">MODS/name/namePart</a> | 
+				>a href="DrupalFields.md>Drupal Fields</a> | 
+				<a href="rdf.rdau.p60451.md">RDF/rdau:P60451</a> | 
 </dl>
-<p><i>Last Updated: </i>08/26/2021</p>
+<p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
