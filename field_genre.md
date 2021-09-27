@@ -49,9 +49,9 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.genre.md" >MODS/genre</a> |
-		<a href="DrupalFields.md">Drupal Fields</a>
-		<a href="rdf.schema.genre.md" >RDF/schema:genre</a>|
+		<a href="DrupalFields.md">Drupal Fields</a> | 
+		<a href="rdf.schema.genre.md" >RDF/schema:genre</a> |
 </dl>
-<p><i>Last Updated: </i>08/26/2021</p>
+<p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
