@@ -117,7 +117,8 @@
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				| <a href="cmodel.md">cmodel</a> | <a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
+				| <a href="cmodel.md">cmodel</a> | 
+				<a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
 	</dl>
 
 <p><i>Last Updated: </i>[here]</p>
