@@ -93,13 +93,13 @@
 		<li><a href="funding_sources.md">field_funding_sources</a>: indicates institution or program that helped to fund research project</li>
 		<li><a href="field_genre.md">field_genre</a>: a more detaile sub-type refining the broad Work Type element; provides a specific characterization of the nature or style of the original content source</li>
 		<li><a href="field_geographic_subject.md">field_geographic_subject</a>: geographic subject headings</li>
+		<li><a href="#graduation_year">field_graduation_year</a>: year anuthor graduated from Whitman College</li>
 
 
 		
 		
 		
 		
-		<li><a href="#graduation_year">field_graduation_year</a></li>
 		<li><a href="identifier.unique.md">field_identifier</a></li>
 		<li><a href="issue_num.md">field_issue_num</a></li>
 		<li><a href="language.md">field_language</a></li>
