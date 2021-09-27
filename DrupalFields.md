@@ -277,9 +277,10 @@
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				| <a href="cmodel.md">cmodel</a> | <a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
+				| <a href="field_funding_sources.md">field_funding_sources</a> | 
+				<td><a href="mods.name.md">MODS/name/namePart</a> |  
+				<a href="rdf.rdau.p60451.md">rdau:P60451</a> |
 	</dl>
-	
 <p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
