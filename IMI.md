@@ -89,9 +89,9 @@
 		<li><a href="field_edtf_date_created.md">field_edtf_date_created</a>: encoded date of creation or publication of the original object with qualifiers and date ranges when applicable</li>
 		<li><a href="field_edtf_date_issued.md">field_edtf_date_issue</a>: issue date of the newspaper</li>
 		<li><a href="field_embargo_date.md">field_embargo_date</a>: date when item is released for public viewing</li>
-		<li><a href="extent.md">field_extent</a>: statement of the physical size or duration of the object, such as dimensions, number of items, pages, or running time</li>
+		<li><a href="field_extent.md">field_extent</a>: statement of the physical size or duration of the object, such as dimensions, number of items, pages, or running time</li>
 		<li><a href="funding_sources.md">field_funding_sources</a>: indicates institution or program that helped to fund research project</li>
-		<li><a href="genre.md">field_genre</a>: a more detaile sub-type refining the broad Work Type element; provides a specific characterization of the nature or style of the original content source</li>
+		<li><a href="field_genre.md">field_genre</a>: a more detaile sub-type refining the broad Work Type element; provides a specific characterization of the nature or style of the original content source</li>
 
 
 		
