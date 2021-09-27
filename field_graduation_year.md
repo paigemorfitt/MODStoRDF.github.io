@@ -55,27 +55,12 @@
 	<td>Previous name: graduation_year, Former name: IMI/year_graduation</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Custom field</td>
-					<td>EDTF</td>
-					<td>255 characters / Limited (1)</td>
-					<td>N/A</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> | <a href="rdf.rdau.p60514.md">RDF/rdau:p60514</a> |
+		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
+		<a href="DrupalFields.md#graduation-year">Drupal Fields</a>
+		<a href="rdf.rdau.p60514.md">RDF/rdau:p60514</a> |
 </dl>
-<p><i>Last Updated: </i>09/17/2021</p>
+<p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
