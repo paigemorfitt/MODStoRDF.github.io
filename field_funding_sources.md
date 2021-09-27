@@ -57,7 +57,7 @@
 <dl>
 	<dd><b>Related Fields</b></dd>
 				| <a href="mods.name.md">MODS/name/namePart</a> | 
-				<a "href="DrupalFields.md">Drupal Fields</a> | 
+				<a href="DrupalFields.md">Drupal Fields</a> |
 				<a href="rdf.rdau.p60451.md">RDF/rdau:P60451</a> | 
 </dl>
 <p><i>Last Updated: </i>09/27/2021</p>
