@@ -45,15 +45,15 @@
 	<dt><b>Related Fields</b></dt>
 		<dd>| 
 			<a href="field_date_display.md">field_date_display</a> | 
-			<a href="DrupalFields.md">Drupal Field</a> | 
+			<a href="DrupalFields.md#Date">Drupal Field</a> | 
 			<a href="rdf.rdau.p60527.md">rdau:P60527</a> | 
 		</dd>
 		<dd>| <a href="field_edtf_date_created.md">field_edtf_date_created</a> | 
-			<a href="DrupalFields.md">Drupal Field</a> |
+			<a href="DrupalFields.md#Date-Created-(EDTF)">Drupal Field</a> |
 			<a href="rdf.dcterms.created.md">RDF/dcterms:created</a> | 
 		</dd>
 		<dd>| <a href="field_graduation_year.md">field_graduation_year</a> | 
-			<a href="DrupalFields.md">Drupal Field</a> |
+			<a href="DrupalFields.md#graduation-year">Drupal Field</a> |
 			<a href="rdf.rdau.p60514.md">RDF/rdau:p60514</a> | 
 		</dd>
 </dl>
