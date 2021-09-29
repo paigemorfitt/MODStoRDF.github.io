@@ -95,14 +95,14 @@
 		<li><a href="field_geographic_subject.md">field_geographic_subject</a>: geographic subject headings</li>
 		<li><a href="#graduation_year">field_graduation_year</a>: year anuthor graduated from Whitman College</li>
 		<li><a href="field_identifier.md">field_identifier</a>: character string or number that clearly and uniquely identifies a digital object or resource. This field ensures that individual dibital object can be accessed, managed, stored, recalled,and used reliably</li>
+		<li><a href="issue_num.md">field_issue_num</a>: indicate issue number sequential order of volume</li>
 
 
 		
 		
 		
 		
-		<li><a href="issue_num.md">field_issue_num</a></li>
-		<li><a href="language.md">field_language</a></li>
+=		<li><a href="language.md">field_language</a></li>
 		<li><a href="access_condition.md">field_limited_access</a></li>
 		<li><a href="field_linked_agent.md">field_linked_agent</a></li>
 		<li><a href="cmodel.md">field_model</a></li>
