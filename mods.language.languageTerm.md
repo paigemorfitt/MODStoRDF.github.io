@@ -43,7 +43,7 @@
 	<dl>
 		<dt><b>Related Fields</b></dt>
     <a href="field_language.md">field_language</a> | 
-	<a href="DrupalFields.md#language">Drupal fields</a>
+	<a href="DrupalFields.md#language">Drupal fields</a> | 
     <a href="rdf.dcterms.language.md">RDF/dcterms:language</a> |
 	</dl>
 <p><i>Last Updated: </i>09/29/2021</p>
