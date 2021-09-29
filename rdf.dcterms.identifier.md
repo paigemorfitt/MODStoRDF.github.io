@@ -33,7 +33,7 @@
 </table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_identifier.md">field_identifier</a>
+		| <a href="field_identifier.md">field_identifier</a> | 
 		<a href="DrupalFields.md#identifier">Drupal Fields</a> | 
 		<a href="MODS.identifier.md">MODS/identifier</a> |
 </dl>
