@@ -50,26 +50,11 @@
 	<td>Previous name: context_key; Former name: identifier_unique</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Default field</td>
-					<td>text (plain)</td>
-					<td>255 characters, Unlimited</td>
-					<td>N/A</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="MODS.identifier.md">MODS/identifier</a> | <a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a>|
+		|<a href="MODS.identifier.md">MODS/identifier</a> | 
+		<a href="DrupalFields.md#identifier">Drupal Fields</a> | 
+		<a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a> |
 </dl>
 <p><i>Last Updated: </i>08/26/2021</p>
 </body>
