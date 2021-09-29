@@ -24,7 +24,7 @@
 </tr>
 <tr>
 	<th>Domain</th>
-	<td>nteger text</td>
+	<td>Integer text</td>
 </tr>
 <tr>
 	<th>Range</th>
