@@ -163,9 +163,9 @@
 	<td><a href="rdf.dcterms.identifier.md" class ="magic-button" title="Definition: An unambiguous reference to the resource within a given context.">dcterms:identifier</a></td>
 </tr>
 <tr>
-	<td><a href="field_issue_num.md" class ="magic-button" title="ARMINDA Use: Indicate issue number sequential order of volume">field_issue</a></td>
+	<td><a href="field_issue_num.md" class ="magic-button" title="ARMINDA Use: Indicate issue number sequential order of volume">field_issue_num</a></td>
 	<td><a href="mods.part.detail.number.md" class ="magic-button" title="Definition: Numbering and type of designation of the part in relation to the host/parent">part/detail/number</a></td>
-	<td></td>
+	<td>Issue / Text (plain)</td>
 	<td><a href="rdf.schema.issueNumber.md" class ="magic-button" title="Definition : Identifies the issue of publication; for example, "iii" or "2".">schema:issueNumber</a></td>
 </tr>
 <tr>
