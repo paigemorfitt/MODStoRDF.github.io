@@ -11,25 +11,41 @@
   </tr>
 </table>
 <h1>MODS/language</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: A designation of the language in which the content of a resource is expressed.<a href="https://www.loc.gov/standards/mods/userguide/language.md">(reference)</a>
-</dd>
-  <dd>Attributes:  lang; xml:lang; script; transliteration; displayLabel; usage; objectPart</dd>
-  <dd>Subelements:  languageTerm; scriptTerm</dd>
-<h2>MODS/languageTerm</h2>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Contains the textual or coded form for the language of the content of the resource (or of the cataloging, in the case of :languageOfCataloging:)<a href="https://www.loc.gov/standards/mods/userguide/language.md#languageterm">(reference)</a>.</dd>
-  <dd>Attributes:  authority; authorityURI; valueURI; lang; xml:lang; script; transliteration; altRepGroup; type</dd>
-  <dd>Subelements:  N/A</dd>
-</dl>
 <table>
-   <tr>
-    <td><a href="field_language.md">field_language</a></td>
-    <td><a href="rdf.dcterms.language.md">RDF/dcterms:language</a></td>
-  </tr>
+<tr>
+	<th>Definition</th>
+	<td>A designation of the language in which the content of a resource is expressed.<a href="https://www.loc.gov/standards/mods/userguide/language.html">(reference)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>lang; xml:lang; script; transliteration; displayLabel; usage; objectPart</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>languageTerm; scriptTerm</td>
+</tr>
 </table>
-<p><i>Last Updated: </i>08/27/2021</p>
+<h2>MODS/languageTerm</h2>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Contains the textual or coded form for the language of the content of the resource (or of the cataloging, in the case of :languageOfCataloging:)<a href="https://www.loc.gov/standards/mods/userguide/language.html#languageterm">(reference)</a>.</td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>authority; authorityURI; valueURI; lang; xml:lang; script; transliteration; altRepGroup; type</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>N/A</td>
+</tr>
+</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+    <a href="field_language.md">field_language</a> | 
+	<a href="DrupalFields.md#language">Drupal fields</a>
+    <a href="rdf.dcterms.language.md">RDF/dcterms:language</a> |
+	</dl>
+<p><i>Last Updated: </i>09/29/2021</p>
 </body>
 </html>
