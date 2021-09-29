@@ -14,18 +14,33 @@
 
 
 <h1>MODS/identifier</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Contains a unique standard number or code that distinctively identifies a resource. <a href="https://www.loc.gov/standards/mods/userguide/identifier.md"> (resource)</a>
-</dd>
-  <dd>Attributes: lang; xml:lang; script; transliteration; altRepGroup; displayLabel; typeURI; type; invalid</dd>
-  <dd>Subelements: N/A</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Contains a unique standard number or code that distinctively identifies a resource. <a href="https://www.loc.gov/standards/mods/userguide/identifier.html"> (resource)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>lang; xml:lang; script; transliteration; altRepGroup; displayLabel; typeURI; type; invalid</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		<dd>|<a href="field_identifier.md">field_identifier</a> | <a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a>|</dd>
-				<dd>|<a href="field_permanent_url.md">field_permanent_url</a> | <a href="rdf.rdau.p60919.md">RDF/rdau:p60919</a>|</dd>
+			<dd>
+				|<a href="field_identifier.md">field_identifier</a> |
+				<a href="DrupalFields.md#identifier">Drupal Fields</a> | 
+				<a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a> |
+			</dd>
+				<dd>
+					|<a href="field_permanent_url.md">field_permanent_url</a> |
+					<a href="DrupalFields.md">Drupal Fields</a> | 
+					<a href="rdf.rdau.p60919.md">RDF/rdau:p60919</a> |
+				</dd>
 </dl>
-<p><i>Last Updated: </i>09/01/2021</p>
+<p><i>Last Updated: </i>09/29/2021</p>
 </body>
 </html>
