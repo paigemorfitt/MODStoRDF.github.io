@@ -11,21 +11,32 @@
   </tr>
 </table>
 
-
-
 <h1>RDF/schema:issueNumber</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Identifies the issue of publication; for example, "iii" or "2".
- <a href="https://schema.org/issueNumber">(reference)</a></dd>
-  <dd>Label:  Issue Number</dd>
-  <dd>Domain:  Integer text</dd>
-  <dd>Range:  PublicationIssues/dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Identifies the issue of publication; for example, "iii" or "2".
+ <a href="https://schema.org/issueNumber">(reference)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>Issue Number</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>nteger text</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>PublicationIssues</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_issue_num.md">field_issue_num</a> | <a href="mods.part.detail.number.md">MODS/part/detail/number</a> |
+		| <a href="field_issue_num.md">field_issue_num</a> | 
+		<a href="DrupalFields.md#issue">Drupal Fields</a> |
+		<a href="mods.part.detail.number.md">MODS/part/detail/number</a> |
 </dl>
-<p><i>Last Updated: </i>08/27/2021</p>
+<p><i>Last Updated: </i>09/29/2021</p>
 </body>
 </html>
