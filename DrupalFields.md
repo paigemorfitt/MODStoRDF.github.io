@@ -396,6 +396,29 @@
 				<a href="mods.part.detail.number.md">MODS/part/detail/number</a> |
 				<a href="rdf.schema.issueNumber.md">RDF/schema:issueNumber</a> |
 	</dl>
+<h2>Language</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Entity reference</td>
+					<td>N/A / Unlimited</td>
+					<td>Taxonomy term / Language</td>
+					<td>field_language</td>
+					<td>Custom field</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_language.md">field_language</a> | 
+				<a href="mods.language.languageTerm.md">MODS/language/languageTerm</a> | 
+				<a href="rdf.dcterms.language.md">RDF/dcterms:language</a> | 
+	</dl>
 <p><i>Last Updated: </i>09/29/2021</p>
 </body>
 </html>
