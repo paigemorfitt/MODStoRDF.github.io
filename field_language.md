@@ -57,29 +57,12 @@
 	<td>Former name: IMI/language</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Default Field</td>
-					<td>Entity Reference</td>
-					<td>Unlimited</td>
-					<td>Taxonomy Term / Language</td>
-				</tr>
-			</table>
-</details>
-<table>
-   <tr>
-    <td><a href="mods.language.languageTerm.md">MODS/language/languageTerm</a></td>
-    <td><a href="rdf.dcterms.language.md">RDF/dcterms:language</a></td>
-  </tr>
-</table>
-<p><i>Last Updated: </i>08/27/2021</p>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+    | <a href="mods.language.languageTerm.md">MODS/language/languageTerm</a> | 
+	<a href="DrupalFields.md#language">Drupal fields</a>
+    <a href="rdf.dcterms.language.md">RDF/dcterms:language</a> |
+	</dl>
+<p><i>Last Updated: </i>09/29/2021</p>
 </body>
 </html>
