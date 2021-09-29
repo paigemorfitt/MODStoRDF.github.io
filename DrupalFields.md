@@ -373,6 +373,29 @@
 				<a href="MODS.identifier.md">MODS/identifier</a> | 
 				<a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a>|
 	</dl>
+<h2>Issue</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Text (plain)</td>
+					<td>255 characters / Limited (1)</td>
+					<td>N/A</td>
+					<td>field_issue_num</td>
+					<td>Custom field</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_issue_num.md">field_issue_num</a> | 
+				<a href="mods.part.detail.number.md">MODS/part/detail/number</a> |
+				<a href="rdf.schema.issueNumber.md">RDF/schema:issueNumber</a> |
+	</dl>
 <p><i>Last Updated: </i>09/29/2021</p>
 </body>
 </html>
