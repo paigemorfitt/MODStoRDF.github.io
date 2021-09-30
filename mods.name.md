@@ -76,22 +76,22 @@
 		<dd>| 
 			<a href="advisor.md">IMI/advisors</a> | 
 			<a href="DrupalFields.md">Drupal Fields</a> |
-			<a href="rdf.field_linked_agent.md">field_linked_agent / local:adv</a> |
+			<a href="rdf.relators.md">RDF/relators</a> |
 		</dd>
 		<dd>|
 			<a href="contributors.md">IMI/contributors</a> | 
 			<a href="DrupalFields.md">Drupal Fields</a> |
-			<a href="rdf.field_linked_agent.md">RDF/dcterms:contributor/ relators:ctb</a> |
+			<a href="rdf.relators.md">RDF/relators</a> |
 		</dd>
 		<dd>| 
 			<a href="creators.md">IMI/creators</a> | 
 			<a href="DrupalFields.md">Drupal Fields</a> |
-			<td><a href="rdf.field_linked_agent.md">field_linked_agent/ relators:cre </a> |
+			<a href="rdf.relators.md">RDF/relators</a> |
 		</dd>
 		<dd>
 			| <a href="department.md">IMI/department</a> | 
 			<a href="DrupalFields.md">Drupal Fields</a> |
-			<a href="rdf.field_linked_agent.md">RDF/local:dpt</a> |
+			<a href="rdf.relators.md">RDF/relators</a> |
 		</dd>
 		<dd>
 			| <a href="field_funding_sources.md">field_funding_sources</a> | 
