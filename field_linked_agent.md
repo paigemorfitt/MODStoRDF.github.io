@@ -84,7 +84,8 @@
 </details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="mods.name.md">MODS/name/namePart</a> | RDF/[Undetermined. See<a href="rdf.field_linked_agent.md">RDF/field_linked_agent</a>] |
+		| <a href="mods.name.md">MODS/name/namePart</a> | 
+		<a href="rdf.relators.md">RDF/relators</a> |
 </dl>
 <p><i>Last Updated: </i>09/22/2021</p>
 </body>
