@@ -12,7 +12,6 @@
 </table>
 
 
-
 <h1>MODS/accessCondition</h1>
 <dl>
   <dt><b>Description</b></dt>
@@ -22,10 +21,22 @@
 </dl>
 <dl>
 	<dt><b>Related Fields</b></dt>
-			<dd> | <a href="field_limited_access.md">field_limited_access</a> | <a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> | </dd>
-			<dd> | <a href="field_rights_contact.md">field_rights_contact</a> | <a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a> | </dd>
-			<dd> | <a href="field_rights.md">field_rights</a> | <a href="rdf.rdau.P60339.md">RDF/rdau:P60339</a> | </dd>
+			<dd> 
+				| <a href="field_limited_access.md">field_limited_access</a> | 
+				<a href="DrupalFields.md">Drupal fields</a> | 
+				<a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> | 
+			</dd>
+			<dd> 
+				| <a href="field_rights_contact.md">field_rights_contact</a>
+				<a href="DrupalFields.md">Drupal fields</a> | 
+				| <a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a> | 
+			</dd>
+			<dd> 
+				| <a href="field_rights.md">field_rights</a> | 
+				<a href="DrupalFields.md">Drupal fields</a> | 
+				<a href="rdf.rdau.P60339.md">RDF/rdau:P60339</a> | 
+			</dd>
 </dl>
-<p><i>Last Updated: </i>09/20/2021</p>
+<p><i>Last Updated: </i>09/29/2021</p>
 </body>
 </html>
