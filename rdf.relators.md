@@ -101,7 +101,7 @@
 			<a href="DrupalField.md">Drupal Field</a> | 
 			<a href="mods.name.md">MODS/name/namePart</a> |
 </dl>
-<h2>RDF/relators:cre</h2>
+<h2>relators:cre</h2>
 <table>
 <tr>
 	<th>Definition</th>
@@ -120,7 +120,6 @@
 	<td>
 		<li>relators:cre:person:Dumas, Alexandre,  1802-1970</li> 
 		<li>relators:cre:person:Dumas, Alexandre,  1802-1970|relators:cre:person:Fairbanks, Douglas, 1883-1939</li>
-		<li></li>
 	</td>
 </tr>
 </table>
