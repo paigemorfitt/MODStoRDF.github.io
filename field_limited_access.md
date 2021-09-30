@@ -54,27 +54,12 @@
 	<td>Former name: IMI/access_condition</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Custom field</td>
-					<td>Entity reference</td>
-					<td>Unlimited</td>
-					<td>Taxonomy Terms / Islandora Access</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="mods.access_condition.md">MODS/accessCondition</a> | <a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
+		| <a href="field_limited_access.md">field_limited_access</a> | 
+		| <a href="mods.access_condition.md">MODS/accessCondition</a> | 
+		<a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
 </dl>
-<p><i>Last Updated: </i>09/20/2021</p>
+<p><i>Last Updated: </i>09/29/2021</p>
 </body>
 </html>
