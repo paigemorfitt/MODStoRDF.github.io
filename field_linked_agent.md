@@ -46,17 +46,16 @@
 	<td>
 		<ul>
 			<li>Specific Agent roles are indicated with prefixes (Islandora taxonomy pulls from various vocabularies and the metadata needs prefixes to indicate what vocabulary that term goes to/comes from)</li>
-			<li>Assigning body (person, family, or corporate body) and Relationship type (Role) must be specified.</li>
+			<li>Assigning body (person, family, or corporate body) and Relationship type (Role) must be specified. </li>
 			<li>Personal name: LastName, FirstName MiddleName (or Initial)</li>
 			<li>For multiple authors, separate with pipe with no space trailing.</li>
 			<li>Provide as much known information as possible (either provided on resource or found elsewhere)</li>
 			<li>Separate repeated terms consistently (with pipe)</li>
-			<li>If names are not found in a controlled vocabulary, format personal names as Lastname , Firstname according to RDA/DACS</li>
-			<li>If name(s) of creator(s) is not known, see specific Master Sheet guidance.</li>
-			<li>We are NOT using the codes for this field. In lue of an Islandora reboot, codes would change.</li>
-			<li>(migration) New terms are added to the taxonomy on ingest, as long as the .yml file says to create new terms. The exception is, you can't create new relators via Workbench, and you can't create new nested terms via Workbench (unless that was recently updated)</li>
-			<li>We are NOT using the codes for this field. In lue of an Islandora reboot, codes would change.</li>
-			<li>NOTE Islandora 8 Vocabulary is not a Controlled vocabulary  and terms can be deleted from I8. </li>
+			<li>If names are not found in a controlled vocabulary, format personal names as Last Name , First Name according to RDA/DACS</li>
+			<li>If name(s) of creator(s) is not known, see specific Main Sheet guidance.</li>
+			<li> New terms are added to the taxonomy on ingest, as long as the .yml file says to create new terms. The exception is, you can't create new relators via Workbench, and you can't create new nested terms via Workbench (unless that was recently updated)</li>
+			<li>We are NOT using the codes for this field. In lue of an Islandora reboot, codes would change. </li>
+			<li>Islandora 8 Vocabulary is not a Controlled vocabulary  and terms can be deleted from I8</li>
 		</ul>
 	</td>
 </tr>
@@ -65,26 +64,10 @@
 	<td>Includes the following fields: <a href="advisor.md">IMI/advisor</a>, <a href="creators.md">IMI/creator</a>, <a href="contributors.md">IMI/contributor</a>, <a href="publishers.md">IMI/publisher</a>, and <a href="department.md">IMI/department</a></td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Default field</td>
-					<td>Typed Relation</td>
-					<td>Unlimited</td>
-					<td>Taxonomy Term [corporate body, family, person]</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.name.md">MODS/name/namePart</a> | 
+		<a href="DrupalFields.md#linked-agent">Drupal Fields</a> |
 		<a href="rdf.relators.md">RDF/relators</a> |
 </dl>
 <p><i>Last Updated: </i>09/22/2021</p>
