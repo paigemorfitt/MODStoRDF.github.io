@@ -12,20 +12,31 @@
 </table>
 
 
-
 <h1>RDF/rdau:P60496</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Relates a resource to limitations placed on access to a resource <a href="http://www.rdaregistry.info/Elements/u/#P60496">(reference)</a></dd>
-  <dd>Label:  has restrictions on access</dd>
-  <dd>Domain:  N/A</dd>
-  <dd>Range:  N/A</dd>
-  <dd>Note: There are two Access Condition fields. One is a taxonomy, one is a text field. This is for the text field. Taxonomy terms have do to with solr indexing and how queries are made. More insight is needed for them. </dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Relates a resource to limitations placed on access to a resource <a href="http://www.rdaregistry.info/Elements/u/#P60496">(reference)</a><</td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>[here]</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_limited_access.md">field_limited_access</a> | <a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
+		| <a href="field_limited_access.md">field_limited_access</a> | 
+		<a href="DrupalFields.md#limited-access">Drupal Field</a> |
+		<a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
 </dl>
-<p><i>Last Updated: </i>09/20/2021</p>
+<p><i>Last Updated: </i>09/30/2021</p>
 </body>
 </html>
