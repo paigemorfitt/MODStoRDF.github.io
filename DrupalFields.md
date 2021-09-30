@@ -419,6 +419,29 @@
 				<a href="mods.language.languageTerm.md">MODS/language/languageTerm</a> | 
 				<a href="rdf.dcterms.language.md">RDF/dcterms:language</a> | 
 	</dl>
+<h2>Limited Access</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Text (formatted)</td>
+					<td>255 characters / Limited (1)</td>
+					<td>N/A</td>
+					<td>field_limited_access</td>
+					<td>Custom field</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_limited_access.md">field_limited_access</a> | 
+				| <a href="mods.access_condition.md">MODS/accessCondition</a> | 
+				<a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
+	</dl>
 <p><i>Last Updated: </i>09/29/2021</p>
 </body>
 </html>
