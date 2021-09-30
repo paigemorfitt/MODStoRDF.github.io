@@ -45,7 +45,7 @@
 	<th>Notes</th>
 	<td>
 		<ul>
-			<li>There are two Access Condition fields.The other is field_access_terms</li>
+			<li>There are two Access Condition fields. One is a taxonomy, one is a text field. This is for the text field. Taxonomy terms have do to with solr indexing and how queries are made. More insight is needed for them. </li>
 		</ul>
 	</td>
 </tr>
@@ -57,7 +57,8 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="field_limited_access.md">field_limited_access</a> | 
-		| <a href="mods.access_condition.md">MODS/accessCondition</a> | 
+		<a href="DrupalFields.md#limited-access">Drupal Field</a> | 
+		<a href="mods.access_condition.md">MODS/accessCondition</a> | 
 		<a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
 </dl>
 <p><i>Last Updated: </i>09/29/2021</p>
