@@ -177,7 +177,7 @@
 <tr>
 	<td><a href="field_limited_access.md" class ="magic-button" title="ARMINDA Use: Field that indicates item may be accessed by only current Whitman affiliates (netID holders)" >field_limited_access</a></td>
 	<td><a href="mods.access_condition.md" class ="magic-button" title="Definition: Information about restrictions imposed on access to a resource.">accessCondition</a></td>
-	<td></td>
+	<td>Limited Access / Text (formatted)</td>
 	<td><a href="rdf.rdau.p60496.md" class ="magic-button" title="Definition: Relates a resource to limitations placed on access to a resource">rdau:P60496</a></td>
 </tr>
 <tr>
