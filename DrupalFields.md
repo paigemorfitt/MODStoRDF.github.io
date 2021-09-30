@@ -442,6 +442,29 @@
 				| <a href="mods.access_condition.md">MODS/accessCondition</a> | 
 				<a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
 	</dl>
-<p><i>Last Updated: </i>09/29/2021</p>
+<h2>Linked Agent</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Typed relation</td>
+					<td>Unlimited</td>
+					<td>Taxonomy terms/ Corporate Body, Family, Person</td>
+					<td>field_linked_agent</td>
+					<td>Default field (a few local relators were created to accomidate metadata needs)</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_linked_agent.md">field_linked_agent</a> | 
+				| <a href="mods.name.md">MODS/name/namePart</a> | 
+				<a href="rdf.relators.md">RDF/relators</a> | 
+	</dl>
+<p><i>Last Updated: </i>09/30/2021</p>
 </body>
 </html>
