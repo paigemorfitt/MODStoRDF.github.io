@@ -70,6 +70,6 @@
 		<a href="DrupalFields.md#linked-agent">Drupal Fields</a> |
 		<a href="rdf.relators.md">RDF/relators</a> |
 </dl>
-<p><i>Last Updated: </i>09/22/2021</p>
+<p><i>Last Updated: </i>09/30/2021</p>
 </body>
 </html>
