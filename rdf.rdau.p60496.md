@@ -35,7 +35,7 @@
 	<dt><b>Related Fields</b></dt>
 		| <a href="field_limited_access.md">field_limited_access</a> | 
 		<a href="DrupalFields.md#limited-access">Drupal Field</a> |
-		<a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
+		<a href="mods.access_condition.md">MODS/accessCondition</a> | 
 </dl>
 <p><i>Last Updated: </i>09/30/2021</p>
 </body>
