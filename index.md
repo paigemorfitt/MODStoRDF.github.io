@@ -182,9 +182,9 @@
 </tr>
 <tr>
 	<td><a href="field_linked_agent.md" class ="magic-button" title="[Label of a field instance populated by taxonomy terms from Corporate Body, Family and Person vocabularies]">field_linked_agent</a></td>
-	<td>[see <a href="mods.name.md">name/namePart </a>]</td>
-	<td></td>
-	<td><a href="a href="rdf.field_linked_agent.md" class ="magic-button" title="[definition]">[Undetermined]</a></td>
+	<td class ="magic-button" title="[definition]">[see <a href="mods.name.md">name/namePart </a>]</td>
+	<td>Linked Agent / Typed relation</td>
+	<td><a href="a href="rdf.relators.md" class ="magic-button" title="[definition]"></a>Relators</td>
 </tr>
 <tr>
 	<td><a href="cmodel.md" class ="magic-button" title="Tells what content model the file is -- audio, image.etc;  tells what type of file for Islandora to expect. ">field_model</a></td>
