@@ -57,7 +57,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		|<a href="MODS.identifier.md">MODS/identifier</a> | 
-		<a href-"DrupalFields.md">Drupal Field</a> |
+		<a href="DrupalFields.md">Drupal Field</a> |
 		<a href="rdf.rdau.p60919.md">RDF/rdau:p60919</a>|
 </dl>
 <p><i>Last Updated: </i>11/05/2021</p>
