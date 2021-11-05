@@ -34,7 +34,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="field_origin.md">field_origin</a> | 
-		<a href-"DrupalFields.md">Drupal Field</a> |
+		<a href="DrupalFields.md">Drupal Field</a> |
 		<a href="mods.originInfo_place_placeTerm.md">MODS/originInfo/place/placeTerm</a> |
 </dl>
 <p><i>Last Updated: </i>11/05/2021</p>
