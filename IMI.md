@@ -100,13 +100,12 @@
 		<li><a href="field_limited_access.md">field_limited_access</a>: field that indicates item may be accessed by only current Whitman affiliates</li>
 		<li><a href="field_linked_agent.md">field_linked_agent</a>: label of a field instance populated by taxonomy terms from Corporate Body, Family, Person vocabularies</li>
 		<li><a href="field_origin.md">field_origin</a>: provides place names associated with the creation or issuance of a resource</li>
-
+		<li><a href="permanent_url.md">field_permanent_url</a>: unique uri (uniform resource identifier) to the item</li>
 		
 		
 		
 		
 		<li><a href="cmodel.md">field_model</a></li>
-		<li><a href="permanent_url.md">field_permanent_url</a></li>
 		<li><a href="permanent_url.md">field_permanent_url</a></li>
 		<li><a href="work_type.md">field_resource_type</a></li>
 		<li><a href="rights_contact.md">field_rights_contact</a></li>
