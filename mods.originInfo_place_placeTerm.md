@@ -12,32 +12,56 @@
 </table>
 
 
-
 <h1>MODS/originInfo</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource.<a href="http://www.loc.gov/standards/mods/userguide/origininfo.md">(resource)</a></dd>
-  <dd>Attributes:  lang; xml:lang; script; transliteration; altRepGroup; displayLabel; eventType</dd>
-  <dd>Subelements:  place; publisher; dateIssued; dateCreated; dateCaptured; dateValid; dateModified; copyrightDate; dateOther; edition; issuance; frequenc</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource.<a href="https://www.loc.gov/standards/mods/userguide/origininfo.html">(resource)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>lang; xml:lang; script; transliteration; altRepGroup; displayLabel; eventType</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>place; publisher; dateIssued; dateCreated; dateCaptured; dateValid; dateModified; copyrightDate; dateOther; edition; issuance; frequency</td>
+</tr>
+</table>
 <h2>MODS/originInfo/place</h2>
-<dl>
-  <dt><b>Description</b></dt>
-    <dd>Definition: Name of a place associated with the event.<a href="www.loc.gov/standards/mods/userguide/origininfo.md#place">(resource)</a></dd>
-  <dd>Attributes:  supplied</dd>
-  <dd>Subelements:  placeTerm</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>name of a place associated with the event <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#place">(resource)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>supplied</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>placeTerm</td>
+</tr>
+</table>
 <h3>MODS/originInfo/place/placeTerm</h3>
-<dl>
-  <dt><b>Description</b></dt>
-    <dd>Definition: Used to express place in a textual or coded form.<a href="www.loc.gov/standards/mods/userguide/origininfo.md#placeterm">(resource)</a></dd>
-  <dd>Attributes:  authority; authorityURI; valueURI; lang; xml:lang; script; transliteration; type</dd>
-  <dd>Subelements:  N/A</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>used to express place in a textual or coded form <a href="https://www.loc.gov/standards/mods/userguide/origininfo.html#placeterm">(resource)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>authority; authorityURI; valueURI; lang; xml:lang; script; transliteration; type</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>N/A</td>
+</tr>
+</table>
+
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="origin.md">field_origin</a> | <a href="rdf.rdau.p60523.md">RDF/rdau:p60523</a> |
+		| <a href="field_origin.md">field_origin</a> | <a href="rdf.rdau.p60523.md">RDF/rdau:p60523</a> |
 </dl>
-<p><i>Last Updated: </i>08/25/2021</p>
+<p><i>Last Updated: </i>11/05/2021</p>
 </body>
 </html>
