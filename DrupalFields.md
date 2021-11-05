@@ -32,7 +32,8 @@
 			</table>
 	<dl>
 			<dt><b>Related Fields</b></dt>
-				| <a href="field_abstract.md">field_abstract</a> | <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.dcterms.abstract.md">RDF/dcterms:abstract </a> |
+				| <a href="field_abstract.md">field_abstract</a> |
+ <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.dcterms.abstract.md">RDF/dcterms:abstract </a> |
 		</dd>
 	</dl>
 <h2>Access Control</h2>
@@ -465,6 +466,29 @@
 				| <a href="mods.name.md">MODS/name/namePart</a> | 
 				<a href="rdf.relators.md">RDF/relators</a> | 
 	</dl>
-<p><i>Last Updated: </i>09/30/2021</p>
+<h2>Origin</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Text (plain, long)</td>
+					<td>Unlimited</td>
+					<td>N/A</td>
+					<td>field_origin</td>
+					<td>Custom</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_origin.md">field_origin</a> | 
+				<a href="mods.originInfo_place_placeTerm.md">MODS/originInfo/place/placeTerm</a> | 
+				<a href="rdf.rdau.p60523.md">RDF/P60523</a> | 
+	</dl>	
+<p><i>Last Updated: </i>11/05/2021</p>
 </body>
 </html>
