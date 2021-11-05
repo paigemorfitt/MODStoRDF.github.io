@@ -61,7 +61,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="field_origin.md">field_origin</a> |
-		<a href-"DrupalFields.md">Drupal Field</a> | 
+		<a href="DrupalFields.md">Drupal Field</a> | 
 		<a href="rdf.rdau.p60523.md">RDF/rdau:p60523</a> |
 </dl>
 <p><i>Last Updated: </i>11/05/2021</p>
