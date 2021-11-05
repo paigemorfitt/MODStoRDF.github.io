@@ -12,19 +12,29 @@
 </table>
 
 
-
 <h1>rdau:P60523</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Relates a resource to a place from which a resource originated. <a href="http://www.rdaregistry.info/Elements/u/">(resource)</a></dd>
-  <dd>Label:  has place of origin of resource</dd>
-  <dd>Domain:  N/A</dd>
-  <dd>Range:  N/A</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Relates a resource to a place from which a resource originated. <a href="http://www.rdaregistry.info/Elements/u/">(resource)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>has place of origin of resource</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="origin.md">field_origin</a> | <a href="mods.originInfo_place_placeTerm.md">MODS/originInfo/place/placeTerm</a> |
+		| <a href="field_origin.md">field_origin</a> | <a href="mods.originInfo_place_placeTerm.md">MODS/originInfo/place/placeTerm</a> |
 </dl>
-<p><i>Last Updated: </i>08/25/2021</p>
+<p><i>Last Updated: </i>11/05/2021</p>
 </body>
 </html>
