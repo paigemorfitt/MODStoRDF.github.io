@@ -193,7 +193,7 @@
 	<td><a href="rdf.pcdm_memberOf.md" class ="magic-button" title="Definition: Links from an Object or Collection to a containing Object or Collection.">pcdm:memberOf</a></td>
 </tr>
 <tr>
-	<td><a href="origin.md" class ="magic-button" title="ARMINDA Use: Provides place names associated with the creation or issuance of a resource. ">field_origin</a></td>
+	<td><a href="field_origin.md" class ="magic-button" title="ARMINDA Use: Provides place names associated with the creation or issuance of a resource. ">field_origin</a></td>
 	<td><a href="mods.originInfo_place_placeTerm.md" class ="magic-button" title="Definition: Information about the origin of the resource, including place of origin or publication, publisher/originator, and dates associated with the resource.">originInfo/place/placeTerm</a></td>
 	<td></td>
 	<td><a href="rdf.rdau.p60523.md" class ="magic-button" title="Definition: Relates a resource to a place from which a resource originate">rdau:P60523</a></td>
@@ -321,7 +321,7 @@
 </table>
 <dl>
 <p>*Completed with medium confidence</p>
-	<p><i>Last Updated: </i>09/29/2021</p>
+	<p><i>Last Updated: </i>11/05/2021</p>
 </dl>
 </body>
 </html>
