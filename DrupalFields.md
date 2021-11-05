@@ -490,7 +490,7 @@
 				<a href="rdf.rdau.p60523.md">RDF/P60523</a> | 
 	</dl>	
 	
-<h2>[drupal field]</h2>
+<h2>Permanent URL</h2>
 			<table>
 				<tr>
 					<th><i>Type of field</i></th>
@@ -500,17 +500,18 @@
 					<th><i>Note</i></th>
 				</tr>
 				<tr>
-					<td>[here]</td>
-					<td>[here]</td>
-					<td>[here]</td>
-					<td>[here]</td>
-					<td>[here]</td>
+					<td>Link</td>
+					<td>Limited (1)</td>
+					<td>N/A</td>
+					<td>field_permanent_url</td>
+					<td>Custom</td>
 				</tr>
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				| <a href="cmodel.md">cmodel</a> | 
-				<a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
+				| <a href="field_permanent_url.md">field_permanent_url</a> | 
+				<a href="mods.identifier.md">MODS/identifier</a> | 
+				<a href="rdf.rdau.p60919.md">RDF/P60919</a> |
 	</dl>
 <p><i>Last Updated: </i>11/05/2021</p>
 </body>
