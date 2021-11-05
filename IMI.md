@@ -99,14 +99,13 @@
 		<li><a href="language.md">field_language</a>: the non-English language of the source content being described (applied to textual or spoken (linguistic) content)</li>
 		<li><a href="field_limited_access.md">field_limited_access</a>: field that indicates item may be accessed by only current Whitman affiliates</li>
 		<li><a href="field_linked_agent.md">field_linked_agent</a>: label of a field instance populated by taxonomy terms from Corporate Body, Family, Person vocabularies</li>
-
+		<li><a href="field_origin.md">field_origin</a>: provides place names associated with the creation or issuance of a resource</li>
 
 		
 		
 		
 		
 		<li><a href="cmodel.md">field_model</a></li>
-		<li><a href="origin.md">field_origin</a></li>
 		<li><a href="permanent_url.md">field_permanent_url</a></li>
 		<li><a href="permanent_url.md">field_permanent_url</a></li>
 		<li><a href="work_type.md">field_resource_type</a></li>
@@ -227,6 +226,6 @@
 <h2 id="removed">Removed from Master Sheets</h2>
 <p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
 <p><a href="#top">top</a></p>
-<p><i>Last Updated: </i>09/22/2021</p>
+<p><i>Last Updated: </i>11/05/2021</p>
 </dl>
 </html>
