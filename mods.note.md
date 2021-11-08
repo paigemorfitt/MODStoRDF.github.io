@@ -12,19 +12,27 @@
 </table>
 
 
-
 <h1>MODS/note</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: General textual information relating to a resource. <a href="http://www.loc.gov/standards/mods/userguide/note.md">(resource)</a></dd>
-  <dd>Attributes: lang; xml:lang; script; transliteration; altRepGroup; xlink:href; ID; displayLabel; typeURI; type</dd>
-  <dd>Subelements: N/A</dd>
-	</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>General textual information relating to a resource. <a href="http://www.loc.gov/standards/mods/userguide/note.html">(resource)</a></td>
+</tr>
+<tr>
+	<th>Attributes</th>
+	<td>lang; xml:lang; script; transliteration; altRepGroup; xlink:href; ID; displayLabel; typeURI; type</td>
+</tr>
+<tr>
+	<th>Subelements</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		|<a href="field_provenance.md">field_provenance</a> | <a href="rdf.dcterms.provenance.md">RDF/dcterms:provenance</a> |
+		|<a href="field_provenance.md">field_provenance</a> | 
+		<a href="DrupalFields.md">Drupal Fields</a>
+		<a href="rdf.dcterms.provenance.md">RDF/dcterms:provenance</a> |
 </dl>
-<p><i>Last Updated: </i>09/02/2021</p>
+<p><i>Last Updated: </i>11/08/2021</p>
 </body>
 </html>
