@@ -556,8 +556,10 @@
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				| <a href="cmodel.md">cmodel</a> | 
-				<a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
+				| <a href="field_resource_type.md">field_resource_type</a> |
+				<a href="mods.typeOfResource.md">MODS/typeOfResource</a> | 
+				<a href="rdf.dcterms.type.md">RDF/dcterms:type</a> |
+
 	</dl>
 <p><i>Last Updated: </i>11/08/2021</p>
 </body>
