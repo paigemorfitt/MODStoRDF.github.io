@@ -513,6 +513,31 @@
 				<a href="mods.identifier.md">MODS/identifier</a> | 
 				<a href="rdf.rdau.p60919.md">RDF/P60919</a> |
 	</dl>
-<p><i>Last Updated: </i>11/05/2021</p>
+	
+<h2>[drupal field]</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Text (plain, long)</td>
+					<td>Limited (1)</td>
+					<td>N/A</td>
+					<td>field_provenance</td>
+					<td>Custom</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+			|<a href="field_provenance.md">field_provenance</a> | 
+			<a href="mods.note.md">MODS/note</a> | 
+			<a href="rdf.dcterms.provenance.md">RDF/dcterms:provenanc</a> |
+	</dl>	
+	
+<p><i>Last Updated: </i>11/08/2021</p>
 </body>
 </html>
