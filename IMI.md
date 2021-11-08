@@ -102,13 +102,13 @@
 		<li><a href="field_origin.md">field_origin</a>: provides place names associated with the creation or issuance of a resource</li>
 		<li><a href="permanent_url.md">field_permanent_url</a>: unique uri (uniform resource identifier) to the item</li>
 		<li><a href="field_provenance.md">field_provenance</a>: contains provenance information about the subject : [currently] donor information and/or when and how the object was acquired</li>
+		<li><a href="field_resource_type.md">field_resource_type</a>: basic conceptual indication of the kind of object being described, using broad terms</li>
 
 		
 		
 		
 		
 		<li><a href="cmodel.md">field_model</a></li>
-		<li><a href="work_type.md">field_resource_type</a></li>
 		<li><a href="rights_contact.md">field_rights_contact</a></li>
 		<li><a href="rights_statement.md">field_rights</a></li>
 		<li><a href="source.md">field_source</a></li>
