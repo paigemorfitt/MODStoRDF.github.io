@@ -57,27 +57,12 @@
 	<td>absorbed IMI/donor, transformed into IMI/source, Former name: IMI/provenance</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Custom field?</td>
-					<td>text (long, plain)</td>
-					<td>Limited (1)</td>
-					<td>N/A</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		| <a href="mods.note.md">MODS/note</a> | <a href="rdf.dcterms.provenance.md">RDF/dcterms:provenanc</a> | 
+		| <a href="mods.note.md">MODS/note</a> | 
+		<a href="DrupalFields.md">Drupal Fields</a> | 
+		<a href="rdf.dcterms.provenance.md">RDF/dcterms:provenanc</a> | 
 </dl>
-<p><i>Last Updated: </i>0/02/2021</p>
+<p><i>Last Updated: </i>11/08/2021</p>
 </body>
 </html
