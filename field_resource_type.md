@@ -57,26 +57,11 @@
 	<td>Absorbed content from IMI/type_of_work, Former name: IMI/work_type</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Default field</td>
-					<td>Reference Entity</td>
-					<td>255 characters/ Limited (1)</td>
-					<td>Taxonomy / Islandora Resource Type</td>
-				</tr>
-			</table>
-</details>
 <dd><b>Related Fields</b></dd>
-	| <a href="mods.typeOfResource.md">MODS/typeOfResource</a> | <a href="rdf.dcterms.type.md">RDF/dcterms:type</a> |
+	| <a href="mods.typeOfResource.md">MODS/typeOfResource</a> | 
+	<a href="DrupalField.md">>Drupal Field</a>
+	<a href="rdf.dcterms.type.md">RDF/dcterms:type</a> |
 </dl>
-<p><i>Last Updated: </i>09/17/2021</p>
+<p><i>Last Updated: </i>11/08/2021</p>
 </body>
 </html>
