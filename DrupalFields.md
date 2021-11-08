@@ -480,7 +480,7 @@
 					<td>Unlimited</td>
 					<td>N/A</td>
 					<td>field_origin</td>
-					<td>Custom</td>
+					<td>Custom field</td>
 				</tr>
 			</table>
 	<dl>
@@ -504,7 +504,7 @@
 					<td>Limited (1)</td>
 					<td>N/A</td>
 					<td>field_permanent_url</td>
-					<td>Custom</td>
+					<td>Custom field</td>
 				</tr>
 			</table>
 	<dl>
@@ -528,7 +528,7 @@
 					<td>Limited (1)</td>
 					<td>N/A</td>
 					<td>field_provenance</td>
-					<td>Custom</td>
+					<td>Custom field</td>
 				</tr>
 			</table>
 	<dl>
@@ -537,7 +537,28 @@
 			<a href="mods.note.md">MODS/note</a> | 
 			<a href="rdf.dcterms.provenance.md">RDF/dcterms:provenanc</a> |
 	</dl>	
-	
+<h2>Resource Type</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Entity reference</td>
+					<td>Limited (1)</td>
+					<td>Taxonomy / Resource Types</td>
+					<td>field_resource_type</td>
+					<td>Default field</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="cmodel.md">cmodel</a> | 
+				<a href="rdf.dcterms.provenance.md">pcdm:memberOf</a> | 
+	</dl>
 <p><i>Last Updated: </i>11/08/2021</p>
 </body>
 </html>
