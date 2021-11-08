@@ -207,7 +207,7 @@
 <tr>
 	<td><a href="field_provenance.md" class ="magic-button" title="ARMINDA Use:Contains provenance information about the object: [currently] donor information and/or when and how the object was acquired by Whitman College.">field_provenance</a></td>
 	<td><a href="mods.note.md" class ="magic-button" title="Definition: General textual information relating to a resource.">note</a></td>
-	<td></td>
+	<td>Provenance / Text (plain, long)</td>
 	<td><a href="rdf.dcterms.provenance.md" class ="magic-button" title="Definition: A statement of any changes in ownership and custody of the resource since its creation that are significant for its authenticity, integrity, and interpretation.">dcterms:provenance</a></td>
 </tr>
 <tr>
@@ -321,7 +321,7 @@
 </table>
 <dl>
 <p>*Completed with medium confidence</p>
-	<p><i>Last Updated: </i>11/05/2021</p>
+	<p><i>Last Updated: </i>11/08/2021</p>
 </dl>
 </body>
 </html>
