@@ -514,7 +514,7 @@
 				<a href="rdf.rdau.p60919.md">RDF/P60919</a> |
 	</dl>
 	
-<h2>[drupal field]</h2>
+<h2>Provenance</h2>
 			<table>
 				<tr>
 					<th><i>Type of field</i></th>
