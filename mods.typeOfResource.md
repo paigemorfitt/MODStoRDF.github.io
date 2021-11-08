@@ -30,7 +30,7 @@
 <dl>
 <dd><b>Related Fields</b></dd>
 	| <a href="field_resource_type.md">field_resource_type</a> | 
-	<a href="DrupalFields.md">Drupal Fields</a>
+	<a href="DrupalFields.md">Drupal Fields</a>  | 
 	<a href="rdf.dcterms.type.md">RDF/dcterms:type</a> |
 </dl>
 <p><i>Last Updated: </i>11/08/2021<p>
