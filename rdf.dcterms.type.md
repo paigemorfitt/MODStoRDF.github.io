@@ -33,7 +33,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="field_resource_type.md">field_resource_type</a> |
-		<a href="DrupalFields.md">Drupal Fields</a>
+		<a href="DrupalFields.md">Drupal Fields</a> | 
 		<a href="mods.typeOfResource.md">MODS/typeOfResource</a> |
 </dl>
 <p><i>Last Updated: </i>11/08/2021</p>
