@@ -101,12 +101,13 @@
 		<li><a href="field_linked_agent.md">field_linked_agent</a>: label of a field instance populated by taxonomy terms from Corporate Body, Family, Person vocabularies</li>
 		<li><a href="field_origin.md">field_origin</a>: provides place names associated with the creation or issuance of a resource</li>
 		<li><a href="permanent_url.md">field_permanent_url</a>: unique uri (uniform resource identifier) to the item</li>
+		<li><a href="field_provenance.md">field_provenance</a>: contains provenance information about the subject : [currently] donor information and/or when and how the object was acquired</li>
+
 		
 		
 		
 		
 		<li><a href="cmodel.md">field_model</a></li>
-		<li><a href="permanent_url.md">field_permanent_url</a></li>
 		<li><a href="work_type.md">field_resource_type</a></li>
 		<li><a href="rights_contact.md">field_rights_contact</a></li>
 		<li><a href="rights_statement.md">field_rights</a></li>
