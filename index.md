@@ -219,7 +219,7 @@
 </tr>
 	<td><a href="field_rights.md" class ="magic-button" title="ARMINDA Use: URL that indicates copyright and/or creative commons status supplemented with optional explanatory text. Can include free-text explanation of rights.">field_rights</a></td>
 	<td><a href="mods.access_condition.md" class ="magic-button" title="Definition: Information about restrictions imposed on access to a resource.">accessCondition</a></td>
-	<td></td>
+	<td>Rights / Link</td>
 	<td><a href="rdf.rdau.P60339.md" class ="magic-button" title="Definition: Relates a resource to a statement relating to anidentification or function of any agents responsible for the creation of, or who contributes to a realization of, the intellectual or artistic content of a resource.">rdau:P60339</a></td>
 </tr>    
 <tr>
