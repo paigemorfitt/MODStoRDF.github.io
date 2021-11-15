@@ -103,6 +103,7 @@
 		<li><a href="permanent_url.md">field_permanent_url</a>: unique uri (uniform resource identifier) to the item</li>
 		<li><a href="field_provenance.md">field_provenance</a>: contains provenance information about the subject : [currently] donor information and/or when and how the object was acquired</li>
 		<li><a href="field_resource_type.md">field_resource_type</a>: basic conceptual indication of the kind of object being described, using broad terms</li>
+		<li><a href="field_rights.md">field_rights</a>: URL that indicates copyright and/or creative commons status.</li>
 
 		
 		
@@ -110,7 +111,6 @@
 		
 		<li><a href="cmodel.md">field_model</a></li>
 		<li><a href="rights_contact.md">field_rights_contact</a></li>
-		<li><a href="rights_statement.md">field_rights</a></li>
 		<li><a href="source.md">field_source</a></li>
 		<li><a href="subject.keywords.md">field_subject</a></li>
 		<li><a href="url_external.md">field_url_external</a></li>
