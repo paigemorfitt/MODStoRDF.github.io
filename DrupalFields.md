@@ -559,8 +559,31 @@
 				| <a href="field_resource_type.md">field_resource_type</a> |
 				<a href="mods.typeOfResource.md">MODS/typeOfResource</a> | 
 				<a href="rdf.dcterms.type.md">RDF/dcterms:type</a> |
-
 	</dl>
-<p><i>Last Updated: </i>11/08/2021</p>
+<h2>Rights</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Link</td>
+					<td>Unlimited</td>
+					<td>N/A</td>
+					<td>field_rights</td>
+					<td>Custom</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_rights.md">field_rights</a> 
+				| <a href="mods.acess_condition.md">MODS/accessCondition</a>
+				<a href="rdf.rdau.P60339.md">RDF/rdau:P60339</a> | 
+	</dl>	
+
+<p><i>Last Updated: </i>11/15/2021</p>
 </body>
 </html>
