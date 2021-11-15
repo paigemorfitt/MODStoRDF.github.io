@@ -12,19 +12,31 @@
 </table>
 
 
-
 <h1>RDF/rdau:P60339</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Relates a resource to a statement relating to anidentification or function of any agents responsible for the creation of, or who contributes to a realization of, the intellectual or artistic content of a resource.<a href="http://www.rdaregistry.info/Elements/u/#P60339">(reference)</a></dd>
-  <dd>Label:  has statement of responsibility</dd>
-  <dd>Domain:  N/A</dd>
-  <dd>Range:  N/A</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Relates a resource to a statement relating to anidentification or function of any agents responsible for the creation of, or who contributes to a realization of, the intellectual or artistic content of a resource.<a href="http://www.rdaregistry.info/Elements/u/#P60339">(reference)</a><</td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>has statement of responsibility</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dl>
 	<dd><b>Related Fields</b></dd>
-		|<a href="field_rights.md">field_rights</a> | <a href="mods.access_condition.md">MODS/accessCondition</a> | 
+		|<a href="field_rights.md">field_rights</a> | 
+		<a href="DrupalFields.md">Drupal Field</a>
+		<a href="mods.access_condition.md">MODS/accessCondition</a> | 
 </dl>
-<p><i>Last Updated: </i>09/02/2021</p>
+<p><i>Last Updated: </i>11/15/2021</p>
 </body>
 </html>
