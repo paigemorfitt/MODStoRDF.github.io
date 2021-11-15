@@ -34,7 +34,7 @@
 <dl>
 	<dd><b>Related Fields</b></dd>
 		|<a href="field_rights.md">field_rights</a> | 
-		<a href="DrupalFields.md">Drupal Field</a>
+		<a href="DrupalFields.md">Drupal Field</a> |
 		<a href="mods.access_condition.md">MODS/accessCondition</a> | 
 </dl>
 <p><i>Last Updated: </i>11/15/2021</p>
