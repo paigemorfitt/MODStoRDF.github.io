@@ -35,7 +35,7 @@
 			</dd>
 			<dd> 
 				| <a href="field_rights_contact.md">field_rights_contact</a>
-				<a href="DrupalFields.md">Drupal fields</a> | 
+				<a href="DrupalFields.md">Drupal fields</a>  
 				| <a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a> | 
 			</dd>
 			<dd> 
