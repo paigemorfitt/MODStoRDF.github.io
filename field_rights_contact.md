@@ -55,27 +55,12 @@
 	<td>Former name: rights (do not confuse with field_rights), former name: IMI/rights_contact</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Custom field</td>
-					<td>text (formatted, long)</td>
-					<td>Limited (1)</td>
-					<td>N/A</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="mods.access_condition.md">MODS/accessCondition</a> | <a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a>  |
+		| <a href="mods.access_condition.md">MODS/accessCondition</a> | 
+		<a href="DrupalFields.md">Drupal Fields</a> |
+		<a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a>  |
 </dl>
-<p><i>Last Updated: </i>09/02/2021</p>
+<p><i>Last Updated: </i>01/05/2022</p>
 </body>
 </html>
