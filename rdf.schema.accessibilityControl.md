@@ -14,17 +14,30 @@
 
 
 <h1>RDF/schema:accessCondition</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Identifies input methods that are sufficient to fully control the described resource (WebSchemas wiki lists possible values). <a href="https://schema.org/accessibilityControl">(resource)</a></dd>
-  <dd>Label: Accessibility Control</dd>
-  <dd>Domain: CreativeWork</dd>
-  <dd>Range: Text</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Identifies input methods that are sufficient to fully control the described resource (WebSchemas wiki lists possible values). <a href="https://schema.org/accessibilityControl">(resource)</td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>Accessibility Control</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>CreativeWork</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>Text</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_rights_contact.md">field_rights_contact</a> | <a href="mods.access_condition.md">MODS/accessCondition</a> |
+		| <a href="field_rights_contact.md">field_rights_contact</a> 
+		<a href="DrupalFields.md">Drupal Fields</a> |
+		| <a href="mods.access_condition.md">MODS/accessCondition</a> |
 </dl>
-<p><i>Last Updated: </i>09/02/2021</p>
+<p><i>Last Updated: </i>01/05/2022</p>
 </body>
 </html>
