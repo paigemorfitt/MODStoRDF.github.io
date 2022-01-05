@@ -583,7 +583,31 @@
 				| <a href="mods.acess_condition.md">MODS/accessCondition</a>
 				<a href="rdf.rdau.P60339.md">RDF/rdau:P60339</a> | 
 	</dl>	
+	
+<h2>Contact Us</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Text (formatted, long)</td>
+					<td>Limited (1)</td>
+					<td>N/A</td>
+					<td>field_rights_contact</td>
+					<td>Custom</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_rights_contact.md">field_rights_contact</a> 
+				| <a href="mods.acess_condition.md">MODS/accessCondition</a> |
+				<a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a> | 
+	</dl>	
 
-<p><i>Last Updated: </i>11/15/2021</p>
+<p><i>Last Updated: </i>01/05/2022</p>
 </body>
 </html>
