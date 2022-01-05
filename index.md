@@ -225,7 +225,7 @@
 <tr>
 	<td><a href="field_rights_contact.md" class ="magic-button" title="ARMINDA Use: HTML link to ARMINDA page linking to contact information for use by end users who wish to pursue required permissions for publication, dissemination, etc">field_rights_contact</a></td>
 	<td><a href="mods.access_condition.md" class ="magic-button" title="Definition: Information about restrictions imposed on access to a resource.">accessCondition</a></td>
-	<td></td>
+	<td>Contact Us / Text (formatted, long)</td>
 	<td><a href="rdf.schema.accessibilityControl.md" class ="magic-button" title="Definition: Identifies input methods that are sufficient to fully control the described resource (WebSchemas wiki lists possible values).">schema:accessibilityControl</a></td>
 </tr>  
 <tr>
@@ -321,7 +321,7 @@
 </table>
 <dl>
 <p>*Completed with medium confidence</p>
-	<p><i>Last Updated: </i>11/08/2021</p>
+	<p><i>Last Updated: </i>01/05/2022</p>
 </dl>
 </body>
 </html>
