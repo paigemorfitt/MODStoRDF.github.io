@@ -35,7 +35,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="field_rights_contact.md">field_rights_contact</a> 
-		<a href="DrupalFields.md">Drupal Fields</a> |
+		<a href="DrupalFields.md#Contact-Us">Drupal Fields</a> |
 		| <a href="mods.access_condition.md">MODS/accessCondition</a> |
 </dl>
 <p><i>Last Updated: </i>01/05/2022</p>
