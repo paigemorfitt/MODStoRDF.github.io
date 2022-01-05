@@ -58,7 +58,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.access_condition.md">MODS/accessCondition</a> | 
-		<a href="DrupalFields.md">Drupal Fields</a> |
+		<a href="DrupalFields.md#Contact_Us">Drupal Fields</a> |
 		<a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a>  |
 </dl>
 <p><i>Last Updated: </i>01/05/2022</p>
