@@ -607,6 +607,30 @@
 				| <a href="mods.acess_condition.md">MODS/accessCondition</a> |
 				<a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a> | 
 	</dl>	
+	
+<h2>Source</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Text (plain)</td>
+					<td>255 characters / Limited (1)</td>
+					<td>N/A</td>
+					<td>field_source</td>
+					<td>Custom</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_source.md">field_source</a> | 
+				<a href="mods.relatedItem.part.text.md">RDF/relatedItem/part/text</a> |
+				<a href="rdf.dcterms.source.md">RDF/dcterms:source</a> | 
+	</dl>
 
 <p><i>Last Updated: </i>01/05/2022</p>
 </body>
