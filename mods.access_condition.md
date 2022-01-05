@@ -35,7 +35,7 @@
 			</dd>
 			<dd> 
 				| <a href="field_rights_contact.md">field_rights_contact</a>
-				<a href="DrupalFields.md">Drupal fields</a>  
+				<a href="DrupalFields.md#Contact-Us">Drupal Fields</a>   
 				| <a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a> | 
 			</dd>
 			<dd> 
@@ -44,6 +44,6 @@
 				<a href="rdf.rdau.P60339.md">RDF/rdau:P60339</a> | 
 			</dd>
 </dl>
-<p><i>Last Updated: </i>11/15/2021</p>
+<p><i>Last Updated: </i>01/05/2022</p>
 </body>
 </html>
