@@ -56,27 +56,12 @@
 	<td>Contains content previously from the following fields: IMI/accession_number, IMI/catalog_id, IMI/collection_name, IMI/image_source, IMI/record_series, IMI/series_id, IMI/source_publication, Former name: source</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Custom field</td>
-					<td>text (plain)</td>
-					<td>255 characters / Limited (1)</td>
-					<td>N/A</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="mods.relatedItem.part.text.md">MODS/relatedIetm/part/text</a> | <a href="rdf.dcterms.source.md">RDF/dcterms:source</a>|
+		|<a href="mods.relatedItem.part.text.md">MODS/relatedIetm/part/text</a> 
+		| <a href="DrupalFields.md#Source">Drupal</a>
+		| <a href="rdf.dcterms.source.md">RDF/dcterms:source</a>|
 </dl>
-<p><i>Last Updated: </i>09/03/2021</p>
+<p><i>Last Updated: </i>01/05/2022</p>
 </body>
 </html>
