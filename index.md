@@ -212,7 +212,7 @@
 </tr>
 <tr>
 	<td><a href="field_resource_type.md" class ="magic-button" title="ARMINDA Use: Basic conceptual indication of the kind of object being described, using broad terms.">field_resource_type</a></td>
-	<td><a href="mods.typeOfResource.md" class ="magic-button" title="Definition: A term that specifies the characteristics and general type of content of the resource.">typeOfResource</a>Source / Text (plain)</td>
+	<td><a href="mods.typeOfResource.md" class ="magic-button" title="Definition: A term that specifies the characteristics and general type of content of the resource.">typeOfResource</a>td>
 	<td>Resource Type / Entity reference</td>
 	<td><a href="rdf.dcterms.type.md" class ="magic-button" title="Definition: The nature or genre of the resource.">dcterms:type</a></td>
 </tr>
@@ -231,7 +231,7 @@
 <tr>
 	<td><a href="field_source.md" class ="magic-button" title="ARMINDA Use: A related resource from which the described resource is derived.">field_source</a></td>
 	<td><a href="mods.relatedItem.part.text.md" class ="magic-button" title="Definition: Information that identifies other resources related to the one being described ">relatedItem/part/text</a></td>
-	<td></td>
+	<td>Source / Text (plain)</td>
 	<td><a href="rdf.dcterms.source.md" class ="magic-button" title="Definition: A related resource from which the described resource is derived.">dcterms:source</a></td>
 </tr>
 <tr>
