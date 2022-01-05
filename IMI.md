@@ -104,13 +104,12 @@
 		<li><a href="field_provenance.md">field_provenance</a>: contains provenance information about the subject : [currently] donor information and/or when and how the object was acquired</li>
 		<li><a href="field_resource_type.md">field_resource_type</a>: basic conceptual indication of the kind of object being described, using broad terms</li>
 		<li><a href="field_rights.md">field_rights</a>: URL that indicates copyright and/or creative commons status.</li>
-
+		<li><a href="rights_contact.md">field_rights_contact</a> : HTML link to ARMINDA page linking to contact information for use by end users who wish to pursue required permissions for publication, dissemination, etc</li>
 		
 		
 		
 		
 		<li><a href="cmodel.md">field_model</a></li>
-		<li><a href="rights_contact.md">field_rights_contact</a></li>
 		<li><a href="source.md">field_source</a></li>
 		<li><a href="subject.keywords.md">field_subject</a></li>
 		<li><a href="url_external.md">field_url_external</a></li>
@@ -226,6 +225,6 @@
 <h2 id="removed">Removed from Master Sheets</h2>
 <p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
 <p><a href="#top">top</a></p>
-<p><i>Last Updated: </i>11/05/2021</p>
+<p><i>Last Updated: </i>01/05/2022</p>
 </dl>
 </html>
