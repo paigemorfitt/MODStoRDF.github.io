@@ -158,7 +158,7 @@
 </tr>
 <tr>
 	<td><a href="field_identifier.md" class ="magic-button" title="ARMINDA Use: Character string or number that clearly and uniquely identifies a digital object or resource. This field ensures that individual digital objects can be accessed, managed, stored, recalled, and used reliably.">field_identifier</a></td>
-	<td><a href="mods.identifier.md" class ="magic-button" title="Definition: Contains a unique standard number or code that distinctively identifies a resource.">identifier</a></td>
+	<td><a href="MODS.identifier.md" class ="magic-button" title="Definition: Contains a unique standard number or code that distinctively identifies a resource.">identifier</a></td>
 	<td>Identifier / Text (plain)</td>
 	<td><a href="rdf.dcterms.identifier.md" class ="magic-button" title="Definition: An unambiguous reference to the resource within a given context.">dcterms:identifier</a></td>
 </tr>
@@ -266,13 +266,13 @@
 </tr>   
 <tr>
 	<td><a href="filepath.md" class ="magic-button" title="[non-ingest spreadsheets only]">filepath </a></td>
-	<td>N/A</td>
+	<td><a href="MODS.identifier.md">identifier</a></td>
 	<td>N/A</td>
 	<td>N/A</td>
 </tr> 
 <tr>
 	<td><a href="license_file.md" class ="magic-button" title="ARMINDA Use: Field used for ingest into ARMINDA. ">license_file</a></td>
-	<td>N/A</td>
+	<td>N.A</td>
 	<td></td>
 	<td>N/A</td>
 </tr>
