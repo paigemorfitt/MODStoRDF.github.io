@@ -107,6 +107,7 @@
 		<li><a href="field_rights_contact.md">field_rights_contact</a> : HTML link to ARMINDA page linking to contact information for use by end users who wish to pursue required permissions for publication, dissemination, etc</li>
 		<li><a href="field_source.md">field_source</a> : A related resource from which the described resource is derived</li>
 		<li><a href="field_subject.md">field_subject</a> : Term(s) representing the primary topic(s) on which a work is focused.</li>
+		<li><a href="field_url_external.md">field_url_external</a> : URL linking file content not hosted in ARMINDA to metadata record, in ARMINDA</li>
 
 		
 		
