@@ -108,13 +108,12 @@
 		<li><a href="field_source.md">field_source</a> : A related resource from which the described resource is derived</li>
 		<li><a href="field_subject.md">field_subject</a> : Term(s) representing the primary topic(s) on which a work is focused.</li>
 		<li><a href="field_url_external.md">field_url_external</a> : URL linking file content not hosted in ARMINDA to metadata record, in ARMINDA</li>
+		<li><a href="field_volume_num.md">field_volume_num</a> : Volume of newspaper</li>
 
 		
 		
 		
 		<li><a href="cmodel.md">field_model</a></li>
-		<li><a href="url_external.md">field_url_external</a></li>
-		<li><a href="volume_num.md">field_volume_num</a></li>
 		<li><a href="field_weight.md">field_weight</a></li>
 		<li><a href="#removed">file_list</a>-removed</li>
 		<li><a href="#removed">file_name_id</a>-removed</li>
