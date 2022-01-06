@@ -678,7 +678,29 @@
 				<a href="mods.location.url.md">MODS/location/url</a> | 
 				<a href="rdf.schema.url.md">RDF/schema:url</a> | 
 	</dl>	
-
+<h2>Volume</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Text (plain)</td>
+					<td>255 characters / Limited (1)</td>
+					<td>N/A</td>
+					<td>field_volume_num</td>
+					<td>Custom</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_volume_num.md">field_volume_num</a> 
+				|  <a href="mods.part.detail.number.md">MODS/part/detail/number</a> |
+				<a href="rdf.schema.volumeNumber.md">RDF/schema:volumeNumber</a> | 
+	</dl>
 <p><i>Last Updated: </i>01/06/2022</p>
 </body>
 </html>
