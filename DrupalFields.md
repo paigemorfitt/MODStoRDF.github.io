@@ -631,6 +631,30 @@
 				<a href="mods.relatedItem.part.text.md">RDF/relatedItem/part/text</a> |
 				<a href="rdf.dcterms.source.md">RDF/dcterms:source</a> | 
 	</dl>
+	
+<h2>Subject</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Entity reference</td>
+					<td>Unlimited</td>
+					<td>Taxonomy / corporate body, family, geographic location, person, subject</td>
+					<td>field_subject</td>
+					<td>Default</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_subject.md">field_subject</a> 
+				| <a href="mods.subject.topic.md">MODS/subject/topic</a> | 
+				<a href="rdf.dcterms.subject.md">RDF/dcterms:subject</a> | 
+	</dl>
 
 <p><i>Last Updated: </i>01/05/2022</p>
 </body>
