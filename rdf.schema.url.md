@@ -11,20 +11,29 @@
   </tr>
 </table>
 
-
-
-<h1>RDF/schema:url</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: URL of the item. <a href="https://schema.org/url">(resource)<a/></dd>
-  <dd>Label: URL</dd>
-  <dd>Domain: Thing</dd>
-  <dd>Range: URL/dd>
-</dl>
+<tr>
+	<th>Definition</th>
+	<td>URL of the item. <a href="https://schema.org/url">(resource)<a/></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>URL</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>Thing</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>URL</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_url_external.md">field_url_external</a> | <a href="mods.location.url.md">MODS/location/url</a> |
+		| <a href="field_url_external.md">field_url_external</a> 
+		| <a href="DrupalFields.md#view-item">Drupal Field</a>
+		| <a href="mods.location.url.md">MODS/location/url</a> |
 </dl>
-<p><i>Last Updated: </i>09/07/2021</p>
+<p><i>Last Updated: </i>01/06/2022</p>
 </body>
 </html>
