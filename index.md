@@ -181,7 +181,7 @@
 	<td><a href="rdf.rdau.p60496.md" class ="magic-button" title="Definition: Relates a resource to limitations placed on access to a resource">rdau:P60496</a></td>
 </tr>
 <tr>
-	<td><a href="field_linked_agent.md" class ="magic-button" title="[Label of a field instance populated by taxonomy terms from Corporate Body, Family and Person vocabularies]">field_linked_agent</a></td>
+	<td><a href="field_linked_agent.md" class ="magic-button" title="Label of a field instance populated by taxonomy terms from Corporate Body, Family and Person vocabularies">field_linked_agent</a></td>
 	<td class ="magic-button" title="[definition]">[see <a href="mods.name.md">name/namePart </a>]</td>
 	<td>Linked Agent / Typed relation</td>
 	<td><a href="rdf.relators.md">[relators]</a></td>
@@ -212,7 +212,7 @@
 </tr>
 <tr>
 	<td><a href="field_resource_type.md" class ="magic-button" title="ARMINDA Use: Basic conceptual indication of the kind of object being described, using broad terms.">field_resource_type</a></td>
-	<td><a href="mods.typeOfResource.md" class ="magic-button" title="Definition: A term that specifies the characteristics and general type of content of the resource.">typeOfResource</a>td>
+	<td><a href="mods.typeOfResource.md" class ="magic-button" title="Definition: A term that specifies the characteristics and general type of content of the resource.">typeOfResource</a><td>
 	<td>Resource Type / Entity reference</td>
 	<td><a href="rdf.dcterms.type.md" class ="magic-button" title="Definition: The nature or genre of the resource.">dcterms:type</a></td>
 </tr>
@@ -265,7 +265,7 @@
 	<td>N/A</td>
 </tr>   
 <tr>
-	<td><a href="filepath.md" class ="magic-button" title="non-ingest spreadsheets only">filepath </a></td>
+	<td><a href="filepath.md" class ="magic-button" title="[non-ingest spreadsheets only]">filepath </a></td>
 	<td>N/A</td>
 	<td>N/A</td>
 	<td>N/A</td>
