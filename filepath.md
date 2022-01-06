@@ -61,7 +61,7 @@
 </table>
 <dl>
 	<tdt><b>Related Fields</b></dt>
-			<dd><a href="mods.identifier.md">MODS/identifier</a></dd>
+			<dd><a href="MODS.identifier.md">MODS/identifier</a></dd>
 </dl>
 <p><i>Last Updated: </i>01/06/2022</p>
 
