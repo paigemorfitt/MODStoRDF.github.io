@@ -237,7 +237,7 @@
 <tr>
 	<td><a href="field_subject.md" class ="magic-button" title="ARMINDA Use: Term(s) representing the primary topic(s) on which a work is focused.">field_subject</a></td>
 	<td><a href="mods.subject.topic.md" class ="magic-button" title="Definition: A term or phrase representing the primary topic(s) on which a work is focused">subject/topic</a></td>
-	<td></td>
+	<td>Subject / Entity reference</td>
 	<td><a href="rdf.dcterms.subject.md" class ="magic-button" title="Definition: The topic of the resource.">dcterms:subject</a></td>
 </tr>
 <tr>
