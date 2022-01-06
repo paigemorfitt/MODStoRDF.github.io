@@ -110,15 +110,14 @@
 		<li><a href="field_url_external.md">field_url_external</a> : URL linking file content not hosted in ARMINDA to metadata record, in ARMINDA</li>
 		<li><a href="field_volume_num.md">field_volume_num</a> : Volume of newspaper</li>
 		<li><a href="field_weight.md">field_weight</a> : Indicates the order of a resource in a collection of resources</li>
+		<li><a href="file.md">file</a> : Values contain field location of field that are used to create Drupal Media <a href="https://mjordan.github.io/islandora_workbench_docs/fields/">Islandora Workbench</a></li>
+
 
 		
 		
 		
-		<li><a href="cmodel.md">field_model</a></li>
-		<li><a href="field_weight.md">field_weight</a></li>
 		<li><a href="#removed">file_list</a>-removed</li>
 		<li><a href="#removed">file_name_id</a>-removed</li>
-		<li><a href="file.md">file</a></li>
 		<li><a href="filepath.md">filepath</a>-removed</li>
 		<li><a href="#removed">format</a>-removed</li>
 		<li><a href="#removed">front_end_url</a>-removed</li>
