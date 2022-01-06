@@ -53,27 +53,12 @@
 	<td>Former name: download_url, Former name: IMI/url_external</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Custom field(?)</td>
-					<td>Link</td>
-					<td>Limited (1)</td>
-					<td>N/A</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="mods.location.url.md">MODS/location/url</a> | <a href="rdf.schema.url.md">RDF/schema:url</a>|
+		|<a href="mods.location.url.md">MODS/location/url</a> 
+		| <a href="DrupalFields.md#view-item">Drupal Field</a>
+		| <a href="rdf.schema.url.md">RDF/schema:url</a>|
 </dl>
-<p><i>Last Updated: </i>09/07/2021</p>
+<p><i>Last Updated: </i>01/06/2022</p>
 </body>
 </html>
