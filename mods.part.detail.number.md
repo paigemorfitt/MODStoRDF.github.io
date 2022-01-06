@@ -56,20 +56,21 @@
 	<th>Subelements</th>
 	<td>N/A</td>
 </tr>
-</table>ubelements: N/A</dd>
+</table>
+</dd>
  <dl>
 	<dt><b>Related Fields</b></dt>
 		 <dd> 
 			| <a href="field_issue_num.md">field_issue_num</a> | 
 			<a href="DrupalFields.md#issue">Drupal Fields</a> |
-			<a href="rdf.schema.issueNumber.md">RDF/schema:issueNumberf</a> | 
+			<a href="rdf.schema.issueNumber.md">RDF/schema:issueNumber</a> | 
 		</dd>
 		<dd>
-		  | <a href="field_volume_num.md">field_volume_num</a> 
-		  	<a href="DrupalFields.md#issue">Drupal Fields</a> |
+		  | <a href="field_volume_num.md">field_volume_num</a> | 
+		  	<a href="DrupalFields.md#volume">Drupal Fields</a> |
 		  | <a href="rdf.schema.volumeNumber.md">RDF/schema:volumeNumber</a> | 
 		 </dd>
 </dl>
-<p><i>Last Updated: </i>09/29/2021</p>
+<p><i>Last Updated: </i>01/06/2022</p>
 </body>
 </html>
