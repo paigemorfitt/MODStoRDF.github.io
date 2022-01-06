@@ -676,7 +676,7 @@
 		<dt><b>Related Fields</b></dt>
 				| <a href="field_url_external.md">field_url_external</a> | 
 				<a href="mods.location.url.md">MODS/location/url</a> | 
-				<a href="schema.url.md">RDF/schema:url</a> | 
+				<a href="rdf.schema.url.md">RDF/schema:url</a> | 
 	</dl>	
 
 <p><i>Last Updated: </i>01/06/2022</p>
