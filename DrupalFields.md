@@ -655,7 +655,30 @@
 				| <a href="mods.subject.topic.md">MODS/subject/topic</a> | 
 				<a href="rdf.dcterms.subject.md">RDF/dcterms:subject</a> | 
 	</dl>
+<h2>View Item</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Link</td>
+					<td>Limited (1)</td>
+					<td>N/A</td>
+					<td>field_url_external</td>
+					<td>Custom</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_url_external.md">field_url_external</a> | 
+				<a href="mods.location.url.md">MODS/location/url</a> | 
+				<a href="schema.url.md">RDF/schema:url</a> | 
+	</dl>	
 
-<p><i>Last Updated: </i>01/05/2022</p>
+<p><i>Last Updated: </i>01/06/2022</p>
 </body>
 </html>
