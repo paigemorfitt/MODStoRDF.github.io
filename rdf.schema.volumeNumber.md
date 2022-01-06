@@ -14,17 +14,30 @@
 
 
 <h1>RDF/schema:volumeNumber</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: Identifies the volume of publication or multi-part work; for example, "iii" or "2".<a href="https://schema.org/volumeNumber">(resource)</a></dd>
-  <dd>Label: Volume Number</dd>
-  <dd>Domain: PublicationVolume</dd>
-  <dd>Range: Integer text</dd>
-</dl>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>Identifies the volume of publication or multi-part work; for example, "iii" or "2".<a href="https://schema.org/volumeNumber">(resource)</a></td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>Volume Number</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>PublicationVolume</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>Integer text</td>
+</tr>
+</table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_volume_num.md">field_volume_num</a> | <a href="mods.part.detail.number.md">MODS/part/detail/number</a> |
+		| <a href="field_volume_num.md">field_volume_num</a> | 
+		<a href="DrupalFields.md#volume">Drupal Fields</a> |
+		<a href="mods.part.detail.number.md">MODS/part/detail/number</a> |
 </dl>
-<p><i>Last Updated: </i>09/17/2021</p>
+<p><i>Last Updated: </i>01/06/2022</p>
 </body>
 </html>
