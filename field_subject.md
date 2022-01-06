@@ -66,26 +66,11 @@
 	<td>Contains partial absorption of, IMI/coverage_spatial, Previous name : keywords, Former name: subject_keywords</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Default field</td>
-					<td>Entity Reference</td>
-					<td>Unlimited</td>
-					<td>Taxonomy term / corporate body, family, geographic location, person, subject</td>
-				</tr>
-			</table>
-</details>
 <dd><b>Related Fields</b></dd>
-	|<a href="mods.subject.topic.md">MODS/subject/topic</a> | <a href="rdf.dcterms.subject.md">RDF/dcterms:subject</a> | 
-<p><i>Last Updated: </i>09/03/2021</p>
+	|<a href="mods.subject.topic.md">MODS/subject/topic</a> |
+	<a href="DrupalFields.md#subject">Drupal Field</a> | 
+	| <a href="rdf.dcterms.subject.md">RDF/dcterms:subject</a> | 
+<p><i>Last Updated: </i>01/06/2022</p>
 </dl>
 </body>
 </html>
