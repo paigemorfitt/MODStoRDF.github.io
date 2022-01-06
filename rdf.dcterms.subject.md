@@ -36,7 +36,7 @@
 </table>
 <dd><b>Related Fields</b></dd>
 	| <a href="field_subject.md">field_subject</a> | 
-	<a href="DrupalFields.md#subject">Drupal Field</a> | 
+	<a href="DrupalFields.md#subject">Drupal Field</a>  
 	| <a href="mods.subject.topic.md">MODS/subject/topic</a> |
 </dl>
 <p><i>Last Updated: </i>01/06/2022</p>
