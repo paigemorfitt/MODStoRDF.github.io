@@ -33,7 +33,7 @@
   <tr>
     <th>IMI Column</th>
     <th>MODS field</th>
-	<th>Drupal field*</th>
+	<th>Drupal field</th>
     <th>RDF field</th>
   </tr>
 <tr>
@@ -261,7 +261,7 @@
 <tr>
 	<td><a href="file.md" class ="magic-button" title="Values contain field location of fields that are used to create Drupal Media">file </a></td>
 	<td>N/A</td>
-	<td></td>
+	<td>N/A</td>
 	<td>N/A</td>
 </tr>   
 <tr>
@@ -320,7 +320,6 @@
 </tr>
 </table>
 <dl>
-<p>*Completed with medium confidence</p>
 	<p><i>Last Updated: </i>01/05/2022</p>
 </dl>
 </body>
