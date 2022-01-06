@@ -255,7 +255,7 @@
 <tr>
 	<td><a href="field_weight.md" class ="magic-button" title="[Indicates the order of a resource in a collection of resources]">field_weight</a></td>
 	<td>N/A</td>
-	<td></td>
+	<td>Weight / Number (integer)</td>
 	<td class ="magic-button" title="[This I8 field will not be  mapped to RDF]">N/A</td>
 </tr>
 <tr>
