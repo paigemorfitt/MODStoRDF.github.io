@@ -11,20 +11,34 @@
   </tr>
 </table>
 
-
-
-<h1>dcterms:subject</h1>
-<dl>
-  <dt><b>Description</b></dt>
-  <dd>Definition: The topic of the resource.<a href="http://purl.org/dc/terms/subject">(reference)</a></dd>
-  <dd>Label: Subject</dd>
-  <dd>Comment: Recommended practice is to refer to the subject with a URI. If this is not possible or feasible, a literal value that identifies the subject may be provided. Both should preferably refer to a subject in a controlled vocabulary.</dd>
-  <dd>Domain: N/A</dd>
-  <dd>Range: N/A</dd>
-</dl>
+<h1>RDF/dcterms:subject</h1>
+<table>
+<tr>
+	<th>Definition</th>
+	<td>The topic of the resource.<a href="http://purl.org/dc/terms/subject">(reference)</a></td>
+</tr>
+<tr>
+	<th>Comment</th>
+	<td>Recommended practice is to refer to the subject with a URI. If this is not possible or feasible, a literal value that identifies the subject may be provided. Both should preferably refer to a subject in a controlled vocabulary.</td>
+</tr>
+<tr>
+	<th>Label</th>
+	<td>Subject</td>
+</tr>
+<tr>
+	<th>Domain</th>
+	<td>N/A</td>
+</tr>
+<tr>
+	<th>Range</th>
+	<td>N/A</td>
+</tr>
+</table>
 <dd><b>Related Fields</b></dd>
-	| <a href="field_subject.md">field_subject</a> | <a href="mods.subject.topic.md">MODS/subject/topic</a> |
+	| <a href="field_subject.md">field_subject</a> | 
+	<a href="DrupalFields.md#subject">Drupal Field</a> | 
+	| <a href="mods.subject.topic.md">MODS/subject/topic</a> |
 </dl>
-<p><i>Last Updated: </i>09/03/2021</p>
+<p><i>Last Updated: </i>01/06/2022</p>
 </body>
 </html>
