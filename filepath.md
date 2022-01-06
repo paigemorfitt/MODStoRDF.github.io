@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>IMI/filepath</h1>
+<h1>filepath</h1>
 <dl>
   <dt><b>Description</b></dt>
   <dd>ARMINDA Use: Used in ARMIDNA as the filename of object; often times includes in ingest path for field - filename is in path  -- a place holder field that keeps track of where items are, and helps us distinguish between individual objects along with unique_identifier)</dd>
