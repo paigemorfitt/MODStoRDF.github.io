@@ -54,23 +54,12 @@
 	<td>N/A</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Default Field</td>
-					<td>Number (integer)</td>
-					<td>255 characters / Limited (1)</td>
-					<td>N/A</td>
-				</tr>
-			</table>
-</details>
-<p><i>Last Updated: 08/26/2021</i></p>
+ <dl>
+	<dt><b>Related Fields</b></dt>
+		 <dd> 
+			<a href="DrupalFields.md#weight">Drupal Fields</a> 
+		</dd>
+</dl>
+<p><i>Last Updated: 01/06/2022</i></p>
 </body>
 </html>
