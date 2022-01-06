@@ -109,6 +109,7 @@
 		<li><a href="field_subject.md">field_subject</a> : Term(s) representing the primary topic(s) on which a work is focused.</li>
 		<li><a href="field_url_external.md">field_url_external</a> : URL linking file content not hosted in ARMINDA to metadata record, in ARMINDA</li>
 		<li><a href="field_volume_num.md">field_volume_num</a> : Volume of newspaper</li>
+		<li><a href="field_weight.md">field_weight</a> : Indicates the order of a resource in a collection of resources</li>
 
 		
 		
