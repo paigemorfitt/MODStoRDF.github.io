@@ -54,27 +54,12 @@
 	<td>Former name: IMI/volume_num</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<table>
-				<tr>
-					<th><i>Note</i>
-					<th><i>Type of field</i>
-					<th><i>Max Length/Repeatability</i>
-					<th><i>Type of Item Reference/Vocabulary</i>
-				</tr>
-				<tr>
-					<td>Custome field</td>
-					<td>text (plain)</td>
-					<td>255 characters / Limited (1)</td>
-					<td>N/A</td>
-				</tr>
-			</table>
-</details>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		|<a href="mods.part.detail.number.md">MODS/part/detail/number</a> | <a href="rdf.schema.volumeNumber.md">RDF/schema:volumeNumber</a>|
+		|<a href="mods.part.detail.number.md">MODS/part/detail/number</a>
+		| <a href="DrupalFields.md#volume">Drupal Fields</a>
+		| <a href="rdf.schema.volumeNumber.md">RDF/schema:volumeNumber</a>|
 </dl>
-<p><i>Last Updated: </i>09/17/2021</p>
+<p><i>Last Updated: </i>01/06/2022</p>
 </body>
 </html>
