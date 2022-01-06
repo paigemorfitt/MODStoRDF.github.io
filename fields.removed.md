@@ -69,7 +69,6 @@
 		<li>IMI/ext_links</li>
 		<li>IMI/file_list</li>
 		<li>IMI/file_name_id</li>
-		<li>IMI/filepath</li>
 		<li>IMI/format</li>
 		<li>IMI/front_end_url</li>
 		<li>IMI/grant_information</li>
