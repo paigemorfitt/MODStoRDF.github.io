@@ -57,12 +57,7 @@
 	<td>Parallel field : obj_file (removed)</td>
 </tr>
 </table>
-<details>
-		<summary><b>Islandora 8 notes</b></summary>
-			<p>Not ingested into Islandora 8 as a field.</p>
-			</table>
-</details>
 </dl>
-<p><i>Last Updated: </i>08/26/2021</p>
+<p><i>Last Updated: </i>01/06/2022</p>
 </body>
 </html>
