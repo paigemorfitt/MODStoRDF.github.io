@@ -111,15 +111,10 @@
 		<li><a href="field_volume_num.md">field_volume_num</a> : Volume of newspaper</li>
 		<li><a href="field_weight.md">field_weight</a> : Indicates the order of a resource in a collection of resources</li>
 		<li><a href="file.md">file</a> : Values contain field location of field that are used to create Drupal Media <a href="https://mjordan.github.io/islandora_workbench_docs/fields/">Islandora Workbench</a></li>
-		<li><a href="#removed">file_list</a>-removed</li>
-		<li><a href="#removed">file_name_id</a>-removed</li>
-
-
-		
-		
-		
-		<li><a href="filepath.md">filepath</a>-removed</li>
-		<li><a href="#removed">format</a>-removed</li>
+		<li><a href="#removed">file_list</a>(removed)</li>
+		<li><a href="#removed">file_name_id</a>(removed)</li>
+		<li><a href="filepath.md">filepath</a>: Used in ARMIDNA as the filename of object; often times includes in ingest path for field - filename is in path -- a place holder field that keeps track of where items are, and helps us distinguish between individual objects along with unique_identifier)</li>
+		<li><a href="#removed">format</a>(removed)</li>
 		<li><a href="#removed">front_end_url</a>-removed</li>
 
 </details>
@@ -127,7 +122,7 @@
 <summary>G's, H's, & I's's</summary>
 <br>		
 		<li><a href="#removed">grant_information</a> - removed</li>
-		<li><a href="#id.md">id</a></li>
+		<li><a href="#id.md">id</a> See <a href="pid.md">PID</a></li>
 		<li><a href="#removed">identifier</a> - removed</li>
 		<li><a href="#removed">image_caption</a> - removed</li>
 		<li><a href="#removed">image_source</a> - removed</li>		
@@ -135,7 +130,8 @@
 		<li><a href="#removed">insurance_value</a> - removed</li>
 		<li><a href="#removed">irb_information</a> - removed</li>
 		<li><a href="#removed">irb_number</a> - removed</li>
-		<li><a href="#removed">issnum</a> - removed</li>	
+		<li><a href="#removed">issnum</a> - removed</li>
+		<li><a href="#removed">item_identifier</a> - removed</li>
 </details>
 <details>
 <summary>K's & L's</summary>
