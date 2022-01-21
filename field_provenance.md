@@ -49,6 +49,7 @@
 		<ul>
 			<li>Primarily used for Sheehan Collection</li>
 			<li>Contains italics, bold, accents and special characters</li>
+			<li>Do not confuse with former IMI/provenance that was absorbed into field_source</li>
 		</ul>
 	</td>
 </tr>
@@ -63,6 +64,6 @@
 		<a href="DrupalFields.md">Drupal Fields</a> | 
 		<a href="rdf.dcterms.provenance.md">RDF/dcterms:provenanc</a> | 
 </dl>
-<p><i>Last Updated: </i>11/08/2021</p>
+<p><i>Last Updated: </i>01/21/2022</p>
 </body>
 </html
