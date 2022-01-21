@@ -47,7 +47,7 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Previous name: context_key; Former name: identifier_unique</td>
+	<td>Previous name: context_key; Former name: identifier_unique, contains information from IMI/item_identifier</td>
 </tr>
 </table>
 <dl>
@@ -56,6 +56,6 @@
 		<a href="DrupalFields.md#identifier">Drupal Fields</a> | 
 		<a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a> |
 </dl>
-<p><i>Last Updated: </i>09/29/2021</p>
+<p><i>Last Updated: </i>01/21/2022</p>
 </body>
 </html>
