@@ -18,8 +18,8 @@
  <h1>Fields Removed from ARMINDA</h1> 
  <p>The following IMI column names that have been removed from spreadsheets. </p>
 	<ul>
-		 <li>abstract_form -- Format of the abstract</li>
-		 <li>accession_number -- Number associated with Gallary items</li>
+		<li><b>abstract_form</b> -- Format of the abstract</li>
+		<li><b>accession_number</b> -- Number associated with Gallary items</li>
 		<li>IMI/attach_additional_files</li>
 		<li>IMI/author1_fname</li>
 		<li>IMI/author1_lname</li>
