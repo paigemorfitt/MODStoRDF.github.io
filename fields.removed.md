@@ -18,7 +18,7 @@
  <h1>Fields Removed from ARMINDA</h1> 
  <p>The following IMI column names that have been removed from spreadsheets. </p>
 	<ul>
-		 <li>IMI/abstract_form</li>
+		 <li>IMI/abstract_form -- Format of the abstract</li>
 		 <li>IMI/accession_number</li>
 		<li>IMI/attach_additional_files</li>
 		<li>IMI/author1_fname</li>
