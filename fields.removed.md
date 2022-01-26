@@ -19,7 +19,7 @@
  <p>The following IMI column names that have been removed from spreadsheets. </p>
 	<ul>
 		 <li>abstract_form -- Format of the abstract</li>
-		 <li>IMI/accession_number</li>
+		 <li>accession_number -- Number associated with Gallary items</li>
 		<li>IMI/attach_additional_files</li>
 		<li>IMI/author1_fname</li>
 		<li>IMI/author1_lname</li>
@@ -102,7 +102,7 @@
 		<li>IMI/seq_number</li>
 	</ul>
 </dd> 
-	<p><i>Last Updated: </i>09/03/2021</p>
+	<p><i>Last Updated: </i>01/26/2022</p>
 </dl>
 </body>
 </html
