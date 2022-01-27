@@ -22,7 +22,9 @@
 	<td>
 		<ul>
 			<li>See <a href="field_linked_agent.md">field_linked_agent</a></li>
-			<li>Field removed from all ingest spreadsheets/tabs</li>
+			<li>Included in non-ingest spreadsheets only</li>
+			<li>Contains content of costume_design, director,
+			instructor, lightning_design, playwright, props_design, set_design, sound_design,  stage_manager,  tech_director, </li>
 		</ul>
 	</td>
 </tr>
@@ -35,6 +37,6 @@
 	<dt><b>Related Fields</b></dt>
 		<a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent</a>| | <a href="mods.name.md">MODS/name/namePart</a> | <a href="rdf.field_linked_agent.md">RDF/relators:ctb</a> |
 </dl>
-<p><i>Last Updated: </i>09/21/2021</p>
+<p><i>Last Updated: </i>01/27/2022</p>
 </body>
 </html>
