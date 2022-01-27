@@ -43,6 +43,7 @@
 		<ul>
 			<li>Content now spells out full collection name</li>
 			<li>Removed from intested spreadsheets/tabs</i>
+			<li>Derived from "issue" field (do not confuse with field_issue)</li>
 		</ul>
 	</td>
 </tr>
