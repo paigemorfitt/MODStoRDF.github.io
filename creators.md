@@ -23,6 +23,9 @@
 		<ul>
 			<li>See <a href="field_linked_agent.md">field_linked_agent</a></li>
 			<li>Field removed from all ingest spreadsheets/tabs</li>
+			<li>Renamed field. - Renamed from authors to creators. 
+			The following fields have been combined to contribute to this field: 
+			author1_fname, author1_lname, author1_mname, author1_suffix, author2_fname, author2_lname, author2_mname, 				author2_suffix, author3_fname, author3_lname, author3_mnamem, author3_suffix</li>
 		</ul>
 	</td>
 </tr>
