@@ -60,7 +60,7 @@
 		<li>document_type --  Format of the item</li>
 		<li>donor --  Funding associated with item</li>
 		<li>download_file_format -- [use unknown]</li>
-		<li>IMI/duration</li>
+		<li>duration -- Length of recording</li>
 		<li>IMI/editor</li>
 		<li>IMI/end_date</li>
 		<li>IMI/endowment</li>
