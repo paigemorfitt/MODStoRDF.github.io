@@ -48,7 +48,7 @@
 		<li>conference_track -- Indicates WUC conference track in which item was presented</li>
 		<li>copyright_notes -- [use unknown]</li>
 		<li>costume_design -- Responsible party credited for the design of costumes depicted in image of Harper Joy Collection</li>
-		<li>IMI/cover_image_url</li>
+		<li>cover_image_url -- [use unknown]</li>
 		<li>IMI/create_openurl</li>
 		<li>IMI/cultural_affiliation</li>
 		<li>IMI/custom_citation</li>
