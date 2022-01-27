@@ -45,7 +45,7 @@
 		<li>city -- City of newspaper publication</li>
 		<li>collection_name -- Name of the collection item is found in</li>
 		<li>comments -- Field for information not held elsewhere</li>
-		<li>IMI/conference_track</li>
+		<li>conference_track -- Indicates WUC conference track in which item was presented</li>
 		<li>MODS/city</li>
 		<li>IMI/copyright_notes</li>
 		<li>IMI/costume_design</li>
