@@ -44,7 +44,7 @@
 		<li>catalog_id -- Catalog number of Maxey museum item</li>
 		<li>city -- City of newspaper publication</li>
 		<li>collection_name -- Name of the collection item is found in</li>
-		<li>IMI/comments</li>
+		<li>comments -- Field for information not held elsewhere</li>
 		<li>IMI/conference_track</li>
 		<li>MODS/city</li>
 		<li>IMI/copyright_notes</li>
