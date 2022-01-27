@@ -61,7 +61,7 @@
 		<li>donor --  Funding associated with item</li>
 		<li>download_file_format -- [use unknown]</li>
 		<li>duration -- Length of recording</li>
-		<li>IMI/editor</li>
+		<li>editor -- Identifies editors of a volume of works</li>
 		<li>IMI/end_date</li>
 		<li>IMI/endowment</li>
 		<li>IMI/equipment</li>
