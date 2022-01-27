@@ -34,7 +34,7 @@
 		<li>author3_mname -- Middle name of third person responsible for creation of item </li>
 		<li>author3_suffix --- Suffix or additional information about the third person responsible for creation of item </li>
 		<li>box -- Box in which newspapers live in the Archives</li>
-		<li>IMI/bp_categories</li>
+		<li>bp_categories -- Possibly BePress Categories that were broken up by Academic Discipline</li>
 		<li>IMI/broad_creation_date</li>
 		<li>IMI/broad_date</li>
 		<li>IMI/buy_link</li>
