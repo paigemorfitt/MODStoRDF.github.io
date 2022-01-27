@@ -56,7 +56,7 @@
 		<li>date_processed -- [use unknown]</li>
 		<li>director -- Responsible party credited for directing the play depicted in image</li>
 		<li>display_date -- [use unknown]</li>
-		<li>IMI/distribution_license</li>
+		<li>distribution_license -- [use unknown]</li>
 		<li>IMI/document_type</li>
 		<li>IMI/donor</li>
 		<li>IMI/download_file_format</li>
