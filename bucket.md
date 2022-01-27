@@ -43,16 +43,15 @@
 		<ul>
 			<li>Content now spells out full collection name</li>
 			<li>Removed from intested spreadsheets/tabs</i>
-			<li>Derived from "issue" field (do not confuse with field_issue)</li>
 		</ul>
 	</td>
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Former name: IMI/issue</td>
+	<td>Former name: issue field/derived from "issue" field</td>
 </tr>
 </table>
-<p><i>Last Updated: </i>00/21/2021</p>
+<p><i>Last Updated: </i>01/27/2022</p>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		|<a href="mods.relateditem_note.md">MODS/relatedItem/note</a>|
