@@ -21,18 +21,18 @@
 		<li>abstract_form -- Format of the abstract</li>
 		<li>accession_number -- Number associated with Gallary items</li>
 		<li>attach_additional_files -- [use unknown]</li>
-		<li>IMI/author1_fname</li>
-		<li>IMI/author1_lname</li>
-		<li>IMI/author1_mname</li>
-		<li>IMI/author1_suffix</li>
-		<li>IMI/author2_fname</li>
-		<li>IMI/author2_lname</li>
-		<li>IMI/author2_mname</li>
-		<li>IMI/author2_suffix</li>
-		<li>IMI/author3_fname</li>
-		<li>IMI/author3_lname</li>
-		<li>IMI/author3_mname</li>
-		<li>IMI/author3_suffix</li>
+		<li>author1_fname -- First name of first person responsible for creation of item  </li>
+		<li>author1_lname -- Last name of first person responsible for creation of item </li>
+		<li>author1_mname -- Middle name of first  person responsible for creation of item</li>
+		<li>author1_suffix -- Suffix or additional information about the first person responsible for creation of item</li>
+		<li>author2_fname -- First name of second person responsible for creation of item </li>
+		<li>author2_lname -- Last name of second person responsible for creation of item</li>
+		<li>author2_mname -- Middle name of Second  person responsible for creation of item </li>
+		<li>author2_suffix -- Suffix or additional information about the second person responsible for creation of item </li>
+		<li>author3_fname -- First name of third person responsible for creation of item</li>
+		<li>author3_lname -- Last name of third person responsible for creation of item</li>
+		<li>author3_mname -- Middle name of third person responsible for creation of item </li>
+		<li>author3_suffix --- Suffix or additional information about the third person responsible for creation of item </li>
 		<li>IMI/box</li>
 		<li>IMI/bp_categories</li>
 		<li>IMI/broad_creation_date</li>
