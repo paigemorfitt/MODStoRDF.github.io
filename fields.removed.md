@@ -20,7 +20,7 @@
 	<ul>
 		<li><b>abstract_form</b> -- Format of the abstract</li>
 		<li><b>accession_number</b> -- Number associated with Gallary items</li>
-		<li>IMI/attach_additional_files</li>
+		<li>attach_additional_files -- [use unknown]</li>
 		<li>IMI/author1_fname</li>
 		<li>IMI/author1_lname</li>
 		<li>IMI/author1_mname</li>
