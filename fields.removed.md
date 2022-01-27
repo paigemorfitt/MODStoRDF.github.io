@@ -58,7 +58,7 @@
 		<li>display_date -- [use unknown]</li>
 		<li>distribution_license -- [use unknown]</li>
 		<li>document_type --  Format of the item</li>
-		<li>IMI/donor</li>
+		<li>donor --  Funding associated with item</li>
 		<li>IMI/download_file_format</li>
 		<li>IMI/duration</li>
 		<li>IMI/editor</li>
