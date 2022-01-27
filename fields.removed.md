@@ -49,7 +49,7 @@
 		<li>copyright_notes -- [use unknown]</li>
 		<li>costume_design -- Responsible party credited for the design of costumes depicted in image of Harper Joy Collection</li>
 		<li>cover_image_url -- [use unknown]</li>
-		<li>IMI/create_openurl</li>
+		<li>create_openurl -- [use unknown]</li>
 		<li>IMI/cultural_affiliation</li>
 		<li>IMI/custom_citation</li>
 		<li>IMI/date_created</li>
