@@ -64,7 +64,7 @@
 	<td><a href="department.md" class ="magic-button" title="ARMINDA Use: College division in which the item is categorized">department</a></td>
 	<td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
 	<td>N/A</td>
-	<td><a href="rdf.field_linked_agent.md" class ="magic-button" title="Definition: College division in which the item is categorized">local:dpt</a></td>
+	<td><a href="rdf.relators.md" class ="magic-button" title="Definition: College division in which the item is categorized">local:dpt</a></td>
 </tr>
 <tr>
 	<td><a href="field_abstract.md" class ="magic-button" title="ARMINDA Use: A summary of the resource, primarily used with scholarship objects">field_abstract</a></td>
