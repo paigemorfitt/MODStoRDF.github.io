@@ -63,7 +63,7 @@
 		<li>duration -- Length of recording</li>
 		<li>editor -- Identifies editors of a volume of works</li>
 		<li>end_date -- [end date of date range associated with item]</li>
-		<li>IMI/endowment</li>
+		<li>endowment -- [use unknown]</li>
 		<li>IMI/equipment</li>
 		<li>IMI/ext_links</li>
 		<li>IMI/file_list</li>
