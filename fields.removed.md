@@ -51,7 +51,7 @@
 		<li>cover_image_url -- [use unknown]</li>
 		<li>create_openurl -- [use unknown]</li>
 		<li>cultural_affiliation -- Affiliation related to item</li>
-		<li>IMI/custom_citation</li>
+		<li>custom_citation -- [use unknown]</li>
 		<li>IMI/date_created</li>
 		<li>IMI/date_processed</li>
 		<li>IMI/director</li>
