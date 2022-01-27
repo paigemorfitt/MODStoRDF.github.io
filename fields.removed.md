@@ -59,7 +59,7 @@
 		<li>distribution_license -- [use unknown]</li>
 		<li>document_type --  Format of the item</li>
 		<li>donor --  Funding associated with item</li>
-		<li>IMI/download_file_format</li>
+		<li>download_file_format -- [use unknown]</li>
 		<li>IMI/duration</li>
 		<li>IMI/editor</li>
 		<li>IMI/end_date</li>
