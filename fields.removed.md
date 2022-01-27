@@ -33,7 +33,7 @@
 		<li>author3_lname -- Last name of third person responsible for creation of item</li>
 		<li>author3_mname -- Middle name of third person responsible for creation of item </li>
 		<li>author3_suffix --- Suffix or additional information about the third person responsible for creation of item </li>
-		<li>IMI/box</li>
+		<li>box -- Box in which newspapers live in the Archives</li>
 		<li>IMI/bp_categories</li>
 		<li>IMI/broad_creation_date</li>
 		<li>IMI/broad_date</li>
