@@ -54,7 +54,7 @@
 		<li>custom_citation -- [use unknown]</li>
 		<li>date_created -- Date Created (circa)</li>
 		<li>date_processed -- [use unknown]</li>
-		<li>IMI/director</li>
+		<li>director -- Responsible party credited for directing the play depicted in image</li>
 		<li>IMI/display_date</li>
 		<li>IMI/distribution_license</li>
 		<li>IMI/document_type</li>
