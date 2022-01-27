@@ -46,7 +46,7 @@
 		<li>collection_name -- Name of the collection item is found in</li>
 		<li>comments -- Field for information not held elsewhere</li>
 		<li>conference_track -- Indicates WUC conference track in which item was presented</li>
-		<li>copyright_notes -- [use unknown</li>
+		<li>copyright_notes -- [use unknown]</li>
 		<li>IMI/costume_design</li>
 		<li>IMI/cover_image_url</li>
 		<li>IMI/create_openurl</li>
