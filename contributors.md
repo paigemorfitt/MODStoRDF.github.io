@@ -23,14 +23,13 @@
 		<ul>
 			<li>See <a href="field_linked_agent.md">field_linked_agent</a></li>
 			<li>Included in non-ingest spreadsheets only</li>
-			<li>Contains content of costume_design, director,
-			instructor, lightning_design, playwright, props_design, set_design, sound_design,  stage_manager,  tech_director, </li>
 		</ul>
 	</td>
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Former name: contributor</td>
+	<td>Former name: contributor, Contains content of costume_design, director,
+			instructor, lightning_design, playwright, props_design, set_design, sound_design,  stage_manager,  tech_director</td>
 </tr>
 </table>
 <dl>
