@@ -57,7 +57,7 @@
 		<li>director -- Responsible party credited for directing the play depicted in image</li>
 		<li>display_date -- [use unknown]</li>
 		<li>distribution_license -- [use unknown]</li>
-		<li>IMI/document_type</li>
+		<li>document_type --  Format of the item</li>
 		<li>IMI/donor</li>
 		<li>IMI/download_file_format</li>
 		<li>IMI/duration</li>
