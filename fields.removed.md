@@ -43,7 +43,7 @@
 		<li>campus_location -- Location of art on Whitman College campus where Sheehan art is displayed or stored. </li>
 		<li>catalog_id -- Catalog number of Maxey museum item</li>
 		<li>city -- City of newspaper publication</li>
-		<li>IMI/collection_name</li>
+		<li>collection_name -- Name of the collection item is found in</li>
 		<li>IMI/comments</li>
 		<li>IMI/conference_track</li>
 		<li>MODS/city</li>
