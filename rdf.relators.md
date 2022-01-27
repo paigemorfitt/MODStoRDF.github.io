@@ -87,6 +87,10 @@
 	<td>relators:ctb:person[Lastname, Firstname] ; relators:ctb:family[Family name] ; relators:ctb:corporate_body[Corporate Body name]</td>
 </tr>
 <tr>
+	<th>Note</th>
+	<td>Due to "dpt" being coded in relator as Depositor, we are are removing that relators term in favor of dpt being Department. (The other option was changing the code to dpx)</td>
+</tr>
+<tr>
 	<th>Examples</th>
 	<td>
 		<li>relators:ctb:person:Barrow, William,  1817-1877</li> 
