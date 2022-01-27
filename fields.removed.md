@@ -38,7 +38,7 @@
 		<li>broad_creation_date -- Date to accommodate a range associated with the creation of an item</li>
 		<li>broad_date -- Date to accommodate a range associated with an item</li>
 		<li>buy_link -- [use unknown]</li>
-		<li>IMI/calc_thumbnail_image_url</li>
+		<li>calc_thumbnail_image_url -- [use unknown]</li>
 		<li>IMI/calc_url</li>
 		<li>IMI/campus_location</li>
 		<li>IMI/catalog_id</li>
