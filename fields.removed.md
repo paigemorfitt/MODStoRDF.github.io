@@ -64,7 +64,7 @@
 		<li>editor -- Identifies editors of a volume of works</li>
 		<li>end_date -- [end date of date range associated with item]</li>
 		<li>endowment -- [use unknown]</li>
-		<li>IMI/equipment</li>
+		<li>equipment -- [use unknown]</li>
 		<li>IMI/ext_links</li>
 		<li>IMI/file_list</li>
 		<li>IMI/file_name_id</li>
@@ -101,7 +101,7 @@
 		<li>IMI/seq_number</li>
 	</ul>
 </dd> 
-	<p><i>Last Updated: </i>01/26/2022</p>
+	<p><i>Last Updated: </i>01/282022</p>
 </dl>
 </body>
 </html
