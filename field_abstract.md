@@ -53,7 +53,7 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Some content moved to field_description_ong, Former name: IMI/abstract</td>
+	<td>Some content moved to field_description_long; Former name abstract; Contains content from issnum</td>
 </tr>
 </table>
 <dl>
