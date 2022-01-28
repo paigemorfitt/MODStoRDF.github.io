@@ -65,7 +65,7 @@
 		<li>end_date -- [end date of date range associated with item]</li>
 		<li>endowment -- [use unknown]</li>
 		<li>equipment -- [use unknown]</li>
-		<li>IMI/ext_links</li>
+		<li>ext_links -- External links associated with item</li>
 		<li>IMI/file_list</li>
 		<li>IMI/file_name_id</li>
 		<li>IMI/format</li>
