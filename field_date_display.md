@@ -35,7 +35,7 @@
 </tr>
 <tr>
 	<th>Syntax/Formatting</th>
-	<td>EDTF according to DateFormattingGuidelinesARMINDA</td>
+	<td>Free-text</td>
 </tr>
 <tr>
 	<th>Recommended Controlled Vocabulary</th>
@@ -45,8 +45,9 @@
 	<th>Notes</th>
 	<td>
 		<ul>
-			<li>former name:  mods_display_date</li>
-			<li>former name: IMI/date_display</li>
+			<li>former name: mods_display_date</li>
+			<li>former name: date_display</li>
+			<li>absorbed: broad_creation_date</li>
 		</ul>
 	</td>
 </tr>
@@ -55,6 +56,6 @@
 	<dt><b>Related Fields</b></dt>
 		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> | <a href="DrupalFields.md">Drupal field</a> | <a href="rdf.rdau.p60527.md">rdau:P60527</a> |
 </dl>
-<p><i>Last Updated: </i>09/22/2021</p>
+<p><i>Last Updated: </i>02/01/2022</p>
 </body>
 </html>
