@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -42,8 +43,26 @@
 	<td>AAT, COAR, and Whitman College local genre list </td>
 </tr>
 <tr>
+	<th>Notes: </th>
+	<td>
+		<ul>
+			<li>Caution: do not confuse with the more general type category or with format/physical description.</li>
+			<li>Capitalize words</li>
+			<li>Content from Maxey and Sheehan removed. Moving forward, that field will be required for them to fill out</li>
+			<li>We are NOT using the codes for this field. In lue of an Islandora reboot, codes would change.</li>
+			<li>Isladnroa 8 Vocabulary is not a Controlled Vocabulary</li>
+			<li>Terms (taoxonomy nodes) can be deleted in I8</li>
+			<li>Our mapping is NOT the default mapping</li>
+		</ul>
+	</td>
+</tr>
+<tr>
 	<th>Field Changes</th>
-	<td>Former name : IMI/genre; MODS/genre</td>
+	<td>
+		<ul>
+			<li>Former name: genre</li>
+		</ul>
+	</td>
 </tr>
 </table>
 <dl>
@@ -52,6 +71,6 @@
 		<a href="DrupalFields.md#genre">Drupal Fields</a> | 
 		<a href="rdf.schema.genre.md" >RDF/schema:genre</a> |
 </dl>
-<p><i>Last Updated: </i>09/27/2021</p>
+<p><i>Last Updated: </i>02/02/2022</p>
 </body>
 </html>
