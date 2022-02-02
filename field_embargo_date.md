@@ -47,7 +47,7 @@
 	<th>Notes</th>
 	<td>
 		<ul>
-			<li>[name will not change in order to allow this field to stand out from other date fields]</li>
+			<li>Contains date of items that are under embargo. When embargo date passes, information will stay.</li>
 			<li>Do not add encoding to field in IMI spreadsheet (ex: “||edtf||”)</li>
 			<li>Single digit months must be prefixed with a 0. 1955-5 fails, 1955-05 is fine.</li>
 		</ul>
@@ -55,7 +55,7 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Former name : IMI/embargo_date</td>
+	<td>Former name : embargo_date</td>
 </tr>
 </table>
 <dl>
@@ -64,6 +64,6 @@
 		<a href="DrupalFields.md">Drupal Fields</a> | 
 		<a href="rdf.schema.availabilityStarts.md">RDF/schema:avalibilityStarts</a>| 
 </dl>
-<p><i>Last Updated: </i></font>09/24/2021</p>
+<p><i>Last Updated: </i></font>02/02/2022</p>
 </body>
 </html>
