@@ -51,7 +51,12 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Contains content from IMI/grant_information; Former name: funding_sources</td>
+	<td>
+		<ul>
+			<li>Absorbed: grant_information</li>
+			<li>Former name: funding_sources</li>
+		</ul>
+	</td>
 </tr>
 </table>
 <dl>
@@ -60,6 +65,6 @@
 				<a href="DrupalFields.md">Drupal Fields</a> |
 				<a href="rdf.rdau.p60451.md">RDF/rdau:P60451</a> | 
 </dl>
-<p><i>Last Updated: </i>09/27/2021</p>
+<p><i>Last Updated: </i>02/02/2022</p>
 </body>
 </html>
