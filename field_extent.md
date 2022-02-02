@@ -54,7 +54,14 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>New field. Comprised of IMI/pagecount, IMI/duration, IMI/artifact_number; Former name: IMI/extent</td>
+	<td>
+		<ul>
+			<li>Absorbed: pagecount</li>
+			<li>Absorbed: duration</li>
+			<li>Absorbed: artifact_number</li>
+			<li>Former name: extent</li>
+		</ul>
+	</td>
 </tr>
 </table>
 <dl>
@@ -63,6 +70,6 @@
 			<a href="DrupalFields.md">Drupal Fields</a> | 
 			<a href="rdf.dcterms.extent.md">RDF/dcterms:extent</a> | 
 </dl>
-<p><i>Last Updated: </i></font>09/24/2021</p>
+<p><i>Last Updated: </i></font>02/02/2022</p>
 </body>
 </html>
