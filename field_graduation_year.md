@@ -38,7 +38,7 @@
 </tr>
 <tr>
 	<th>Recommended Controlled Vocabulary</th>
-	<td>EDTF</td>
+	<td>N/A</td>
 </tr>
 <tr>
 	<th>Notes</th>
@@ -52,7 +52,12 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Previous name: graduation_year, Former name: IMI/year_graduation</td>
+	<td>
+		<ul>
+			<li>Former name: graduation_year</li>
+			<li>Former name: year_graduation</li>
+		</ul>
+	</td>
 </tr>
 </table>
 <dl>
@@ -61,6 +66,6 @@
 		<a href="DrupalFields.md#graduation-year">Drupal Fields</a> | 
 		<a href="rdf.rdau.p60514.md">RDF/rdau:p60514</a> |
 </dl>
-<p><i>Last Updated: </i>09/27/2021</p>
+<p><i>Last Updated: </i>02/02/2022</p>
 </body>
 </html>
