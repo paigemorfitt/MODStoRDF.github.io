@@ -47,6 +47,7 @@
 		<ul>
 			<li>Currently this is maintained in order to have an encoded date that is as granular as possible within edtf</li>
 			<li>Single digit months must be prefixed with a 0. 1955-5 fails, 1955-05 is fine.</li>
+			<li>For Google Scholar, this field is being used for Publication Date</li>
 		</ul>
 	</td>
 </tr>
@@ -55,7 +56,9 @@
 	<td>
 		<ul>
 		<li>former name: oai_harvester_date</li>
-		<li>former name: IMI/date_encoded</li>
+		<li>former name: date_encoded</li>
+		<li>Absorbed: broad_creation_date</li>
+		<li>Absorbed: broad_date</li>
 		</ul>
 	</td>
 </tr>
@@ -66,6 +69,6 @@
 		<a href="DrupalFields.md">Drupal Field</a> |
 		<a href="rdf.dcterms.created.md">dcterms:created</a> |
 </dl>
-<p><i>Last Updated: </i>09/23/2021</p>
+<p><i>Last Updated: </i>02/01/2022</p>
 </body>
 </html>
