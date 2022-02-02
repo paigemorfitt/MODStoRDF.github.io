@@ -53,7 +53,7 @@
 <tr>
 	<th>Field Changes</th>
 	<td>
-		<li>former name: date_issued</li>
+		<li>Former name: date_issued</li>
 	</td>
 </tr>
 </table>
@@ -63,6 +63,6 @@
 		<a href="DrupalFields.md">Drupal Fields</a> | 
 		<a href="rdf.dcterms.issued.md">RDF/dcterms:issued</a> |
 </dl>
-<p><i>Last Updated: </i>09/24/2021</p>
+<p><i>Last Updated: </i>02/01/2022</p>
 </body>
 </html>
