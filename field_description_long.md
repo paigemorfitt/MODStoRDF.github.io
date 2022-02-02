@@ -7,7 +7,7 @@
     <th><a href="index.md">Main page</a></th>
 	<th>IMI Columns</th>
     <th><a href="MODS.md">MODS Fields</a></th>
-    <th><a href="#">RDF Fields</a></th>
+    <th><a href="RDF.md">RDF Field</a></th>
   </tr>
 </table>
 
@@ -48,13 +48,19 @@
 			<li>Use complete sentences</li>
 			<li>Some content moved from IMI/abstract</li>
 			<li>Contains, italics, bold, accents, and/or special characters</li>
-			<li>For paragraphs, use line breaks in cell.</li>
+			<li>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</li>
 		</ul>
 	</td>
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Contains content from IMI/abstract, former name: IMI/description</td>
+	<td>
+		<ul>
+			<li>Contains content from : abstract</li>
+			<li>former name: description</li>
+			<li>Contains information from : image_caption</li>
+		</ul>
+	</td>
 </tr>
 </table>
 <dl>
@@ -63,7 +69,7 @@
 			<a href="DrupalFields.md">Drupal Field</a> |
 			<a href="rdf.dcterms.description.md">RDF/dcterms:description</a>
 </dl>
-<p><i>Last Updated: </i></font>09/22/2021</p>
+<p><i>Last Updated: </i></font>02/01/2022</p>
 
 </body>
 </html>
