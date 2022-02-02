@@ -45,18 +45,24 @@
 	<th>Notes</th>
 	<td>
 		<ul>
-			<li>Used in tandem with field_subject (partial absorption by field_subject)</li>
-			<li>Geographic content is not a string / does not contain string terms ("--") however, there is an exception to local geographic terms which start with "Whitman College"</li>
-			<li>Multiple values separated by pipe with no spaces between terms. </li>
-			<li>Field does not require prefix</li>
-			<li>We are not using the codes for this field. In lue of an Islandora reboot, codes would change.</li>
-			<li>Islandora 8 vocabulary is not a controlled vocabulary, and terms can be deleted.</li>
+			<li>In tandem with field_subject(Partial absorption by field_subject)</li>
+			<li>Geographic content is not a string</li>
+			<li>Multiple values separated by pipe with no spaces between termsField does NOT require prefix</li>
+			<li>Does not contain string terms (contain ""--"") -- Exception are local terms which all start with ""Whitman College"</li>
+			<li>We are NOT using the codes for this field. In lue of an Islandora reboot, codes would change.</li>
+			<li>Islandora 8 Vocabulary is not a Controlled vocabulary</li>
+			<li>Terms (taxonomy nodes) can be deleted from I8</li>
 		</ul>
 	</td>
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>former name: IMI/coverage_spatial</td>
+	<td>
+		<ul>
+			<li>Partial absorption by: field_subject</li>
+			<li>Former name: coverage_spatial</li>
+		</ul>
+	</td>
 </tr>
 </table>
 </dl>
@@ -66,6 +72,6 @@
 		<a href="DrupalFields.md#geographic-subject">Drupal Fields</a> | 
 		<a href="rdf.dcterms_spatial.md">RDF/dcterms:spatial</a>|
 </dl>
-<p><i>Last Updated: </i>09/27/2021</p>
+<p><i>Last Updated: </i>02/02/2022</p>
 </body>
 </html>
