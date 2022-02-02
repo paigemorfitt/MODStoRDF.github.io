@@ -42,12 +42,20 @@
 	<td>
 		<ul>
 			<li>Single digit months must be prefixed with a 0. 1955-5 fails, 1955-05 is fine.</li>
+			<li>For Google Scholar, this field is being used for Publication Date</li>
 		</ul>
 	</td>
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Former name: mods_date_created_keydate , Former name: IMI/date_sort</td>
+	<td>
+		<ul>
+			<li>Former name: mods_date_created_keydate</li>
+			<li>Former name: date_sort</li>
+			<li>Absorbed: broad_creation_date</li>
+			<li>Absorbed: broad_date</li>
+		</ul>
+	</td>
 </tr>
 </table>
 <dl>
@@ -56,6 +64,6 @@
 		<a href="DrupalFields.md">Drupal field</a> | 
 		<a href="rdf.dcterms.date.md">RDF/dcterms:date</a> |
 </dl>
-<p><i>Last Updated: </i>09/23/2021</p>
+<p><i>Last Updated: </i>02/01/2022</p>
 </body>
 </html>
