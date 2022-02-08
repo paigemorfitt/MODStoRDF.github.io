@@ -41,14 +41,13 @@
 	<th>Notes</th>
 	<td>
 		<ul>
-			<li>Not a field in Islandora 8</li>
-			<li>Not mapped</li>
+			<li>Not a field in Islandora 8 / Not mapped</li>
 			<li>Workbench field</li>
-			<li>It can create more than one (depends on what media you want to pull over)</li>
-			<li>Type of media is determined by identifying in your configuration file a value from “Islandora Media Use” vocabulary (terms to define how a media object is to be used)</li>
+			<li>The type of Media is determined by identifying in your configuration file a value from “Islandora Media Use” vocabulary (terms to define how a media object is to be used) </li>
 			<li>Relative, absolute and URL file locations can exist within the same CSV</li>
 			<li>By default, if value is empty Workbench will show “error”</li>
 			<li>Workbench downloads files identified by URLS and safes them to directory. Files identified by URLS must be accessible by Workbench script, and cannot point to a wrapper, or password protected page (firewalls are ok so long as computer running Workbench is allowed to retrieve files upon authentication)</li>
+			<li>Moving forward, using equation =[bucket]/[folder name]/[file name] while paying close attention to filetype in file name</li>
 		</ul>
 	</td>
 </tr>
@@ -58,6 +57,6 @@
 </tr>
 </table>
 </dl>
-<p><i>Last Updated: </i>01/06/2022</p>
+<p><i>Last Updated: </i>02/08/2022</p>
 </body>
 </html>
