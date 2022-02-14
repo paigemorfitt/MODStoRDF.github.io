@@ -51,7 +51,7 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Former name: IMI/access_condition</td>
+	<td>Former name: access_condition</td>
 </tr>
 </table>
 <dl>
@@ -60,6 +60,6 @@
 		<a href="DrupalFields.md#limited-access">Drupal Field</a> | 
 		<a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
 </dl>
-<p><i>Last Updated: </i>09/29/2021</p>
+<p><i>Last Updated: </i>02/14/2022</p>
 </body>
 </html>
