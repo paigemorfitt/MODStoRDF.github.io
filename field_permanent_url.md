@@ -51,15 +51,15 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Former name : IMI/permanent_url</td>
+	<td>Former name : permanent_url</td>
 </tr>
 </table>
 <dl>
 	<dt><b>Related Fields</b></dt>
 		|<a href="MODS.identifier.md">MODS/identifier</a> | 
-		<a href="DrupalFields.md">Drupal Field</a> |
+		<a href="DrupalFields.md#Permanent-url">Drupal Field</a> |
 		<a href="rdf.rdau.p60919.md">RDF/rdau:p60919</a>|
 </dl>
-<p><i>Last Updated: </i>11/05/2021</p>
+<p><i>Last Updated: </i>03/03/2022</p>
 </body>
 </html>
