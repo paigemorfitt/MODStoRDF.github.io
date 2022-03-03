@@ -45,16 +45,16 @@
 	<td>
 		<ul>
 			<li>For multilingual material, include all languages, including English</li>
+			<li>Exception is made to include "English" in field when the collection is bilingual and to help distinguish from non-English materials within the collection.</li>
 			<li>For specific use case, see Mastersheet guidelines.</li>
-			<li>May use phonetic spelling of language if non-Latain characters are used</li>
+			<li>May use phonetic spelling of language if non-Latin characters are used</li>
 			<li>Newspapers indicate language of content, including English language</li>
-			<li>Newspapers metadata generated in TWIG.</li>
 		</ul>
 	</td>
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Former name: IMI/language</td>
+	<td>former name : language</td>
 </tr>
 </table>
 	<dl>
@@ -63,6 +63,6 @@
 	<a href="DrupalFields.md#language">Drupal fields</a> | 
     <a href="rdf.dcterms.language.md">RDF/dcterms:language</a> |
 	</dl>
-<p><i>Last Updated: </i>09/29/2021</p>
+<p><i>Last Updated: </i>02/14/2022</p>
 </body>
 </html>
