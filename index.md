@@ -187,9 +187,9 @@
 	<td><a href="rdf.relators.md">[relators]</a></td>
 </tr>
 <tr>
-	<td><a href="cmodel.md" class ="magic-button" title="Tells what content model the file is -- audio, image.etc;  tells what type of file for Islandora to expect. ">field_model</a></td>
+	<td><a href="field_model.md" class ="magic-button" title="Tells what content model the file is -- audio, image.etc;  tells what type of file for Islandora to expect. ">field_model</a></td>
 	<td>N/A</td>
-	<td></td>
+	<td>Model / Entity Reference</td>
 	<td><a href="rdf.pcdm_memberOf.md" class ="magic-button" title="Definition: Links from an Object or Collection to a containing Object or Collection.">pcdm:memberOf</a></td>
 </tr>
 <tr>
@@ -326,7 +326,7 @@
 </tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>01/05/2022</p>
+	<p><i>Last Updated: </i>03/03/2022</p>
 </dl>
 </body>
 </html>
