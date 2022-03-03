@@ -55,7 +55,7 @@
 
 <dl>
 	<dt><b>Related Fields</b></dt>
-	| 	<a href="DrupalFields.md">Drupal Fields</a> || <a href="rdf.pcdm_memberOf.md">RDF/pcdm:memberOf</a> |
+	| 	<a href="DrupalFields.md#Model">Drupal Fields</a> | <a href="rdf.pcdm_memberOf.md">RDF/pcdm:memberOf</a> |
 </dl>
 <p><i>Last Updated: </i>03/03/2022</p>
 </body>
