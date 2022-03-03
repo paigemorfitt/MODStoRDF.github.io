@@ -43,7 +43,7 @@
 		<ul>
 			<li>Also referred to as System Model</li>
 			<li>Necessary for Islandora, this is the "type" of resource that affects how items are displayed/viewed.</li>
-			<li>repurposed, from former field, terms converted to conform to Islandora Models terms</li>
+			<li>Repurposed, from former field, terms converted to conform to Islandora Models terms</li>
 		</ul>
 	</td>
 </tr>
