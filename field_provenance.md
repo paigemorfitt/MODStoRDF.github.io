@@ -49,21 +49,21 @@
 		<ul>
 			<li>Primarily used for Sheehan Collection</li>
 			<li>Contains italics, bold, accents and special characters</li>
-			<li>Do not confuse with former IMI/provenance that was absorbed into field_source</li>
+			<li>Do not confuse with former 'provenance' that was absorbed into field_source</li>
 		</ul>
 	</td>
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>absorbed IMI/donor, transformed into IMI/source, Former name: IMI/provenance</td>
+	<td>Absorbed: donor; Former name: provenance</td>
 </tr>
 </table>
 <dl>
 	<dd><b>Related Fields</b></dd>
 		| <a href="mods.note.md">MODS/note</a> | 
-		<a href="DrupalFields.md">Drupal Fields</a> | 
+		<a href="DrupalFields.md#Provenance">Drupal Fields</a> | 
 		<a href="rdf.dcterms.provenance.md">RDF/dcterms:provenanc</a> | 
 </dl>
-<p><i>Last Updated: </i>01/21/2022</p>
+<p><i>Last Updated: </i>03/03/2022</p>
 </body>
 </html
