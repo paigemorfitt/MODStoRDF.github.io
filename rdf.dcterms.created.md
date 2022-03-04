@@ -36,7 +36,7 @@
 	<dt><b>Related Fields</b></dt>
 		| <a href="field_edtf_date_created.md">field_edtf_date_created</a> | 
 		<a href="DrupalFields.md">Drupal Field</a> |
-		<a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> |
+		<a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
 </dl>
 <p><i>Last Updated: </i>09/23/2021</p>
 </body>
