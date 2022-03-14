@@ -45,13 +45,14 @@
 	<th>Notes</th>
 	<td>
 		<ul>
-			<li>At minimum, provide URL</li>
+			<li>Link only</li>
+			<li>Do not mistake field_rights with older renditions of "rights" or Rights" fields. That information is now in field_rights_contact.</li>
 		</ul>
 	</td>
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Former name: IMI/rights_statement</td>
+	<td>Former name: rights_statement</td>
 </tr>
 </table>
 <dl>
@@ -60,6 +61,6 @@
 		| <a href="DrupalFields.md">Drupal Fields</a>
 		| <a href="rdf.rdau.P60339.md">RDF/rdau:P60339</a> |
 </dl>
-<p><i>Last Updated: </i>1/15/2021</p>
+<p><i>Last Updated: </i>03/14/2022</p>
 </body>
 </html>
