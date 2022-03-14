@@ -47,12 +47,13 @@
 		<ul>
 			<li>Contact information should consist of department-level email for department that manages rights/permissions for a given collection</li>
 			<li>Contains, italics, bold,  accents, and/or special characters</li>
+			<li>Do not confuse with field_rights</li>
 		</ul>
 	</td>
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Former name: rights (do not confuse with field_rights), former name: IMI/rights_contact</td>
+	<td>Former name: rights; former name: rights_contact</td>
 </tr>
 </table>
 <dl>
@@ -61,6 +62,6 @@
 		<a href="DrupalFields.md#Contact-Us">Drupal Fields</a> |
 		<a href="rdf.schema.accessibilityControl.md">RDF/schema:accessibilityControl</a>  |
 </dl>
-<p><i>Last Updated: </i>01/05/2022</p>
+<p><i>Last Updated: </i>03/14/2022</p>
 </body>
 </html>
