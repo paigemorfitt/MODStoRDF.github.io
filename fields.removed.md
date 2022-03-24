@@ -68,7 +68,7 @@
 		<li>ext_links -- External links associated with item</li>
 		<li>file_list -- [use unknown]</li>
 		<li>file_name_id -- [resource file name]</li>
-		<li>IMI/format</li>
+		<li>format -- [The digital file format of the resource with digitization date; the nature or genre of a resource; the format the item is in] </li>
 		<li>IMI/front_end_url</li>
 		<li>IMI/grant_information</li>
 		<li>IMI/identifier</li>
