@@ -67,7 +67,7 @@
 		<li>equipment -- [use unknown]</li>
 		<li>ext_links -- External links associated with item</li>
 		<li>file_list -- [use unknown]</li>
-		<li>IMI/file_name_id -- [resource file name]</li>
+		<li>file_name_id -- [resource file name]</li>
 		<li>IMI/format</li>
 		<li>IMI/front_end_url</li>
 		<li>IMI/grant_information</li>
