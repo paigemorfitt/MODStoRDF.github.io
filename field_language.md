@@ -38,17 +38,18 @@
 </tr>
 <tr>
 	<th>Recommended Controlled Vocabulary</th>
-	<td>[here]</td>
+	<td>MARC Standard language code list, or spoken language spelling of language</td>
 </tr>
 <tr>
 	<th>Notes</th>
 	<td>
 		<ul>
-			<li>For multilingual material, include all languages, including English</li>
-			<li>Exception is made to include "English" in field when the collection is bilingual and to help distinguish from non-English materials within the collection.</li>
-			<li>For specific use case, see Mastersheet guidelines.</li>
-			<li>May use phonetic spelling of language if non-Latin characters are used</li>
-			<li>Newspapers indicate language of content, including English language</li>
+			<li>For multilingual material, include all languages, including English, </li>
+	<li>May use phonetic spelling of language if non-Latin characters are used</li>
+	<li>Exception is made to include "English" in field when the collection is bilingual and to help distinguish from non-English materials within the collection, and for the use in Newspapers</li>
+	<li>Language of technical metadata is defaulted to "English".in Drupal.  The technical language has to be uniform across all back-end elements</li>
+	<li>Make sure to capitalize language</li>
+	<li>For specific use cases, see Mastersheet guidelines.</li>
 		</ul>
 	</td>
 </tr>
@@ -63,6 +64,6 @@
 	<a href="DrupalFields.md#language">Drupal fields</a> | 
     <a href="rdf.dcterms.language.md">RDF/dcterms:language</a> |
 	</dl>
-<p><i>Last Updated: </i>02/14/2022</p>
+<p><i>Last Updated: </i>02/24/2022</p>
 </body>
 </html>
