@@ -46,6 +46,8 @@
 	<td>
 		<ul>
 			<li>There are two Access Condition fields. One is a taxonomy, one is a text field. This is for the text field. Taxonomy terms have do to with solr indexing and how queries are made. More insight is needed for them. </li>
+			<li>Use terms not codes</li>
+			<li>Only used for restricted access NOT embargoed content due to the space the message would take up on the page</li>
 		</ul>
 	</td>
 </tr>
@@ -60,6 +62,6 @@
 		<a href="DrupalFields.md#limited-access">Drupal Field</a> | 
 		<a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
 </dl>
-<p><i>Last Updated: </i>02/14/2022</p>
+<p><i>Last Updated: </i>02/24/2022</p>
 </body>
 </html>
