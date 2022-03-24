@@ -9,8 +9,8 @@
     <th><a href="MODS.md">MODS Fields</a></th>
     <th><a href="RDF.md">RDF Fields</a></th>
   </tr>
-	<h1>schema/url</h1>
 <table>
+<h2>schema/url</h2>
 <tr>
 	<th>Definition</th>
 	<td>URL of the item. <a href="https://schema.org/url">(resource)<a/></td>
