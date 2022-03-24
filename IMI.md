@@ -114,7 +114,7 @@
 		<li><a href="file.md">file</a> : Values contain field location of field that are used to create Drupal Media <a href="https://mjordan.github.io/islandora_workbench_docs/fields/">Islandora Workbench</a></li>
 		<li><a href="#removed">file_list</a>(removed)</li>
 		<li><a href="#removed">file_name_id</a>(removed)</li>
-		<li><a href="filepath.md">filepath</a>: Used in ARMIDNA as the filename of object; often times includes in ingest path for field - filename is in path -- a place holder field that keeps track of where items are, and helps us distinguish between individual objects along with unique_identifier)</li>
+		<li><a href="filepath.md">filepath</a>: the filename of object; often times includes in ingest path for field - filename is in path -- a place holder field that keeps track of where items are, and helps us distinguish between individual objects along with unique_identifier</li>
 		<li><a href="#removed">format</a>(removed)</li>
 		<li><a href="#removed">front_end_url</a>-removed</li>
 
