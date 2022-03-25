@@ -70,7 +70,7 @@
 		<li>file_name_id -- [resource file name]</li>
 		<li>format -- [The digital file format of the resource with digitization date; the nature or genre of a resource; the format the item is in] </li>
 		<li>front_end_url -- [possible url to item]</li>
-		<li>IMI/grant_information</li>
+		<li>grant_information -- [Identifies grants that supported works]</li>
 		<li>IMI/identifier</li>
 		<li>IMI/image_caption</li>
 		<li>IMI/image_source</li>
