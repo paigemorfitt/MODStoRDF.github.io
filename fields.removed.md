@@ -72,7 +72,7 @@
 		<li>front_end_url -- [possible url to item]</li>
 		<li>grant_information -- [Identifies grants that supported works]</li>
 		<li>IMI/identifier</li>
-		<li>IMI/image_caption</li>
+		<li>IMI/image_caption -- [People depicted in Image of Harper Joy collection]</li>
 		<li>IMI/image_source</li>
 		<li>IMI/instructor</li>
 		<li>IMI/insurance_value</li>
