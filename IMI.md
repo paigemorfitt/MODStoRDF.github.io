@@ -124,35 +124,35 @@
 <br>		
 		<li><a href="#removed">grant_information</a>: (removed)</li>
 		<li><a href="#id.md">id</a> See <a href="pid.md">PID</a></li>
-		<li><a href="#removed">identifier</a> - removed</li>
-		<li><a href="#removed">image_caption</a> - removed</li>
-		<li><a href="#removed">image_source</a> - removed</li>		
-		<li><a href="#removed">instructor</a> - removed</li>
-		<li><a href="#removed">insurance_value</a> - removed</li>
-		<li><a href="#removed">irb_information</a> - removed</li>
-		<li><a href="#removed">irb_number</a> - removed</li>
-		<li><a href="#removed">issnum</a> - removed</li>
-		<li><a href="#removed">item_identifier</a> - removed</li>
+		<li><a href="#removed">identifier</a>: (removed)</li>
+		<li><a href="#removed">image_caption</a>: (removed)</li>
+		<li><a href="#removed">image_source</a>: (removed)</li>		
+		<li><a href="#removed">instructor</a>: (removed)</li>
+		<li><a href="#removed">insurance_value</a>: (removed)</li>
+		<li><a href="#removed">irb_information</a>: (removed)</li>
+		<li><a href="#removed">irb_number</a>: (removed)</li>
+		<li><a href="#removed">issnum</a>: (removed)</li>
+		<li><a href="#removed">item_identifier</a>: (removed)</li>
 </details>
 <details>
 <summary>K's & L's</summary>
 <br>
-		<li><a href="#removed">lc_subject</a> - removed</li>
+		<li><a href="#removed">lc_subject</a>: (removed)</li>
 		<li><a href="#license_file">license_file</a></li>		
-		<li><a href="#removed">lighting_design</a> - removed</li>
+		<li><a href="#removed">lighting_design</a>: (removed)</li>
 		<li><a href="line_num.md">line_num</a></li>
-		<li><a href="#removed">local_handle</a> - removed</li>
-		<li><a href="#removed">location</a> - removed</li>
+		<li><a href="#removed">local_handle</a>: (removed)</li>
+		<li><a href="#removed">location</a>: (removed)</li>
 </details>
 <details>
 <summary>M's & N's</summary>
 <br>
-		<li><a href="#removed">medium</a> - removed</li>		
-		<li><a href="#removed">multimedia_format</a> - removed</li>
-		<li><a href="#removed">multimedia_url</a> - removed</li>
-		<li><a href="#removed">native_filename	</a> - removed</li>		
-		<li><a href="#removed">native_filesize</a> - removed</li>
-		<li><a href="#removed">number_artifacts</a> - removed</li>
+		<li><a href="#removed">medium</a>: (removed)</li>		
+		<li><a href="#removed">multimedia_format</a>: (removed)</li>
+		<li><a href="#removed">multimedia_url</a>: (removed)</li>
+		<li><a href="#removed">native_filename	</a>: (removed)</li>		
+		<li><a href="#removed">native_filesize</a>: (removed)</li>
+		<li><a href="#removed">number_artifacts</a>: (removed)</li>
 </details>
 <details>
 <summary>O's & P's</summary>
