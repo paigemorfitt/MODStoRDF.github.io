@@ -122,7 +122,7 @@
 <details>
 <summary>G's, H's, & I's's</summary>
 <br>		
-		<li><a href="#removed">grant_information</a> - removed</li>
+		<li><a href="#removed">grant_information</a>: (removed)</li>
 		<li><a href="#id.md">id</a> See <a href="pid.md">PID</a></li>
 		<li><a href="#removed">identifier</a> - removed</li>
 		<li><a href="#removed">image_caption</a> - removed</li>
