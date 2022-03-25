@@ -69,7 +69,7 @@
 		<li>file_list -- [use unknown]</li>
 		<li>file_name_id -- [resource file name]</li>
 		<li>format -- [The digital file format of the resource with digitization date; the nature or genre of a resource; the format the item is in] </li>
-		<li>IMI/front_end_url</li>
+		<li>front_end_url -- [possible url to item]</li>
 		<li>IMI/grant_information</li>
 		<li>IMI/identifier</li>
 		<li>IMI/image_caption</li>
@@ -101,7 +101,7 @@
 		<li>IMI/seq_number</li>
 	</ul>
 </dd> 
-	<p><i>Last Updated: </i>01/282022</p>
+	<p><i>Last Updated: </i>03/25/2022</p>
 </dl>
 </body>
 </html
