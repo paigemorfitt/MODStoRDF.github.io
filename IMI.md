@@ -116,7 +116,7 @@
 		<li><a href="#removed">file_name_id</a>(removed)</li>
 		<li><a href="filepath.md">filepath</a>: the filename of object; often times includes in ingest path for field - filename is in path -- a place holder field that keeps track of where items are, and helps us distinguish between individual objects along with unique_identifier</li>
 		<li><a href="#removed">format</a>: (removed)</li>
-		<li><a href="#removed">front_end_url</a>-removed</li>
+		<li><a href="#removed">front_end_url</a>: removed</li>
 
 </details>
 <details>
@@ -222,6 +222,6 @@
 <h2 id="removed">Removed from Master Sheets</h2>
 <p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
 <p><a href="#top">top</a></p>
-<p><i>Last Updated: </i>01/05/2022</p>
+<p><i>Last Updated: </i>03/25/2022</p>
 </dl>
 </html>
