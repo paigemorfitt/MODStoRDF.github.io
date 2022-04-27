@@ -58,7 +58,7 @@
 </table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				| <a href="DrupalFields.md#Member-of.md">Member of / Entity reference</a> | 
+				| <a href="DrupalFields.md#Member-of.md">Drupal Fields</a> | 
 	</dl>
 <p><i>Last Updated: </i>04/27/2022</p>
 </body>
