@@ -76,7 +76,7 @@
 		<li>image_source -- [Name of collection for images]</li>
 		<li>IMI/instructor</li>
 		<li>IMI/insurance_value</li>
-		<li>IMI/irb_information</li>
+		<li>irb_information -- [use unknown]</li>
 		<li>IMI/irb_number</li>
 		<li>IMI/issnum</li>
 		<li>IMI/item_identifier</li>
