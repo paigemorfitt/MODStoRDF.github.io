@@ -47,7 +47,7 @@
 		<ul>
 			<li>* required where node id is known</li>
 			<li>Field only used in spreadsheets to indicate what collection the item is in (See Compound Object documentation</li>
-			<li><b>Field is under review. Looking into when a new collection is ingested THEN items are added to an existing collection</b></li>
+			<li><b>Field is under review. Looking into when a new collection is ingested, then items are added to an existing collection later on</b></li>
 		</ul>
 	</td>
 </tr>
@@ -56,7 +56,6 @@
 	<td>Tranformed from: parent; Transformed from : parent_id(?)</td>
 </tr>
 </table>
-
 	<dl>
 		<dt><b>Related Fields</b></dt>
 				| <a href="DrupalFields.md#Member-of.md">Member of / Entity reference</a> | 
