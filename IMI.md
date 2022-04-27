@@ -158,7 +158,7 @@
 <summary>O's & P's</summary>
 <br>
 		<li><a href="obj_file.md">obj_file</a></li>		
-		<li><a href="#removed">oclc_number	</a> - removed</li>
+		<li><a href="#removed">oclc_number</a> : (removed)</li>
 		<li><a href="#removed">old_cat_id	</a> - removed</li>
 		<li><a href="#removed">pagecount</a> - removed</li>
 		<li><a href="#removed">pages</a> - removed</li>		
