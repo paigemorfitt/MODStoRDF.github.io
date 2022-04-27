@@ -44,13 +44,14 @@
 	<th>Notes</th>
 	<td>
 		<ul>
-			<li>Storage consideration URL. Currently storage is in Google Drive.</li>
+			<li>Storage consideration URL.</li>
+			<li>Currently storage is in Google Drive.</li>
 		</ul>
 	</td>
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Former name: download_url, Former name: IMI/url_external</td>
+	<td>Former name: download_url, Former name: url_external</td>
 </tr>
 </table>
 <dl>
@@ -59,6 +60,6 @@
 		| <a href="DrupalFields.md#view-item">Drupal Field</a>
 		| <a href="rdf.schema.url.md">RDF/schema:url</a>|
 </dl>
-<p><i>Last Updated: </i>01/06/2022</p>
+<p><i>Last Updated: </i>03/24/2022</p>
 </body>
 </html>

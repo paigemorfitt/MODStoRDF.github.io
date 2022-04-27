@@ -66,17 +66,17 @@
 		<li>endowment -- [use unknown]</li>
 		<li>equipment -- [use unknown]</li>
 		<li>ext_links -- External links associated with item</li>
-		<li>IMI/file_list</li>
-		<li>IMI/file_name_id</li>
-		<li>IMI/format</li>
-		<li>IMI/front_end_url</li>
-		<li>IMI/grant_information</li>
+		<li>file_list -- [use unknown]</li>
+		<li>file_name_id -- [resource file name]</li>
+		<li>format -- [The digital file format of the resource with digitization date; the nature or genre of a resource; the format the item is in] </li>
+		<li>front_end_url -- [possible url to item]</li>
+		<li>grant_information -- [Identifies grants that supported works]</li>
 		<li>IMI/identifier</li>
-		<li>IMI/image_caption</li>
-		<li>IMI/image_source</li>
+		<li>image_caption -- [People depicted in Image of Harper Joy collection]</li>
+		<li>image_source -- [Name of collection for images]</li>
 		<li>IMI/instructor</li>
 		<li>IMI/insurance_value</li>
-		<li>IMI/irb_information</li>
+		<li>irb_information -- [use unknown]</li>
 		<li>IMI/irb_number</li>
 		<li>IMI/issnum</li>
 		<li>IMI/item_identifier</li>
@@ -90,7 +90,7 @@
 		<li>IMI/native_filename</li>
 		<li>IMI/native_filesize</li>
 		<li>IMI/number_artifacts</li>
-		<li>IMI/oclc_number</li>
+		<li>oclc_number -- Reference to  the unique identifier issued by OCLC of a related item</li>
 		<li>IMI/old_cat_id</li>
 		<li>IMI/pagecount</li>
 		<li>IMI/pages</li>
@@ -101,7 +101,7 @@
 		<li>IMI/seq_number</li>
 	</ul>
 </dd> 
-	<p><i>Last Updated: </i>01/282022</p>
+	<p><i>Last Updated: </i>03/25/2022</p>
 </dl>
 </body>
 </html

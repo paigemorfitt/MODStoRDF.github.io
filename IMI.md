@@ -114,51 +114,51 @@
 		<li><a href="file.md">file</a> : Values contain field location of field that are used to create Drupal Media <a href="https://mjordan.github.io/islandora_workbench_docs/fields/">Islandora Workbench</a></li>
 		<li><a href="#removed">file_list</a>(removed)</li>
 		<li><a href="#removed">file_name_id</a>(removed)</li>
-		<li><a href="filepath.md">filepath</a>: Used in ARMIDNA as the filename of object; often times includes in ingest path for field - filename is in path -- a place holder field that keeps track of where items are, and helps us distinguish between individual objects along with unique_identifier)</li>
-		<li><a href="#removed">format</a>(removed)</li>
-		<li><a href="#removed">front_end_url</a>-removed</li>
+		<li><a href="filepath.md">filepath</a>: the filename of object; often times includes in ingest path for field - filename is in path -- a place holder field that keeps track of where items are, and helps us distinguish between individual objects along with unique_identifier</li>
+		<li><a href="#removed">format</a>: (removed)</li>
+		<li><a href="#removed">front_end_url</a>: removed</li>
 
 </details>
 <details>
 <summary>G's, H's, & I's's</summary>
 <br>		
-		<li><a href="#removed">grant_information</a> - removed</li>
+		<li><a href="#removed">grant_information</a>: (removed)</li>
 		<li><a href="#id.md">id</a> See <a href="pid.md">PID</a></li>
-		<li><a href="#removed">identifier</a> - removed</li>
-		<li><a href="#removed">image_caption</a> - removed</li>
-		<li><a href="#removed">image_source</a> - removed</li>		
-		<li><a href="#removed">instructor</a> - removed</li>
-		<li><a href="#removed">insurance_value</a> - removed</li>
-		<li><a href="#removed">irb_information</a> - removed</li>
-		<li><a href="#removed">irb_number</a> - removed</li>
-		<li><a href="#removed">issnum</a> - removed</li>
-		<li><a href="#removed">item_identifier</a> - removed</li>
+		<li><a href="#removed">identifier</a>: (removed)</li>
+		<li><a href="#removed">image_caption</a>: (removed)</li>
+		<li><a href="#removed">image_source</a>: (removed)</li>		
+		<li><a href="#removed">instructor</a>: (removed)</li>
+		<li><a href="#removed">insurance_value</a>: (removed)</li>
+		<li><a href="#removed">irb_information</a>: (removed)</li>
+		<li><a href="#removed">irb_number</a>: (removed)</li>
+		<li><a href="#removed">issnum</a>: (removed)</li>
+		<li><a href="#removed">item_identifier</a>: (removed)</li>
 </details>
 <details>
 <summary>K's & L's</summary>
 <br>
-		<li><a href="#removed">lc_subject</a> - removed</li>
+		<li><a href="#removed">lc_subject</a>: (removed)</li>
 		<li><a href="#license_file">license_file</a></li>		
-		<li><a href="#removed">lighting_design</a> - removed</li>
+		<li><a href="#removed">lighting_design</a>: (removed)</li>
 		<li><a href="line_num.md">line_num</a></li>
-		<li><a href="#removed">local_handle</a> - removed</li>
-		<li><a href="#removed">location</a> - removed</li>
+		<li><a href="#removed">local_handle</a>: (removed)</li>
+		<li><a href="#removed">location</a>: (removed)</li>
 </details>
 <details>
 <summary>M's & N's</summary>
 <br>
-		<li><a href="#removed">medium</a> - removed</li>		
-		<li><a href="#removed">multimedia_format</a> - removed</li>
-		<li><a href="#removed">multimedia_url</a> - removed</li>
-		<li><a href="#removed">native_filename	</a> - removed</li>		
-		<li><a href="#removed">native_filesize</a> - removed</li>
-		<li><a href="#removed">number_artifacts</a> - removed</li>
+		<li><a href="#removed">medium</a>: (removed)</li>		
+		<li><a href="#removed">multimedia_format</a>: (removed)</li>
+		<li><a href="#removed">multimedia_url</a>: (removed)</li>
+		<li><a href="#removed">native_filename	</a>: (removed)</li>		
+		<li><a href="#removed">native_filesize</a>: (removed)</li>
+		<li><a href="#removed">number_artifacts</a>: (removed)</li>
 </details>
 <details>
 <summary>O's & P's</summary>
 <br>
 		<li><a href="obj_file.md">obj_file</a></li>		
-		<li><a href="#removed">oclc_number	</a> - removed</li>
+		<li><a href="#removed">oclc_number</a> : (removed) Reference to  the unique identifier issued by OCLC of a related item</li>
 		<li><a href="#removed">old_cat_id	</a> - removed</li>
 		<li><a href="#removed">pagecount</a> - removed</li>
 		<li><a href="#removed">pages</a> - removed</li>		
@@ -222,6 +222,6 @@
 <h2 id="removed">Removed from Master Sheets</h2>
 <p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
 <p><a href="#top">top</a></p>
-<p><i>Last Updated: </i>01/05/2022</p>
+<p><i>Last Updated: </i>03/25/2022</p>
 </dl>
 </html>

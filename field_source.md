@@ -41,7 +41,7 @@
 </tr>
 <tr>
 	<th>Recommended Controlled Vocabulary</th>
-	<td>Local Standards</td>
+	<td>Whitman College local source standards</td>
 </tr>
 <tr>
 	<th>Notes</th>
@@ -53,7 +53,8 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Contains content previously from the following fields: IMI/accession_number, IMI/catalog_id, IMI/collection_name, IMI/image_source, IMI/record_series, IMI/series_id, IMI/source_publication, Former name: source, The <i>former</i> IMI/provenance was absorbed into this field.</td>
+	<td>Absorbed: accession_number, catalog_id, collection_name, image_source, record_series, series_id, source_publication; Former Name: source
+</td>
 </tr>
 </table>
 <dl>
@@ -62,6 +63,6 @@
 		| <a href="DrupalFields.md#Source">Drupal</a>
 		| <a href="rdf.dcterms.source.md">RDF/dcterms:source</a>|
 </dl>
-<p><i>Last Updated: </i>01/21/2022</p>
+<p><i>Last Updated: </i>03/14/2022</p>
 </body>
 </html>
