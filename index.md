@@ -187,9 +187,9 @@
 	<td><a href="rdf.relators.md">[relators]</a></td>
 </tr>
 <tr>
-	<td><a href="field_member_of.md" class ="magic-button" title="">field_member_of</a></td>
+	<td><a href="field_member_of.md" class ="magic-button" title="Tells Islandora 8 where in the hierarchy the object lives">field_member_of</a></td>
 	<td>N/A</td>
-	<td></td>
+	<td>Member of / Entity Reference</td>
 	<td><a href="rdf.pcdm_memberOf.md" class ="magic-button" title="Definition:"></a></td>
 </tr>
 <tr>
@@ -332,7 +332,7 @@
 </tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>03/03/2022</p>
+	<p><i>Last Updated: </i>04/27/2022</p>
 </dl>
 </body>
 </html>
