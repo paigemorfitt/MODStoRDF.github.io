@@ -466,6 +466,27 @@
 				| <a href="mods.name.md">MODS/name/namePart</a> | 
 				<a href="rdf.relators.md">RDF/relators</a> | 
 	</dl>
+<h2>Member Of</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Entity reference</td>
+					<td>Unlimited</td>
+					<td>Conent/Repository Item</td>
+					<td>field_member_of</td>
+					<td>Default</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_member_of.md">field_member_of</a> | 
+	</dl>
 <h2>Model</h2>
 			<table>
 				<tr>
@@ -745,6 +766,6 @@
 		<dt><b>Related Fields</b></dt>
 				| <a href="field_weight.md">field_weight</a> | 
 	</dl>
-<p><i>Last Updated: </i>03/03/2022</p>
+<p><i>Last Updated: </i>04/27/2022</p>
 </body>
 </html>
