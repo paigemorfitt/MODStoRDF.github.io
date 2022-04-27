@@ -90,7 +90,7 @@
 		<li>IMI/native_filename</li>
 		<li>IMI/native_filesize</li>
 		<li>IMI/number_artifacts</li>
-		<li>IMI/oclc_number</li>
+		<li>oclc_number -- Reference to  the unique identifier issued by OCLC of a related item</li>
 		<li>IMI/old_cat_id</li>
 		<li>IMI/pagecount</li>
 		<li>IMI/pages</li>
