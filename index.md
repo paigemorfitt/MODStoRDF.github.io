@@ -31,7 +31,7 @@
 </table>
 <table>
   <tr>
-    <th>IMI Column</th>
+    <th>Spreadsheet Column</th>
     <th>MODS field</th>
 	<th>Drupal field</th>
     <th>RDF field</th>
