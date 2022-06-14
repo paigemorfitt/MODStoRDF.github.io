@@ -112,7 +112,7 @@
 	<td></td>
 	<td>author1_fname</td>
 	<td></td>
-	<td>td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -129,7 +129,7 @@
 	<td></td>
 	<td>author1_lname</td>
 	<td></td>
-	<td>td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -146,7 +146,7 @@
 	<td></td>
 	<td>author1_mname</td>
 	<td></td>
-	<td>td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -163,7 +163,7 @@
 	<td></td>
 	<td>author1_suffix</td>
 	<td></td>
-	<td>td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -180,7 +180,7 @@
 	<td></td>
 	<td>author2_fname</td>
 	<td></td>
-	<td>td>
+	<td><td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -197,7 +197,7 @@
 	<td></td>
 	<td>author2_lname</td>
 	<td></td>
-	<td>td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -214,7 +214,7 @@
 	<td></td>
 	<td>author2_mname</td>
 	<td></td>
-	<td>td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -231,7 +231,7 @@
 	<td></td>
 	<td>author2_suffix</td>
 	<td></td>
-	<td>td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -248,7 +248,7 @@
 	<td></td>
 	<td>author3_fname</td>
 	<td></td>
-	<td>td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -265,7 +265,7 @@
 	<td></td>
 	<td>author3_lname</td>
 	<td></td>
-	<td>td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -282,7 +282,7 @@
 	<td></td>
 	<td>author3_mname</td>
 	<td></td>
-	<td>td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -299,7 +299,7 @@
 	<td></td>
 	<td>author3_suffix</td>
 	<td></td>
-	<td>td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
