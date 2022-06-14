@@ -181,7 +181,7 @@
 	<td></td>
 	<td>author2_fname</td>
 	<td></td>
-	<td><td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
