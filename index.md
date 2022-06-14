@@ -18,7 +18,7 @@
  <h1>Arminda information page</h1> 
   <p>This is an explination of metadata that is in Arminda moving from IMI to MODS to RDF. For information about IMI field content <a href="imi.field.content.md">click here</a> For a list of fields that have been removed <a href="fields.removed.md">click here</a>. List of <a href="Islandora.8.terms.md">Terms and Facts</a> (in progress).</p>
 	
-<p>See <a href="migration questions.md">Questions we've wondered</a> (in progress).</p>
+<p>See <a href="field_mappings.md">Field Mappings</a> (in progress).</p>
    <tr>
     <th><a href="Archives.md">Archives</a></th>
 	<th><a href="Theses.md">Theses</a></th>
@@ -332,7 +332,7 @@
 </tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>04/27/2022</p>
+	<p><i>Last Updated: </i>06/14/2022</p>
 </dl>
 </body>
 </html>
