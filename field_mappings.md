@@ -328,22 +328,76 @@
 	<td>Deleted</td>
 </tr>
 <tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
-	<td>Note</td>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>bp_categories</td>
+	<td></td>
+	<td>bp_categories</td>
+	<td>Academic Discipline</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
+	<td>Deleted</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>broad_creation_date</td>
+	<td></td>
+	<td>broad_creation_date</td>
+	<td>Broad Date</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>originInfo--dateOther</td>
+	<td></td>
+	<td>Deleted</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>broad_date</td>
+	<td></td>
+	<td>broad_date</td>
+	<td>Broad Date</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>originInfo--dateOther</td>
+	<td></td>
+	<td>Deleted</td>
+</tr>
+<tr>
+    <td>bucket</td>
+    <td>bucket</td>
+	<td></td>
+    <td></td>
+	<td>bucket</td>
+	<td>issue</td>
+	<td></td>
+	<td>issue</td>
+	<td>[Unknown]</td>
+	<td>2.12</td>
+	<td>490--830</td>
+	<td></td>
+	<td></td>
+	<td>relatedItem--note</td>
+	<td></td>
+	<td></td>
 </tr>
 <tr>
     <td>Active field name (spreadsheet)</td>
@@ -364,130 +418,76 @@
 	<td>Note</td>
 </tr>
 <tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
-	<td>Note</td>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>buy_link</td>
+	<td></td>
+	<td>buy_link</td>
+	<td>BUy Link</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>relatedItem--location--url</td>
+	<td></td>
+	<td>Deleted</td>
 </tr>
 <tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
-	<td>Note</td>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>calc_thumbnail_image_url</td>
+	<td></td>
+	<td></td>
+	<td>calc_thumbnail_image_url</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>location--url</td>
+	<td></td>
+	<td>Deleted</td>
 </tr>
 <tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
-	<td>Note</td>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>calc_url</td>
+	<td></td>
+	<td>calc_url</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>location--url</td>
+	<td></td>
+	<td>Deleted</td>
 </tr>
 <tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
-	<td>Note</td>
-</tr>
-<tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
-	<td>Note</td>
-</tr>
-<tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
-	<td>Note</td>
-</tr>
-<tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
-	<td>Note</td>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>campus_location</td>
+	<td></td>
+	<td>campus_location<td>
+	<td>Campus Location</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>location--physicalLocation</td>
+	<td></td>
+	<td>Deleted. See field_source</td>
 </tr>
 <tr>
     <td>Active field name (spreadsheet)</td>
