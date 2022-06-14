@@ -48,6 +48,7 @@
 	<td></td>
 	<td></td>
 	<td></td>
+	<td></td>
 	<td>abstract</td>
 	<td></td>
 	<td>Deleted</td>
@@ -62,7 +63,6 @@
 	<td></td>
 	<td>accession_number</td>
 	<td>Accession Number</td>
-	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
