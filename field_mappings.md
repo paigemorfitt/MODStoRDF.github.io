@@ -88,38 +88,225 @@
 	<td>local:adv</td>
 </tr>
 <tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>attach_additional_files</td>
+	<td></td>
+	<td>attach_additional_files</td>
+	<td>Additional Files</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>location--url</td>
+	<td></td>
 </tr>
 <tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>author1_fname</td>
+	<td></td>
+	<td>td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>author1_lname</td>
+	<td></td>
+	<td>td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>author1_mname</td>
+	<td></td>
+	<td>td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>author1_suffix</td>
+	<td></td>
+	<td>td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>author2_fname</td>
+	<td></td>
+	<td>td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>author2_lname</td>
+	<td></td>
+	<td>td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>author2_mname</td>
+	<td></td>
+	<td>td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>author2_suffix</td>
+	<td></td>
+	<td>td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>author3_fname</td>
+	<td></td>
+	<td>td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>author3_lname</td>
+	<td></td>
+	<td>td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>author3_mname</td>
+	<td></td>
+	<td>td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>author3_suffix</td>
+	<td></td>
+	<td>td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>name--namePart</td>
+	<td></td>
 </tr>
 <tr>
     <td>Active field name (spreadsheet)</td>
