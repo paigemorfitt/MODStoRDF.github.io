@@ -57,7 +57,7 @@
     <td></td>
     <td></td>
 	<td></td>
-    <td><td>
+    <td></td>
 	<td></td>
 	<td>accession_number</td>
 	<td></td>
@@ -76,7 +76,7 @@
 	<td>Advisor (adv)</td>
     <td></td>
 	<td>advisors</td>
-	<td>advisors/td>
+	<td>advisors</td>
 	<td>Advisor(s)</td>
 	<td>advisor1</td>
 	<td>Advisor(s)</td>
