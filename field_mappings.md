@@ -498,7 +498,8 @@
 	<td>DACS</td>
 	<td>MODS</td>
 	<td>RDF</td>
-</tr>value<tr>
+</tr>
+<tr>
     <td>Active field name (spreadsheet)</td>
     <td>Islandora 8 Field Name</td>
 	<td>Islandora 8 Public Name</td>
