@@ -400,24 +400,6 @@
 	<td></td>
 </tr>
 <tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
-	<td>Note</td>
-</tr>
-<tr>
     <td></td>
     <td></td>
 	<td></td>
@@ -481,7 +463,6 @@
 	<td></td>
 	<td>campus_location<td>
 	<td>Campus Location</td>
-	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
