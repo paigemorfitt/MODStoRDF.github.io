@@ -562,22 +562,22 @@
 	<td>Deleted</td>
 </tr>
 <tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
-	<td>Note</td>
+    <td>contributors</td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td>contributors</td>
+	<td>contributors</td>
+	<td>Contributor(s)</td>
+	<td>contributor</td>
+	<td>Contributor</td>
+	<td>20.2</td>
+	<td>700</td>
+	<td>12.1</td>
+	<td>controlaccess; famname; persname</td>
+	<td>name--namePart</td>
+	<td>relators:ctb</td>
+	<td>See field_linked_agent</td>
 </tr>
 <tr>
     <td>Active field name (spreadsheet)</td>
