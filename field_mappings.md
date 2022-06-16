@@ -392,7 +392,7 @@
 	<td>issue</td>
 	<td>[Unknown]</td>
 	<td>2.12</td>
-	<td>490--830</td>
+	<td>490; 830</td>
 	<td></td>
 	<td></td>
 	<td>relatedItem--note</td>
@@ -490,40 +490,40 @@
 	<td>Deleted. See field_source</td>
 </tr>
 <tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
-	<td>Note</td>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>city</td>
+	<td></td>
+	<td>City</td>
+	<td>City</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>OriginInfo--place--placeTerm</td>
+	<td></td>
+	<td>Deleted</td>
 </tr>
 <tr>
-    <td>Active field name (spreadsheet)</td>
-    <td>Islandora 8 Field Name</td>
-	<td>Islandora 8 Public Name</td>
-    <td>Drupal Field Name</td>
-	<td>Migration Field Name</td>
-	<td>Islandora 7 Field Name</td>
-	<td>Islandora 7 Public Name</td>
-	<td>BePress Name</td>
-	<td>BePress Field Name</td>
-	<td>RDA</td>
-	<td>MARC</td>
-	<td>DACS</td>
-	<td>EAD</td>
-	<td>MODS</td>
-	<td>RDF</td>
-	<td>Note</td>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+	<td></td>
+	<td>collection_name</td>
+	<td></td>
+	<td>collection_name</td>
+	<td>Collection Name</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>relatedItem--name--namePart--description</td>
+	<td></td>
+	<td>Deleted. See field_source</td>
 </tr>
 <tr>
     <td>Active field name (spreadsheet)</td>
