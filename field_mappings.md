@@ -408,7 +408,7 @@
 	<td>buy_link</td>
 	<td></td>
 	<td>buy_link</td>
-	<td>BUy Link</td>
+	<td>Buy Link</td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -425,8 +425,8 @@
 	<td></td>
 	<td>calc_thumbnail_image_url</td>
 	<td></td>
-	<td></td>
 	<td>calc_thumbnail_image_url</td>
+	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -461,7 +461,7 @@
 	<td></td>
 	<td>campus_location</td>
 	<td></td>
-	<td>campus_location<td>
+	<td>campus_location</td>
 	<td>Campus Location</td>
 	<td></td>
 	<td></td>
