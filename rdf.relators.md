@@ -41,7 +41,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 			| <a href="advisor.md">IMI/advisor</a> | 
-			<a href="DrupalField.md">Drupal Field</a> | 
+			<a href="DrupalFields.md">Drupal Field</a> | 
 			<a href="mods.name.md">MODS/name/namePart</a> |
 </dl>
 <h2>local:dpt</h2>
@@ -69,7 +69,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 			<dd>| <a href="department.md">IMI/department</a> | 
-			<a href="DrupalField.md">Drupal Field</a> | 
+			<a href="DrupalFields.md">Drupal Field</a> | 
 			<a href="mods.name.md">MODS/name/namePart</a> |</dd>
 </dl>
 <h2>relators:ctb</h2>
@@ -102,7 +102,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 			| <a href="contributors.md">IMI/contributors</a> | 
-			<a href="DrupalField.md">Drupal Field</a> | 
+			<a href="DrupalFields.md">Drupal Field</a> | 
 			<a href="mods.name.md">MODS/name/namePart</a> |
 </dl>
 <h2>relators:cre</h2>
@@ -130,7 +130,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 						| <a href="creators.md">IMI/creators</a> |
-						<a href="DrupalField.md">Drupal Field</a> |
+						<a href="DrupalFields.md">Drupal Field</a> |
 						<a href="mods.name.md">MODS/name/namePart</a> |
 </dl>
 <h2>relators:pbl</h2>
@@ -158,7 +158,7 @@
 <dl>
 	<dt><b>Related Fields</b></dt>
 			| <a href="publisher.md">IMI/publisher</a> | 
-			<a href="DrupalField.md">Drupal Field</a> |
+			<a href="DrupalFields.md">Drupal Field</a> |
 			<a href="mods.originInfo_publisher.md">MODS/originInfo/publisher</a>
 </dl>
 <p><i>Last Updated: </i>09/30/2021</p>
