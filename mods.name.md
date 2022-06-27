@@ -74,7 +74,6 @@
 <table>
 	<tr>
 		<th>Spreadsheet</th>
-		<th>MODS</th>
 		<th>Drupal Field</th>
 		<th>RDF</th>
 	</tr>
@@ -87,7 +86,6 @@
 	<table>
 	<tr>
 		<th>Spreadsheet</th>
-		<th>MODS</th>
 		<th>Drupal Field</th>
 		<th>RDF</th>
 	</tr>
@@ -100,7 +98,6 @@
 	<table>
 	<tr>
 		<th>Spreadsheet</th>
-		<th>MODS</th>
 		<th>Drupal Field</th>
 		<th>RDF</th>
 	</tr>
@@ -113,7 +110,6 @@
 	<table>
 	<tr>
 		<th>Spreadsheet</th>
-		<th>MODS</th>
 		<th>Drupal Field</th>
 		<th>RDF</th>
 	</tr>
@@ -126,7 +122,6 @@
 	<table>
 	<tr>
 		<th>Spreadsheet</th>
-		<th>MODS</th>
 		<th>Drupal Field</th>
 		<th>RDF</th>
 	</tr>
