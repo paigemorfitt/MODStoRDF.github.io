@@ -32,10 +32,20 @@
 </tr>
 </table>
 </dl>
-<dl>
-	<dt><b>Related Fields</b></dt>
-	<a href="field_linked_agent.md" class ="magic-button" title="[definition]">field_linked_agent</a>|<a href="mods.name.md">MODS/name/namePart</a> | <a href="DrupalFields.md">Drupal Field</a>| <a href="rdf.field_linked_agent.md">RDF/local:adv</a>|
-</dl>
-<p><i>Last Updated: </i>09/21/2021</p>
+<table>
+	<tr>
+		<th>Related Fields<th>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_linked_agent.md" class ="magic-button">field_linked_agent</a></td>
+		<td><a href="mods.name.md">name/namePart</a></td> 
+		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
+		<td><a href="rdf.field_linked_agent.md">local:adv</a></td>
+</table>
+<p><i>Last Updated: </i>06/27/2022</p>
 </body>
 </html>
