@@ -79,7 +79,7 @@
 	</tr>
 	<tr>
 		<td><a href="advisor.md">advisors</a></td>
-		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
+		<td><a href="DrupalFields.md#Linked-Agent">Linked Agent</a></td>
 		<td><a href="rdf.relators.md#localadv">local:adv</a></td>
 	</tr>
 </table>
@@ -91,7 +91,7 @@
 	</tr>
 	<tr>
 		<td><a href="contributors.md">contributors</a></td> 
-		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
+		<td><a href="DrupalFields.md#Linked-Agent">Linked Agent</a></td>
 		<td><a href="rdf.relators.md#relatorsctb">relators:ctb</a></td>
 	</tr>
 </table>
@@ -103,7 +103,7 @@
 	</tr>
 	<tr>
 		<td><a href="creators.md">creators</a></td>
-		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
+		<td><a href="DrupalFields.md#Linked-Agent">Linked Agent</a></td>
 		<td><a href="rdf.relators.md#relatorscre">relators:cre</a></td>
 	</tr>
 </table>
@@ -115,7 +115,7 @@
 	</tr>
 	<tr>
 		<td><a href="department.md">department</a></td>
-		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
+		<td><a href="DrupalFields.md#Linked-Agent">Linked Agent</a></td>
 		<td><a href="rdf.relators.md#localdpt">local:dpt</a></td>
 	</tr>
 </table>
@@ -127,7 +127,7 @@
 	</tr>
 	<tr>
 		<td><a href="field_funding_sources.md">field_funding_sources</a></td>
-		<td><a href="DrupalFields.md#funding">Funding</a></td>	
+		<td><a href="DrupalFields.md#Funding">Funding</a></td>	
 		<td><a href="rdf.rdau.p60451.md">rdau:P60451</a></td>
 	</tr>
 </table>
