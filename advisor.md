@@ -34,7 +34,6 @@
 </dl>
 <table>
 	<tr>
-		<th>Related Fields</th>
 		<th>Spreadsheet</th>
 		<th>MODS</th>
 		<th>Drupal Field</th>
