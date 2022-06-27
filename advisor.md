@@ -34,7 +34,7 @@
 </dl>
 <table>
 	<tr>
-		<th>Related Fields<th>
+		<th>Related Fields</th>
 		<th>Spreadsheet</th>
 		<th>MODS</th>
 		<th>Drupal Field</th>
@@ -45,6 +45,7 @@
 		<td><a href="mods.name.md">name/namePart</a></td> 
 		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
 		<td><a href="rdf.field_linked_agent.md">local:adv</a></td>
+	</tr>
 </table>
 <p><i>Last Updated: </i>06/27/2022</p>
 </body>
