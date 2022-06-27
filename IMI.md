@@ -236,7 +236,7 @@
 	<li>author1_fname: first name of first person responsible for creation of item</li>
 	<li>author1_lname: last name of first person responsible for creation of item</li>
 	<li>author1_mname: middle name of first person responsible for creation of item</li>
-	<li>author1_suffix: suffix or additional information about the first person responsible for creation of item/li>
+	<li>author1_suffix: suffix or additional information about the first person responsible for creation of item</li>
 	<li>author2_fname: first name of second person responsible for creation of item</li>
 	<li>author2_lname: last name of second person responsible for creation of item</li>
 	<li>author2_mname: middle name of Second person responsible for creation of item</li>
