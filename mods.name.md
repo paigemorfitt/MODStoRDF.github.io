@@ -99,6 +99,20 @@
 			<a href="rdf.rdau.p60451.md">rdau:P60451</a> |
 		</dd>
 </dl>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_linked_agent.md" class ="magic-button">field_linked_agent</a></td>
+		<td><a href="mods.name.md">name/namePart</a></td> 
+		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
+		<td><a href="rdf.field_linked_agent.md">local:adv</a></td>
+	</tr>
+</table>
 <p><i>Last Updated: </i>09/27/2021</p>
 </body>
 </html>
