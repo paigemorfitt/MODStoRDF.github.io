@@ -462,7 +462,7 @@
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				| <a href="field_linked_agent.md">field_linked_agent</a> | 
+				| <a href="field_linked_agent.md">field_linked_agent</a>
 				| <a href="mods.name.md">MODS/name/namePart</a> | 
 				<a href="rdf.relators.md">RDF/relators</a> | 
 	</dl>
