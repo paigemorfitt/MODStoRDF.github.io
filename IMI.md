@@ -222,6 +222,7 @@
 </details>
 <h2 id="removed">Removed from Master Sheets</h2>
 <p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
+	<li>abstract_format: format of abstract.</li>
 <p><a href="#top">top</a></p>
 <p><i>Last Updated: </i>03/25/2022</p>
 </dl>
