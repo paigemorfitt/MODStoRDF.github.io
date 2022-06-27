@@ -18,14 +18,22 @@
 <details>
 <summary>A's</summary>
 <br>	
-		<li><a href="#removed">abstract_format</a> (removed): format of the abstract</li>
-		<li><a href="#removed">accession_number</a> (removed): number associated with gallery items</li>
+		<li><a href="#removed">abstract_format</a> (removed)</li>
+		<li><a href="#removed">accession_number</a> (removed)</li>
 		<li><a href="advisor.md">advisors</a>: A person under whose supervision a student develops and/or presents an academic paper or project, including theses and capstone projects. </li>
 		<li><a href="#removed">attach_additional_files</a> (removed)</li>
-		<li><a href="#removed">author#_fname</a> (removed)</li>
-		<li><a href="#removed">author#_lname</a> (removed)</li>
-		<li><a href="#removed">author#_mname</a> (removed)</li>
-		<li><a href="#removed">author#_suffix</a> (removed)</li>
+		<li><a href="#removed">author1_fname</a> (removed)</li>
+		<li><a href="#removed">author1_lname</a> (removed)</li>
+		<li><a href="#removed">author1_mname</a> (removed)</li>
+		<li><a href="#removed">author1_suffix</a> (removed)</li>
+		<li><a href="#removed">author2_fname</a> (removed)</li>
+		<li><a href="#removed">author2_lname</a> (removed)</li>
+		<li><a href="#removed">author2_mname</a> (removed)</li>
+		<li><a href="#removed">author2_suffix</a> (removed)</li>
+		<li><a href="#removed">author3_fname</a> (removed)</li>
+		<li><a href="#removed">author3_lname</a> (removed)</li>
+		<li><a href="#removed">author3_mname</a> (removed)</li>
+		<li><a href="#removed">author3_suffix</a> (removed)</li>
 </details>
 <details>
 <summary>B's</summary>
@@ -223,7 +231,21 @@
 <h2 id="removed">Removed from Master Sheets</h2>
 <p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
 	<li>abstract_format: format of abstract.</li>
+	<li>accession_number:  number associated with gallery items</li>
+	<li>attach_additional_files: field for additional materials to items in BePress </li>
+	<li>author1_fname: first name of first person responsible for creation of item</li>
+	<li>author1_lname: last name of first person responsible for creation of item</li>
+	<li>author1_mname: middle name of first person responsible for creation of item</li>
+	<li>author1_suffix: suffix or additional information about the first person responsible for creation of item/li>
+	<li>author2_fname: first name of second person responsible for creation of item</li>
+	<li>author2_lname: last name of second person responsible for creation of item</li>
+	<li>author2_mname: middle name of Second person responsible for creation of item</li>
+	<li>author2_suffix: suffix or additional information about the second person responsible for creation of item</li>
+	<li>author3_fname: first name of third person responsible for creation of item</li>
+	<li>author3_lname: last name of third person responsible for creation of item</li>
+	<li>author3_mname: middle name of third person responsible for creation of item</li>
+	<li>author3_suffix: suffix or additional information about the third person responsible for creation of item</li>
 <p><a href="#top">top</a></p>
-<p><i>Last Updated: </i>03/25/2022</p>
+<p><i>Last Updated: </i>06/27/2022</p>
 </dl>
 </html>
