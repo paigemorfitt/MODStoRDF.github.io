@@ -71,34 +71,6 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		<dd>| 
-			<a href="advisor.md">IMI/advisors</a> | 
-			<a href="DrupalFields.md">Drupal Fields</a> |
-			<a href="rdf.relators.md">RDF/relators</a> |
-		</dd>
-		<dd>|
-			<a href="contributors.md">IMI/contributors</a> | 
-			<a href="DrupalFields.md">Drupal Fields</a> |
-			<a href="rdf.relators.md">RDF/relators</a> |
-		</dd>
-		<dd>| 
-			<a href="creators.md">IMI/creators</a> | 
-			<a href="DrupalFields.md">Drupal Fields</a> |
-			<a href="rdf.relators.md">RDF/relators</a> |
-		</dd>
-		<dd>
-			| <a href="department.md">IMI/department</a> | 
-			<a href="DrupalFields.md">Drupal Fields</a> |
-			<a href="rdf.relators.md">RDF/relators</a> |
-		</dd>
-		<dd>
-			| <a href="field_funding_sources.md">field_funding_sources</a> | 
-			<a href="DrupalFields.md">Drupal Fields</a> |				
-			<a href="rdf.rdau.p60451.md">rdau:P60451</a> |
-		</dd>
-</dl>
 <table>
 	<tr>
 		<th>Spreadsheet</th>
@@ -107,13 +79,64 @@
 		<th>RDF</th>
 	</tr>
 	<tr>
-		<td><a href="field_linked_agent.md" class ="magic-button">field_linked_agent</a></td>
-		<td><a href="mods.name.md">name/namePart</a></td> 
+		<td><a href="advisor.md">advisors</a></td>
 		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
-		<td><a href="rdf.field_linked_agent.md">local:adv</a></td>
+		<td><a href="rdf.relators.md#localadv">local:adv</a></td>
 	</tr>
 </table>
-<p><i>Last Updated: </i>09/27/2021</p>
+	<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="contributors.md">contributors</a></td> 
+		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
+		<td><a href="rdf.relators.md#relatorsctb">relators:ctb</a></td>
+	</tr>
+</table>
+	<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="creators.md">creators</a></td>
+		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
+		<td><a href="rdf.relators.md#relatorscre">relators:cre</a></td>
+	</tr>
+</table>
+	<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="department.md">department</a></td>
+		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
+		<td><a href="rdf.relators.md#localdpt">local:dpt</a></td>
+	</tr>
+</table>
+	<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_funding_sources.md">field_funding_sources</a></td>
+		<td><a href="DrupalFields.md#funding">Funding</a></td>	
+		<td><a href="rdf.rdau.p60451.md">rdau:P60451</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>06/27/2022</p>
 </body>
 </html>
 
