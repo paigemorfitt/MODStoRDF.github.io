@@ -33,7 +33,7 @@
 </table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_date_display.md">field_date_display</a> | <a href="DrupalFields.md">Drupal field</a> <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
+		| <a href="field_date_display.md">field_date_display</a> | <a href="DrupalFields.md">[Drupal] Date</a> | <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
 </dl>
 <p><i>Last Updated: </i>09/22/2021</p>
 </body>
