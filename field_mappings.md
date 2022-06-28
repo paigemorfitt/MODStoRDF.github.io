@@ -1008,6 +1008,24 @@
 		<td></td>
 		<td></td>
 	</tr>
+	<tr>
+		<td>field_alternative_title</td>
+		<td>field_alternative_title</td>
+		<td>Alternative Title</td>
+		<td>Alternative Title</td>
+		<td>nonenglish_title, title_alternative</td>
+		<td>nonenglish_title, title_alternative</td>
+		<td>Islandora 7 Public Name</td>
+		<td>nonenglish_title</td>
+		<td>Thesis Title in English (If different from above)</td>
+		<td>2.3.3, 2.3.6, 2.3.7, 2.3.8</td>
+		<td>246, 247, 242</td>
+		<td>2.3</td>
+		<td>unititle?</td>
+		<td>titleInfo/title</td>
+		<td>dcterms:alternative</td>
+		<td></td>
+	</tr>
 </table>
 <dl>
 	<p><i>Last Updated: </i>06/28/2022</p>
