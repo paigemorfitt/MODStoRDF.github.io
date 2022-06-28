@@ -54,13 +54,11 @@
 </table>
 <table>
 	<tr>
-		<th>Spreadsheet</th>
 		<th>MODS</th>
 		<th>Drupal Field</th>
 		<th>RDF</th>
 	</tr>
 	<tr>
-		<td>field_date_display</td>
 		<td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a> </td> 
 		<td><a href="DrupalFields.md#Date">Date</a></td>
 		<td><a href="rdf.rdau.p60527.md">rdau:P60527</a></td>
