@@ -46,14 +46,14 @@
 	<td>
 		<ul>
 			<li>Use complete sentences</li>
-			<li>Some content moved to IMI/description</li>
 			<li>Contains, italics, bold, accents, and/or special characters</li>
+			<li>For paragraphs, add 2 line breaks in spreadsheet cell</li>
 		</ul>
 	</td>
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Some content moved to field_description_long; Former name abstract; Contains content from issnum</td>
+	<td>some content moved to field_description_long, former name: abstract, contains content from: issnum</td>
 </tr>
 </table>
 <table>
