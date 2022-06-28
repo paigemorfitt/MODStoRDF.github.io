@@ -32,7 +32,9 @@
 </table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_abstract.md">field_abstract</a> |a href="DrupalFields.md">Drupal Field</a>| <a href="mods.abstract.md">MODS/abstract</a> |
+		| <a href="field_abstract.md">[spreadsheet] field_abstract</a> 
+		|<a href="DrupalFields.md">[Drupal] Abstract</a>|
+		<a href="mods.abstract.md">[MODS] abstract</a> |
 </dl>
 <p><i>Last Updated: </i>09/22/2021</p>
 </body>
