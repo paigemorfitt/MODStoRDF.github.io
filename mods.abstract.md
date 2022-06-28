@@ -26,14 +26,19 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		<dd>| <a href="field_abstract.md">field_abstract</a> |
-		<a href="DrupalFields.md">Drupal Field</a>|<a href="rdf.dcterms.abstract.md">RDF/dcterms:abstract </a> |</dd>
-		<dd>| <a href="field_description_long.md">field_description_long</a>|
-		<a href="DrupalFields.md">Drupal Field</a>|
-		<a href="rdf.dcterms.description.md">RDF/dcterms:description</a> |</dd>
-</dl>
-<p><i>Last Updated: </i>09/22/2021</p>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_abstract.md">field_abstract</a>, <a href="field_description_long.md">field_description_long</a></td>
+		<td><a href="DrupalFields.md">Abstract</a>, <a href="DrupalFields.md#Description">Description</a></td>
+		<td><a href="rdf.dcterms.abstract.md">dcterms:abstract </a>, <a href="rdf.dcterms.description.md">dcterms:description</a></td>
+	</tr>
+</table>
+	
+<p><i>Last Updated: </i>06/28/2022</p>
 </body>
 </html>
