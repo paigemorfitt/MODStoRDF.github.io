@@ -58,12 +58,20 @@
 		</ul>
 	</td>
 </tr>
+	</table>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.titleInfo.title.md">titleInfo/title</a></td>
+		<td><a href="DrupalFields.md#Alternative-Title">Alternative Title</a></td>
+		<td><a href="rdf.dcterms.alternative.md">dcterms:alternative</a></td>
+	</tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="mods.titleInfo.title.md">MODS/titleInfo/title</a> |<a href="DrupalFields.md">Drupal fields</a>| <a href="rdf.dcterms.alternative.md">RDF/dcterms:alternative</a> |
-</dl>
-<p><i>Last Updated: </i>02/01/2022</p>
+<p><i>Last Updated: </i>06/28/2022</p>
 </dl>
 </body>
 </html>
