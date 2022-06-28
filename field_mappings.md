@@ -14,63 +14,61 @@
 		    <th><a href="RDF.md">RDF Field</a></th>
 		  </tr>
 		</table>
-
-
-		<table>
-		  <tr>
-		    <th>Active field name (spreadsheet)</th>
-		    <th>Islandora 8 Field Name</th>
-			<th>Islandora 8 Public Name</th>
-		    <th>Drupal Field Name</th>
-			<th>Migration Field Name</th>
-			<th>Islandora 7 Field Name</th>
-			<th>Islandora 7 Public Name</th>
-			<th>BePress Name</th>
-			<th>BePress Field Name</th>
-			<th>RDA</th>
-			<th>MARC</th>
-			<th>DACS</th>
-			<th>EAD</th>
-			<th>MODS</th>
-			<th>RDF</th>
-			<th>Notes</th>
-		  </tr>
-		<tr>
-		    <td></td>
-		    <td></td>
-			<td></td>
-		    <td></td>
-			<td></td>
-			<td>abstract_format</td>
-			<td></td>
-			<td>abstract_format</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td>abstract</td>
-			<td></td>
-			<td>Deleted</td>
-		</tr>
-		<tr>
-		    <td></td>
-		    <td></td>
-			<td></td>
-		    <td></td>
-			<td></td>
-			<td>accession_number</td>
-			<td></td>
-			<td>accession_number</td>
-			<td>Accession Number</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td>identifier</td>
-			<td></td>
-			<td>Deleted. See field_source</td>
-		</tr>
+<table>
+	<tr>
+		<th>Active field name (spreadsheet)</th>
+		<th>Islandora 8 Field Name</th>
+		<th>Islandora 8 Public Name</th>
+		<th>Drupal Field Name</th>
+		<th>Migration Field Name</th>
+		<th>Islandora 7 Field Name</th>
+		<th>Islandora 7 Public Name</th>
+		<th>BePress Name</th>
+		<th>BePress Field Name</th>
+		<th>RDA</th>
+		<th>MARC</th>
+		<th>DACS</th>
+		<th>EAD</th>
+		<th>MODS</th>
+		<th>RDF</th>
+		<th>Notes</th>
+	 </tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>abstract_format</td>
+		<td></td>
+		<td>abstract_format</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>abstract</td>
+		<td></td>
+		<td>Deleted</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>accession_number</td>
+		<td></td>
+		<td>accession_number</td>
+		<td>Accession Number</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>identifier</td>
+		<td></td>
+		<td>Deleted. See field_source</td>
+	</tr>
 		<tr>
 		    <td>advisors</td>
 		    <td>advisors</td>
