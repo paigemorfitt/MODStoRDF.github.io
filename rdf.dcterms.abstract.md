@@ -36,6 +36,6 @@
 		|<a href="DrupalFields.md">[Drupal] Abstract</a>|
 		<a href="mods.abstract.md">[MODS] abstract</a> |
 </dl>
-<p><i>Last Updated: </i>09/22/2021</p>
+<p><i>Last Updated: </i>06/28/2022</p>
 </body>
 </html>
