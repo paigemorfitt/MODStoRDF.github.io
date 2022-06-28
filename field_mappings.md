@@ -991,7 +991,7 @@
 	<td>scopecontent</td>
 	<td>abstract</td>
 	<td>dcterms:abstract</td>
-	<td>Note</td>
+	<td></td>
 </tr>
 </table>
 <dl>
