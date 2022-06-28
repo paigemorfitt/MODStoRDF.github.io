@@ -63,8 +63,8 @@
 		<li>duration -- Length of recording</li>
 		<li>editor -- Identifies editors of a volume of works</li>
 		<li>end_date -- [end date of date range associated with item]</li>
-		<li>endowment -- [use unknown]</li>
-		<li>equipment -- [use unknown]</li>
+		<li>endowment -- Endowment associated with item</li>
+		<li>equipment -- Field used for equipment used with/needed for item</li>
 		<li>ext_links -- External links associated with item</li>
 		<li>file_list -- [use unknown]</li>
 		<li>file_name_id -- [resource file name]</li>
