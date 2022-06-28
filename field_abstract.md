@@ -56,10 +56,18 @@
 	<td>Some content moved to field_description_long; Former name abstract; Contains content from issnum</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		|<a href="mods.abstract.md">MODS/abstract</a> |<a href="DrupalFields.md">Drupal Field</a>|<a href="rdf.dcterms.abstract.md">RDF/dcterms:abstract </a>|
-</dl>
-<p><i>Last Updated: </i>01/28/2022</p>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.abstract.md">abstract</a></td>
+		<td><a href="DrupalFields.md">Abstract</a></td>
+		<td><a href="rdf.dcterms.abstract.md">dcterms:abstract </a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>06/28/2022</p>
 </body>
 </html>
