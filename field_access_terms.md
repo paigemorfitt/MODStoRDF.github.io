@@ -55,7 +55,7 @@
 </table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		 <a href="DrupalFields.md">Drupal Fields</a> |
+		 <a href="DrupalFields.md">Drupal Fields</a>
 </dl>
 </dl>
 <p><i>Last Updated: </i>09/22/2021</p>
