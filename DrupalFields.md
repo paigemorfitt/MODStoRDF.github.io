@@ -97,7 +97,7 @@
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				| <a href="field_date_display.md">field_date_display</a> | <a href="mods.originInfo_dateOther.md">MODS/OriginInfo/dateOther</a> | <a href="rdf.rdaup60527.md">RDF/rdau:P60527</a> | 
+				| <a href="field_date_display.md">field_date_display</a> | <a href="mods.originInfo_dateOther.md">MODS/OriginInfo/dateOther</a> | <a href="rdf.rdau.p60527.md">RDF/rdau:P60527</a> | 
 	</dl>
 <h2>Description</h2>
 			<table>
