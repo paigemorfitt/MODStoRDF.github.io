@@ -52,10 +52,20 @@
 	</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> | <a href="DrupalFields.md">Drupal field</a> | <a href="rdf.rdau.p60527.md">rdau:P60527</a> |
-</dl>
-<p><i>Last Updated: </i>02/01/2022</p>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td>field_date_display</td>
+		<td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a> </td> 
+		<td><a href="DrupalFields.md#Date">Date</a></td>
+		<td><a href="rdf.rdau.p60527.md">rdau:P60527</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>06/28/2022</p>
 </body>
 </html>
