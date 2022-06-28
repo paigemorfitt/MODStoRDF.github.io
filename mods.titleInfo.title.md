@@ -41,12 +41,30 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		<dd>| <a href="title.md">IMI/title</a> | <a href="rdf.dcterms.title.md">RDF/dcterms:title</a> | </dd>
-		<dd>| <a href="field_alternative_title.md">field_alternative_title</a> | <a href="DrupalFields.md">Drupal fields</a> | <a href="rdf.dcterms.alternative.md">RDF/dcterms:alternative</a> | </dd>
-
-</dl>
-<p><i>Last Updated: </i>09/22/2021</p>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="title.md">title</a></td>
+		<td><a href="DrupalFields.md#Title">Title</a></td>
+		<td><a href="rdf.dcterms.title.md">dcterms:title</a></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_alternative_title.md">field_alternative_title</a></td>
+		<td><a href="DrupalFields.md#Alternative-Title">Alternative Title</a></td>
+		<td><a href="rdf.dcterms.alternative.md">dcterms:alternative</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>06/28/2022</p>
 </body>
 </html>
