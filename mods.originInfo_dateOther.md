@@ -41,23 +41,43 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		<dd>| 
-			<a href="field_date_display.md">field_date_display</a> | 
-			<a href="DrupalFields.md#Date">Drupal Field</a> | 
-			<a href="rdf.rdau.p60527.md">rdau:P60527</a> | 
-		</dd>
-		<dd>| <a href="field_edtf_date_created.md">field_edtf_date_created</a> | 
-			<a href="DrupalFields.md#Date-Created-(EDTF)">Drupal Field</a> |
-			<a href="rdf.dcterms.created.md">RDF/dcterms:created</a> | 
-		</dd>
-		<dd>| <a href="field_graduation_year.md">field_graduation_year</a> | 
-			<a href="DrupalFields.md#graduation-year">Drupal Field</a> |
-			<a href="rdf.rdau.p60514.md">RDF/rdau:p60514</a> | 
-		</dd>
-</dl>
-<p><i>Last Updated: </i>09/22/2021</p>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_date_display.md">field_date_display</a></td> 
+		<td><a href="DrupalFields.md#Date">Drupal Field</a></td> 
+		<td><a href="rdf.rdau.p60527.md">rdau:P60527</a></td> 
+	</tr>
+</table>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_edtf_date_created.md">field_edtf_date_created</a></td> 
+		<td><a href="DrupalFields.md#Date-Created-(EDTF)">Drupal Field</a></td> 
+		<td><a href="rdf.dcterms.created.md">RDF/dcterms:created</a></td> 
+	</tr>
+</table>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_graduation_year.md">field_graduation_year</a></td> 
+		<td><a href="DrupalFields.md#graduation-year">Drupal Field</a></td> 
+		<td><a href="rdf.rdau.p60514.md">RDF/rdau:p60514</a></td> 
+	</tr>
+</table>
+<p><i>Last Updated: </i>06/29/2022</p>
 </body>
 </html>
 
