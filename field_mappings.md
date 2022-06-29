@@ -1026,6 +1026,24 @@
 		<td>dcterms:alternative</td>
 		<td></td>
 	</tr>
+	<tr>
+		<td>field_date_display</td>
+		<td>field_date_display</td>
+		<td>Date</td>
+		<td>Date Created (EDTF)</td>
+		<td>date_display, mods_display_date</td>
+		<td>date_display, mods_display_date</td>
+		<td>Date</td>
+		<td></td>
+		<td></td>
+		<td>2.76, 2.86, 2.96, 2.11, 2.10.6</td>
+		<td>0087/-14, 260, 264</td>
+		<td>[unknown]</td>
+		<td>[unknown]</td>
+		<td>originInfo/dateOther</td>
+		<td>dcterms:created</td>
+		<td></td>
+	</tr>
 </table>
 <dl>
 	<p><i>Last Updated: </i>06/28/2022</p>
