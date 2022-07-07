@@ -55,20 +55,26 @@
 	<th>Field changes</th>
 	<td>
 		<ul>
-		<li>former name: oai_harvester_date</li>
-		<li>former name: date_encoded</li>
+		<li>Former name: oai_harvester_date</li>
+		<li>Former name: date_encoded</li>
 		<li>Absorbed: broad_creation_date</li>
 		<li>Absorbed: broad_date</li>
 		</ul>
 	</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> | 
-		<a href="DrupalFields.md">Drupal Field</a> |
-		<a href="rdf.dcterms.created.md">dcterms:created</a> |
-</dl>
-<p><i>Last Updated: </i>02/01/2022</p>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td> 
+		<td><a href="DrupalFields.md#Date">Date Created (EDTF)</a></td>
+		<td><a href="rdf.dcterms.created.md">dcterms:created</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>07/07/2022</p>
 </body>
 </html>
