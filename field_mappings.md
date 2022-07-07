@@ -1062,6 +1062,24 @@
 		<td>dcterms:description</td>
 		<td></td>
 	</tr>
+	<tr>
+		<td>field_display_hints</td>
+		<td>field_display_hints</td>
+		<td></td>
+		 <td>Display hints</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
 </table>
 <dl>
 	<p><i>Last Updated: </i>07/07/2022</p>
