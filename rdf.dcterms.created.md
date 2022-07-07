@@ -13,7 +13,7 @@
 
 
 
-<h1>RDF/dcterms:created</h1>
+<h1>dcterms:created</h1>
 <table>
 <tr>
 	<th>Definition</th>
