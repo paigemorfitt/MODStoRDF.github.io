@@ -99,50 +99,6 @@
 		<dt><b>Related Fields</b></dt>
 				| <a href="field_date_display.md">field_date_display</a> | <a href="mods.originInfo_dateOther.md">MODS/OriginInfo/dateOther</a> | <a href="rdf.rdau.p60527.md">RDF/rdau:P60527</a> | 
 	</dl>
-<h2>Description</h2>
-			<table>
-				<tr>
-					<th><i>Type of field</i></th>
-					<th><i>Max Length/Repeatability</i></th>
-					<th><i>Type of Item Reference/Vocabulary</i></th>
-					<th><i>Machine name</i></th>
-					<th><i>Note</i></th>
-				</tr>
-				<tr>
-					<td>Text (formatted, long)</td>
-					<td>N/A  / Limited (1)</td>
-					<td>N/A</td>
-					<td>field_description_long</td>
-					<td>Custom field?</td>
-				</tr>
-			</table>
-	<dl>
-		<dt><b>Related Fields</b></dt>
-				| <a href="field_description_long.md">field_description_long</a> | <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.dcterms.description.md">RDF/description</a> | 
-	</dl>	
-<dl>
-<h2>Display Hints</h2>
-			<table>
-				<tr>
-					<th><i>Type of field</i></th>
-					<th><i>Max Length/Repeatability</i></th>
-					<th><i>Type of Item Reference/Vocabulary</i></th>
-					<th><i>Machine name</i></th>
-					<th><i>Notes</i></th>
-				</tr>
-				<tr>
-					<td>Entity reference</td>
-					<td>Limited (1)</td>
-					<td>Taxonomy/Islandora Display</td>
-					<td>field_display_hints</td>
-					<td>Default field</td>
-				</tr>
-			</table>
-	<dl>
-			<dt><b>Related Fields</b></dt>
-				| <a href="field_display_hints.md">field_display_hints</a> |
-		</dd>
-	</dl>
 <h2>Date (EDTF)</h2>
 			<table>
 				<tr>
@@ -212,6 +168,50 @@
 				| <a href="field_edtf_date_issued.md">field_edtf_date_issued</a> | 
 				<a href="mods.originInfo_dateIssued.md">MODS/originInfo/dateIssued</a> | 
 				<a href="rdf.dcterms.issued.md">RDF/dcterms:issued</a> |
+	</dl>
+<h2>Description</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Note</i></th>
+				</tr>
+				<tr>
+					<td>Text (formatted, long)</td>
+					<td>N/A  / Limited (1)</td>
+					<td>N/A</td>
+					<td>field_description_long</td>
+					<td>Custom field?</td>
+				</tr>
+			</table>
+	<dl>
+		<dt><b>Related Fields</b></dt>
+				| <a href="field_description_long.md">field_description_long</a> | <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.dcterms.description.md">RDF/description</a> | 
+	</dl>	
+<dl>
+<h2>Display Hints</h2>
+			<table>
+				<tr>
+					<th><i>Type of field</i></th>
+					<th><i>Max Length/Repeatability</i></th>
+					<th><i>Type of Item Reference/Vocabulary</i></th>
+					<th><i>Machine name</i></th>
+					<th><i>Notes</i></th>
+				</tr>
+				<tr>
+					<td>Entity reference</td>
+					<td>Limited (1)</td>
+					<td>Taxonomy/Islandora Display</td>
+					<td>field_display_hints</td>
+					<td>Default field</td>
+				</tr>
+			</table>
+	<dl>
+			<dt><b>Related Fields</b></dt>
+				| <a href="field_display_hints.md">field_display_hints</a> |
+		</dd>
 	</dl>
 <h2>Embargoed Until</h2>
 			<table>
