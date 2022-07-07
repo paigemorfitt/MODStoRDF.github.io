@@ -34,10 +34,10 @@
 </table>
 <dl>
 	<dd><b>Related Fields</b></dd>
-			<a href="field_description_long.md">field_description_long</a> | 
-			<a href="DrupalFields">Drupal Field</a> | 
-			<a href="mods.abstract.md">MODS/abstract</a>
+			<a href="field_description_long.md">[Spreadsheet]field_description_long</a> | 
+			<a href="DrupalFields.md#Description">[Drupal Field]Description</a> | 
+			<a href="mods.abstract.md">[MODS]abstract</a>
 </dl>
-<p><i>Last Updated: </i></font>09/22/2021</p>
+<p><i>Last Updated: </i></font>07/07/2022</p>
 </body>
 </html>
