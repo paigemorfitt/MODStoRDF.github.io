@@ -34,9 +34,9 @@
 </table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_edtf_date.md">field_edtf_date</a> | 
-		<a href="DrupalFields.md">Drupal field</a> | 
-		<a href="mods.originInfo.dateCreated.md">MODS/originInfo/dateCreated</a> |
+		| <a href="field_edtf_date.md">[Spreadsheet] field_edtf_date</a> | 
+		<a href="DrupalFields.md">[Drupal field] Date (EDTF)</a> | 
+		<a href="mods.originInfo.dateCreated.md">[MODS] originInfo/dateCreated</a> |
 </dl>
 <p><i>Last Updated: </i>09/23/2021</p>
 </body>
