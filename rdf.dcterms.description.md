@@ -13,7 +13,7 @@
 
 
 
-<h1>RDF/dc:description</h1>
+<h1>dcterms:description</h1>
 <table>
 <tr>
 	<th>Definition</th>
