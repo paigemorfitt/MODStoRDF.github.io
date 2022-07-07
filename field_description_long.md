@@ -5,9 +5,9 @@
 <table style="width:100%">
   <tr>
     <th><a href="index.md">Main page</a></th>
-	<th>IMI Columns</th>
+    <th><a href="IMI.md">IMI Columns</a></th>
     <th><a href="MODS.md">MODS Fields</a></th>
-    <th><a href="RDF.md">RDF Field</a></th>
+    <th><a href="RDF.md">RDF Fields</a></th>
   </tr>
 </table>
 
@@ -63,13 +63,19 @@
 	</td>
 </tr>
 </table>
-<dl>
-	<dd><b>Related Fields</b></dd>
-			<a href="mods.abstract.md">MODS/abstract</a> | 
-			<a href="DrupalFields.md">Drupal Field</a> |
-			<a href="rdf.dcterms.description.md">RDF/dcterms:description</a>
-</dl>
-<p><i>Last Updated: </i></font>02/01/2022</p>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.abstract.md">abstract</a></td>
+		<td><a href="DrupalFields.md#Description">Description</a></td> 
+		<td><a href="rdf.dcterms.description.md">dcterms:description</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i></font>07/07/2022</p>
 
 </body>
 </html>
