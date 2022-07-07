@@ -1098,6 +1098,24 @@
 		<td>dcterms:date</td>
 		<td></td>
 	 </tr>
+	<tr>
+		<td>field_edtf_date_created</td>
+		<td>field_edtf_date_created</td>
+		<td></td>
+		<td>Date Created (EDTF)</td>
+		<td>date_encoded, oai_harvester_date</td>
+		<td>date_encoded, oai_harvester_date</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>2.7.6, 2.8.6, 2.9.6, 2.11, 2.10.6</td>
+		<td>008/7-14, 260, 264</td>
+		<td>[unknown]</td>
+		<td>[unknown]</td>
+		<td>originInfo--dateOther</td>
+		<td>dcterms:created</td>
+		<td></td>
+	</tr>
 </table>
 <dl>
 	<p><i>Last Updated: </i>07/07/2022</p>
