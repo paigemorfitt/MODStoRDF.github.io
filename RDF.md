@@ -19,6 +19,7 @@
 	<li><a href="rdf.dcterms.alternative.md">dcterms:alternative</a></li>
 	<li><a href="rdf.dcterms.description.md">dcterms:description</a></li>
 	<li><a href="rdf.dcterms.date.md">dcterms:date</a></li>
+	<li><a href="rdf.dcterms.created.md">dcterms:created</a></li>
 </details>
 <details>
 <summary>rdau</summary>
