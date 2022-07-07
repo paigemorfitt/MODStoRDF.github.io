@@ -15,12 +15,13 @@
 
 <details>
 <summary>dcterms</summary>
-	<li><a href="rdf.abstract.md">dcterms:abstract </a></li>
-	 <li><a href="rdf.dcterms_spatial.md">dcterms:spatial</a></li>
+	<li><a href="rdf.dcterms.abstract.md">dcterms:abstract</a></li>
+	<li><a href="rdf.dcterms.alternative.md">dcterms:alternative</a></li>
+	<li><a href="rdf.dcterms.description.md">dcterms:description</a></li>
 </details>
 <details>
 <summary>rdau</summary>
-    <li><a href="rdf.rdau.p60496.md">rdau:P60496</a></li>
+	<li><a href="rdf.dcterms.abstract.md">rdau:P60527</a></li>
 </details>
 <details>
 <summary>relators</summary>
@@ -32,9 +33,8 @@
 </details>
 <details>
 <summary>Other</summary>
-	    <li><a href="rdf.pcdm_memberOf.md">pcdm:memberOf</a></li>
 </details>
 
-<p><i>Last Updated:</font>09/21/2021</p>
+<p><i>Last Updated:</font>07/07/2022</p>
 </dl>
 </html>
