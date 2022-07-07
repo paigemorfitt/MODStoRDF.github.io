@@ -118,7 +118,7 @@
 			</table>
 	<dl>
 		<dt><b>Related Fields</b></dt>
-				| <a href="field_description_long.md">field_description_long</a> | <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.dcterms.descriptions.md">RDF/description</a> | 
+				| <a href="field_description_long.md">field_description_long</a> | <a href="mods.abstract.md">MODS/abstract</a> | <a href="rdf.dcterms.description.md">RDF/description</a> | 
 	</dl>	
 <dl>
 <h2>Display Hints</h2>
