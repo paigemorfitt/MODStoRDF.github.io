@@ -12,7 +12,7 @@
 </table>
 
 
-<h1>RDF/dcterms:alternative</h1>
+<h1>dcterms:alternative</h1>
 <table>
 <tr>
 	<th>Definition</th>
