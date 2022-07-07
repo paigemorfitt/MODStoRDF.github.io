@@ -12,7 +12,7 @@
 </table>
 
 
-<h1>RDF/rdau:P60527</h1>
+<h1>rdau:P60527</h1>
 <table>
 <tr>
 	<th>Definition</th>
