@@ -43,12 +43,18 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="field_edtf_date.md">field_edtf_date</a> | 
-		<a href="DrupalFields.md">Drupal field</a> | 
-		<a href="rdf.dcterms.date.md">RDF/dcterms:date</a> |
-</dl>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_edtf_date.md">field_edtf_date</a</td> 
+		<td><a href="DrupalFields.md"Date>Date (EDFT)</a></td>
+		<td><a href="rdf.dcterms.date.md">dcterms:date</a></td>
+	</tr>
+</table>
 <p><i>Last Updated: </i>09/23/2021</p>
 </body>
 </html>
