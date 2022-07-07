@@ -15,12 +15,12 @@
 
 <details>
 <summary>dcterms</summary>
-	<li><a href="rdf.abstract.md">RDF/dcterms:abstract </a></li>
-	 <li><a href="rdf.dcterms_spatial.md" class ="magic-button" title="Definition: Spatial characteristics of the resource.">dcterms:spatial</a></li>
+	<li><a href="rdf.abstract.md">dcterms:abstract </a></li>
+	 <li><a href="rdf.dcterms_spatial.md">dcterms:spatial</a></li>
 </details>
 <details>
 <summary>rdau</summary>
-    <li><a href="rdf.rdau.p60496.md" class ="magic-button" title="Definition: Relates a resource to limitations placed on access to a resource">rdau:P60496</a></li>
+    <li><a href="rdf.rdau.p60496.md">rdau:P60496</a></li>
 </details>
 <details>
 <summary>relators</summary>
@@ -32,7 +32,7 @@
 </details>
 <details>
 <summary>Other</summary>
-	    <li><a href="rdf.pcdm_memberOf.md" class ="magic-button" title="Definition: Links from an Object or Collection to a containing Object or Collection.">pcdm:memberOf</a></li>
+	    <li><a href="rdf.pcdm_memberOf.md">pcdm:memberOf</a></li>
 </details>
 
 <p><i>Last Updated:</font>09/21/2021</p>
