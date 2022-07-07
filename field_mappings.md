@@ -1022,7 +1022,7 @@
 		<td>246, 247, 242</td>
 		<td>2.3</td>
 		<td>unititle?</td>
-		<td>titleInfo/title</td>
+		<td>titleInfo--title</td>
 		<td>dcterms:alternative</td>
 		<td></td>
 	</tr>
@@ -1040,7 +1040,7 @@
 		<td>0087/-14, 260, 264</td>
 		<td>[unknown]</td>
 		<td>[unknown]</td>
-		<td>originInfo/dateOther</td>
+		<td>originInfo--dateOther</td>
 		<td>dcterms:created</td>
 		<td></td>
 	</tr>
@@ -1080,6 +1080,24 @@
 		<td></td>
 		<td></td>
 	</tr>
+	<tr>
+		<td>field_edtf_date</td>
+		<td>field_edtf_date</td>
+		<td></td>
+		<td>Date (EDTF)</td>
+		<td>date_sort, mods_date_created_keydate</td>
+		<td>date_sort, mods_date_created_keydate</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>2.7.6, 2.8.6, 2.9.6, 2.11, 2.10.6</td>
+		<td>008/7-14, 260, 264</td>
+		<td>[unknown]</td>
+		<td>[unknown]</td>
+		<td>originInfo--dateCreated</td>
+		<td>dcterms:date</td>
+		<td></td>
+	 </tr>
 </table>
 <dl>
 	<p><i>Last Updated: </i>07/07/2022</p>
