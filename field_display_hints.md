@@ -53,8 +53,8 @@
 </table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-	<a href="DrupalFields.md">Drupal Field</a>
+	<a href="DrupalFields.md#Display-Hints">[Drupal Field] Display Hints</a>
 </dl>
-<p><i>Last Updated: </i>09/23/2021</p>
+<p><i>Last Updated: </i>07/07/2022</p>
 </body>
 </html>
