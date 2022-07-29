@@ -58,12 +58,18 @@
 	<td>Former name : embargo_date</td>
 </tr>
 </table>
-<dl>
-	<dd><b>Related Fields</b></dd>
-		| <a href="mods.originInfo_dateValid.md">MODS/originInfo/dateValid</a> | 
-		<a href="DrupalFields.md">Drupal Fields</a> | 
-		<a href="rdf.schema.availabilityStarts.md">RDF/schema:avalibilityStarts</a>| 
-</dl>
-<p><i>Last Updated: </i></font>02/02/2022</p>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.originInfo_dateValid.md">originInfo/dateValid</a></td> 
+		<td><a href="DrupalFields.md#Embargoed-Until">Embargoed Until</a></td>
+		<td><a href="rdf.schema.availabilityStarts.md">schema:avalibilityStarts</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i></font>07/29/2022</p>
 </body>
 </html>
