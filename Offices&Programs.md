@@ -10,7 +10,7 @@
     <th><a href="index.md">Main page</a></th>
 	<th><a href="IMI.md">IMI Columns</a></th>
     <th><a href="MODS.md">MODS Fields</a></th>
-    <th><a href="#">RDF Fields</a></th>
+    <th><a href="RDF.md#">RDF Fields</a></th>
   </tr>
   <table>
 <h1>Arminda MODS information page</h1> 
