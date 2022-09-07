@@ -16,44 +16,28 @@
 
  <h1>Arminda information page</h1> 
 
-<dd><ins><font color="brown">Fields that are repeatable </font></ins>
+<dd><ins>Fields that are repeatable</ins>
 	<ul>
-		 <li>IMI/contributors -- MODS/name/namePart -- RDF/[foaf:name]/[relators:ctb] </li>
-		 <li>IMI/creators -- MODS/name/namePart -- RDF/[foaf:name]/[relators:aut] </li>
-		 <li>IMI/language -- MODS/language/languageTerm -- RDF/dcterms:language </li>
-		 <li>IMI/subject_keywords -- MODS/subject/topic -- RDF/dcterms:subject </li>
-		 <li>IMI/coverage_spatial -- MODS/subject/geographic -- RDF/dcterms:spatial</li>
+		<li></li>
 	</ul>
 </dd> 
-<dd><ins><font color="brown">Fields with a Controlled Vocabulary</font></ins>
+<dd><ins>Fields with a Controlled Vocabulary</ins>
 	<ul>
-		<li>IMI/access_condition -- MODS/accessCondition -- RDF/rdau:P60496</li>
-		 <li>IMI/contributors -- MODS/name/namePart -- RDF/[foaf:name]/[relators:ctb] </li>
-		 <li>IMI/creators -- MODS/name/namePart -- RDF/[foaf:name]/[relators:aut] </li>
-		 <li>IMI/language -- MODS/language/languageTerm -- RDF/dcterms:language </li>
-		 <li>IMI/subject_keywords -- MODS/subject/topic -- RDF/dcterms:subject </li>
-		 <li>IMI/work_type -- MODS/typeOfResource -- RDF/dcterms:type </li>
-		 <li>IMI/[MODS/RecordSeries] -- MODS/relatedItem/part/text -- RDF/rdau:P60101 </li>
-		 <li>IMI/[MODS/RecordSeriesID] -- MODS/location/holdingSimple/copyInformation/subLocation -- RDF/rdau:P60348 </li>
-		 <li>IMI/[MODS/Suceeding Frequency] -- MODS/relatedItem/originInfo/frequency -- RDF/rdau:P60583 </li>
-		 <li>IMI/coverage_spatial -- MODS/subject/geographic -- RDF/dcterms:spatial</li>
+		<li></li>
 	</ul>
 </dd> 
-<dd><ins><font color="brown">Fields with html, accents, or other special characters</font></ins>
+<dd><ins>Obligation Required</ins>
 	<ul>
-		<li>IMI/abstract -- MODS/abstract -- RDF/dcterms:abstract </li>
-		<li>IMI/contributors -- MODS/name/namePart -- RDF/[foaf:name]/[relators:ctb] </li>
-		<li>IMI/creators -- MODS/name/namePart -- RDF/[foaf:name]/[relators:aut]</li>
-		<li>IMI/date_display -- MODS/originInfo/dateOther -- RDF/dcterms:date</li>
-		<li>IMI/language -- MODS/language/languageTerm -- RDF/dcterms:language </li>
-		<li>IMI/provenance -- MODS/note -- RDF/dcterms:provenance </li>
-		<li>IMI/subject_keywords -- MODS/subject/topic -- RDF/dcterms:subject </li>
-		<li>IMI/coverage_spatial -- MODS/subject/geographic -- RDF/dcterms:spatial</li>
+		<li></li>
+	</ul>
+</dd> 
+<dd><ins>Obligation Required, if applicable</ins>
+	<ul>
+		<li>Extent (<a href="field_extent.md">field_extent</a>)</li>
 	</ul>
 </dd> 
 <dl>
-<p><li>IMI/[here] -- MODS/[here] -- RDF/[[here]</li></p>
-	<p><font color="red"><i>Last Updated: </i></font>2/1/2021</p>
+	<p><font color="red"><i>Last Updated: </i></font>09/07/2022</p>
 </dl>
 </body>
 </html>
