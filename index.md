@@ -331,8 +331,98 @@
 	<td>N/A</td>
 </tr>
 </table>
+<h2>The following are Islandora 8 fields not activally used at Whitman</h2>
+<p>The following fields are being recorded to accuratly reflect the fields in Islandora 8 in total as best to my ability as possible</p>
+<table>
+  <tr>
+    <th>Label</th>
+    <th>Machine Name</th>
+    <th>Presumable Use</th>
+  </tr>
+<tr>
+    <td>changed*</td>
+    <td></td>
+    <td>Notes</td>	
+</tr>
+<tr>
+    <td>created*</td>
+    <td></td>
+    <td>Presumable Use</td>	
+</tr>
+<tr>
+    <td>Description_OBSOLETE</td>
+    <td>field_description</td>
+    <td>Default field we opted for different setup</td>	
+</tr>
+<tr>
+    <td>Dewey Classification</td>
+    <td>field_dewey_classification</td>
+    <td>Not in use</td>	
+</tr>
+<tr>
+    <td>Edition</td>
+    <td>field_edition</td>
+    <td>Not in use</td>	
+</tr>
+<tr>
+    <td>ISBN</td>
+    <td>field_isbn</td>
+    <td>Not in use</td>	
+</tr>
+<tr>
+    <td>Library of Congress Classification</td>
+    <td>field_lcc_classification</td>
+    <td>Not in use</td>	
+</tr>
+<tr>
+    <td>Local Identifier</td>
+    <td>field_local_identifier</td>
+    <td>Use did not fit our local identifier perameters</td>	
+</tr>
+<tr>
+    <td>Note</td>
+    <td>field_note</td>
+    <td>Not in use</td>	
+</tr>
+<tr>
+    <td>OCLC Number</td>
+    <td>field_oclc_number</td>
+    <td>Not in use</td>	
+</tr>
+<tr>
+    <td>Physical Form</td>
+    <td>field_physical_form</td>
+    <td>Not in use</td>	
+</tr>
+<tr>
+    <td>Place Published</td>
+    <td>field_place_published</td>
+    <td>Not in use</td>	
+</tr>
+<tr>
+    <td>Subjects (name)</td>
+    <td>field_subjects_name</td>
+    <td>Not in use</td>	
+</tr>
+<tr>
+    <td>Table Of Contents</td>
+    <td>field_table_of_contents</td>
+    <td>Not in use</td>	
+</tr>
+<tr>
+    <td>Temporal Subject</td>
+    <td>field_temporal_subject</td>
+    <td>Not in use
+</tr>
+<tr>
+    <td>Label</td>
+    <td>uid*</td>
+    <td>Presumable Use...</td>	
+</tr>
+</table>
+<p>*not Drupal field</p>
 <dl>
-	<p><i>Last Updated: </i>06/14/2022</p>
+	<p><i>Last Updated: </i>09/0722</p>
 </dl>
 </body>
 </html>
