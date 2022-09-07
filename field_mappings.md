@@ -23,7 +23,7 @@
 	<p><b>Drupal Field Name</b>: Extent/Text (plain)</p>
 	<p><b>Migration Field Name</b>: extent</p>
 	<p><b>Islandora 7 Field Name</b>: extent</p>
-	<p><b>Islandora 7 Public Name</b>: </p>
+	<p><b>Islandora 7 Public Name</b>: N/A</p>
 	<p><b>BePress Name</b>: N/A</p>
 	<p><b>BePress Field Name</b>:N/A </p>
 	<p><b>RDA</b>: 3.4</p>
