@@ -337,17 +337,17 @@
   <tr>
     <th>Label</th>
     <th>Machine Name</th>
-    <th>Presumable Use</th>
+    <th>Notes</th>
   </tr>
 <tr>
     <td>changed*</td>
     <td></td>
-    <td>Notes</td>	
+    <td>Presumable Use...</td>	
 </tr>
 <tr>
     <td>created*</td>
     <td></td>
-    <td>Presumable Use</td>	
+    <td>Presumable Use...</td>	
 </tr>
 <tr>
     <td>Description_OBSOLETE</td>
