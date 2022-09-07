@@ -23,25 +23,28 @@
 		<th><a href="Newspapers.md">Newspapers</a></th>
   </tr>
  </table>
-<p>Fields used in Archives Master Sheet</p>
+<p>Fields used in Archives Main Sheet</p>
 <table>
   <tr>
-    <th>IMI Column</th>
+  	<th>Spreadsheet Column</th>
 	<th>Front-end name</th>
-    <th>Obligation</th>
-    <th>Repeatability</th>
+  	<th>Obligation</th>
+  	<th>Repeatability</th>
 	<th>Public Field</th>
+	<th>Additional Note</th>
+	  
   </tr>
   <tr>
-   	 <td><a href=""></a></td>
-	<td></td>
-   	 <td></td>
-   	 <td></td>
-	<td></td>
+	<td><a href="field_extent.md">field_extent</a></td>
+	<td>Extent</td>
+  	<td>Required, if applicable</td>
+  	<td>No</td>
+	<td>Yes</td>
+	<td>Additional Note</td>
   </tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i><06/27/2022</p>
+	<p><i>Last Updated: </i><09/07/2022</p>
 </dl>
 </body>
 </html>
