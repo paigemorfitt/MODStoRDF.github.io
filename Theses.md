@@ -17,7 +17,7 @@
 <table>
    <tr>
 		<th><a href="Archives.md">Archives</a></th>
-		<th><a href="Theses.md">Theses</a></th>
+		<th>Theses</th>
 		<th><a href="scholarship.md">Scholarship</a></th>
 		<th><a href="Offices&Programs.md">Offices & Programs</a></th>
 		<th><a href="Newspapers.md">Newspapers</a></th>
@@ -26,70 +26,24 @@
 <p>Fields in use for Theses Master Sheet.</p>
 <table>
   <tr>
-    <th>IMI Column</th>
+  	<th>Spreadsheet Column</th>
 	<th>Front-end name</th>
-    <th>Obligation</th>
-    <th>Repeatability</th>
+  	<th>Obligation</th>
+  	<th>Repeatability</th>
 	<th>Public Field</th>
+	<th>Additional Note</th>
+	  
   </tr>
   <tr>
-    <td><a href="abstract.md">field_abstract</a></td>
-	<td>Abstract</td>
-    <td>Required</td>
-    <td>No</td>
+	<td><a href="field_extent.md">field_extent</a></td>
+	<td>Extent</td>
+  	<td>Required, if applicable</td>
+  	<td>No</td>
 	<td>Yes</td>
-  </tr>
-  <tr>
-	<td><a href="access_condition.md">access_condition</a></td>
-	<td>Limited Access</td>
-    <td>Required, if applicable</td>
-    <td>No</td>
-	<td>Yes</td>
-  </tr>
-  <tr>
-    <td><a href="advisor.md">advisors</a></td>
-	<td>Advisor</td>
-    <td>Required, if applicable</td>
-    <td>Yes</td>
-	<td>Yes</td>
-  </tr>  
-  <tr>
-    <td><a href="cmodel.md">cmodel</a></td>
-	<td>N/A</td>
-    <td>Required</td>
-    <td>No</td>
-	<td>No</td>
-  </tr>
-  <tr>
-    <td><a href="coverage_spatial.md">coverage_spatial</a></td>
-	<td>Geographic Subject</td>
-    <td>Recommended, if applicable</td>
-    <td>Yes</td>
-	<td>Yes</td>
-  </tr> 
-  <tr>
-    <td><a href="date.display.md">date_display</a></td>
-	<td>Date</td>
-    <td>Recommended, if applicable</td>
-    <td>No</td>
-	<td>Yes</td>
-  </tr> 
-  <tr>
-    <td><a href="date.encoded.md">date_encoded</a></td>
-	<td>N/A</td>
-    <td>Recommended, if applicable</td>
-    <td>No</td>
-	<td>No</td>
-  </tr>
-  <tr>
-    <td><a href="date.sort.md">date_sort</a></td>
-	<td>N/A</td>
-    <td>Required, if applicable. </td>
-    <td>No</td>
-	<td>No</td>
+	<td>Additional Note</td>
   </tr>
 </table>
-	<p><i>Last Updated: </i>05/05/2021</p>
+	<p><i>Last Updated: </i>09/07/2022</p>
 </dl>
 </body>
 </html>
