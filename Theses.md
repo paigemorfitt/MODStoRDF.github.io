@@ -20,7 +20,6 @@
 		<th>Theses</th>
 		<th><a href="scholarship.md">Scholarship</a></th>
 		<th><a href="Offices&Programs.md">Offices & Programs</a></th>
-		<th><a href="Newspapers.md">Newspapers</a></th>
   </tr>
  </table>
 <p>Fields in use for Theses Main Sheet.</p>
