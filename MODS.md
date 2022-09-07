@@ -32,7 +32,7 @@
 		<li><a href="mods.originInfo_place_placeTerm.md">originInfo/place/placeTerm</a></li>
 		<li><a href="mods.originInfo_publisher.md">originInfo/publisher</a></li>
 		<li><a href="mods.part_detail_number.md">part/detail/number</a></li>
-		<li><a href="mods.physicalDescription.md">physicalDescription/extent</a></li>
+		<li><a href="mods.physicalDescription.extent.md">physicalDescription/extent</a></li>
 		<li><a href="mods.note.md">relatedItem/note</a></li>
 		<li><a href="mods.relatedItem.part.text.md">relatedItem/part/text</a></li>
 		<li><a href="mods.subject_geographic.md">subject/geographic</a></li>
