@@ -18,7 +18,7 @@
    <tr>
 		<th><a href="Archives.md">Archives</a></th>
 		<th><a href="Theses.md">Theses</a></th>
-		<th><a href="scholarship.md">Scholarship</a></th>
+		<th>Scholarship</th>
 		<th><a href="Offices&Programs.md">Offices & Programs</a></th>
 		<th><a href="Newspapers.md">Newspapers</a></th>
   </tr>
