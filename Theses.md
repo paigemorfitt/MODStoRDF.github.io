@@ -23,7 +23,7 @@
 		<th><a href="Newspapers.md">Newspapers</a></th>
   </tr>
  </table>
-<p>Fields in use for Theses Master Sheet.</p>
+<p>Fields in use for Theses Main Sheet.</p>
 <table>
   <tr>
   	<th>Spreadsheet Column</th>
