@@ -22,7 +22,7 @@
 		<th><a href="Offices&Programs.md">Offices & Programs</a></th>
   </tr>
  </table>
-<p>Fields used in Archives Main Sheet</p>
+<p>Fields used in Archives Main Sheet including Newspapers</p>
 <table>
   <tr>
   	<th>Spreadsheet Column</th>
