@@ -64,12 +64,18 @@
 	</td>
 </tr>
 </table>
-<dl>
-	<dd><b>Related Fields</b></dd>
-			| <a href="mods.physicalDescription.extent.md">MODS/physicalDescription/extent | 
-			<a href="DrupalFields.md">Drupal Fields</a> | 
-			<a href="rdf.dcterms.extent.md">RDF/dcterms:extent</a> | 
-</dl>
-<p><i>Last Updated: </i></font>02/02/2022</p>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.physicalDescription.extent.md">physicalDescription/extent </a></td> 
+		<td><a href="DrupalFields.md#Extent">Extent</a></td>
+		<td><a href="rdf.dcterms.extent.md">dcterms:extent</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i></font>09/07/2022</p>
 </body>
 </html>
