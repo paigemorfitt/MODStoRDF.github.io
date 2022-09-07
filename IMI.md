@@ -228,7 +228,7 @@
 		<li><a href="#removed">wf_areyouuploadingaf1</a> - removed</li>
 		<li><a href="#removed">year_conference</a> - removed</li>	
 </details>
-<h2 id="removed">Removed from Master Sheets</h2>
+<h2 id="removed">Removed from Main Sheets</h2>
 <p>This column has been removed based on discussions by the ARMINDA Metadata Working Group.</p>	
 	<li>abstract_format: format of abstract.</li>
 	<li>accession_number:  number associated with gallery items</li>
