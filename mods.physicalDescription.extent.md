@@ -41,12 +41,18 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-	<dd><b>Related Fields</b></dd>
-			| <a href="field_extent.md">field_extent</a> | 
-			<a href="DrupalFields">Drupal Field</a> | 
-			 <a href="rdf.dcterms.extent.md">RDF/dcterms:extent</a> | 
-</dl>
-<p><i>Last Updated: </i></font>09/27/2021</p>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_extent.md">field_extent</a></td> 
+		<td><a href="DrupalFields.md#Extent">Extent</a></td>
+		<td><a href="rdf.dcterms.extent.md">dcterms:extent</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i></font>09/07/2022</p>
 </body>
 </html>
