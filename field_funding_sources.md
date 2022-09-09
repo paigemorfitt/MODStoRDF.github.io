@@ -67,7 +67,7 @@
 	</tr>
 	<tr>
 		<td><a href="mods.name.md">name/namePart</a></td> 
-		<td><a href="DrupalFields.md#Funding-Sources">Funding Sources</a></td>
+		<td><a href="DrupalFields.md#Funding">Funding</a></td>
 		<td><a href="rdf.rdau.p60451.md">rdau:P60451</a></td>
 	</tr>
 </table>
