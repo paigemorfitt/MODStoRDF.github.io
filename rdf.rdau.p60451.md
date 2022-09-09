@@ -32,12 +32,18 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-	<dd><b>Related Fields</b></dd>
-				| <a href="field_funding_sources.md">field_funding_sources</a> | 
-				<a href="DrupalFields.md">Drupal Fields</a> |
-				<td><a href="mods.name.md">MODS/name/namePart</a> | 
-</dl>
-<p><i>Last Updated: </i>09/27/2021</p>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+	</tr>
+	<tr>
+		<td><a href="field_funding_source">field_funding_source</a></td>
+		<td><a href="mods.name.md">name/namePart</a></td> 
+		<td><a href="DrupalFields.md#Funding">Funding</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>09/09/2022</p>
 </body>
 </html>
