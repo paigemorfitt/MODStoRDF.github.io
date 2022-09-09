@@ -39,10 +39,18 @@
   	<td>Required, if applicable</td>
   	<td>No</td>
 	<td>Yes</td>
-	<td>Additional Note</td>
+	<td></td>
+  </tr>
+  <tr>
+	<td><a href="field_extent.md">field_funding_sources</a></td>
+	<td>Funding</td>
+  	<td>Required, if applicable</td>
+  	<td>No</td>
+	<td>Yes</td>
+	<td></td>
   </tr>
 </table>
-<p><i>Last Updated: </i>09/07/2022</p>
+<p><i>Last Updated: </i>09/09/2022</p>
 </dl>
 </body>
 </html>
