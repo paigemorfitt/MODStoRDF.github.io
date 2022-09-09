@@ -39,7 +39,7 @@
 		<th>Drupal Field</th>
 	</tr>
 	<tr>
-		<td><a href="field_funding_source">field_funding_source</a></td>
+		<td><a href="field_funding_sources.md">field_funding_sources</a></td>
 		<td><a href="mods.name.md">name/namePart</a></td> 
 		<td><a href="DrupalFields.md#Funding">Funding</a></td>
 	</tr>
