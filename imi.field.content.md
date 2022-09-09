@@ -34,10 +34,11 @@
 <dd><ins>Obligation Required, if applicable</ins>
 	<ul>
 		<li>Extent (<a href="field_extent.md">field_extent</a>)</li>
+		<li>Funding (<a href="field_funding_sources.md">field_funding_sources)</a></li>
 	</ul>
 </dd> 
 <dl>
-	<p><font color="red"><i>Last Updated: </i></font>09/07/2022</p>
+	<p><font color="red"><i>Last Updated: </i></font>09/09/2022</p>
 </dl>
 </body>
 </html>
