@@ -35,6 +35,27 @@
 	<p><b>Notes</b>: N/A</p>
 	<p><b>updated</b>: 09/07/2022</p>
 </details>
+<details>
+<summary>field_funding_sources</summary>
+	<p><b>Active field name (spreadsheet)</b>: field_funding_sources</p>
+	<p><b>Islandora 8 Field Name</b>: field_funding_sources</p>
+	<p><b>Islandora 8 Public Name</b>: Funding</p>
+	<p><b>Drupal Field Name</b>: Funding/Text(formatted, long)</p>
+	<p><b>Migration Field Name</b>: funding_sources</p>
+	<p><b>Islandora 7 Field Name</b>: funding_sources</p>
+	<p><b>Islandora 7 Public Name</b>: Funder</p>
+	<p><b>BePress Name</b>: funding_sources</p>
+	<p><b>BePress Field Name</b>: Research Funding Source or OCS Program</p>
+	<p><b>RDA</b>: 20.2, I.1</p>
+	<p><b>MARC</b>: 526, 536</p>
+	<p><b>DACS</b>: 5.2</p>
+	<p><b>EAD</b>: /mandate/ or /mandates/?, /generalContext/?</p>
+	<p><b>MODS</b>: name; namePart</p>
+	<p><b>RDF</b>: rdau:P60451</p>
+	<p><b>Notes</b>: </p>
+	<p><b>Updated</b>: 9/9/2022</p>
+</details>
+
 	
 
 </body>
