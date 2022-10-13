@@ -28,7 +28,7 @@
 </dd> 
 <dd><ins>Obligation Required</ins>
 	<ul>
-		<li></li>
+		<li>Issue (<a href="field_issue_num.md">field_issue_num</a>)</li>
 	</ul>
 </dd> 
 <dd><ins>Obligation Required, if applicable</ins>
@@ -38,7 +38,7 @@
 	</ul>
 </dd> 
 <dl>
-	<p><font color="red"><i>Last Updated: </i></font>09/09/2022</p>
+	<p><i>Last Updated: </i>10/13/2022</p>
 </dl>
 </body>
 </html>
