@@ -277,8 +277,8 @@
 </tr> 
 <tr>
 	<td><a href="license_file.md" class ="magic-button" title="ARMINDA Use: Field used for ingest into ARMINDA. ">license_file</a></td>
-	<td>N.A</td>
-	<td></td>
+	<td>N/A</td>
+	<td>N/A</td>
 	<td>N/A</td>
 </tr>
 <tr>
