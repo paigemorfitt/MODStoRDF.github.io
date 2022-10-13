@@ -50,7 +50,7 @@
 	</tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i><10/13/2022</p>
+	<p><i>Last Updated: </i>10/13/2022</p>
 </dl>
 </body>
 </html>
