@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>RDF/schema:issueNumber</h1>
+<h1>schema:issueNumber</h1>
 <table>
 <tr>
 	<th>Definition</th>
@@ -31,12 +31,19 @@
 	<td>PublicationIssues</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="field_issue_num.md">field_issue_num</a> | 
-		<a href="DrupalFields.md#issue">Drupal Fields</a> |
-		<a href="mods.part.detail.number.md">MODS/part/detail/number</a> |
-</dl>
-<p><i>Last Updated: </i>09/29/2021</p>
+<dt><b>Related Fields</b></dt>
+	<table>
+		<tr>
+			<th>Spreadsheet</th>
+			<th>MODS</th>
+			<th>Drupal Field</th>
+		</tr>
+		<tr>
+			<td><a href="field_issue_num.md">field_issue_num</a></td>
+			<td><a href="mods.part.detail.number.md">part/detail/number</a></td> 
+			<td><a href="DrupalFields.md#issue">Issue</a></td>
+		</tr>
+	</table>
+<p><i>Last Updated: </i>10/13/2022</p>
 </body>
 </html>
