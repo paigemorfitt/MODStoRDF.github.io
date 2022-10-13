@@ -42,6 +42,8 @@
 	<td>
 		<ul>
 			<li>This does not have a purpose unless there are compound objects. Once items have PIDS, this is moot.</li>
+			<li>Similar properties as field_weight</li>
+			<li>This field is not ingested into Islandora 8. </li>
 			<li>This field is for internal non-ingest purposes only</li>
 		</ul>
 	</td>
@@ -52,6 +54,6 @@
 </tr>
 </table>
 </details>
-<p>Last Updated: 08/31/2021</p>
+<p>Last Updated: 10/13/2022</p>
 </body>
 </html>
