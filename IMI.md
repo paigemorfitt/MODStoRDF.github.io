@@ -147,7 +147,7 @@
 <summary>K's & L's</summary>
 <br>
 		<li><a href="#removed">lc_subject</a>: (removed)</li>
-		<li><a href="license_file.md">license_file</a></li>		
+		<li><a href="license_file.md">license_file</a>: Field used for ingest into ARMINDA for BePress and/or Islandora 7,  previous ingest into ARMINDA. Currently a non-ingest field used to hold s3 bucket or  location of item</li>		
 		<li><a href="#removed">lighting_design</a>: (removed)</li>
 		<li><a href="line_num.md">line_num</a></li>
 		<li><a href="#removed">local_handle</a>: (removed)</li>
