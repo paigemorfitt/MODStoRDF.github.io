@@ -94,6 +94,26 @@
 	<p><b>RDF</b> : N/A</p>
 	<p><b>Notes</b> : N/A</p>
 	<p><b>updated</b> : 10/13/2022</p>
-</details>	
+</details>
+<details>
+<summary>lighting_design</summary>
+	<p><b>Active field name (spreadsheet)</b> : N/A</p>
+	<p><b>Islandora 8 Field Name</b> : N/A</p>
+	<p><b>Islandora 8 Public Name</b> : N/A</p>
+	<p><b>Drupal Field Name</b> : N/A</p>
+	<p><b>Migration Field Name</b> : N/A</p>
+	<p><b>Islandora 7 Field Name</b> : lighting_design</p>
+	<p><b>Islandora 7 Public Name</b> : Lighting Design</p>
+	<p><b>BePress Name</b> : lighting_design</p>
+	<p><b>BePress Field Name</b> : Lighting Design</p>
+	<p><b>RDA</b> : 19.3; 20.2; 22.1</p>
+	<p><b>MARC</b> : 700</p>
+	<p><b>DACS</b> : N/A</p>
+	<p><b>EAD</b> : N/A</p>
+	<p><b>MODS</b> : name--namePart; role--roleTerm</p>
+	<p><b>RDF</b> : N/A</p>
+	<p><b>Notes</b> : Field deleted, absorbed by contributor role in field_linked_agent</p>
+	<p><b>updated</b> : 10/13/2022</p>
+</details>
 </body>
 </html>
