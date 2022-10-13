@@ -54,6 +54,7 @@
 	<td>Former name : issue; Former name : IMI/issue_num</td>
 </tr>
 </table>
+<dt><b>Related Fields</b></dt>
 <table>
 	<tr>
 		<th>MODS</th>
