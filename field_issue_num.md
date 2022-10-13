@@ -54,12 +54,18 @@
 	<td>Former name : issue; Former name : IMI/issue_num</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="mods.part.detail.number.md">MODS/part/detail/number</a> | 
-		<a href="DrupalFields.md#issue">Drupal Fields</a> |
-		<a href="rdf.schema.issueNumber.md">RDF/schema:issueNumber</a> |
-</dl>
-<p><i>Last Updated: </i>09/29/2021</p>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.part.detail.number.md">part/detail/number</a></td> 
+		<td><a href="DrupalFields.md#issue">Issue</a></td>
+		<td><a href="rdf.schema.issueNumber.md">schema:issueNumber</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>10/13/2022</p>
 </body>
 </html>
