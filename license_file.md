@@ -15,11 +15,11 @@
 <table>
 <tr>
 	<th>ARMINDA Use</th>
-	<td>Field used for ingest into ARMINDA. </td>
+	<td>Field used for ingest into ARMINDA for BePress and/or Islandora 7,  previous ingest into ARMINDA. Currently a non-ingest field used to hold s3 bucket or  location of item </td>
 </tr>
 <tr>
 	<th>Obligation</th>
-	<td>Required</td>
+	<td>Optional</td>
 </tr>
 <tr>
 	<th>Repeatable</th>
@@ -41,9 +41,11 @@
 	<th>Notes</th>
 	<td>
 		<ul>
+			<li>Does not get transformed into MODS/R</li>
 			<li>Temporary location for information used for item ingest into ARMINDA</li>
 			<li>Includes files such as permission forms for theses</li>
 			<li>Maintain for internal reasons</li>
+			<li>[see master spreadsheet guidelines for specific details]</li>
 		</ul>
 	</td>
 </tr>
@@ -52,6 +54,6 @@
 	<td>N/A</td>
 </tr>
 </table>
-<p><i>Last Updated: </i>08/27/2021</p>
+<p><i>Last Updated: </i>10/13/2022</p>
 </body>
 </html>
