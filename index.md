@@ -284,7 +284,7 @@
 <tr>
 	<td><a href="line_num.md" class ="magic-button" title="ARMINDA Use: The line_number is the CSV line number that the IMI module needs in order to keep the CSV in order.">line_num</a></td>
 	<td>N/A</td>
-	<td></td>
+	<td>N/A</td>
 	<td>N/A</td>
 </tr> 
 <tr>
