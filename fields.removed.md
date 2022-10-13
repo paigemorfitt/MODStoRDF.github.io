@@ -80,8 +80,8 @@
 		<li>IMI/irb_number</li>
 		<li>IMI/issnum</li>
 		<li>IMI/item_identifier</li>
-		<li>IMI/lc_subject -- Topic of the resource / A term or phrase representing the primary topic(s) on which a work is focused.</li>
-		<li>IMI/lightning_design</li>
+		<li>lc_subject -- Topic of the resource / A term or phrase representing the primary topic(s) on which a work is focused.</li>
+		<li>lightning_design -- Person, group, or company given credit for design of lightning depicted in item</li>
 		<li>IMI/local_handle</li>
 		<li>IMI/location</li>
 		<li>IMI/medium</li>
