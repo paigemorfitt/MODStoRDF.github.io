@@ -82,7 +82,7 @@
 		<li>IMI/item_identifier</li>
 		<li>lc_subject -- Topic of the resource / A term or phrase representing the primary topic(s) on which a work is focused.</li>
 		<li>lightning_design -- Person, group, or company given credit for design of lightning depicted in item</li>
-		<li>IMI/local_handle</li>
+		<li>local_handle -- [Presumable location of item before ingest]</li>
 		<li>IMI/location</li>
 		<li>IMI/medium</li>
 		<li>IMI/multimedia_format</li>
