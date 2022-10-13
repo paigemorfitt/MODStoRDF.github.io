@@ -115,5 +115,25 @@
 	<p><b>Notes</b> : Field deleted, absorbed by contributor role in field_linked_agent</p>
 	<p><b>updated</b> : 10/13/2022</p>
 </details>
+<details>
+<summary>field_issue_num</summary>
+	<p><b>Active field name (spreadsheet)</b> : field_issue_num</p>
+	<p><b>Islandora 8 Field Name</b> : field_issue_num</p>
+	<p><b>Islandora 8 Public Name</b> : Issue</p>
+	<p><b>Drupal Field Name</b> : Issue/Text(plain)</p>
+	<p><b>Migration Field Name</b> : IMI/issue_num; IMI/issue</p>
+	<p><b>Islandora 7 Field Name</b> : N/A</p>
+	<p><b>Islandora 7 Public Name</b> : N/A</p>
+	<p><b>BePress Name</b> : N/A</p>
+	<p><b>BePress Field Name</b> : N/A</p>
+	<p><b>RDA</b> : 2.3.2</p>
+	<p><b>MARC</b> : 245 |n</p>
+	<p><b>DACS</b> : N/A</p>
+	<p><b>EAD</b> : N/A</p>
+	<p><b>MODS</b> : part--detail--number</p>
+	<p><b>RDF</b> : schema:issueNumber</p>
+	<p><b>Notes</b> : </p>
+	<p><b>updated</b> : 10/13/2022</p>
+</details>
 </body>
 </html>
