@@ -57,20 +57,24 @@
 	<td>N/A</td>
 </tr>
 </table>
-</dd>
- <dl>
 	<dt><b>Related Fields</b></dt>
-		 <dd> 
-			| <a href="field_issue_num.md">field_issue_num</a> | 
-			<a href="DrupalFields.md#issue">Drupal Fields</a> |
-			<a href="rdf.schema.issueNumber.md">RDF/schema:issueNumber</a> | 
-		</dd>
-		<dd>
-		  | <a href="field_volume_num.md">field_volume_num</a> | 
-		  	<a href="DrupalFields.md#volume">Drupal Fields</a> |
-		  | <a href="rdf.schema.volumeNumber.md">RDF/schema:volumeNumber</a> | 
-		 </dd>
-</dl>
-<p><i>Last Updated: </i>01/06/2022</p>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_issue_num.md">field_issue_num</a></td>
+		<td><a href="DrupalFields.md#issue">Issue</a></td>
+		<td><a href="rdf.schema.issueNumber.md">schema:issueNumber</a></td>
+	</tr>
+	<tr>
+		<td><a href="field_volume_num.md">field_volume_num</a></td>
+		<td><a href="DrupalFields.md#volume">Volume</a></td>
+		<td><a href="rdf.schema.volumeNumber.md">schema:volumeNumber</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>10/13/2022</p>
 </body>
 </html>
