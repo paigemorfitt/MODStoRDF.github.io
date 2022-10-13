@@ -74,7 +74,7 @@
 		<li>IMI/identifier</li>
 		<li>image_caption -- [People depicted in Image of Harper Joy collection]</li>
 		<li>image_source -- [Name of collection for images]</li>
-		<li>IMI/instructor</li>
+		<li>instructor -- identifies instructor of a course for which student did work that is in ARMINDA</li>
 		<li>IMI/insurance_value</li>
 		<li>irb_information -- [use unknown]</li>
 		<li>IMI/irb_number</li>
