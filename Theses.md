@@ -39,10 +39,18 @@
   	<td>Required, if applicable</td>
   	<td>No</td>
 	<td>Yes</td>
-	<td>Additional Note</td>
+	<td></td>
   </tr>
+<tr>
+	<td><a href="license_file.md">license_file</a></td>
+	<td>N/A</td>
+	<td>Required</td>
+	<td>No</td>
+	<td>No</td>
+	<td>Record file name of permission/license document here</td>
+</tr>
 </table>
-	<p><i>Last Updated: </i>09/07/2022</p>
+	<p><i>Last Updated: </i>10/13/2022</p>
 </dl>
 </body>
 </html>
