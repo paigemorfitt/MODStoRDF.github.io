@@ -80,7 +80,7 @@
 		<li>IMI/irb_number</li>
 		<li>IMI/issnum</li>
 		<li>IMI/item_identifier</li>
-		<li>IMI/lc_subject</li>
+		<li>IMI/lc_subject -- Topic of the resource / A term or phrase representing the primary topic(s) on which a work is focused.</li>
 		<li>IMI/lightning_design</li>
 		<li>IMI/local_handle</li>
 		<li>IMI/location</li>
@@ -101,7 +101,7 @@
 		<li>IMI/seq_number</li>
 	</ul>
 </dd> 
-	<p><i>Last Updated: </i>03/25/2022</p>
+	<p><i>Last Updated: </i>10/13/2022</p>
 </dl>
 </body>
 </html
