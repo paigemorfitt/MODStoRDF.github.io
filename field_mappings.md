@@ -155,5 +155,25 @@
 	<p><b>Notes</b> : </p>
 	<p><b>updated</b> : 10/13/2022</p>
 </details>
+<details>
+<summary>instructor</summary>
+	<p><b>Active field name (spreadsheet)</b> : N/A</p>
+	<p><b>Islandora 8 Field Name</b> : N/A</p>
+	<p><b>Islandora 8 Public Name</b> : N/A</p>
+	<p><b>Drupal Field Name</b> : N/A</p>
+	<p><b>Migration Field Name</b> : N/A</p>
+	<p><b>Islandora 7 Field Name</b> : instructor</p>
+	<p><b>Islandora 7 Public Name</b> : Instructor(s)</p>
+	<p><b>BePress Name</b> : instructor</p>
+	<p><b>BePress Field Name</b> : Instructor</p>
+	<p><b>RDA</b> : 20.2</p>
+	<p><b>MARC</b> : 700</p>
+	<p><b>DACS</b> : 12.1</p>
+	<p><b>EAD</b> : /controlaccess//famname//persname/</p>
+	<p><b>MODS</b> : name--namePart; role--roleTerm</p>
+	<p><b>RDF</b> : N/A</p>
+	<p><b>Notes</b> : Field deleted, see field_linked_agent</p>
+	<p><b>updated</b> : 10/13/2022</p>
+</details>
 </body>
 </html>
