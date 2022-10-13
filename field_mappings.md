@@ -55,7 +55,26 @@
 	<p><b>Notes</b>: </p>
 	<p><b>Updated</b>: 9/9/2022</p>
 </details>
-
+<details>
+<summary>lc_subject</summary>
+	<p><b>Active field name (spreadsheet)</b> : N/A</p>
+	<p><b>Islandora 8 Field Name</b> : N/A</p>
+	<p><b>Islandora 8 Public Name</b> : N/A</p>
+	<p><b>Drupal Field Name</b> : N/A</p>
+	<p><b>Migration Field Name</b> : N/A</p>
+	<p><b>Islandora 7 Field Name</b> : lc_subject</p>
+	<p><b>Islandora 7 Public Name</b> : Subject Headings</p>
+	<p><b>BePress Name</b> : lc_subject</p>
+	<p><b>BePress Field Name</b> : Subjects</p>
+	<p><b>RDA</b> : 16.2.2</p>
+	<p><b>MARC</b> : 600; 610 ; 611; 650; 651</p>
+	<p><b>DACS</b> : 2.3; 2.7; 3.1</p>
+	<p><b>EAD</b> : /controlaccess//personalname relator="subject"/; /controlaccess//famname relator="subject"/; /controlaccess//corpname relator="subject"/; /controlaccess//title relator relator="subject"/; /controlaccess//subject/; /controlaccess//geogname relator="subject"/</p>
+	<p><b>MODS</b> : subject--topic</p>
+	<p><b>RDF</b> : N/A</p>
+	<p><b>Notes</b> : Field deleted, absorbed by field_subject</p>
+	<p><b>updated</b> : 10/13/2022</p>
+</details>
 	
 
 </body>
