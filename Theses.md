@@ -24,31 +24,39 @@
  </table>
 <p>Fields in use for Theses Main Sheet.</p>
 <table>
-  <tr>
-  	<th>Spreadsheet Column</th>
-	<th>Front-end name</th>
-  	<th>Obligation</th>
-  	<th>Repeatability</th>
-	<th>Public Field</th>
-	<th>Additional Note</th>
-	  
-  </tr>
-  <tr>
-	<td><a href="field_extent.md">field_extent</a></td>
-	<td>Extent</td>
-  	<td>Required, if applicable</td>
-  	<td>No</td>
-	<td>Yes</td>
-	<td></td>
-  </tr>
-<tr>
-	<td><a href="license_file.md">license_file</a></td>
-	<td>N/A</td>
-	<td>Required</td>
-	<td>No</td>
-	<td>No</td>
-	<td>Record file name of permission/license document here</td>
-</tr>
+	<tr>
+		<th>Spreadsheet Column</th>
+		<th>Front-end name</th>
+		<th>Obligation</th>
+		<th>Repeatability</th>
+		<th>Public Field</th>
+		<th>Additional Note</th>
+	</tr>
+  	<tr>
+		<td><a href="field_extent.md">field_extent</a></td>
+		<td>Extent</td>
+		<td>Required, if applicable</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td></td>
+  	</tr>
+	<tr>
+		<td><a href="license_file.md">license_file</a></td>
+		<td>N/A</td>
+		<td>Required</td>
+		<td>No</td>
+		<td>No</td>
+		<td>Record file name of permission/license document here</td>
+	</tr>
+	<tr>
+		<td><a href="line_num.md">line_num</a></td>
+		<td>N/A</td>
+		<td>Required</td>
+		<td>No</td>
+		<td>No</td>
+		<td>Not used on ingest tabs, similar properties as field_weight</td>
+	</tr>
+	
 </table>
 	<p><i>Last Updated: </i>10/13/2022</p>
 </dl>
