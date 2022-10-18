@@ -32,12 +32,19 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-	<dd><b>Related Fields</b></dd>
-			<a href="field_description_long.md">[Spreadsheet]field_description_long</a> | 
-			<a href="DrupalFields.md#Description">[Drupal Field]Description</a> | 
-			<a href="mods.abstract.md">[MODS]abstract</a>
-</dl>
-<p><i>Last Updated: </i></font>07/07/2022</p>
+	<p>Related fields</p>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_description_long.md">field_description_long</a> </td>
+		<td><a href="DrupalFields.md#Description">Description</a></td>
+		<td><a href="mods.abstract.md">abstract</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>10/18/2022</p>
 </body>
 </html>
