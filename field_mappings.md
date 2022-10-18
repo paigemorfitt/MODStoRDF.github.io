@@ -194,18 +194,38 @@
 	<p><b>RDF</b> : N/A</p>
 	<p><b>Notes</b> : Field deleted</p>
 	<p><b>updated</b> : 10/13/2022</p>
-</details>	
+</details>
+<details>
+<summary>medium</summary>
+	<p><b>Active field name (spreadsheet)</b> : N/A</p>
+	<p><b>Islandora 8 Field Name</b> : N/A</p>
+	<p><b>Islandora 8 Public Name</b> : N/A</p>
+	<p><b>Drupal Field Name</b> : N/A</p>
+	<p><b>Migration Field Name</b> : N/A</p>
+	<p><b>Islandora 7 Field Name</b> : medium</p>
+	<p><b>Islandora 7 Public Name</b> : Medium</p>
+	<p><b>BePress Name</b> : medium</p>
+	<p><b>BePress Field Name</b> : Medium</p>
+	<p><b>RDA</b> : 7.2</p>
+	<p><b>MARC</b> : 336; 655</p>
+	<p><b>DACS</b> : 2.5; 3.1</p>
+	<p><b>EAD</b> : genreform</p>
+	<p><b>MODS</b> : physicalDescription/form</p>
+	<p><b>RDF</b> : N/A</p>
+	<p><b>Notes</b> : Field deleted, absorbed by field_genre</p>
+	<p><b>updated</b> : 10/18/2022</p>
+</details>
 <details>
 <summary>MODS/dateIssued.Start</summary>
-	<p><b>Active field name (spreadsheet)</b> : </p>
-	<p><b>Islandora 8 Field Name</b> : </p>
-	<p><b>Islandora 8 Public Name</b> : </p>
-	<p><b>Drupal Field Name</b> : </p>
+	<p><b>Active field name (spreadsheet)</b> : N/A</p>
+	<p><b>Islandora 8 Field Name</b> : N/A</p>
+	<p><b>Islandora 8 Public Name</b> : N/A</p>
+	<p><b>Drupal Field Name</b> : N/A</p>
 	<p><b>Migration Field Name</b> : MODS/dateIssued.Start</p>
-	<p><b>Islandora 7 Field Name</b> : </p>
-	<p><b>Islandora 7 Public Name</b> : </p>
-	<p><b>BePress Name</b> : </p>
-	<p><b>BePress Field Name</b> : </p>
+	<p><b>Islandora 7 Field Name</b> : N/A</p>
+	<p><b>Islandora 7 Public Name</b> : N/A</p>
+	<p><b>BePress Name</b> : N/A</p>
+	<p><b>BePress Field Name</b> : N/A</p>
 	<p><b>RDA</b> : 2.7.6, 2.8.6, 2.9.6, 2.11, 2.10.6</p>
 	<p><b>MARC</b> : 008/-7-14, 260, 264</p>
 	<p><b>DACS</b> : 2.4</p>
