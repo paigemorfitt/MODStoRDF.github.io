@@ -71,6 +71,7 @@
 	<td>N/A</td>
 </tr>
 </table>
+	<dt>Related fields</dt>
 <table>
 	<tr>
 		<th>Spreadsheet</th>
@@ -82,48 +83,20 @@
 		<td><a href="DrupalFields.md#Linked-Agent">Linked Agent</a></td>
 		<td><a href="rdf.relators.md#localadv">local:adv</a></td>
 	</tr>
-</table>
-	<table>
-	<tr>
-		<th>Spreadsheet</th>
-		<th>Drupal Field</th>
-		<th>RDF</th>
-	</tr>
 	<tr>
 		<td><a href="contributors.md">contributors</a></td> 
 		<td><a href="DrupalFields.md#Linked-Agent">Linked Agent</a></td>
 		<td><a href="rdf.relators.md#relatorsctb">relators:ctb</a></td>
-	</tr>
-</table>
-	<table>
-	<tr>
-		<th>Spreadsheet</th>
-		<th>Drupal Field</th>
-		<th>RDF</th>
 	</tr>
 	<tr>
 		<td><a href="creators.md">creators</a></td>
 		<td><a href="DrupalFields.md#Linked-Agent">Linked Agent</a></td>
 		<td><a href="rdf.relators.md#relatorscre">relators:cre</a></td>
 	</tr>
-</table>
-	<table>
-	<tr>
-		<th>Spreadsheet</th>
-		<th>Drupal Field</th>
-		<th>RDF</th>
-	</tr>
 	<tr>
 		<td><a href="department.md">department</a></td>
 		<td><a href="DrupalFields.md#Linked-Agent">Linked Agent</a></td>
 		<td><a href="rdf.relators.md#localdpt">local:dpt</a></td>
-	</tr>
-</table>
-	<table>
-	<tr>
-		<th>Spreadsheet</th>
-		<th>Drupal Field</th>
-		<th>RDF</th>
 	</tr>
 	<tr>
 		<td><a href="field_funding_sources.md">field_funding_sources</a></td>
@@ -131,7 +104,9 @@
 		<td><a href="rdf.rdau.p60451.md">rdau:P60451</a></td>
 	</tr>
 </table>
-<p><i>Last Updated: </i>06/27/2022</p>
+
+
+<p><i>Last Updated: </i>10/18/2022</p>
 </body>
 </html>
 
