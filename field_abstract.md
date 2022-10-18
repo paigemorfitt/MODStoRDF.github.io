@@ -56,6 +56,7 @@
 	<td>some content moved to field_description_long, former name: abstract, contains content from: issnum</td>
 </tr>
 </table>
+	<p>Related fields</p>
 <table>
 	<tr>
 		<th>MODS</th>
