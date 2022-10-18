@@ -33,6 +33,14 @@
 		<th>Additional Note</th>  
 	</tr>
 	<tr>
+		<td><a href="field_description_long.md">field_description_long</a></td>
+		<td>Description</td>
+		<td>Required</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</td>
+	</tr>
+	<tr>
 		<td><a href="field_extent.md">field_extent</a></td>
 		<td>Extent</td>
 		<td>Required, if applicable</td>
