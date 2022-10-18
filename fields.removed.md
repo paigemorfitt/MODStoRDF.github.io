@@ -99,9 +99,10 @@
 		<li>IMI/publication_date</li>
 		<li>IMI/rowNumber</li>
 		<li>IMI/seq_number</li>
+		<li>MODS/dateIssued.Start --[Presumably used for start date of newspaper issue for the use of Islandora 7 Newspaper module] </li>
 	</ul>
 </dd> 
-	<p><i>Last Updated: </i>10/13/2022</p>
+	<p><i>Last Updated: </i>10/18/2022</p>
 </dl>
 </body>
 </html
