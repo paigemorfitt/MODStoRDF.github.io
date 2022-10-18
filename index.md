@@ -356,7 +356,7 @@
 <tr>
     <td>Dewey Classification</td>
     <td>field_dewey_classification</td>
-    <td>Not in use</td>	
+    <td></td>	
 </tr>
 <tr>
     <td>Edition</td>
@@ -421,7 +421,7 @@
 </table>
 <p>*not Drupal field</p>
 <dl>
-	<p><i>Last Updated: </i>09/0722</p>
+	<p><i>Last Updated: </ii>10/18/22</p>
 </dl>
 </body>
 </html>
