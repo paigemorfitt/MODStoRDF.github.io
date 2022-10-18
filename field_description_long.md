@@ -48,7 +48,8 @@
 			<li>Use complete sentences</li>
 			<li>Some content moved from IMI/abstract</li>
 			<li>Contains, italics, bold, accents, and/or special characters</li>
-			<li>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</li>
+			<li>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter") --   Trim whitespace in all cells BEFORE adding extra space in abstract/description in order to have two paragraphs appear in ARMINDA</li>
+			<li>Surround nicknames with quotation marks where applicable</li>
 		</ul>
 	</td>
 </tr>
@@ -75,7 +76,7 @@
 		<td><a href="rdf.dcterms.description.md">dcterms:description</a></td>
 	</tr>
 </table>
-<p><i>Last Updated: </i></font>07/07/2022</p>
+<p><i>Last Updated: </i></font>10/18/2022</p>
 
 </body>
 </html>
