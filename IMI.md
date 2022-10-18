@@ -250,6 +250,21 @@
 	<li>bp_categories: Possibly BePress categories of Academic Discipline</li>
 	<li>broad_creation_date: Date to accomidate a range associated with the creation of an item</li>
 	<li>broad_date: Date to accomidate a range associated with an item</li>
+	<li>calc_thumbnail_image_url (removed)</li>
+	<li>calc_url: Possible URL used in BePress</li>
+	<li>campus_location: Location of art on Whitman College campus where Sheehan art is displayed or stored.</li>
+	<li>catalog_id: Catalog number of museum item</li>
+	<li>city: City of publication</li>		
+	<li>collection_name: Name of collection item is found in.</li>
+	<li>comments: Field for information not held elsewhere.</li>
+	<li>conference_track:Indicates WUC conference track in which item was presented. </li>
+	<li>copyright_notes</li>
+	<li>costume_design: Responsible party credited for the design of costumes depicted in image</li>
+	<li>cover_image_url</li>		
+	<li>create_openurl</li>
+	<li>cultural_affiliation: Affiliation related to item.</li>
+	<li>custom_citation</li>
+	<li>medium: [Field used by Sheehan Gallery for presumable materials associated with artwork/item]</li>
 	<li>MODS/dateIssued.Start: [Presumably used for start date of newspaper issue for the use of Islandora 7 Newspaper module]</li>
 <p><a href="#top">top</a></p>
 <p><i>Last Updated: </i>10/18/2022</p>
