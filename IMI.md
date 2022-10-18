@@ -38,10 +38,10 @@
 <details>
 <summary>B's</summary>
 <br>	
-		<li><a href="#removed">box</a> (removed): Box in which newspapers live in in the Archives</li>
-		<li><a href="#removed">bp_categories</a> (removed): Possibly BePress categories of Academic Discipline</li>
-		<li><a href="#removed">broad_creation_date</a> (removed): Date to accomidate a range associated with the creation of an item</li>
-		<li><a href="#removed">broad_date</a> (removed): Date to accomidate a range associated with an item</li>
+		<li><a href="#removed">box</a> (removed)</li>
+		<li><a href="#removed">bp_categories</a> (removed)</li>
+		<li><a href="#removed">broad_creation_date</a> (removed)</li>
+		<li><a href="#removed">broad_date</a> (removed)</li>
 		<li><a href="bucket.md">bucket</a> : BePress inherited field which indicated the collection --bucket-- an item is associated with.</li>
 		<li><a href="#removed">buy_link</a> (removed)</li>	
 </details>
@@ -156,7 +156,8 @@
 <details>
 <summary>M's & N's</summary>
 <br>
-		<li><a href="#removed">medium</a>: (removed)</li>		
+		<li><a href="#removed">medium</a>: (removed)</li>
+		<li><a href="#removed">MODS/dateIssued.Start</a>: (removed)</li>	
 		<li><a href="#removed">multimedia_format</a>: (removed)</li>
 		<li><a href="#removed">multimedia_url</a>: (removed)</li>
 		<li><a href="#removed">native_filename	</a>: (removed)</li>		
@@ -245,7 +246,12 @@
 	<li>author3_lname: last name of third person responsible for creation of item</li>
 	<li>author3_mname: middle name of third person responsible for creation of item</li>
 	<li>author3_suffix: suffix or additional information about the third person responsible for creation of item</li>
+	<li>box: Box in which newspapers live in in the Archives</li>
+	<li>bp_categories: Possibly BePress categories of Academic Discipline</li>
+	<li>broad_creation_date: Date to accomidate a range associated with the creation of an item</li>
+	<li>broad_date: Date to accomidate a range associated with an item</li>
+	<li>MODS/dateIssued.Start: [Presumably used for start date of newspaper issue for the use of Islandora 7 Newspaper module]</li>
 <p><a href="#top">top</a></p>
-<p><i>Last Updated: </i>06/27/2022</p>
+<p><i>Last Updated: </i>10/18/2022</p>
 </dl>
 </html>
