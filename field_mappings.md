@@ -29,7 +29,7 @@
 	<p><b>RDA</b>: 3.4</p>
 	<p><b>MARC</b>: 300</p>
 	<p><b>DACS</b>: 2.5</p>
-	<p><b>EAD</b>: /physdesc/; /extent/</p>
+	<p><b>EAD</b>: physdesc; extent</p>
 	<p><b>MODS</b>: physicalDescription; extent</p>
 	<p><b>RDF</b>: dcterms:extent</p>
 	<p><b>Notes</b>: N/A</p>
@@ -46,11 +46,11 @@
 	<p><b>Islandora 7 Public Name</b>: Funder</p>
 	<p><b>BePress Name</b>: funding_sources</p>
 	<p><b>BePress Field Name</b>: Research Funding Source or OCS Program</p>
-	<p><b>RDA</b>: 20.2, I.1</p>
-	<p><b>MARC</b>: 526, 536</p>
+	<p><b>RDA</b>: 20.2; I.1</p>
+	<p><b>MARC</b>: 526; 536</p>
 	<p><b>DACS</b>: 5.2</p>
-	<p><b>EAD</b>: /mandate/ or /mandates/?, /generalContext/?</p>
-	<p><b>MODS</b>: name; namePart</p>
+	<p><b>EAD</b>: mandate or mandates?; generalContext?</p>
+	<p><b>MODS</b>: name/namePart</p>
 	<p><b>RDF</b>: rdau:P60451</p>
 	<p><b>Notes</b>: </p>
 	<p><b>Updated</b>: 9/9/2022</p>
@@ -69,8 +69,8 @@
 	<p><b>RDA</b> : 16.2.2</p>
 	<p><b>MARC</b> : 600; 610 ; 611; 650; 651</p>
 	<p><b>DACS</b> : 2.3; 2.7; 3.1</p>
-	<p><b>EAD</b> : /controlaccess//personalname relator="subject"/; /controlaccess//famname relator="subject"/; /controlaccess//corpname relator="subject"/; /controlaccess//title relator relator="subject"/; /controlaccess//subject/; /controlaccess//geogname relator="subject"/</p>
-	<p><b>MODS</b> : subject--topic</p>
+	<p><b>EAD</b> : controlaccess/personalname relator="subject"; controlaccess/famname relator="subject"; controlaccess/corpname relator="subject"; controlaccess/title relator relator="subject"; controlaccess/subject; /controlaccess/geogname relator="subject"</p>
+	<p><b>MODS</b> : subject/topic</p>
 	<p><b>RDF</b> : N/A</p>
 	<p><b>Notes</b> : Field deleted, absorbed by field_subject</p>
 	<p><b>updated</b> : 10/13/2022</p>
@@ -89,7 +89,7 @@
 	<p><b>RDA</b> : 4.4</p>
 	<p><b>MARC</b> : 506</p>
 	<p><b>DACS</b> : 4.1</p>
-	<p><b>EAD</b> : /accessrestrict/</p>
+	<p><b>EAD</b> : accessrestrict</p>
 	<p><b>MODS</b> : N/A</p>
 	<p><b>RDF</b> : N/A</p>
 	<p><b>Notes</b> : N/A</p>
@@ -110,7 +110,7 @@
 	<p><b>MARC</b> : 700</p>
 	<p><b>DACS</b> : N/A</p>
 	<p><b>EAD</b> : N/A</p>
-	<p><b>MODS</b> : name--namePart; role--roleTerm</p>
+	<p><b>MODS</b> : name/namePart; role/roleTerm</p>
 	<p><b>RDF</b> : N/A</p>
 	<p><b>Notes</b> : Field deleted, absorbed by contributor role in field_linked_agent</p>
 	<p><b>updated</b> : 10/13/2022</p>
@@ -130,7 +130,7 @@
 	<p><b>MARC</b> : 245 |n</p>
 	<p><b>DACS</b> : N/A</p>
 	<p><b>EAD</b> : N/A</p>
-	<p><b>MODS</b> : part--detail--number</p>
+	<p><b>MODS</b> : part/detail/number</p>
 	<p><b>RDF</b> : schema:issueNumber</p>
 	<p><b>Notes</b> : </p>
 	<p><b>updated</b> : 10/13/2022</p>
@@ -169,8 +169,8 @@
 	<p><b>RDA</b> : 20.2</p>
 	<p><b>MARC</b> : 700</p>
 	<p><b>DACS</b> : 12.1</p>
-	<p><b>EAD</b> : /controlaccess//famname//persname/</p>
-	<p><b>MODS</b> : name--namePart; role--roleTerm</p>
+	<p><b>EAD</b> : controlaccess/famname/persname</p>
+	<p><b>MODS</b> : name/namePart; role/roleTerm</p>
 	<p><b>RDF</b> : N/A</p>
 	<p><b>Notes</b> : Field deleted, see field_linked_agent</p>
 	<p><b>updated</b> : 10/13/2022</p>
@@ -189,11 +189,31 @@
 	<p><b>RDA</b> : 4.6</p>
 	<p><b>MARC</b> : 856</p>
 	<p><b>DACS</b> : N/A</p>
-	<p><b>EAD</b> : eadheader//eadid/</p>
+	<p><b>EAD</b> : eadheader/eadid</p>
 	<p><b>MODS</b> : identifier</p>
 	<p><b>RDF</b> : N/A</p>
 	<p><b>Notes</b> : Field deleted</p>
 	<p><b>updated</b> : 10/13/2022</p>
+</details>	
+<details>
+<summary>MODS/dateIssued.Start</summary>
+	<p><b>Active field name (spreadsheet)</b> : </p>
+	<p><b>Islandora 8 Field Name</b> : </p>
+	<p><b>Islandora 8 Public Name</b> : </p>
+	<p><b>Drupal Field Name</b> : </p>
+	<p><b>Migration Field Name</b> : MODS/dateIssued.Start</p>
+	<p><b>Islandora 7 Field Name</b> : </p>
+	<p><b>Islandora 7 Public Name</b> : </p>
+	<p><b>BePress Name</b> : </p>
+	<p><b>BePress Field Name</b> : </p>
+	<p><b>RDA</b> : 2.7.6, 2.8.6, 2.9.6, 2.11, 2.10.6</p>
+	<p><b>MARC</b> : 008/-7-14, 260, 264</p>
+	<p><b>DACS</b> : 2.4</p>
+	<p><b>EAD</b> : unitdate</p>
+	<p><b>MODS</b> : originInfo/dateIssued</p>
+	<p><b>RDF</b> : N/A</p>
+	<p><b>Notes</b> : Newspaper TWIG, see start_date</p>
+	<p><b>updated</b> : 10/18/2022</p>
 </details>
 </body>
 </html>
