@@ -99,6 +99,7 @@
 		<li>IMI/publication_date</li>
 		<li>IMI/rowNumber</li>
 		<li>IMI/seq_number</li>
+		<li>medium -- [Field used by Sheehan Gallery for presumable materials associated with artwork/item]</li>
 		<li>MODS/dateIssued.Start --[Presumably used for start date of newspaper issue for the use of Islandora 7 Newspaper module] </li>
 	</ul>
 </dd> 
