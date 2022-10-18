@@ -27,41 +27,21 @@
 <p>Field reflect what is currently being used in <a href="#maxey">Maxey</a> and <a href="#sheehan">Sheehan</a></p>
  <h2 id="maxey">Maxey Museum </h2>
  <table>
-  <tr>
-    <th>IMI Column</th>
-	<th>Front-end name</th>
-    <th>Obligation</th>
-    <th>Repeatability</th>
-	<th>Public Field</th>
-  </tr>
-  <tr>
-    <td><a href="cmodel.md">cmodel</a></td>
-	<td>N/A</td>
-    <td>Required</td>
-    <td>No</td>
-	<td>No</td>
-  </tr>
-  <tr>
-    <td><a href="date.display.md">date_display</a></td>
-	<td>Date</td>
-    <td>Recommended, if applicable</td>
-    <td>No</td>
-	<td>Yes</td>
-  </tr> 
-  <tr>
-    <td><a href="date.encoded.md">date_encoded</a></td>
-	<td>N/A</td>
-    <td>Recommended, if applicable</td>
-    <td>No</td>
-	<td>No</td>
-  </tr>
-  <tr>
-    <td><a href="date.sort.md">date_sort</a></td>
-	<td>N/A</td>
-    <td>Required, if applicable. </td>
-    <td>No</td>
-	<td>No</td>
-  </tr>
+	 <tr>
+  	  	<th>IMI Column</th>
+		<th>Front-end name</th>
+ 		<th>Obligation</th>
+ 		<th>Repeatability</th>
+		<th>Public Field</th>
+	</tr>
+	<tr>
+		<td><a href="field_description_long.md">field_description_long</a></td>
+		<td>Description</td>
+		<td>Required</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</td>
+	</tr>
 </table>
 
 
@@ -69,41 +49,21 @@
  <h2 id="sheehan">Sheehan Gallery</h2>
  <table>
   <tr>
-    <th>IMI Column</th>
+ 	 <th>IMI Column</th>
 	<th>Front-end name</th>
-    <th>Obligation</th>
-    <th>Repeatability</th>
+   	 <th>Obligation</th>
+  	 <th>Repeatability</th>
 	<th>Public Field</th>
   </tr>
   <tr>
-    <td><a href="cmodel.md">cmodel</a></td>
-	<td>N/A</td>
-    <td>Required</td>
-    <td>No</td>
+	<td><a href="field_description_long.md">field_description_long</a></td>
+	<td>Description</td>
+	<td>Required</td>
 	<td>No</td>
-  </tr>
-   <tr>
-    <td><a href="date.display.md">date_display</a></td>
-	<td>Date</td>
-    <td>Recommended, if applicable</td>
-    <td>No</td>
 	<td>Yes</td>
-  </tr> 
-  <tr>
-    <td><a href="date.encoded.md">date_encoded</a></td>
-	<td>N/A</td>
-    <td>Recommended, if applicable</td>
-    <td>No</td>
-	<td>No</td>
-  </tr>
-  <tr>
-    <td><a href="date.sort.md">date_sort</a></td>
-	<td>N/A</td>
-    <td>Required, if applicable. </td>
-    <td>No</td>
-	<td>No</td>
+	<td>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</td>
   </tr>
 </table>
-<p><i>Last Updated: </i>05/05/2021</p>
+<p><i>Last Updated: </i>10/18/2021</p>
 </body>
 </html>
