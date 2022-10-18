@@ -49,20 +49,20 @@
 <summary>C's</summary>
 <br>	
 		<li><a href="#removed">calc_thumbnail_image_url	</a> (removed)</li>
-		<li><a href="#removed">calc_url</a> (removed): Possible URL used in BePress</li>
-		<li><a href="#removed">campus_location</a> (removed): Location of art on Whitman College campus where Sheehan art is displayed or stored.</li>
-		<li><a href="#removed">catalog_id</a> (removed): Catalog number of museum item</li>
-		<li><a href="#removed">city </a> (removed): City of publication</li>		
-		<li><a href="#removed">collection_name	</a> (removed): Name of collection item is found in.</li>
-		<li><a href="#removed">comments</a> (removed): Field for information not held elsewhere.</li>
-		<li><a href="#removed">conference_track</a> (removed):Indicates WUC conference track in which item was presented. </li>
+		<li><a href="#removed">calc_url</a> (removed)</li>
+		<li><a href="#removed">campus_location</a> (removed)</li>
+		<li><a href="#removed">catalog_id</a> (removed)</li>
+		<li><a href="#removed">city </a> (removed)</li>		
+		<li><a href="#removed">collection_name	</a> (removed)</li>
+		<li><a href="#removed">comments</a> (removed)</li>
+		<li><a href="#removed">conference_track</a> (removed) </li>
 		<li><a href="contributors.md">contributors</a>: Identifies the entity or entities that made contributions to the creation of the resource, but whose contributions are secondary to any person or organization specified in the creator(s) field.</li>
 		<li><a href="#removed">copyright_notes</a> (removed)</li>
-		<li><a href="#removed">costume_design</a> (removed): Responsible party credited for the design of costumes depicted in image</li>
+		<li><a href="#removed">costume_design</a> (removed)</li>
 		<li><a href="#removed">cover_image_url</a> (removed)</li>		
 		<li><a href="#removed">create_openurl	</a> (removed)</li>
 		<li><a href="creators.md">creators</a>: identifies the entity/entities primarily responsible for maknig the resource.</li>
-		<li><a href="#removed">cultural_affiliation</a> (removed): Affiliation related to item.</li>
+		<li><a href="#removed">cultural_affiliation</a> (removed)</li>
 		<li><a href="#removed">custom_citation	</a> (removed)</li>
 </details>
 <details>
@@ -266,6 +266,7 @@
 	<li>custom_citation</li>
 	<li>medium: [Field used by Sheehan Gallery for presumable materials associated with artwork/item]</li>
 	<li>MODS/dateIssued.Start: [Presumably used for start date of newspaper issue for the use of Islandora 7 Newspaper module]</li>
+	<li>sponsor: A person, group or organization credited for supporting Undergraduate Conference project depicted</li>.
 <p><a href="#top">top</a></p>
 <p><i>Last Updated: </i>10/18/2022</p>
 </dl>
