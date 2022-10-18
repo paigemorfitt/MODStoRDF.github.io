@@ -16,6 +16,26 @@
 		  </tr>
 		</table>
 <details>
+<summary>field_description_long</summary>
+	<p><b>Active field name (spreadsheet)</b> : field_description_long</p>
+	<p><b>Islandora 8 Field Name</b> : field_description_long</p>
+	<p><b>Islandora 8 Public Name</b> : Description</p>
+	<p><b>Drupal Field Name</b> : Description/text(formatted, long)</p>
+	<p><b>Migration Field Name</b> : description</p>
+	<p><b>Islandora 7 Field Name</b> : N/A</p>
+	<p><b>Islandora 7 Public Name</b> : N/A</p>
+	<p><b>BePress Name</b> : N/A</p>
+	<p><b>BePress Field Name</b> : N/A</p>
+	<p><b>RDA</b> : 7.10</p>
+	<p><b>MARC</b> : 520</p>
+	<p><b>DACS</b> : 3.1</p>
+	<p><b>EAD</b> : scopecontent</p>
+	<p><b>MODS</b> : abstract</p>
+	<p><b>RDF</b> : dcterms:description</p>
+	<p><b>Notes</b> : N/A</p>
+	<p><b>updated</b> : 10/18/2022</p>
+</details>
+<details>
 <summary>field_extent</summary>
 	<p><b>Active field name (spreadsheet)</b>: field_extent</p>
 	<p><b>Islandora 8 Field Name</b>: field_extent</p>
