@@ -28,6 +28,7 @@
 </dd> 
 <dd><ins>Obligation Required</ins>
 	<ul>
+		<li>Description (<a href="field_description_long.md">field_description_long</a>)</li>
 		<li>Issue (<a href="field_issue_num.md">field_issue_num</a>)</li>
 		<li><a href="line_num.md">line_num</a></li>
 	</ul>
@@ -39,7 +40,7 @@
 	</ul>
 </dd> 
 <dl>
-	<p><i>Last Updated: </i>10/13/2022</p>
+	<p><i>Last Updated: </i>10/18/2022</p>
 </dl>
 </body>
 </html>
