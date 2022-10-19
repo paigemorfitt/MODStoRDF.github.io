@@ -64,6 +64,7 @@
 	</td>
 </tr>
 </table>
+	<dt>Related Fields</dt>
 <table>
 	<tr>
 		<th>MODS</th>
