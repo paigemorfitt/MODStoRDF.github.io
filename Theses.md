@@ -32,6 +32,14 @@
 		<th>Public Field</th>
 		<th>Additional Note</th>
 	</tr>
+	<tr>
+		<td><a href="field_edtf_date.md">field_edtf_date</a></td>
+		<td></td>
+		<td>Required, if applicable</td>
+		<td>No</td>
+		<td>No</td>
+		<td>See "EDTF according to DateFormattingGuidelinesARMINDA" for formatting</td>
+	</tr>
   	<tr>
 		<td><a href="field_extent.md">field_extent</a></td>
 		<td>Extent</td>
