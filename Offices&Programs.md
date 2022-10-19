@@ -43,6 +43,14 @@
 		<td>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</td>
 	</tr>
 	<tr>
+		<td><a href="field_edtf_date.md">field_edtf_date</a></td>
+		<td></td>
+		<td>Required, if applicable</td>
+		<td>No</td>
+		<td>No</td>
+		<td>See "EDTF according to DateFormattingGuidelinesARMINDA" for formatting</td>
+	</tr>
+	<tr>
 		<td><a href="field_identifier.md">field_identifier</a></td>
 		<td></td>
 		<td>Required</td>
@@ -70,6 +78,14 @@
 		<td>No</td>
 		<td>Yes</td>
 		<td>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</td>
+	</tr>
+	<tr>
+		<td><a href="field_edtf_date.md">field_edtf_date</a></td>
+		<td></td>
+		<td>Required, if applicable</td>
+		<td>No</td>
+		<td>No</td>
+		<td>See "EDTF according to DateFormattingGuidelinesARMINDA" for formatting</td>
 	</tr>
 	<tr>
 		<td><a href="field_identifier.md">field_identifier</a></td>
