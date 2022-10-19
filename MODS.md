@@ -19,7 +19,7 @@
 		<li><a href="mods.abstract.md">abstract</a></li>
 		<li><a href="mods.access_condition.md">accessCondition</a></li>
 		<li><a href="mods.genre.md">genre</a></li>
-		<li><a href="mods.identifier.md">identifier</a></li>
+		<li><a href="MODS.identifier.md">identifier</a></li>
 		<li><a href="mods.language.languageTerm.md">language/languageTerm</a></li>
 		<li><a href="mods.location_url.md">location/url</a></li>
 		<li><a href="mods.name.md">name/namePart</a></li>
