@@ -101,6 +101,7 @@
 		<li>IMI/seq_number</li>
 		<li>medium -- [Field used by Sheehan Gallery for presumable materials associated with artwork/item]</li>
 		<li>MODS/dateIssued.Start --[Presumably used for start date of newspaper issue for the use of Islandora 7 Newspaper module] </li>
+		<li>production_year -- Year in which the play production depicted in item was performed</li>
 		<li>sponsor -- A person, group or organization credited for supporting Undergraduate Conference project depicted</li>
 	</ul>
 </dd> 
