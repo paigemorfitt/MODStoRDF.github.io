@@ -76,6 +76,26 @@
 	<p><b>Updated</b>: 9/9/2022</p>
 </details>
 <details>
+<summary>field_identifier</summary>
+	<p><b>Active field name (spreadsheet)</b> : field_identifier</p>
+	<p><b>Islandora 8 Field Name</b> : field_identifier</p>
+	<p><b>Islandora 8 Public Name</b> : N/A</p>
+	<p><b>Drupal Field Name</b> : identifier/Text(plain)</p>
+	<p><b>Migration Field Name</b> : identifier_unique</p>
+	<p><b>Islandora 7 Field Name</b> : context_key</p>
+	<p><b>Islandora 7 Public Name</b> : N/A</p>
+	<p><b>BePress Name</b> : context_key</p>
+	<p><b>BePress Field Name</b> : N/A</p>
+	<p><b>RDA</b> : 6.8; 6.13; 9.18; 10.9; 11.12</p>
+	<p><b>MARC</b> : N/A</p>
+	<p><b>DACS</b> : 13.2</p>
+	<p><b>EAD</b> : unitid</p>
+	<p><b>MODS</b> : identifier</p>
+	<p><b>RDF</b> : dc:identifier</p>
+	<p><b>Notes</b> : N/A</p>
+	<p><b>updated</b> : 10/19/2022</p>
+</details>
+<details>
 <summary>lc_subject</summary>
 	<p><b>Active field name (spreadsheet)</b> : N/A</p>
 	<p><b>Islandora 8 Field Name</b> : N/A</p>
