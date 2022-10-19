@@ -168,8 +168,8 @@
 <summary>O's & P's</summary>
 <br>
 		<li><a href="obj_file.md">obj_file</a></li>		
-		<li><a href="#removed">oclc_number</a> : (removed) Reference to  the unique identifier issued by OCLC of a related item</li>
-		<li><a href="#removed">old_cat_id	</a> - removed</li>
+		<li><a href="#removed">oclc_number</a> : (removed)</li>
+		<li><a href="#removed">old_cat_id  :</a> (removed)</li>
 		<li><a href="#removed">pagecount</a> - removed</li>
 		<li><a href="#removed">pages</a> - removed</li>		
 		<li><a href="parent.md">parent</a></li>
@@ -183,7 +183,7 @@
 		<li><a href="#removed">production</a> - removed </li>
 		<li><a href="#removed">production_decades</a> - removed</li>		
 		<li><a href="#remove">production_info - removed	</a></li>
-		<li><a href="#removed">production_year	</a> - removed</li>
+		<li><a href="#removed">production_year : </a> (removed)</li>
 		<li><a href="#removed">props_design</a> - removed</li>
 		<li><a href="provenance.md">provenance (field_provenance)</a></></li>
 		<li><a href="#removed">pub_season	</a> - removed</li>
@@ -266,6 +266,8 @@
 	<li>custom_citation</li>
 	<li>medium: [Field used by Sheehan Gallery for presumable materials associated with artwork/item]</li>
 	<li>MODS/dateIssued.Start: [Presumably used for start date of newspaper issue for the use of Islandora 7 Newspaper module]</li>
+	<li>oclc_number: Reference to  the unique identifier issued by OCLC of a related item</li>
+	<li>production_year: Year in which the play production depicted in item was performed</li>
 	<li>sponsor: A person, group or organization credited for supporting Undergraduate Conference project depicted</li>.
 <p><a href="#top">top</a></p>
 <p><i>Last Updated: </i>10/18/2022</p>
