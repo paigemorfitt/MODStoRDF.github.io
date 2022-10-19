@@ -54,12 +54,19 @@
 	<td>Former name : permanent_url</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		|<a href="MODS.identifier.md">MODS/identifier</a> | 
-		<a href="DrupalFields.md#Permanent-url">Drupal Field</a> |
-		<a href="rdf.rdau.p60919.md">RDF/rdau:p60919</a>|
-</dl>
-<p><i>Last Updated: </i>03/03/2022</p>
+	<dt>Related Fields</dt>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="MODS.identifier.md">MODS/identifier</a></td>
+		<td><a href="DrupalFields.md#Permanent-url">Permanent URL</a></td> 
+		<td><a href="rdf.rdau.p60919.md">RDF/rdau:p60919</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>10/19/2022</p>
 </body>
 </html>
