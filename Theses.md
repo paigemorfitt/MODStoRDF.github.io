@@ -41,6 +41,14 @@
 		<td></td>
   	</tr>
 	<tr>
+		<td><a href="field_identifier.md">field_identifier</a></td>
+		<td></td>
+		<td>Required</td>
+		<td>No</td>
+		<td>No</td>
+		<td>See collection guidelines for creation protocols</td>
+	</tr>
+	<tr>
 		<td><a href="field_permanent_url.md">field_permanent_url</a></td>
 		<td>Permanent URL</td>
 		<td>Required</td>
