@@ -36,6 +36,26 @@
 	<p><b>updated</b> : 10/18/2022</p>
 </details>
 <details>
+<summary>field_edtf_date</summary>
+	<p><b>Active field name (spreadsheet)</b> : field_edtf_date</p>
+	<p><b>Islandora 8 Field Name</b> : field_edtf_date</p>
+	<p><b>Islandora 8 Public Name</b> : N/A</p>
+	<p><b>Drupal Field Name</b> : Date (EDTF)/EDTF</p>
+	<p><b>Migration Field Name</b> : date_sort; mods_date_created_keydate</p>
+	<p><b>Islandora 7 Field Name</b> : date_sort; mods_date_created_keydate</p>
+	<p><b>Islandora 7 Public Name</b> : N/A</p>
+	<p><b>BePress Name</b> : N/A</p>
+	<p><b>BePress Field Name</b> : N/A</p>
+	<p><b>RDA</b> : 2.7.6, 2.8.6, 2.9.6, 2.11, 2.10.6</p>
+	<p><b>MARC</b> : 008/-7-14, 260, 264</p>
+	<p><b>DACS</b> : 2.4</p>
+	<p><b>EAD</b> : unitdate</p>
+	<p><b>MODS</b> : originInfo/dateCreated</p>
+	<p><b>RDF</b> : dcterms:date</p>
+	<p><b>Notes</b> : N/A</p>
+	<p><b>updated</b> : 10/19/2022</p>
+</details>
+<details>
 <summary>field_extent</summary>
 	<p><b>Active field name (spreadsheet)</b>: field_extent</p>
 	<p><b>Islandora 8 Field Name</b>: field_extent</p>
