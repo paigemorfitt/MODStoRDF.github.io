@@ -42,28 +42,44 @@
 		<td>Yes</td>
 		<td>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</td>
 	</tr>
+	<tr>
+		<td><a href="field_identifier.md">field_identifier</a></td>
+		<td></td>
+		<td>Required</td>
+		<td>No</td>
+		<td>No</td>
+		<td>See collection guidelines for creation protocols</td>
+	</tr>
 </table>
 
 
 
  <h2 id="sheehan">Sheehan Gallery</h2>
  <table>
-  <tr>
- 	 <th>IMI Column</th>
-	<th>Front-end name</th>
-   	 <th>Obligation</th>
-  	 <th>Repeatability</th>
-	<th>Public Field</th>
-  </tr>
-  <tr>
-	<td><a href="field_description_long.md">field_description_long</a></td>
-	<td>Description</td>
-	<td>Required</td>
-	<td>No</td>
-	<td>Yes</td>
-	<td>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</td>
-  </tr>
+	<tr>
+		<th>IMI Column</th>
+		<th>Front-end name</th>
+		<th>Obligation</th>
+		<th>Repeatability</th>
+		<th>Public Field</th>
+	</tr>
+		<tr>
+		<td><a href="field_description_long.md">field_description_long</a></td>
+		<td>Description</td>
+		<td>Required</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</td>
+	</tr>
+	<tr>
+		<td><a href="field_identifier.md">field_identifier</a></td>
+		<td></td>
+		<td>Required</td>
+		<td>No</td>
+		<td>No</td>
+		<td>See collection guidelines for creation protocols</td>
+	</tr>
 </table>
-<p><i>Last Updated: </i>10/18/2021</p>
+<p><i>Last Updated: </i>10/19/2021</p>
 </body>
 </html>
