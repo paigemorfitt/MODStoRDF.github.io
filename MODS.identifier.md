@@ -44,6 +44,22 @@
 				<td><a href="filepath.md">IMI/filepath</a></td>
 			</dd>
 </dl>
+	<dt>Related Fields</dt>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_permanent_url.md">field_permanent_url</a></td>
+		<td><a href="mods.abstract.md">abstract</a></td>
+		<td><a href="DrupalFields.md#Description">Description</a></td> 
+		<td><a href="rdf.dcterms.description.md">dcterms:description</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>10/19/2022</p>
 <p><i>Last Updated: </i>01/06/2022</p>
 </body>
 </html>
