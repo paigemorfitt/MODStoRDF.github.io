@@ -30,6 +30,7 @@
 	<ul>
 		<li>Description (<a href="field_description_long.md">field_description_long</a>)</li>
 		<li>Issue (<a href="field_issue_num.md">field_issue_num</a>)</li>
+		<li>Permanent URL (<a href="field_permanent_url.md">field_permanent_url</a>)</li>
 		<li><a href="line_num.md">line_num</a></li>
 	</ul>
 </dd> 
