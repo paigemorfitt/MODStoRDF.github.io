@@ -38,6 +38,7 @@
 <dd><ins>Obligation Required, if applicable</ins>
 	<ul>
 		<li>Extent (<a href="field_extent.md">field_extent</a>)</li>
+		<li><a href="field_edtf_date.md">field_edtf_date</a></li>
 		<li>Funding (<a href="field_funding_sources.md">field_funding_sources)</a></li>
 	</ul>
 </dd> 
