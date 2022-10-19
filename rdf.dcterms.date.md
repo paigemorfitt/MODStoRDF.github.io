@@ -34,11 +34,19 @@
 </table>
 <dl>
 	<dt><b>Related Fields</b></dt>
-		| <a href="field_edtf_date.md">[Spreadsheet] field_edtf_date</a> | 
-		<a href="DrupalFields.md">[Drupal field] Date (EDTF)</a> | 
-		<a href="mods.originInfo.dateCreated.md">[MODS] originInfo/dateCreated</a> |
-</dl>
-<p><i>Last Updated: </i>09/23/2021</p>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+	</tr>
+	<tr>
+		<td><a href="field_edtf_date.md">field_edtf_date</a></td> 
+		<td><a href="DrupalFields.md"Date>Date (EDFT)</a></td>
+		<td><a href="rdf.dcterms.date.md">dcterms:date</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>10/19/2022</p>
 </body>
 </html>
 
