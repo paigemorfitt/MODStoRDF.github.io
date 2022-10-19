@@ -41,8 +41,8 @@
 	</tr>
 	<tr>
 		<td><a href="field_permanent_url.md">field_permanent_url</a></td>
-		<td><a href="DrupalFields.md#Permanent-URL">Permanent URL</a></td>
 		<td><a href="MODS.identifier.md">identifier</a></td> 
+		<td><a href="DrupalFields.md#Permanent-URL">Permanent URL</a></td>
 	</tr>
 </table>
 <p><i>Last Updated: </i>10/19/2022</p>
