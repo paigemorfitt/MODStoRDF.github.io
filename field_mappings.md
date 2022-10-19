@@ -156,6 +156,26 @@
 	<p><b>updated</b> : 10/13/2022</p>
 </details>
 <details>
+<summary>field_permanent_url</summary>
+	<p><b>Active field name (spreadsheet)</b> : field_permanent_url</p>
+	<p><b>Islandora 8 Field Name</b> : field_permanent_url</p>
+	<p><b>Islandora 8 Public Name</b> : Permanent URL</p>
+	<p><b>Drupal Field Name</b> : Permanent  URL/Link</p>
+	<p><b>Migration Field Name</b> : IMI/permanent_url</p>
+	<p><b>Islandora 7 Field Name</b> : permanent_url</p>
+	<p><b>Islandora 7 Public Name</b> : Permanent URL</p>
+	<p><b>BePress Name</b> : permanent_url</p>
+	<p><b>BePress Field Name</b> : Permanent URL</p>
+	<p><b>RDA</b> : 17; 4.6</p>
+	<p><b>MARC</b> : 856</p>
+	<p><b>DACS</b> : 4.2</p>
+	<p><b>EAD</b> : repository; physloc</p>
+	<p><b>MODS</b> : identifier</p>
+	<p><b>RDF</b> : rdau:P60919</p>
+	<p><b>Notes</b> : N/A</p>
+	<p><b>updated</b> : 10/19/2022</p>
+</details>
+<details>
 <summary>line_num</summary>
 	<p><b>Active field name (spreadsheet)</b> : N/A</p>
 	<p><b>Islandora 8 Field Name</b> : line_num</p>
