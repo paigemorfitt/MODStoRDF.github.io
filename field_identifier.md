@@ -46,12 +46,21 @@
 	<td>Former name: context_key; Former name: identifier_unique; Absorbed: item_identifier</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		|<a href="MODS.identifier.md">MODS/identifier</a> | 
-		<a href="DrupalFields.md#identifier">Drupal Fields</a> | 
-		<a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a> |
-</dl>
-<p><i>Last Updated: </i>02/08/2022</p>
+	<dt>Related Fields</dt>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.abstract.md">abstract</a></td>
+		<td><a href="MODS.identifier.md">MODS/identifier</a></td>
+		<td><a href="DrupalFields.md#identifier">Identifier</a></td> 
+		<td><a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a> </td>
+	</tr>
+</table>
+<p><i>Last Updated: </i></font>10/18/2022</p>
 </body>
 </html>
