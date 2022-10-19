@@ -31,28 +31,19 @@
 	<td>Literal</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="field_identifier.md">field_identifier</a> | 
-		<a href="DrupalFields.md#identifier">Drupal Fields</a> | 
-		<a href="MODS.identifier.md">MODS/identifier</a> |
-</dl>
 	<dt>Related Fields</dt>
 <table>
 	<tr>
 		<th>Spreadsheet</th>
-		<th>MODS</th>
 		<th>Drupal Field</th>
 		<th>RDF</th>
 	</tr>
 	<tr>
-		<td><a href="mods.abstract.md">abstract</a></td>
-		<td><a href="MODS.identifier.md">MODS/identifier</a></td>
+		<td><a href="field_identifier.md">field_identifier</a></td>
 		<td><a href="DrupalFields.md#identifier">Identifier</a></td> 
-		<td><a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a> </td>
+		<td><a href="MODS.identifier.md">MODS/identifier</a> </td>
 	</tr>
 </table>
 <p><i>Last Updated: </i></font>10/18/2022</p>
-<p><i>Last Updated: </i>09/29/2021</p>
 </body>
 </html>
