@@ -41,6 +41,14 @@
 		<td></td>
   	</tr>
 	<tr>
+		<td><a href="field_permanent_url.md">field_permanent_url</a></td>
+		<td>Permanent URL</td>
+		<td>Required</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td></td>
+	</tr>
+	<tr>
 		<td><a href="license_file.md">license_file</a></td>
 		<td>N/A</td>
 		<td>Required</td>
@@ -58,7 +66,7 @@
 	</tr>
 	
 </table>
-	<p><i>Last Updated: </i>10/13/2022</p>
+	<p><i>Last Updated: </i>10/19/2022</p>
 </dl>
 </body>
 </html>
