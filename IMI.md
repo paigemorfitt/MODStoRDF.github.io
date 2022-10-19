@@ -110,7 +110,7 @@
 		<li><a href="field_origin.md">field_origin</a>: provides place names associated with the creation or issuance of a resource</li>
 		<li><a href="field_member_of.md">field_member_of</a>: Tells Islandora 8 the hierarchy of where an object lives</li>
 		<li><a href="field_model.md">field_model</a>: Tells what content model the file is -- audio, image, etc; tells what type of file for Islandora to expect</li>
-		<li><a href="permanent_url.md">field_permanent_url</a>: unique uri (uniform resource identifier) to the item</li>
+		<li><a href="field_permanent_url.md">field_permanent_url</a>: unique uri (uniform resource identifier) to the item</li>
 		<li><a href="field_provenance.md">field_provenance</a>: contains provenance information about the subject : [currently] donor information and/or when and how the object was acquired</li>
 		<li><a href="field_resource_type.md">field_resource_type</a>: basic conceptual indication of the kind of object being described, using broad terms</li>
 		<li><a href="field_rights.md">field_rights</a>: URL that indicates copyright and/or creative commons status.</li>
