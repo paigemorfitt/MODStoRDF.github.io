@@ -554,7 +554,7 @@
 	<dl>
 		<dt><b>Related Fields</b></dt>
 				| <a href="field_permanent_url.md">field_permanent_url</a> | 
-				<a href="mods.identifier.md">MODS/identifier</a> | 
+				<a href="MODS.identifier.md">MODS/identifier</a> | 
 				<a href="rdf.rdau.p60919.md">RDF/P60919</a> |
 	</dl>
 	
