@@ -64,7 +64,7 @@
 	<tr>
 		<td><a href="MODS.identifier.md">MODS/identifier</a></td>
 		<td><a href="DrupalFields.md#Permanent-url">Permanent URL</a></td> 
-		<td><a href="rdf.rdau.p60919.md">RDF/rdau:p60919</a></td>
+		<td><a href="rdf.rdau.p60919.md">RDF/rdau:P60919</a></td>
 	</tr>
 </table>
 <p><i>Last Updated: </i>10/19/2022</p>
