@@ -16,6 +16,26 @@
 		  </tr>
 		</table>
 <details>
+<summary>field_access_terms</summary>
+	<p><b>Active field name (spreadsheet)</b> : field_access_terms</p>
+	<p><b>Islandora 8 Field Name</b> : N/A</p>
+	<p><b>Islandora 8 Public Name</b> : N/A</p>
+	<p><b>Drupal Field Name</b> : Access Control/Entity reference (taxonomy term -Islandora Access)</p>
+	<p><b>Migration Field Name</b> : N/A</p>
+	<p><b>Islandora 7 Field Name</b> : N/A</p>
+	<p><b>Islandora 7 Public Name</b> : N/A</p>
+	<p><b>BePress Name</b> : N/A</p>
+	<p><b>BePress Field Name</b> : N/A</p>
+	<p><b>RDA</b> : 3.20</p>
+	<p><b>MARC</b> : 340; 538</p>
+	<p><b>DACS</b> : 4.3</p>
+	<p><b>EAD</b> : phystech</p>
+	<p><b>MODS</b> : N/A</p>
+	<p><b>RDF</b> : N/A</p>
+	<p><b>Notes</b> : N/A</p>
+	<p><b>updated</b> : 10/26/2022</p>
+</details>
+<details>
 <summary>field_description_long</summary>
 	<p><b>Active field name (spreadsheet)</b> : field_description_long</p>
 	<p><b>Islandora 8 Field Name</b> : field_description_long</p>
