@@ -23,7 +23,7 @@
 </dd> 
 <dd><ins>Fields with a Controlled Vocabulary</ins>
 	<ul>
-		<li></li>
+		<li><a href="field_access_terms.md">field_access_terms</a></li>
 	</ul>
 </dd> 
 <dd><ins>Obligation Required</ins>
@@ -38,12 +38,13 @@
 <dd><ins>Obligation Required, if applicable</ins>
 	<ul>
 		<li>Extent (<a href="field_extent.md">field_extent</a>)</li>
+		<li><a href="field_access_terms.md">field_access_terms</a></li>
 		<li><a href="field_edtf_date.md">field_edtf_date</a></li>
 		<li>Funding (<a href="field_funding_sources.md">field_funding_sources)</a></li>
 	</ul>
 </dd> 
 <dl>
-	<p><i>Last Updated: </i>10/18/2022</p>
+	<p><i>Last Updated: </i>10/26/2022</p>
 </dl>
 </body>
 </html>
