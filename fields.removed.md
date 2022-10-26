@@ -102,10 +102,11 @@
 		<li>medium -- [Field used by Sheehan Gallery for presumable materials associated with artwork/item]</li>
 		<li>MODS/dateIssued.Start --[Presumably used for start date of newspaper issue for the use of Islandora 7 Newspaper module] </li>
 		<li>production_year -- Year in which the play production depicted in item was performed</li>
+		<li>props_design -- Person, group, or company given credit for props design depicted in item</li>
 		<li>sponsor -- A person, group or organization credited for supporting Undergraduate Conference project depicted</li>
 	</ul>
 </dd> 
-	<p><i>Last Updated: </i>10/18/2022</p>
+	<p><i>Last Updated: </i>10/26/2022</p>
 </dl>
 </body>
 </html
