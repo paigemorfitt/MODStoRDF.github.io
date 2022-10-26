@@ -336,6 +336,26 @@
 	<p><b>updated</b> : 10/19/2022</p>
 </details>
 <details>
+<summary>props_design</summary>
+	<p><b>Active field name (spreadsheet)</b> : N/A</p>
+	<p><b>Islandora 8 Field Name</b> : N/A</p>
+	<p><b>Islandora 8 Public Name</b> : N/A</p>
+	<p><b>Drupal Field Name</b> : N/A</p>
+	<p><b>Migration Field Name</b> : N/A</p>
+	<p><b>Islandora 7 Field Name</b> : props_design</p>
+	<p><b>Islandora 7 Public Name</b> : Props Design</p>
+	<p><b>BePress Name</b> : props_design</p>
+	<p><b>BePress Field Name</b> : Props Design</p>
+	<p><b>RDA</b> : 20.2</p>
+	<p><b>MARC</b> : 700</p>
+	<p><b>DACS</b> : 12.1</p>
+	<p><b>EAD</b> : origination; famname; persname</p>
+	<p><b>MODS</b> : name/namePart</p>
+	<p><b>RDF</b> : N/A</p>
+	<p><b>Notes</b> : Field deleted, absorbed by field_linked_agent</p>
+	<p><b>updated</b> : 10/26/2022</p>
+</details>
+<details>
 <summary>sponsor</summary>
 	<p><b>Active field name (spreadsheet)</b> : N/A</p>
 	<p><b>Islandora 8 Field Name</b> : N/A</p>
