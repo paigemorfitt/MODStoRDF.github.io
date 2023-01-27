@@ -11,37 +11,39 @@
     <th><a href="RDF.md">RDF Field</a></th>
   </tr>
 <table>
- <h1>Arminda MODS information page</h1> 
+ <h1>Arminda information</h1> 
   
 <p>Collections in Arminda.</p>
 <table>
    <tr>
-		<th>Archives</th>
+		<th>Collections</th>
+	   	<th><a href="Archives.md">Archives</a></th>
 		<th><a href="Theses.md">Theses</a></th>
 		<th><a href="scholarship.md">Scholarship</a></th>
 		<th><a href="Offices&Programs.md">Offices & Programs</a></th>
-		<th><a href="Newspapers.md">Newspapers</a></th>
   </tr>
  </table>
 <p>Fields used in Archives Master Sheet</p>
 <table>
-  <tr>
-    <th>IMI Column</th>
-	<th>Front-end name</th>
-    <th>Obligation</th>
-    <th>Repeatability</th>
-	<th>Public Field</th>
-  </tr>
-  <tr>
-   	 <td><a href=""></a></td>
-	<td></td>
-   	 <td></td>
-   	 <td></td>
-	<td></td>
-  </tr>
+	<tr>
+		<th>Field</th>
+		<th>Archives</th>
+		<th>Theses</th>
+		<th>Scholarship</th>
+		<th>Offices&Programs</th>
+	</tr>
+  	<tr>
+   	 	<td>Abstract</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td></td>
+ 	 </tr>
 </table>
+	
+	
 <dl>
-	<p><i>Last Updated: </i><06/27/2022</p>
+	<p><i>Last Updated: </i>01/27/2023</p>
 </dl>
 </body>
 </html>
