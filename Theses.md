@@ -11,7 +11,7 @@
     <th><a href="RDF.md">RDF Field</a></th>
   </tr>
 <table>
- <h1>Arminda MODS information page</h1> 
+ <h1>Arminda information page</h1> 
   
 <p>Collections in Arminda.</p>
 <table>
@@ -32,6 +32,14 @@
 		<th>Repeatability</th>
 		<th>Public Field</th>
 		<th>Additional Note</th>
+	</tr>
+	<tr>
+		<td><a href="field_abstract.md">field_abstract</a></td>
+		<td>Abstract</td>
+		<td>Required, if applicable</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</td>
 	</tr>
 	<tr>
 		<td><a href="field_edtf_date.md">field_edtf_date</a></td>
@@ -83,7 +91,7 @@
 	</tr>
 	
 </table>
-	<p><i>Last Updated: </i>10/19/2022</p>
+	<p><i>Last Updated: </i>01/27/2023</p>
 </dl>
 </body>
 </html>
