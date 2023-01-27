@@ -48,8 +48,8 @@
 			<li>Use complete sentences</li>
 			<li>Some content moved from IMI/abstract</li>
 			<li>Contains, italics, bold, accents, and/or special characters</li>
-			<li>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter") --   Trim whitespace in all cells BEFORE adding extra space in abstract/description in order to have two paragraphs appear in ARMINDA</li>
-			<li>Surround nicknames with quotation marks where applicable</li>
+			<li>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter") (Trim whitespace in all cells BEFORE adding extra space in abstract/description in order to have two paragraphs appear in ARMINDA)</li>
+			<li>Nicknames are surrounded by quotation marks where applicable</li>
 		</ul>
 	</td>
 </tr>
