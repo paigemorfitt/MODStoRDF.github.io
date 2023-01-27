@@ -37,6 +37,7 @@
 </dd> 
 <dd><ins>Obligation Required, if applicable</ins>
 	<ul>
+		<li>Abstract (<a href="field_abstract.md">field_abstract</a>)</li>
 		<li>Extent (<a href="field_extent.md">field_extent</a>)</li>
 		<li><a href="field_access_terms.md">field_access_terms</a></li>
 		<li><a href="field_edtf_date.md">field_edtf_date</a></li>
@@ -44,7 +45,7 @@
 	</ul>
 </dd> 
 <dl>
-	<p><i>Last Updated: </i>10/26/2022</p>
+	<p><i>Last Updated: </i>01/27/2023</p>
 </dl>
 </body>
 </html>
