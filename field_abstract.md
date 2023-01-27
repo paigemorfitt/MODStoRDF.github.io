@@ -48,7 +48,7 @@
 			<li>Use complete sentences</li>
 			<li>Contains, italics, bold, accents, and/or special characters</li>
 			<li>Use complete sentences</li>
-			<li>For paragraphs, add 2 line breaks in spreadsheet cell (do not clear extra spaces in abstract/description - it will remove paragraph format)</li>
+For paragraphs, use 2 line breaks in the cell (ctrl + "Enter") (Trim whitespace in all cells BEFORE adding extra space in abstract/description in order to have two paragraphs appear in ARMINDA)</li>
 			<li>Nicknames are surrounded by quotation marks where applicable</li>
 		</ul>
 	</td>
