@@ -16,7 +16,8 @@
 <p>Collections in Arminda.</p>
 <table>
    <tr>
-		<th><a href="Archives.md">Archives</a></th>
+		<th><a href="collections.md">Collections</a></th>
+	   	<th><a href="Archives.md">Archives</a></th>
 		<th><a href="Theses.md">Theses</a></th>
 		<th>Scholarship</th>
 		<th><a href="Offices&Programs.md">Offices & Programs</a></th>
