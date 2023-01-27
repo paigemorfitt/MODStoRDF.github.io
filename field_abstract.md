@@ -47,7 +47,9 @@
 		<ul>
 			<li>Use complete sentences</li>
 			<li>Contains, italics, bold, accents, and/or special characters</li>
-			<li>For paragraphs, add 2 line breaks in spreadsheet cell</li>
+			<li>Use complete sentences</li>
+			<li>For paragraphs, add 2 line breaks in spreadsheet cell (do not clear extra spaces in abstract/description - it will remove paragraph format)</li>
+			<li>Nicknames are surrounded by quotation marks where applicable</li>
 		</ul>
 	</td>
 </tr>
@@ -69,6 +71,6 @@
 		<td><a href="rdf.dcterms.abstract.md">dcterms:abstract </a></td>
 	</tr>
 </table>
-<p><i>Last Updated: </i>06/28/2022</p>
+<p><i>Last Updated: </i>01/27/2023</p>
 </body>
 </html>
