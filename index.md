@@ -20,8 +20,9 @@
 	
 <p>See <a href="field_mappings.md">Field Mappings</a> (in progress).</p>
    <tr>
+    <th><a href="collections.md">Collections</a></th>
     <th><a href="Archives.md">Archives</a></th>
-	<th><a href="Theses.md">Theses</a></th>
+    <th><a href="Theses.md">Theses</a></th>
     <th><a href="scholarship.md">Scholarship</a></th>
     <th><a href="Offices&Programs.md">Offices & Programs</a></th>
   </tr>
