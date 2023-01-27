@@ -34,6 +34,14 @@
 		<th>Additional Note</th>  
 	</tr>
 	<tr>
+		<td><a href="field_abstract.md">field_abstract</a></td>
+		<td>Abstract</td>
+		<td>Required, if applicable</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</td>
+	</tr>
+	<tr>
 		<td><a href="field_description_long.md">field_description_long</a></td>
 		<td>Description</td>
 		<td>Required</td>
@@ -83,7 +91,7 @@
 	</tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>10/19/2022</p>
+	<p><i>Last Updated: </i>01/27/2023</p>
 </dl>
 </body>
 </html>
