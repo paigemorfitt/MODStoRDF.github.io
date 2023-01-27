@@ -11,12 +11,13 @@
     <th><a href="RDF.md">RDF Field</a></th>
   </tr>
 <table>
- <h1>Arminda MODS information page</h1> 
+ <h1>Arminda information page</h1> 
   
 <p>Collections in Arminda.</p>
 <table>
    <tr>
-		<th>Archives</th>
+     		<th><a href="collections.md">Collections</a></th>
+	   	<th>Archives</th>
 		<th><a href="Theses.md">Theses</a></th>
 		<th><a href="scholarship.md">Scholarship</a></th>
 		<th><a href="Offices&Programs.md">Offices & Programs</a></th>
