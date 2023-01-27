@@ -18,10 +18,11 @@
 <table>
 <table>
    <tr>
-		<th><a href="Archives.md">Archives</a></th>
+		<th><a href="collections.md">Collections</a></th>
+	   	<th><a href="Archives.md">Archives</a></th>
 		<th><a href="Theses.md">Theses</a></th>
 		<th><a href="scholarship.md">Scholarship</a></th>
-		<th><a href="Offices&Programs.md">Offices & Programs</a></th>
+		<th>Offices & Programs</th>
   </tr>
  </table>
 <p>Field reflect what is currently being used in <a href="#maxey">Maxey</a> and <a href="#sheehan">Sheehan</a></p>
