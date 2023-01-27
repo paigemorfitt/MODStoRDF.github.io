@@ -33,14 +33,14 @@
 		<th>Offices&Programs</th>
 	</tr>
   	<tr>
-   	 	<td>Abstract (field_abstract)</td>
+   	 	<td>Abstract (<a href="field_abstract.md">field_abstract</a>)</td>
 		<td>Yes</td>
 		<td>Yes</td>
 		<td>Yes</td>
 		<td></td>
  	 </tr>
   	<tr>
-   	 	<td>Permanent URL (field_permanent_url)</td>
+   	 	<td>Permanent URL (<a href="field_permanent_url.md">field_permanent_url</a>)</td>
 		<td>Yes</td>
 		<td>Yes</td>
 		<td>Yes</td>
