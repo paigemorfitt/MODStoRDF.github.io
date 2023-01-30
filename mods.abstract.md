@@ -33,9 +33,17 @@
 		<th>RDF</th>
 	</tr>
 	<tr>
-		<td><a href="field_abstract.md">field_abstract</a>, <a href="field_description_long.md">field_description_long</a></td>
-		<td><a href="DrupalFields.md">Abstract</a>, <a href="DrupalFields.md#Description">Description</a></td>
-		<td><a href="rdf.dcterms.abstract.md">dcterms:abstract </a>, <a href="rdf.dcterms.description.md">dcterms:description</a></td>
+		<td>
+			<a href="field_abstract.md">field_abstract</a>
+			<a href="field_description_long.md">field_description_long</a></td>
+		<td>
+			<a href="DrupalFields.md">Abstract</a>
+			<a href="DrupalFields.md#Description">Description</a>
+		</td>
+		<td>
+			<a href="rdf.dcterms.abstract.md">dcterms:abstract </a>
+			<a href="rdf.dcterms.description.md">dcterms:description</a>
+		</td>
 	</tr>
 </table>
 	
