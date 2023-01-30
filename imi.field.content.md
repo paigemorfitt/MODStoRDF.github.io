@@ -24,6 +24,7 @@
 <dd><ins>Fields with a Controlled Vocabulary</ins>
 	<ul>
 		<li><a href="field_access_terms.md">field_access_terms</a></li>
+		<li>Resource Type (<a href="field_resource_type.md">field_resource_type</a>)</li>
 	</ul>
 </dd> 
 <dd><ins>Obligation Required</ins>
@@ -31,6 +32,7 @@
 		<li>Description (<a href="field_description_long.md">field_description_long</a>)</li>
 		<li>Identifier (<a href="field_identifier.md">field_identifier</a>)</li>
 		<li>Issue (<a href="field_issue_num.md">field_issue_num</a>)</li>
+		<li>Resource Type (<a href="field_resource_type.md">field_resource_type</a>)</li>
 		<li>Permanent URL (<a href="field_permanent_url.md">field_permanent_url</a>)</li>
 		<li><a href="line_num.md">line_num</a></li>
 	</ul>
@@ -39,9 +41,9 @@
 	<ul>
 		<li>Abstract (<a href="field_abstract.md">field_abstract</a>)</li>
 		<li>Extent (<a href="field_extent.md">field_extent</a>)</li>
+		<li>Funding (<a href="field_funding_sources.md">field_funding_sources)</a></li>
 		<li><a href="field_access_terms.md">field_access_terms</a></li>
 		<li><a href="field_edtf_date.md">field_edtf_date</a></li>
-		<li>Funding (<a href="field_funding_sources.md">field_funding_sources)</a></li>
 	</ul>
 </dd> 
 <dl>
