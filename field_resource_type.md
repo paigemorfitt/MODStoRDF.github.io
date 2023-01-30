@@ -14,7 +14,7 @@
 <table>
 <tr>
 	<th>ARMINDA Use</th>
-	<td>Basic conceptual indication of the kind of object being described, using broad terms.</td>
+	<td>Basic conceptual indication of the kind of object being described, using broad terms to aid in theming of Islandora 8. </td>
 </tr>
 <tr>
 	<th>Obligation</th>
@@ -40,15 +40,13 @@
 	<th>Notes</th>
 	<td>
 		<ul>
-			<li>This information should relate to the original object, not the digitized surrogate</li>
-			<li>If more than one present, record each value in new field</li>
-			<li>Expectation: one type is sufficient for most object, however specific collections may have more guidance on particular cases</li>
-			<li>If a term does not fit, bring to Metadata Working Group</li>
-			<li>Born-digital uses this field for theming -- field is a trigger that dictates viewer</li>
-			<li>"work_type" was describing physical object, but field_resource_type is using digital object</li>
+			<li>This information should relate to the original object, not the digitized 				surrogate</li>
+			<li>Vender uses this field for theming -- field is a trigger that dictates 				viewer</li>
+			<li>“work_type” was describing physical object, but field_resource_type is using 			digital object</li>
 			<li>Capitalize first work only</li>
 			<li>NOT using image, ARE using still image</li>
-			<li>This field has been reformatted in current spreadsheets as field_resource_type HOWEVER, there is still a field_work_type in Islandora 8. <b>Do not confuse with field_work_type</b></li>
+			<li>Do not confuse with <i>field</i>_work_type</li>
+			<li>work_type transitioned into  field_resource_type</li>
 		</ul>
 	</td>
 </tr>
@@ -62,6 +60,6 @@
 	<a href="DrupalFields.md#Resource-Type">Drupal Field</a> | 
 	<a href="rdf.dcterms.type.md">RDF/dcterms:type</a> |
 </dl>
-<p><i>Last Updated: </i>03/03/2022</p>
+<p><i>Last Updated: </i>01/30/2023</p>
 </body>
 </html>
