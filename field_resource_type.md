@@ -55,11 +55,25 @@
 	<td>Former name: work_type</td>
 </tr>
 </table>
-<dd><b>Related Fields</b></dd>
-	| <a href="mods.typeOfResource.md">MODS/typeOfResource</a> | 
-	<a href="DrupalFields.md#Resource-Type">Drupal Field</a> | 
-	<a href="rdf.dcterms.type.md">RDF/dcterms:type</a> |
-</dl>
+<h3>Related fields</h3>
+<table>
+	<tr>
+		<th>Drupal Field</th>
+		<th>MODS</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td>
+			<a href="DrupalFields.md#Resource-Type">Resource Type</a></a>
+		</td>
+		<td>
+			<a href="mods.typeOfResource.md">typeOfResource</a></a>
+		</td>
+		<td>
+			<a href="rdf.dcterms.type.md">dcters:type</a></a>
+		</td>
+	</tr>
+</table>
 <p><i>Last Updated: </i>01/30/2023</p>
 </body>
 </html>
