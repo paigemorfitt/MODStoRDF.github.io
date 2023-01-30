@@ -112,7 +112,7 @@
 		<li><a href="field_model.md">field_model</a>: Tells what content model the file is -- audio, image, etc; tells what type of file for Islandora to expect</li>
 		<li><a href="field_permanent_url.md">field_permanent_url</a>: unique uri (uniform resource identifier) to the item</li>
 		<li><a href="field_provenance.md">field_provenance</a>: contains provenance information about the subject : [currently] donor information and/or when and how the object was acquired</li>
-		<li><a href="field_resource_type.md">field_resource_type</a>: basic conceptual indication of the kind of object being described, using broad terms</li>
+		<li><a href="field_resource_type.md">field_resource_type</a>: Basic conceptual indication of the kind of object being described, using broad terms to aid in theming of Islandora 8. </li>
 		<li><a href="field_rights.md">field_rights</a>: URL that indicates copyright and/or creative commons status.</li>
 		<li><a href="field_rights_contact.md">field_rights_contact</a> : HTML link to ARMINDA page linking to contact information for use by end users who wish to pursue required permissions for publication, dissemination, etc</li>
 		<li><a href="field_source.md">field_source</a> : A related resource from which the described resource is derived</li>
@@ -271,6 +271,6 @@
 	<li>props_design: Person, group, or company given credit for props design depicted in item</li>
 	<li>sponsor: A person, group or organization credited for supporting Undergraduate Conference project depicted</li>.
 <p><a href="#top">top</a></p>
-<p><i>Last Updated: </i>10/26/2022</p>
+<p><i>Last Updated: </i>01/30/2023</p>
 </dl>
 </html>
