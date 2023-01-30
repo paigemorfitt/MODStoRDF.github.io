@@ -42,6 +42,7 @@
 		<ul>
 			<li>This information should relate to the original object, not the digitized 				surrogate</li>
 			<li>Vender uses this field for theming -- field is a trigger that dictates 				viewer</li>
+			<li>Due to the structure of Islandora 8, field_resource_type is a technical 				metadata field that has more to do with display of objects and less of the Type of 			Resource the object is - thus the definition, parameters and rules are different than 				other descriptive metadata fields.</li>
 			<li>“work_type” was describing physical object, but field_resource_type is using 			digital object</li>
 			<li>Capitalize first work only</li>
 			<li>NOT using image, ARE using still image</li>
