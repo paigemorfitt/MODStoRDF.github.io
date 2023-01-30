@@ -27,12 +27,25 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-<dd><b>Related Fields</b></dd>
-	| <a href="field_resource_type.md">field_resource_type</a> | 
-	<a href="DrupalFields.md">Drupal Fields</a>  | 
-	<a href="rdf.dcterms.type.md">RDF/dcterms:type</a> |
-</dl>
-<p><i>Last Updated: </i>11/08/2021<p>
+<h3>Related fields</h3>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td>
+			<a href="field_resource_type.md">field_resource_type</a></a>
+		</td>
+		<td>
+			<a href="DrupalFields.md#Resource-Type">Resource Type</a></a>
+		</td>
+		<td>
+			<a href="rdf.dcterms.type.md">dcters:type</a></a>
+		</td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>01/30/2023</p>
 </body>
 </html>
