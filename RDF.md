@@ -21,6 +21,7 @@
 	<li><a href="rdf.dcterms.date.md">dcterms:date</a></li>
 	<li><a href="rdf.dcterms.created.md">dcterms:created</a></li>
 	<li><a href="rdf.dcterms.extent.md">dcterms:extent</a></li>
+	<li><a href="rdf.dcterms.type.md">dcterms:type</a></li>
 </details>
 <details>
 <summary>rdau</summary>
@@ -40,6 +41,6 @@
 <summary>Other</summary>
 </details>
 
-<p><i>Last Updated:</font>10/019/2022</p>
+<p><i>Last Updated:</font>01/30/2023</p>
 </dl>
 </html>
