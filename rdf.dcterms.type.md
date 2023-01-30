@@ -30,12 +30,25 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="field_resource_type.md">field_resource_type</a> |
-		<a href="DrupalFields.md">Drupal Fields</a> | 
-		<a href="mods.typeOfResource.md">MODS/typeOfResource</a> |
-</dl>
-<p><i>Last Updated: </i>11/08/2021</p>
+<h3>Related fields</h3>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>MODS</th>
+	</tr>
+	<tr>
+		<td>
+			<a href="field_resource_type.md">field_resource_type</a></a>
+		</td>
+		<td>
+			<a href="DrupalFields.md#Resource-Type">Resource Type</a></a>
+		</td>
+		<td>
+			<a href="mods.typeOfResource.md">typeOfResource</a></a>
+		</td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>01/30/2023</p>
 </body>
 </html>
