@@ -29,7 +29,7 @@
  <h2 id="maxey">Maxey Museum </h2>
  <table>
 	 <tr>
-  	  	<th>IMI Column</th>
+  	  	<th>Spreadsheet</th>
 		<th>Front-end name</th>
  		<th>Obligation</th>
  		<th>Repeatability</th>
@@ -59,6 +59,14 @@
 		<td>No</td>
 		<td>See collection guidelines for creation protocols</td>
 	</tr>
+	<tr>
+		<td><a href="field_resource_type.md">field_resource_type</a></td>
+		<td>Resource Type</td>
+		<td>Required</td>
+		<td>No</td>
+		<td>No</td>
+		<td>Due to the structure of Islandora 8, field_resource_type is a technical metadata field that has more to do with display of objects and less of the 			Type of Resource the object is - thus the definition, parameters and rules are different than other descriptive metadata fields.</td>
+	</tr>
 </table>
 
 
@@ -66,7 +74,7 @@
  <h2 id="sheehan">Sheehan Gallery</h2>
  <table>
 	<tr>
-		<th>IMI Column</th>
+		<th>Spreadsheet</th>
 		<th>Front-end name</th>
 		<th>Obligation</th>
 		<th>Repeatability</th>
@@ -96,7 +104,15 @@
 		<td>No</td>
 		<td>See collection guidelines for creation protocols</td>
 	</tr>
+	<tr>
+		<td><a href="field_resource_type.md">field_resource_type</a></td>
+		<td>Resource Type</td>
+		<td>Required</td>
+		<td>No</td>
+		<td>No</td>
+		<td>Due to the structure of Islandora 8, field_resource_type is a technical metadata field that has more to do with display of objects and less of the 			Type of Resource the object is - thus the definition, parameters and rules are different than other descriptive metadata fields.</td>
+	</tr>
 </table>
-<p><i>Last Updated: </i>10/19/2021</p>
+<p><i>Last Updated: </i>01/30/2023</p>
 </body>
 </html>
