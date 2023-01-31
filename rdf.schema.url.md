@@ -28,12 +28,20 @@
 	<td>URL</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="field_url_external.md">field_url_external</a> 
-		| <a href="DrupalFields.md#view-item">Drupal Field</a>
-		| <a href="mods.location.url.md">MODS/location/url</a> |
-</dl>
-<p><i>Last Updated: </i>01/06/2022</p>
+</table>
+	<h3>Related fields</h3>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+	</tr>
+	<tr>
+		<td><a href="field_url_external.md">field_url_external</a></td>
+		<td><a href="mods.location.url.md">location/url</a> </td> 
+		<td><a href="DrupalFields.md#view-item">View Item</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>01/31/2023</p>
 </body>
 </html>
