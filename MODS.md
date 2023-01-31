@@ -21,7 +21,7 @@
 		<li><a href="mods.genre.md">genre</a></li>
 		<li><a href="MODS.identifier.md">identifier</a></li>
 		<li><a href="mods.language.languageTerm.md">language/languageTerm</a></li>
-		<li><a href="mods.location_url.md">location/url</a></li>
+		<li><a href="mods.location.url.md">location/url</a></li>
 		<li><a href="mods.name.md">name/namePart</a></li>
 		<li><a href="mods.note.md">note</a></li>
 		<li><a href="mods.originInfo.dateCreated.md">originInfo/dateCreated</a></li>
@@ -45,6 +45,6 @@
 	
 <p><a href="#top">top</a></p>
 
-<p><font color="red"><i>Last Updated: </i></font>05/27/2021</p>
+<p><font color="red"><i>Last Updated: </i></font>01/31/2023</p>
 </dl>
 </html>
