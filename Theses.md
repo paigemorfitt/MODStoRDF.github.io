@@ -66,6 +66,14 @@
 		<td>See collection guidelines for creation protocols</td>
 	</tr>
 	<tr>
+		<td><a href="field_limited_access.md">field_limited_access</a></td>
+		<td>Limited Access</td>
+		<td>Required, if applicable</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td>There are two Access Condition fields.The other is field_access_terms. Field must be used in conjunction 			with field_access_terms.</td>
+	</tr>
+	<tr>
 		<td><a href="field_permanent_url.md">field_permanent_url</a></td>
 		<td>Permanent URL</td>
 		<td>Required</td>
