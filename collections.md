@@ -40,6 +40,13 @@
 		<td></td>
  	 </tr>
   	<tr>
+   	 	<td>Limited Access (<a href="field_limited_access.md">field_limited_access</a>)</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td></td>
+ 	 </tr>
+  	<tr>
    	 	<td>Permanent URL (<a href="field_permanent_url.md">field_permanent_url</a>)</td>
 		<td>Yes</td>
 		<td>Yes</td>
