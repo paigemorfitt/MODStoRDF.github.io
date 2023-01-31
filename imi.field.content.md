@@ -46,10 +46,11 @@
 		<li><a href="field_edtf_date.md">field_edtf_date</a></li>
 		<li>Funding (<a href="field_funding_sources.md">field_funding_sources)</a></li>
 		<li>Limited Access (<a href="field_limited_access.md">field_limited_access</a>)</li>
+		<li>View item (<a href="field_url_external.md">field_url_external</a>)</li>
 	</ul>
 </dd> 
 <dl>
-	<p><i>Last Updated: </i>01/27/2023</p>
+	<p><i>Last Updated: </i>01/31/2023</p>
 </dl>
 </body>
 </html>
