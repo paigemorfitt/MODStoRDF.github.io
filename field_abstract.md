@@ -58,7 +58,7 @@ For paragraphs, use 2 line breaks in the cell (ctrl + "Enter") (Trim whitespace 
 	<td>some content moved to field_description_long, former name: abstract, contains content from: issnum</td>
 </tr>
 </table>
-	<p>Related fields</p>
+	<h3>Related fields</h3>
 <table>
 	<tr>
 		<th>MODS</th>
