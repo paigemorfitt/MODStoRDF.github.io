@@ -31,12 +31,19 @@
 	<td>[here]</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="field_limited_access.md">field_limited_access</a> | 
-		<a href="DrupalFields.md#limited-access">Drupal Field</a> |
-		<a href="mods.access_condition.md">MODS/accessCondition</a> | 
-</dl>
-<p><i>Last Updated: </i>09/30/2021</p>
+<h3>Related fields</h3>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+	</tr>
+	<tr>
+		<td><a href="field_limited_access.md">field_limited_access</a></td>
+		<td><a href="mods.access_condition.md">accessCondition</a> </td>
+		<td><a href="DrupalFields.md#limited-access">Limited Access</a> </td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>01/31/2023</p>
 </body>
 </html>
