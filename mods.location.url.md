@@ -43,12 +43,20 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="field_url_external.md">field_url_external</a> 
-		| <a href="DrupalFields.md#view-item">Drupal Field</a>
-		| <a href="rdf.schema.url.md">RDF/schema:url</a> |
-</dl>
-<p><i>Last Updated: </i>01/06/2022</p>
+</table>
+	<h3>Related fields</h3>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_url_external.md">field_url_external</a></td>
+		<td><a href="DrupalFields.md#view-item">View Item</a></td>
+		<td><a href="rdf.schema.url.md">schema:url</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>01/31/2023</p>
 </body>
 </html>
