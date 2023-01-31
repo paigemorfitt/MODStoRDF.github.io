@@ -105,7 +105,7 @@
 		<li><a href="field_identifier.md">field_identifier</a>: character string or number that clearly and uniquely identifies a digital object or resource. This field ensures that individual dibital object can be accessed, managed, stored, recalled,and used reliably</li>
 		<li><a href="field_issue_num.md">field_issue_num</a>: indicate issue number sequential order of volume</li>
 		<li><a href="language.md">field_language</a>: the non-English language of the source content being described (applied to textual or spoken (linguistic) content)</li>
-		<li><a href="field_limited_access.md">field_limited_access</a>: field that indicates item may be accessed by only current Whitman affiliates</li>
+		<li><a href="field_limited_access.md">field_limited_access</a>: Field that indicates item may be accessed by only current Whitman affiliates (netID holders). </li>
 		<li><a href="field_linked_agent.md">field_linked_agent</a>: label of a field instance populated by taxonomy terms from Corporate Body, Family, Person vocabularies</li>
 		<li><a href="field_origin.md">field_origin</a>: provides place names associated with the creation or issuance of a resource</li>
 		<li><a href="field_member_of.md">field_member_of</a>: Tells Islandora 8 the hierarchy of where an object lives</li>
