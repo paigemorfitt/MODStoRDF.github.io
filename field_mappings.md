@@ -156,6 +156,26 @@
 	<p><b>updated</b> : 10/19/2022</p>
 </details>
 <details>
+<summary>field_url_external</summary>
+	<p><b>Active field name (spreadsheet)</b> : field_url_external</p>
+	<p><b>Islandora 8 Field Name</b> : field_url_external</p>
+	<p><b>Islandora 8 Public Name</b> : View Item</p>
+	<p><b>Drupal Field Name</b> : View Item/Link</p>
+	<p><b>Migration Field Name</b> : IMI/download_url; IMI/url_external</p>
+	<p><b>Islandora 7 Field Name</b> : download_url; url_external</p>
+	<p><b>Islandora 7 Public Name</b> : View Files</p>
+	<p><b>BePress Name</b> : download_url</p>
+	<p><b>BePress Field Name</b> : View Files</p>
+	<p><b>RDA</b> : 17</p>
+	<p><b>MARC</b> : 856</p>
+	<p><b>DACS</b> : 2.2; 4.3?</p>
+	<p><b>EAD</b> : repository; physloc</p>
+	<p><b>MODS</b> : location; url</p>
+	<p><b>RDF</b> : schema:volumeNumber. (should be schema:url)</p>
+	<p><b>Notes</b> : Note: current mapping in Islandora 8 is incorrect (schema:volumeNumber. It should be schema:url)</p>
+	<p><b>updated</b> : 01/31/2023</p>
+</details>
+<details>
 <summary>lc_subject</summary>
 	<p><b>Active field name (spreadsheet)</b> : N/A</p>
 	<p><b>Islandora 8 Field Name</b> : N/A</p>
