@@ -13,7 +13,7 @@
 
 
 
-<h1 id="top">IMI Columns</h1>
+<h1 id="top">Spreadsheet Columns</h1>
 <p>The following is both legacy and active IMI columns (or fields) used in spreadsheets.</p>
 <details>
 <summary>A's</summary>
