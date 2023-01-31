@@ -53,7 +53,10 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Former name: access_condition</td>
+	<td>
+		<li>Former name: access_condition</li>
+		<li>Prior to Islandora 8 limited access items were contained in a different bucket than open access items. For BePress that information can be seen in document_type and issue</li>
+	</td>
 </tr>
 </table>
 <h3>Related fields</h3>
