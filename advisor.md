@@ -32,6 +32,7 @@
 </tr>
 </table>
 </dl>
+	<h3>Related fields</h3>
 <table>
 	<tr>
 		<th>Spreadsheet</th>
