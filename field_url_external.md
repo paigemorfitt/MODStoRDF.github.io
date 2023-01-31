@@ -54,12 +54,19 @@
 	<td>Former name: download_url, Former name: url_external</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		|<a href="mods.location.url.md">MODS/location/url</a> 
-		| <a href="DrupalFields.md#view-item">Drupal Field</a>
-		| <a href="rdf.schema.url.md">RDF/schema:url</a>|
-</dl>
-<p><i>Last Updated: </i>03/24/2022</p>
+	<h3>Related fields</h3>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.location.url.md">location/url</a> </td> 
+		<td><a href="DrupalFields.md#view-item">View Item</a></td>
+		<td><a href="rdf.schema.url.md">schema:url</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>01/31/2023</p>
 </body>
 </html>
