@@ -54,9 +54,9 @@
 		<th>RDF</th>
 	</tr>
 	<tr>
-		<td><a href="MODS.identifier.md">MODS/identifier</a></td>
+		<td><a href="MODS.identifier.md">identifier</a></td>
 		<td><a href="DrupalFields.md#identifier">Identifier</a></td> 
-		<td><a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a> </td>
+		<td><a href="rdf.dcterms.identifier.md">dcterms:identifier</a> </td>
 	</tr>
 </table>
 <p><i>Last Updated: </i></font>10/18/2022</p>
