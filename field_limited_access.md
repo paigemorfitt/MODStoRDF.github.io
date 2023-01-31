@@ -56,12 +56,6 @@
 	<td>Former name: access_condition</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		<a href="mods.access_condition.md">MODS/accessCondition</a> | 
-		<a href="DrupalFields.md#limited-access">Drupal Field</a> | 
-		<a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
-	</dl>
 <h3>Related fields</h3>
 <table>
 	<tr>
@@ -70,11 +64,11 @@
 		<th>RDF</th>
 	</tr>
 	<tr>
-		<td><a href="mods.abstract.md">abstract</a></td>
-		<td><a href="DrupalFields.md">Abstract</a></td>
-		<td><a href="rdf.dcterms.abstract.md">dcterms:abstract </a></td>
+		<td><a href="mods.access_condition.md">accessCondition</a> </td>
+		<td><a href="DrupalFields.md#limited-access">Limited Access</a> </td>
+		<td><a href="rdf.rdau.p60496.md">rdau:P60496</a></td>
 	</tr>
 </table>
-<p><i>Last Updated: </i>02/24/2022</p>
+<p><i>Last Updated: </i>01/31/2023</p>
 </body>
 </html>
