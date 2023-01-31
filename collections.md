@@ -67,6 +67,13 @@
 		<td>Yes</td>
 		<td>Yes</td>
  	 </tr>
+  	<tr>
+   	 	<td>View it (<a href="field_url_external.md">field_url_external</a>)</td>
+		<td>Yes</td>
+		<td></td>
+		<td></td>
+		<td></td>
+ 	 </tr>
 </table>
 	
 	
