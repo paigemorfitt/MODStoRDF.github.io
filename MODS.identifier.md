@@ -38,12 +38,12 @@
 	<tr>
 		<td><a href="field_identifier.md">field_identifier</a></td>
 		<td><a href="DrupalFields.md#identifier">Identifier</a></td>
-		<td><a href="rdf.dcterms.identifier.md">RDF/dcterms:identifier</a></td> 
+		<td><a href="rdf.dcterms.identifier.md">dcterms:identifier</a></td> 
 	</tr>
 	<tr>
 		<td><a href="field_permanent_url.md">field_permanent_url</a></td>
 		<td><a href="DrupalFields.md#Permanent-URL">Permanent URL</a> </td> 
-		<td><a href="rdf.rdau.p60919.md">RDF/rdau:p60919</a></td>
+		<td><a href="rdf.rdau.p60919.md">rdau:p60919</a></td>
 	</tr>
 </table>
 <p><i>Last Updated: </i>10/19/2022</p>
