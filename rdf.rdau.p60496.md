@@ -16,11 +16,12 @@
 <table>
 <tr>
 	<th>Definition</th>
-	<td>Relates a resource to limitations placed on access to a resource <a href="http://www.rdaregistry.info/Elements/u/#P60496">(reference)</a><</td>
+	<td>Relates a resource to limitations placed on access to a resource <a href="http://www.rdaregistry.info/Elements/u/#P60496">(reference)</a></td>
 </tr>
 <tr>
 	<th>Label</th>
-	<td>N/A</td>
+	<td>	
+"has restrictions on access"</td>
 </tr>
 <tr>
 	<th>Domain</th>
@@ -28,7 +29,7 @@
 </tr>
 <tr>
 	<th>Range</th>
-	<td>[here]</td>
+	<td>N/A</td>
 </tr>
 </table>
 <h3>Related fields</h3>
