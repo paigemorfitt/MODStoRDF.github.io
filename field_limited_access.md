@@ -61,7 +61,20 @@
 		<a href="mods.access_condition.md">MODS/accessCondition</a> | 
 		<a href="DrupalFields.md#limited-access">Drupal Field</a> | 
 		<a href="rdf.rdau.p60496.md">RDF/rdau:P60496</a> |
-</dl>
+	</dl>
+<h3>Related fields</h3>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.abstract.md">abstract</a></td>
+		<td><a href="DrupalFields.md">Abstract</a></td>
+		<td><a href="rdf.dcterms.abstract.md">dcterms:abstract </a></td>
+	</tr>
+</table>
 <p><i>Last Updated: </i>02/24/2022</p>
 </body>
 </html>
