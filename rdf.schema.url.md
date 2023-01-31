@@ -11,7 +11,7 @@
   </tr>
 <table>
 <h2>schema:url</h2>
-<p><i>Note: current mapping in Islandora 8 is incorrect (schema:volumeNumber. It should be schema:url)</i></p>
+<p><i>Note: current mapping in Islandora 8 is incorrect (schema:volumeNumber. It should be schema:url)</i> (1/31/2023)</p>
 <tr>
 	<th>Definition</th>
 	<td>URL of the item. <a href="https://schema.org/url">(resource)<a/></td>
