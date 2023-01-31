@@ -10,7 +10,7 @@
     <th><a href="RDF.md">RDF Fields</a></th>
   </tr>
 <table>
-<h2>schema/url</h2>
+<h2>schema:url</h2>
 <tr>
 	<th>Definition</th>
 	<td>URL of the item. <a href="https://schema.org/url">(resource)<a/></td>
