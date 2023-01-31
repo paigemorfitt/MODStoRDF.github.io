@@ -36,7 +36,7 @@
 </details>
 <details>
 <summary>schema.org</summary>
-	<li></li>
+	<li><a href="rdf.schema.url.md">schema:url</a></li>
 </details>
 <details>
 <summary>Other</summary>
