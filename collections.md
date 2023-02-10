@@ -40,6 +40,13 @@
 		<td></td>
  	 </tr>
   	<tr>
+   	 	<td>Description (<a href="field_description_long.md">field_description_long</a>)</td>
+		<td>Yes</td>
+		<td></td>
+		<td>Yes</td>
+		<td>Yes</td>
+ 	 </tr>
+  	<tr>
    	 	<td>Limited Access (<a href="field_limited_access.md">field_limited_access</a>)</td>
 		<td>Yes</td>
 		<td>Yes</td>
