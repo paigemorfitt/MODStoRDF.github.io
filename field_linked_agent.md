@@ -63,12 +63,19 @@
 	<td>Absorbed the following (non-ingest) fields: <a href="advisor.md">advisor</a>, <a href="creators.md">creator</a>, <a href="contributors.md">contributor</a>, <a href="publisher.md">publisher</a>, and <a href="department.md">department</a></td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="mods.name.md">MODS/name/namePart</a> | 
-		<a href="DrupalFields.md#linked-agent">Drupal Fields</a> |
-		<a href="rdf.relators.md">RDF/relators</a> |
-</dl>
-<p><i>Last Updated: </i>02/28/2022</p>
+	<h3>Related fields</h3>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.name.md">name/namePart</a></td>
+		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
+		<td><a href="rdf.relators.md">relators</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>02/10/2023</p>
 </body>
 </html>
