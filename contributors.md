@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>IMI/contributors</h1>
+<h1>contributors</h1>
 <table>
 <tr>
 	<th>ARMINDA Use</th>
