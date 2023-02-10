@@ -156,6 +156,26 @@
 	<p><b>updated</b> : 10/19/2022</p>
 </details>
 <details>
+<summary>field_linked_agent</summary>
+	<p><b>Active field name (spreadsheet)</b> : field_linked_agent</p>
+	<p><b>Islandora 8 Field Name</b> : field_linked_agent</p>
+	<p><b>Islandora 8 Public Name</b> : Linked Agent</p>
+	<p><b>Drupal Field Name</b> : Linked Agent/Typed relation (taxonomy - corporate body, family, person)</p>
+	<p><b>Migration Field Name</b> : N/A</p>
+	<p><b>Islandora 7 Field Name</b> : N/A</p>
+	<p><b>Islandora 7 Public Name</b> : N/A</p>
+	<p><b>BePress Name</b> : N/A</p>
+	<p><b>BePress Field Name</b> : N/A</p>
+	<p><b>RDA</b> : 19.2; 19.3</p>
+	<p><b>MARC</b> : 100; 110; 111; 700; 710; 711</p>
+	<p><b>DACS</b> : 2.6</p>
+	<p><b>EAD</b> : origination</p>
+	<p><b>MODS</b> : N/A</p>
+	<p><b>RDF</b> : [relators] / [local]</p>
+	<p><b>Notes</b> : N/A</p>
+	<p><b>updated</b> : 02/10/2023</p>
+</details>
+<details>
 <summary>field_url_external</summary>
 	<p><b>Active field name (spreadsheet)</b> : field_url_external</p>
 	<p><b>Islandora 8 Field Name</b> : field_url_external</p>
