@@ -60,7 +60,7 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Absorbed the following (non-ingest) fields: <a href="advisor.md">advisor</a>, <a href="creators.md">creator</a>, <a href="contributors.md">contributor</a>, <a href="publishers.md">publisher</a>, and <a href="department.md">department</a></td>
+	<td>Absorbed the following (non-ingest) fields: <a href="advisor.md">advisor</a>, <a href="creators.md">creator</a>, <a href="contributors.md">contributor</a>, <a href="publisher.md">publisher</a>, and <a href="department.md">department</a></td>
 </tr>
 </table>
 <dl>
