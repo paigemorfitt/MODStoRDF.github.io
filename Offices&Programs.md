@@ -34,6 +34,7 @@
  		<th>Obligation</th>
  		<th>Repeatability</th>
 		<th>Public Field</th>
+		<th>Additional Note</th>
 	</tr>
 	<tr>
 		<td><a href="field_description_long.md">field_description_long</a></td>
@@ -79,6 +80,7 @@
 		<th>Obligation</th>
 		<th>Repeatability</th>
 		<th>Public Field</th>
+		<th>Additional Note</th>
 	</tr>
 	<tr>
 		<td><a href="field_description_long.md">field_description_long</a></td>
