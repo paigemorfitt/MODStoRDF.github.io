@@ -58,12 +58,19 @@
 	<td>Absorbed: donor; Former name: provenance</td>
 </tr>
 </table>
-<dl>
-	<dd><b>Related Fields</b></dd>
-		| <a href="mods.note.md">MODS/note</a> | 
-		<a href="DrupalFields.md#Provenance">Drupal Fields</a> | 
-		<a href="rdf.dcterms.provenance.md">RDF/dcterms:provenanc</a> | 
-</dl>
-<p><i>Last Updated: </i>03/03/2022</p>
+	<h3>Related Fields</h3>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.note.md">note</a></td> 
+		<td><a href="DrupalFields.md#Provenance">Provenance</a></td>
+		<td><a href="rdf.dcterms.provenance.md">dcterms:provenanc</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>03/14/2022</p>
 </body>
 </html
