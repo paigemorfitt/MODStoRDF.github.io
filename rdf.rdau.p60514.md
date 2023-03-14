@@ -31,12 +31,19 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="field_graduation_year.md">field_graduation_year</a> | 
-		<a href="DrupalFields.md#graduation-year">Drupal Field</a> |
-		<a href="mods.originInfo_dateOther.md">MODS/originInfo/dateOther</a> |
-</dl>
-<p><i>Last Updated: </i>09/27/2021</p>
+	<h3>Related Fields</h3>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+	</tr>
+	<tr>
+		<td><a href="field_graduation_year.md">field_graduation_year</a></td> 
+		<td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td> 
+		<td><a href="DrupalFields.md#graduation-year">Graduation Year</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>03/14/2022</p>
 </body>
 </html>
