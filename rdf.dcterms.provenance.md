@@ -34,12 +34,19 @@
 	<td>ProvenanceStatement: Any changes in ownership and custody of a resource since its creation that are significant for its authenticity, integrity, and interpretation.</td>
 </tr>
 </table>
-<dl>
-	<dd><b>Related Fields</b></dd>
-		| <a href="field_provenance.md">field_provenance</a> |
-		<a href="DrupalFields.md">Drupal Fields</a> | 
-		| <a href="mods.note.md">MODS/note</a> | 
-</dl>
-<p><i>Last Updated: </i>11/05/2021</p>
+	<h3>Related Fields</h3>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+	</tr>
+	<tr>
+		<td><a href="field_provenance.md">field_provenance</a></td>
+		<td><a href="mods.note.md">note</a></td> 
+		<td><a href="DrupalFields.md#Provenance">Provenance</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>03/14/2022</p>
 </body>
 </html>
