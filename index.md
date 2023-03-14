@@ -357,7 +357,7 @@
 <tr>
     <td>Dewey Classification</td>
     <td>field_dewey_classification</td>
-    <td></td>	
+    <td>Not in use</td>	
 </tr>
 <tr>
     <td>Edition</td>
