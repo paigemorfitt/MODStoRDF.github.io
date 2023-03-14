@@ -68,6 +68,13 @@
 		<td></td>
  	 </tr>
   	<tr>
+   	 	<td>Provenance (<a href="field_provenance.md">field_provenance</a>)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Yes</td>
+ 	 </tr>
+  	<tr>
    	 	<td>Resource Type (<a href="field_resource_type.md">field_resource_type</a>)</td>
 		<td>Yes</td>
 		<td>Yes</td>
