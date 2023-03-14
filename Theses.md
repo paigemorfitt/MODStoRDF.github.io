@@ -58,6 +58,14 @@
 		<td></td>
   	</tr>
 	<tr>
+		<td><a href="field_graduation_year.md">field_graduation_year</a></td>
+		<td>Graduation Year</td>
+		<td>Required, if applicable</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td>Single digit months must be prefixed with a "0"</td>
+	</tr>
+	<tr>
 		<td><a href="field_identifier.md">field_identifier</a></td>
 		<td></td>
 		<td>Required</td>
@@ -107,7 +115,7 @@
 	</tr>
 	
 </table>
-	<p><i>Last Updated: </i>01/27/2023</p>
+	<p><i>Last Updated: </i>03/14/2023</p>
 </dl>
 </body>
 </html>
