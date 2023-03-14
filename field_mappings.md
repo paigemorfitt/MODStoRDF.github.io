@@ -116,24 +116,24 @@
 	<p><b>Updated</b>: 9/9/2022</p>
 </details>
 <details>
-<summary>field_limited_access</summary>
-	<p><b>Active field name (spreadsheet)</b> : field_limited_access</p>
-	<p><b>Islandora 8 Field Name</b> : field_limited_access</p>
-	<p><b>Islandora 8 Public Name</b> : Limited Access</p>
-	<p><b>Drupal Field Name</b> : Limited Access/Text(formatted)</p>
-	<p><b>Migration Field Name</b> : access_condition</p>
-	<p><b>Islandora 7 Field Name</b> : issue; document_type</p>
-	<p><b>Islandora 7 Public Name</b> : N/A</p>
-	<p><b>BePress Name</b> : issue; document_type</p>
-	<p><b>BePress Field Name</b> : N/A</p>
-	<p><b>RDA</b> : 4.4</p>
-	<p><b>MARC</b> : 506</p>
-	<p><b>DACS</b> : 3.4.1</p>
-	<p><b>EAD</b> : accessrestrict; legalstatus</p>
-	<p><b>MODS</b> : accessCondition</p>
-	<p><b>RDF</b> : rdau:P60496</p>
+	<summary>field_graduation_year</summary>
+	<p><b>Active field name (spreadsheet)</b> : field_graduation_year</p>
+	<p><b>Islandora 8 Field Name</b> : field_graduation_year</p>
+	<p><b>Islandora 8 Public Name</b> : Graduation Year</p>
+	<p><b>Drupal Field Name</b> : Graduation Year/EDTF</p>
+	<p><b>Migration Field Name</b> : graduation_year; year_graduation</p>
+	<p><b>Islandora 7 Field Name</b> : graduation_year</p>
+	<p><b>Islandora 7 Public Name</b> : Graduation Year</p>
+	<p><b>BePress Name</b> : graduation_year</p>
+	<p><b>BePress Field Name</b> : Graduation Year</p>
+	<p><b>RDA</b> : 7.9.4</p>
+	<p><b>MARC</b> : 502 |d;545</p>
+	<p><b>DACS</b> : 2.7</p>
+	<p><b>EAD</b> : biohist</p>
+	<p><b>MODS</b> : originInfo; dateOther</p>
+	<p><b>RDF</b> : rdau:P60514</p>
 	<p><b>Notes</b> : N/A</p>
-	<p><b>updated</b> : 01/31/2023</p>
+	<p><b>updated</b> : 03/14/2023</p>
 </details>
 <details>
 <summary>field_identifier</summary>
@@ -154,6 +154,26 @@
 	<p><b>RDF</b> : dc:identifier</p>
 	<p><b>Notes</b> : N/A</p>
 	<p><b>updated</b> : 10/19/2022</p>
+</details>
+<details>
+<summary>field_limited_access</summary>
+	<p><b>Active field name (spreadsheet)</b> : field_limited_access</p>
+	<p><b>Islandora 8 Field Name</b> : field_limited_access</p>
+	<p><b>Islandora 8 Public Name</b> : Limited Access</p>
+	<p><b>Drupal Field Name</b> : Limited Access/Text(formatted)</p>
+	<p><b>Migration Field Name</b> : access_condition</p>
+	<p><b>Islandora 7 Field Name</b> : issue; document_type</p>
+	<p><b>Islandora 7 Public Name</b> : N/A</p>
+	<p><b>BePress Name</b> : issue; document_type</p>
+	<p><b>BePress Field Name</b> : N/A</p>
+	<p><b>RDA</b> : 4.4</p>
+	<p><b>MARC</b> : 506</p>
+	<p><b>DACS</b> : 3.4.1</p>
+	<p><b>EAD</b> : accessrestrict; legalstatus</p>
+	<p><b>MODS</b> : accessCondition</p>
+	<p><b>RDF</b> : rdau:P60496</p>
+	<p><b>Notes</b> : N/A</p>
+	<p><b>updated</b> : 01/31/2023</p>
 </details>
 <details>
 <summary>field_linked_agent</summary>
