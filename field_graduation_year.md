@@ -63,13 +63,11 @@
 	<h3>Related Fields</h3>
 <table>
 	<tr>
-		<th>Spreadsheet</th>
 		<th>MODS</th>
 		<th>Drupal Field</th>
 		<th>RDF</th>
 	</tr>
 	<tr>
-		<td><a href="field_graduation_year.md">field_graduation_year</a></td> 
 		<td><a href="mods.originInfo_dateOther.md">originInfo/dateOther</a></td> 
 		<td><a href="DrupalFields.md#graduation-year">Graduation Year</a></td>
 		<td><a href="rdf.rdau.p60514.md">rdau:p60514</a></td>
