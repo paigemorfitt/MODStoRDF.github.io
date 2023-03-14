@@ -47,6 +47,13 @@
 		<td>Yes</td>
  	 </tr>
   	<tr>
+   	 	<td>Graduation Year (<a href="field_graduation_year.md">field_graduation_year</a>)</td>
+		<td></td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td></td>
+ 	 </tr>
+  	<tr>
    	 	<td>Limited Access (<a href="field_limited_access.md">field_limited_access</a>)</td>
 		<td>Yes</td>
 		<td>Yes</td>
@@ -85,7 +92,7 @@
 	
 	
 <dl>
-	<p><i>Last Updated: </i>01/31/2023</p>
+	<p><i>Last Updated: </i>03/14/2023</p>
 </dl>
 </body>
 </html>
