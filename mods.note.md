@@ -27,12 +27,19 @@
 	<td>N/A</td>
 </tr>
 </table>
-<dl>
-	<dd><b>Related Fields</b></dd>
-		|<a href="field_provenance.md">field_provenance</a> | 
-		<a href="DrupalFields.md">Drupal Fields</a>
-		<a href="rdf.dcterms.provenance.md">RDF/dcterms:provenance</a> |
-</dl>
-<p><i>Last Updated: </i>11/08/2021</p>
+	<h3>Related Fields</h3>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_provenance.md">field_provenance</a></td>
+		<td><a href="DrupalFields.md#Provenance">Provenance</a></td>
+		<td><a href="rdf.dcterms.provenance.md">dcterms:provenanc</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>03/14/2022</p>
 </body>
 </html>
