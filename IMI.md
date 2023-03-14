@@ -101,7 +101,7 @@
 		<li><a href="field_funding_sources.md">field_funding_sources</a>: indicates institution or program that helped to fund research project</li>
 		<li><a href="field_genre.md">field_genre</a>: a more detaile sub-type refining the broad Work Type element; provides a specific characterization of the nature or style of the original content source</li>
 		<li><a href="field_geographic_subject.md">field_geographic_subject</a>: geographic subject headings</li>
-		<li><a href="#graduation_year">field_graduation_year</a>: year anuthor graduated from Whitman College</li>
+		<li><a href="field_graduation_year.md">field_graduation_year</a>: year anuthor graduated from Whitman College</li>
 		<li><a href="field_identifier.md">field_identifier</a>: character string or number that clearly and uniquely identifies a digital object or resource. This field ensures that individual dibital object can be accessed, managed, stored, recalled,and used reliably</li>
 		<li><a href="field_issue_num.md">field_issue_num</a>: indicate issue number sequential order of volume</li>
 		<li><a href="language.md">field_language</a>: the non-English language of the source content being described (applied to textual or spoken (linguistic) content)</li>
