@@ -82,6 +82,13 @@
 		<td>Yes</td>
  	 </tr>
   	<tr>
+   	 	<td><a href="field_edtf_date.md">field_edtf_date</a></td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>Yes</td>
+ 	 </tr>
+  	<tr>
    	 	<td><a href="field_identifier.md">field_identifier</a></td>
 		<td>Yes</td>
 		<td>Yes</td>
@@ -99,7 +106,7 @@
 	
 	
 <dl>
-	<p><i>Last Updated: </i>03/14/2023</p>
+	<p><i>Last Updated: </i>04/19/2023</p>
 </dl>
 </body>
 </html>
