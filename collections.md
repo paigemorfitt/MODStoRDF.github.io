@@ -40,6 +40,13 @@
 		<td></td>
  	 </tr>
   	<tr>
+   	 	<td>Access Control (<a href="field_access_terms.md">field_access_terms</a>)</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td></td>
+ 	 </tr>
+  	<tr>
    	 	<td>Description (<a href="field_description_long.md">field_description_long</a>)</td>
 		<td>Yes</td>
 		<td></td>
@@ -106,7 +113,7 @@
 	
 	
 <dl>
-	<p><i>Last Updated: </i>04/19/2023</p>
+	<p><i>Last Updated: </i>06/29/2023</p>
 </dl>
 </body>
 </html>
