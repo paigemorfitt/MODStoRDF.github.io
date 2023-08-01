@@ -44,9 +44,9 @@
 		<td><a href="field_linked_agent.md" class ="magic-button">field_linked_agent</a></td>
 		<td><a href="mods.name.md">name/namePart</a></td> 
 		<td><a href="DrupalFields.md#linked-agent">Linked Agent</a></td>
-		<td><a href="rdf.field_linked_agent.md">local:adv</a></td>
+		<td><a href="rdf.relators.md">local:adv</a></td>
 	</tr>
 </table>
-<p><i>Last Updated: </i>06/27/2022</p>
+<p><i>Last Updated: </i>08/01/2023</p>
 </body>
 </html>
