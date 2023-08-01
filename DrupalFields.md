@@ -50,7 +50,7 @@
 					<td>N/A / Unlimited</td>
 					<td>Taxonomy term / Islandora Access</td>
 					<td>field_access_terms</td>
-					<td>Custom field?</td>
+					<td>Custom field</td>
 				</tr>
 			</table>
 	<dl>

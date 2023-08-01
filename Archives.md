@@ -42,6 +42,14 @@
 		<td>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</td>
 	</tr>
 	<tr>
+		<td><a href="field_access_terms.md">field_access_terms</a></td>
+		<td>Access Condition</td>
+		<td>Required, if applicable</td>
+		<td>No</td>
+		<td>No</td>
+		<td>Field must be used in conjunction with field_limited_access</td>
+	</tr>
+	<tr>
 		<td><a href="field_description_long.md">field_description_long</a></td>
 		<td>Description</td>
 		<td>Required</td>
@@ -115,7 +123,7 @@
 	</tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>01/31/2023</p>
+	<p><i>Last Updated: </i>06/29/2023</p>
 </dl>
 </body>
 </html>

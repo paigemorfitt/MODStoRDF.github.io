@@ -42,6 +42,14 @@
 		<td>For paragraphs, use 2 line breaks in the cell (ctrl + "Enter")</td>
 	</tr>
 	<tr>
+		<td><a href="field_access_terms.md">field_access_terms</a></td>
+		<td>Access Condition</td>
+		<td>Required, if applicable</td>
+		<td>No</td>
+		<td>No</td>
+		<td>Field must be used in conjunction with field_limited_access</td>
+	</tr>
+	<tr>
 		<td><a href="field_edtf_date.md">field_edtf_date</a></td>
 		<td></td>
 		<td>Required, if applicable</td>
