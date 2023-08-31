@@ -32,7 +32,7 @@
 	<td>Literal</td>
 </tr>
 </table>
-<P2>Related</P2>
+<dt><b>Related Fields</b></dt>
 <table>
 	<tr>
 		<th>Spreadsheet</th>
