@@ -57,6 +57,7 @@
 	</td>
 </tr>
 </table>
+<dt><b>Related Fields</b></dt>
 <table>
 	<tr>
 		<th>MODS</th>
