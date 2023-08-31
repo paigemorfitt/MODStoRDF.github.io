@@ -66,6 +66,14 @@
 		<td>See "EDTF according to DateFormattingGuidelinesARMINDA" for formatting</td>
 	</tr>
 	<tr>
+		<td><a href="field_edtf_date_issued.md">field_edtf_date_issued</a></td>
+		<td>Date Issued</td>
+		<td>Required</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td>See "EDTF according to DateFormattingGuidelinesARMINDA" for formatting</td>
+	</tr>
+	<tr>
 		<td><a href="field_extent.md">field_extent</a></td>
 		<td>Extent</td>
 		<td>Required, if applicable</td>
@@ -123,7 +131,7 @@
 	</tr>
 </table>
 <dl>
-	<p><i>Last Updated: </i>06/29/2023</p>
+	<p><i>Last Updated: </i>08/31/2023</p>
 </dl>
 </body>
 </html>
