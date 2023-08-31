@@ -57,12 +57,18 @@
 	</td>
 </tr>
 </table>
-<dl>
-	<dt><b>Related Fields</b></dt>
-		| <a href="mods.originInfo_dateIssued.md">MODS/originInfo/dateIssued</a> | 
-		<a href="DrupalFields.md">Drupal Fields</a> | 
-		<a href="rdf.dcterms.issued.md">RDF/dcterms:issued</a> |
-</dl>
-<p><i>Last Updated: </i>02/01/2022</p>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.originInfo_dateIssued.md">MODS/originInfo/dateIssued</a></td>
+		<td><a href="DrupalFields.md#Date-issued-edtf">Drupal Fields</a></td>
+		<td><a href="rdf.dcterms.issued.md">RDF/dcterms:issued</a> </td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>08/31/2023</p>
 </body>
 </html>
