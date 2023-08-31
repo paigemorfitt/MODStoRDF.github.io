@@ -47,6 +47,13 @@
 		<td></td>
  	 </tr>
   	<tr>
+   	 	<td>Date Issued (<a href="field_edtf_date_issued.md">field_edtf_date_issued</a>)</td>
+		<td>Yes</td>
+		<td></td>
+		<td></td>
+		<td></td>
+ 	 </tr>
+  	<tr>
    	 	<td>Description (<a href="field_description_long.md">field_description_long</a>)</td>
 		<td>Yes</td>
 		<td></td>
@@ -113,7 +120,7 @@
 	
 	
 <dl>
-	<p><i>Last Updated: </i>06/29/2023</p>
+	<p><i>Last Updated: </i>08/31/2023</p>
 </dl>
 </body>
 </html>
