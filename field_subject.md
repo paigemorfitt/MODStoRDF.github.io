@@ -49,7 +49,7 @@
 			<li>Field will be used within bounds of staff ability/size of collection</li>
 			<li>Contains, italics, bold,  accents, and/or special characters</li>
 			<li>Subject headings will be input into IMI Spreadsheet with no space between separating symbol (pipe)</li>
-			<li>All terms must contain prefix of either “subject:”,”family:”,”person:”, or corporate_body (Pulls from various vocabularies (subject, person, corporate body) which is why it needs prefixes)</li>
+			<li>All terms must contain prefix of either “subject:”,”family:”,”person:”, or "corporate_body:" (Pulls from various vocabularies (subject, person, corporate body) which is why it needs prefixes)</li>
 			<li>More guidance on for Names as Subject Headings, see field_linked_agent </li>
 			<li>We are NOT using the codes for this field. In lue of an Islandora reboot, codes would change. </li>
 			<li>NOTE Islandora 8 Vocabulary is not a Controlled vocabulary  and terms can be deleted from I8</li>
