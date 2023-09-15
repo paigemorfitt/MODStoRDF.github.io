@@ -26,6 +26,7 @@
 		<li><a href="field_access_terms.md">field_access_terms</a></li>
 		<li>Limited Access (<a href="field_limited_access.md">field_limited_access</a>)</li>
 		<li>Resource Type (<a href="field_resource_type.md">field_resource_type</a>)</li>
+		<li>Subject (<a href="field_subject.md">field_subject</a>)</li>
 	</ul>
 </dd> 
 <dd><ins>Obligation Required</ins>
@@ -50,6 +51,11 @@
 		<li>Graduation Year (<a href="field_graduation_year.md">field_graduation_year)</a></li>
 		<li>Limited Access (<a href="field_limited_access.md">field_limited_access</a>)</li>
 		<li>View item (<a href="field_url_external.md">field_url_external</a>)</li>
+	</ul>
+</dd> 
+<dd><ins>Indexed fields</ins>
+	<ul>
+		<li>Subject (<a href="field_subject.md">field_subject</a>)</li>
 	</ul>
 </dd> 
 <dl>
