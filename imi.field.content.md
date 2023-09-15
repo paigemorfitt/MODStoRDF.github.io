@@ -18,7 +18,7 @@
 
 <dd><ins>Fields that are repeatable</ins>
 	<ul>
-		<li></li>
+		<li>Subject (<a href="field_subject.md">field_subject</a>)</li>
 	</ul>
 </dd> 
 <dd><ins>Fields with a Controlled Vocabulary</ins>
@@ -53,7 +53,7 @@
 		<li>View item (<a href="field_url_external.md">field_url_external</a>)</li>
 	</ul>
 </dd> 
-<dd><ins>Indexed fields</ins>
+<dd><ins>Indexed</ins>
 	<ul>
 		<li>Subject (<a href="field_subject.md">field_subject</a>)</li>
 	</ul>
