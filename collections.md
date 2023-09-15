@@ -61,6 +61,13 @@
 		<td>Yes</td>
  	 </tr>
   	<tr>
+   	 	<td>Embargoed Until (<a href="field_embargo_date.md">field_embargo_date</a>)</td>
+		<td></td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td></td>
+ 	 </tr>
+  	<tr>
    	 	<td>Graduation Year (<a href="field_graduation_year.md">field_graduation_year</a>)</td>
 		<td></td>
 		<td>Yes</td>
