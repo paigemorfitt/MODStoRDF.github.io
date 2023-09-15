@@ -16,7 +16,7 @@
 <table>
 
  <h1>Arminda information page</h1> 
-  <p>This is an explination of metadata that is in Arminda moving from IMI to MODS to RDF. For information about IMI field content <a href="imi.field.content.md">click here</a> For a list of fields that have been removed <a href="fields.removed.md">click here</a>. List of <a href="Islandora.8.terms.md">Terms and Facts</a> (in progress).</p>
+  <p>This is an explination of metadata that is in <a href="https://arminda.whitman.edu/">Arminda</a> moving from IMI to MODS to RDF. For information about IMI field content <a href="imi.field.content.md">click here</a> For a list of fields that have been removed <a href="fields.removed.md">click here</a>. List of <a href="Islandora.8.terms.md">Terms and Facts</a> (in progress).</p>
 	
 <p>See <a href="field_mappings.md">Field Mappings</a> (in progress).</p>
    <tr>

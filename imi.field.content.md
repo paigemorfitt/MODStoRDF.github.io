@@ -30,6 +30,7 @@
 </dd> 
 <dd><ins>Obligation Required</ins>
 	<ul>
+		<li>Date Issued (<a href="field_edtf_date_issued.md">field_edtf_date_issued</a>)</li>
 		<li>Description (<a href="field_description_long.md">field_description_long</a>)</li>
 		<li>Identifier (<a href="field_identifier.md">field_identifier</a>)</li>
 		<li>Issue (<a href="field_issue_num.md">field_issue_num</a>)</li>
@@ -51,7 +52,7 @@
 	</ul>
 </dd> 
 <dl>
-	<p><i>Last Updated: </i>03/14/2023</p>
+	<p><i>Last Updated: </i>03/31/2023</p>
 </dl>
 </body>
 </html>
