@@ -32,12 +32,19 @@
 </tr>
 </table></dd>
 </dl>
-<dl>
-	<dd><b>Related Fields</b></dd>
-			<a href="field_embargo_date.md">field_embargo_date</a> | 
-			<a href="DrupalFields.md">Drupal Fields</a> |
-			<a href="mods.originInfo_dateValid.md">MODS/originInfo/dateValid</a> |
-</dl>
-<p><i>Last Updated: </i></font>09/24/2021</p>
+<h3>Related fields</h3>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+	</tr>
+	<tr>
+		<td><a href="field_embargo_date.md">field_embargo_date</a></td>
+		<td><a href="mods.originInfo_dateValid.md">originInfo/dateValid</a></td> 
+		<td><a href="DrupalFields.md#Embargoed-Until">Embargoed Until</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i></font>09/15/2022</p>
 </body>
 </html>
