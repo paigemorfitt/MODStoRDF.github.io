@@ -41,13 +41,20 @@
 	<td>N/A</td>
 </tr>
 </table> 
-<dl>
-	<dd><b>Related Fields</b></dd>
-		<table>
-			| <a href="field_embargo_date.md">field_embargo_date</a> | 
-			<a href="DrupalFields.md">Drupal Fields</a> | 
-			<a href="rdf.schema.availabilityStarts.md">RDF/schema:avalibilityStarts</a> | 
-</dl>
-<p><i>Last Updated: </i></font>09/24/2021</p>
+
+<h3>Related fields</h3>
+<table>
+	<tr>
+		<th>Spreadsheet</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="field_embargo_date.md">field_embargo_date</a></td> 
+		<td><a href="DrupalFields.md#Embargoed-Until">Embargoed Until</a></td>
+		<td><a href="rdf.schema.availabilityStarts.md">schema:avalibilityStarts</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i></font>09/15/2022</p>
 </body>
 </html>
