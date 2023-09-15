@@ -59,6 +59,7 @@
 </tr>
 </table>
 <table>
+<h3>Related fields</h3>
 	<tr>
 		<th>MODS</th>
 		<th>Drupal Field</th>
@@ -70,6 +71,6 @@
 		<td><a href="rdf.schema.availabilityStarts.md">schema:avalibilityStarts</a></td>
 	</tr>
 </table>
-<p><i>Last Updated: </i></font>07/29/2022</p>
+<p><i>Last Updated: </i></font>09/15/2022</p>
 </body>
 </html>
