@@ -64,11 +64,20 @@
 	<td>Former name: keywords, coverage_spatial; Former name: subject_keywords</td>
 </tr>
 </table>
-<dd><b>Related Fields</b></dd>
-	|<a href="mods.subject.topic.md">MODS/subject/topic</a> |
-	<a href="DrupalFields.md#subject">Drupal Field</a> | 
-	| <a href="rdf.dcterms.subject.md">RDF/dcterms:subject</a> | 
-<p><i>Last Updated: </i>03/14/2022</p>
+<h3>Related fields</h3>
+<table>
+	<tr>
+		<th>MODS</th>
+		<th>Drupal Field</th>
+		<th>RDF</th>
+	</tr>
+	<tr>
+		<td><a href="mods.subject.topic.md">subject/topic</a></td> 
+		<td><a href="DrupalFields.md#subject">Subject</a></td>
+		<td><a href="rdf.dcterms.subject.md">dcterms:subject</a></td>
+	</tr>
+</table>
+<p><i>Last Updated: </i>09/15/2022</p>
 </dl>
 </body>
 </html>
