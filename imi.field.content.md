@@ -43,6 +43,7 @@
 	<ul>
 		<li>Abstract (<a href="field_abstract.md">field_abstract</a>)</li>
 		<li><a href="field_access_terms.md">field_access_terms</a></li>
+		<li>Embargoed Until (<a href="field_embargo_date.md">field_embargo_date</a>)</li>
 		<li>Extent (<a href="field_extent.md">field_extent</a>)</li>
 		<li><a href="field_edtf_date.md">field_edtf_date</a></li>
 		<li>Funding (<a href="field_funding_sources.md">field_funding_sources)</a></li>
@@ -52,7 +53,7 @@
 	</ul>
 </dd> 
 <dl>
-	<p><i>Last Updated: </i>03/31/2023</p>
+	<p><i>Last Updated: </i>09/15/2023</p>
 </dl>
 </body>
 </html>
