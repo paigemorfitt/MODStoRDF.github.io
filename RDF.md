@@ -21,6 +21,7 @@
 	<li><a href="rdf.dcterms.date.md">dcterms:date</a></li>
 	<li><a href="rdf.dcterms.created.md">dcterms:created</a></li>
 	<li><a href="rdf.dcterms.extent.md">dcterms:extent</a></li>
+	<li><a href="rdf.dcterms.subject.md">dcterms:subject</a></li>
 	<li><a href="rdf.dcterms.type.md">dcterms:type</a></li>
 </details>
 <details>
