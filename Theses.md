@@ -57,6 +57,14 @@
 		<td>No</td>
 		<td>See "EDTF according to DateFormattingGuidelinesARMINDA" for formatting</td>
 	</tr>
+	<tr>
+		<td><a href="field_embargo_date.md">field_embargo_date</a></td>
+		<td>Embargoed Until</td>
+		<td>Required, if applicable</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td>Field only used for items under embargo.</td>
+	</tr>
   	<tr>
 		<td><a href="field_extent.md">field_extent</a></td>
 		<td>Extent</td>
@@ -123,7 +131,7 @@
 	</tr>
 	
 </table>
-	<p><i>Last Updated: </i>03/14/2023</p>
+	<p><i>Last Updated: </i>09/15/2023</p>
 </dl>
 </body>
 </html>
