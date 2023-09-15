@@ -36,12 +36,13 @@
 </details>
 <details>
 <summary>schema.org</summary>
+	<li><a href="rdf.schema.availabilityStarts.md">schema:availabilityStarts</a></li>
 	<li><a href="rdf.schema.url.md">schema:url</a></li>
 </details>
 <details>
 <summary>Other</summary>
 </details>
 
-<p><i>Last Updated: 01/31/2023</p>
+<p><i>Last Updated: 09/15/2023</p>
 </dl>
 </html>
