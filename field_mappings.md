@@ -236,6 +236,26 @@
 	<p><b>updated</b> : 02/10/2023</p>
 </details>
 <details>
+	<summary>field_subject</summary>
+	<p><b>Active field name (spreadsheet)</b> : field_subject</p>
+	<p><b>Islandora 8 Field Name</b> : field_subject</p>
+	<p><b>Islandora 8 Public Name</b> : field_subject</p>
+	<p><b>Drupal Field Name</b> : Subject/Entity reference</p>
+	<p><b>Migration Field Name</b> : IMI/keywords, IMI/subject_keywords</p>
+	<p><b>Islandora 7 Field Name</b> : keywords, subject_keywords</p>
+	<p><b>Islandora 7 Public Name</b> : Subject Headings</p>
+	<p><b>BePress Name</b> : keywords, lc_subject, subject_area</p>
+	<p><b>BePress Field Name</b> : Keywords</p>
+	<p><b>RDA</b> : 16.2.2</p>
+	<p><b>MARC</b> : 600, 610, 611, 650, 651</p>
+	<p><b>DACS</b> : 2.3, 2.7, 3.1</p>
+	<p><b>EAD</b> : /controlaccess//personalname relator="subject"/, /controlaccess//famname relator="subject"/, /controlaccess//corpname relator="subject"/, /controlaccess//title relator relator="subject"/, /controlaccess//subject/,/controlaccess//geogname relator="subject"/</p>
+	<p><b>MODS</b> : subject/topic</p>
+	<p><b>RDF</b> : dc:subject</p>
+	<p><b>Notes</b> : </p>
+	<p><b>updated</b> : 09/15/2023</p>
+</details>
+<details>
 <summary>field_url_external</summary>
 	<p><b>Active field name (spreadsheet)</b> : field_url_external</p>
 	<p><b>Islandora 8 Field Name</b> : field_url_external</p>
