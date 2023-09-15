@@ -57,9 +57,8 @@
 	<th>Field Changes</th>
 	<td>Former name : embargo_date</td>
 </tr>
-</table>
-<table>
 <h3>Related fields</h3>
+<table>
 	<tr>
 		<th>MODS</th>
 		<th>Drupal Field</th>
