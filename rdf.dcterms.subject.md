@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>RDF/dcterms:subject</h1>
+<h1>dcterms:subject</h1>
 <table>
 <tr>
 	<th>Definition</th>
