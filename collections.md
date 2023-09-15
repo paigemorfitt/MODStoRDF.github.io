@@ -68,6 +68,20 @@
 		<td></td>
  	 </tr>
   	<tr>
+   	 	<td><a href="field_edtf_date.md">field_edtf_date</a></td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>Yes</td>
+ 	 </tr>
+  	<tr>
+   	 	<td><a href="field_identifier.md">field_identifier</a></td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>Yes</td>
+ 	 </tr>
+  	<tr>
    	 	<td>Graduation Year (<a href="field_graduation_year.md">field_graduation_year</a>)</td>
 		<td></td>
 		<td>Yes</td>
@@ -103,14 +117,7 @@
 		<td>Yes</td>
  	 </tr>
   	<tr>
-   	 	<td><a href="field_edtf_date.md">field_edtf_date</a></td>
-		<td>Yes</td>
-		<td>Yes</td>
-		<td>Yes</td>
-		<td>Yes</td>
- 	 </tr>
-  	<tr>
-   	 	<td><a href="field_identifier.md">field_identifier</a></td>
+   	 	<td>Subject (<a href="field_subject.md">field_subject</a>)</td>
 		<td>Yes</td>
 		<td>Yes</td>
 		<td>Yes</td>
@@ -127,7 +134,7 @@
 	
 	
 <dl>
-	<p><i>Last Updated: </i>08/31/2023</p>
+	<p><i>Last Updated: </i>09/15/2023</p>
 </dl>
 </body>
 </html>
