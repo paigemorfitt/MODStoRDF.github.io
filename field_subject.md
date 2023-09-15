@@ -77,7 +77,7 @@
 		<td><a href="rdf.dcterms.subject.md">dcterms:subject</a></td>
 	</tr>
 </table>
-<p><i>Last Updated: </i>09/15/2022</p>
+<p><i>Last Updated: </i>09/15/2023</p>
 </dl>
 </body>
 </html>
