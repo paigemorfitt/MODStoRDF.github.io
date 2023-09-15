@@ -96,6 +96,26 @@
 	<p><b>updated</b> : 08/31/2023</p>
 </details>
 <details>
+	<summary>field_embargo_date</summary>
+	<p><b>Active field name (spreadsheet)</b> : field_embargo_date</p>
+	<p><b>Islandora 8 Field Name</b> : field_embargo_date</p>
+	<p><b>Islandora 8 Public Name</b> : Embargoed Until</p>
+	<p><b>Drupal Field Name</b> : Embargoed/EDTF</p>
+	<p><b>Migration Field Name</b> : embargo_date</p>
+	<p><b>Islandora 7 Field Name</b> : embargo_date</p>
+	<p><b>Islandora 7 Public Name</b> : Embargo Period</p>
+	<p><b>BePress Name</b> : embargo_date</p>
+	<p><b>BePress Field Name</b> : Embargo Period</p>
+	<p><b>RDA</b> : 4.4</p>
+	<p><b>MARC</b> : 506</p>
+	<p><b>DACS</b> : 4.1?</p>
+	<p><b>EAD</b> : accessrestrict?</p>
+	<p><b>MODS</b> : originInfo/dateValid</p>
+	<p><b>RDF</b> : schema:availabilityStarts</p>
+	<p><b>Notes</b> : </p>
+	<p><b>updated</b> : 09/15/2023</p>
+</details>
+<details>
 <summary>field_extent</summary>
 	<p><b>Active field name (spreadsheet)</b>: field_extent</p>
 	<p><b>Islandora 8 Field Name</b>: field_extent</p>
