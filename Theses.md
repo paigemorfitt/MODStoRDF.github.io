@@ -114,6 +114,14 @@
 		<td>Due to the structure of Islandora 8, field_resource_type is a technical metadata field 			that has more to do with display of objects and less of the Type of Resource the 			object is - thus the definition, parameters and rules are different than other 				descriptive metadata fields.</td>
 	</tr>
 	<tr>
+		<td><a href="field_subject.md">field_subject</a></td>
+		<td>Subjects</td>
+		<td>Recommended</td>
+		<td>Yes</td>
+		<td>Yes</td>
+		<td>All terms must contain prefix of either “subject:”,”family:”,”person:”, or "corporate_body:"</td>
+	</tr>
+	<tr>
 		<td><a href="license_file.md">license_file</a></td>
 		<td>N/A</td>
 		<td>Required</td>
