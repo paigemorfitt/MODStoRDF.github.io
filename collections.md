@@ -23,7 +23,7 @@
 		<th><a href="Offices&Programs.md">Offices & Programs</a></th>
   </tr>
  </table>
-<p>Fields used in Archives Master Sheet</p>
+<p>Fields used in Collections</p>
 <table>
 	<tr>
 		<th>Field</th>
