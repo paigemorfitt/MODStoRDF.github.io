@@ -19,7 +19,7 @@
  <p>The following IMI column names that have been removed from spreadsheets. </p>
 	<ul>
 		<li>abstract_form -- Format of the abstract</li>
-		<li>accession_number -- Number associated with Gallary items</li>
+		<li>accession_number -- a unique identifier assigned to, and achieving initial control of, each acquisition. Assignment of accession numbers typically,occurs at the point of accessioning or cataloging,</li>
 		<li>attach_additional_files -- [use unknown]</li>
 		<li>author1_fname -- First name of first person responsible for creation of item  </li>
 		<li>author1_lname -- Last name of first person responsible for creation of item </li>
