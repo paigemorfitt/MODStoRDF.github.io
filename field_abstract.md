@@ -15,7 +15,7 @@
 <table>
 <tr>
 	<th>ARMINDA Use</th>
-	<td>A summary of the resource, primarily used with scholarship objects </td>
+	<td>A summary of the resource</td>
 </tr>
 <tr>
 	<th>Obligation</th>
@@ -42,10 +42,15 @@
 	<td>N/A</td>
 </tr>
 <tr>
+	<th>Indexed</th>
+	<td>Yes</td>
+</tr>
+<tr>
 	<th>Notes</th>
 	<td>
 		<ul>
-			<li>Use complete sentences</li>
+			<li>Apply provided abstract. If providing an abstract separate from author/creator, use complete sentences where possible.</li>
+			<li>Where no abstract is created  include “No abstract made available”</li>
 			<li>Contains, italics, bold, accents, and/or special characters</li>
 			<li>Use complete sentences</li>
 For paragraphs, use 2 line breaks in the cell (ctrl + "Enter") (Trim whitespace in all cells BEFORE adding extra space in abstract/description in order to have two paragraphs appear in ARMINDA)</li>
@@ -71,6 +76,6 @@ For paragraphs, use 2 line breaks in the cell (ctrl + "Enter") (Trim whitespace 
 		<td><a href="rdf.dcterms.abstract.md">dcterms:abstract </a></td>
 	</tr>
 </table>
-<p><i>Last Updated: </i>01/27/2023</p>
+<p><i>Last Updated: </i>02/09/2024</p>
 </body>
 </html>
