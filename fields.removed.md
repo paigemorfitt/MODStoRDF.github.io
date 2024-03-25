@@ -37,7 +37,7 @@
 		<li>bp_categories -- Possibly BePress Categories that were broken up by Academic Discipline</li>
 		<li>broad_creation_date -- Date to accommodate a range associated with the creation of an item</li>
 		<li>broad_date -- Date to accommodate a range associated with an item</li>
-		<li>buy_link -- [use unknown]</li>
+		<li>buy_link -- Presumable field for links to purchase rendition of item in BePress</li>
 		<li>calc_thumbnail_image_url -- [use unknown]</li>
 		<li>calc_url -- Possible url used in BePress</li>
 		<li>campus_location -- Location of art on Whitman College campus where Sheehan art is displayed or stored. </li>
@@ -106,7 +106,6 @@
 		<li>sponsor -- A person, group or organization credited for supporting Undergraduate Conference project depicted</li>
 	</ul>
 </dd> 
-	<p><i>Last Updated: </i>10/26/2022</p>
 </dl>
 </body>
 </html
