@@ -37,8 +37,9 @@
 		<li>bp_categories -- Possibly BePress Categories that were broken up by Academic Discipline</li>
 		<li>broad_creation_date -- Date to accommodate a range associated with the creation of an item</li>
 		<li>broad_date -- Date to accommodate a range associated with an item</li>
+		<li>bucket -- BePress inherited field which indicated the collection --bucket-- an item is associated with</li>
 		<li>buy_link -- Presumable field for links to purchase rendition of item in BePress</li>
-		<li>calc_thumbnail_image_url -- [use unknown]</li>
+		<li>calc_thumbnail_image_url -- Presumable field for thumbnail url in BePress, parallel to media_use_tid</li>
 		<li>calc_url -- Possible url used in BePress</li>
 		<li>campus_location -- Location of art on Whitman College campus where Sheehan art is displayed or stored. </li>
 		<li>catalog_id -- Catalog number of Maxey museum item</li>
