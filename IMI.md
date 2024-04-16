@@ -251,7 +251,7 @@
 	<li>broad_date: Date to accomidate a range associated with an item</li>
  	<li>bucket: BePress inherited field which indicated the collection --bucket-- an item is associated with.</li>
  	<li>buy_link: Presumable field for links to purchase rendition of item in BePress</li>	
-	<li>calc_thumbnail_image_url (removed)</li>
+	<li>calc_thumbnail_image_url: Presumable field for thumbnail url in BePress, parallel to media_use_tid</li>
 	<li>calc_url: Possible URL used in BePress</li>
 	<li>campus_location: Location of art on Whitman College campus where Sheehan art is displayed or stored.</li>
 	<li>catalog_id: Catalog number of museum item</li>
