@@ -42,7 +42,6 @@
 		<li><a href="#removed">bp_categories</a> (removed)</li>
 		<li><a href="#removed">broad_creation_date</a> (removed)</li>
 		<li><a href="#removed">broad_date</a> (removed)</li>
-		<li><a href="bucket.md">bucket</a> : BePress inherited field which indicated the collection --bucket-- an item is associated with.</li>
 		<li><a href="#removed">buy_link</a> (removed)</li>	
 </details>
 <details>
@@ -250,6 +249,7 @@
 	<li>bp_categories: Possibly BePress categories of Academic Discipline</li>
 	<li>broad_creation_date: Date to accomidate a range associated with the creation of an item</li>
 	<li>broad_date: Date to accomidate a range associated with an item</li>
+ 	<li>bucket: BePress inherited field which indicated the collection --bucket-- an item is associated with.</li>
  	<li>buy_link: Presumable field for links to purchase rendition of item in BePress</li>	
 	<li>calc_thumbnail_image_url (removed)</li>
 	<li>calc_url: Possible URL used in BePress</li>
