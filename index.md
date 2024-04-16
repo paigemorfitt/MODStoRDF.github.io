@@ -43,12 +43,6 @@
 	<td><a href="rdf.relators.md" class ="magic-button" title="Definition: Generic Advisor term.">local:adv</a></td>
 </tr>
 <tr>
-	<td><a href="bucket.md" class ="magic-button" title="ARMINDA Use: BePress inherited field which indicated the collection --bucket-- an item is associated with">bucket</a></td>
-	<td><a href="mods.relateditem_note.md" class ="magic-button" title="Definition: Information that identifies other resources related to the one being described">relatedItem/note</a></td>
-	<td>N/A</td>
-	<td>N/A</td>
-</tr>
-<tr>
 	<td><a href="contributors.md" class ="magic-button" title="identifies the entity or entities that made contributions to the creation of the resource but whose contributions are secondary to any person or organization specified in the creator(s) field. ">contributors</a></td>
 	<td><a href="mods.name.md" class ="magic-button" title="Definition: The name of a person, organization, or event (conference, meeting, etc.) associated in some way with the resource">name/namePart</a></td>
 	<td>N/A</td>
