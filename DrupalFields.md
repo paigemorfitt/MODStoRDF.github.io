@@ -21,6 +21,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Text (formatted, long)</td>
@@ -28,6 +29,7 @@
 					<td>N/A</td>
 					<td>field_abstract</td>
 					<td>Custom field</td>
+					<td><a href+"<li><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#descriptions">Abstract</a></li></td>
 				</tr>
 			</table>
 	<dl>
@@ -65,6 +67,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Text (plain)</td>
@@ -72,6 +75,7 @@
 					<td>N/A</td>
 					<td>field_alternative_title</td>
 					<td>Default field</td>
+					<td><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#other-titles">Alternative Title</a></td>
 				</tr>
 			</table>
 	<dl>
@@ -130,6 +134,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>EDTF</td>
@@ -137,6 +142,7 @@
 					<td>N/A</td>
 					<td>field_edtf_date_created</td>
 					<td>Default field</td>
+					<td><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#date-fields">Date Created</a></td>
 				</tr>
 			</table>
 	<dl>
@@ -154,6 +160,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>EDTF</td>
@@ -161,6 +168,7 @@
 					<td>N/A</td>
 					<td>field_edtf_date_issued</td>
 					<td>Default field</td>
+					<td><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#date-fields">Date Issued</a></td>
 				</tr>
 			</table>
 	<dl>
@@ -177,6 +185,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Text (formatted, long)</td>
@@ -184,6 +193,7 @@
 					<td>N/A</td>
 					<td>field_description_long</td>
 					<td>Custom field?</td>
+					<td><a href+"<li><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#descriptions">Description</a></li></td>
 				</tr>
 			</table>
 	<dl>
@@ -244,6 +254,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Text (plain)</td>
@@ -251,6 +262,7 @@
 					<td>N/A</td>
 					<td>field_extent</td>
 					<td>Default field</td>
+					<td><a href+"<li><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#physical-description">Extent</a></li></td>
 				</tr>
 			</table>
 	<dl>
@@ -290,6 +302,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Entity reference</td>
@@ -297,6 +310,7 @@
 					<td>Taxonomy term / Genre</td>
 					<td>field_genre</td>
 					<td>Custom field (mapping change from dc:type to schema:genre)</td>
+					<td><a href+"<li><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#type-and-genre">Genre</a></li></td>
 				</tr>
 			</table>
 	<dl>
@@ -313,6 +327,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Entity reference</td>
@@ -320,6 +335,7 @@
 					<td>Taxonomy term / Geographic Location</td>
 					<td>field_geographic_subject</td>
 					<td>Default field</td>
+					<td><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#subjects">Subject (Geographic)</a></td>
 				</tr>
 			</table>
 	<dl>
@@ -359,6 +375,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Text (plain)</td>
@@ -366,6 +383,7 @@
 					<td>N/A</td>
 					<td>field_identifier</td>
 					<td>Default field</td>
+					<td><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#identifiers">Identifier</a></td>
 				</tr>
 			</table>
 	<dl>
@@ -405,6 +423,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Entity reference</td>
@@ -412,6 +431,7 @@
 					<td>Taxonomy term / Language</td>
 					<td>field_language</td>
 					<td>Custom field</td>
+					<td><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#language">Language</a></td>
 				</tr>
 			</table>
 	<dl>
@@ -451,6 +471,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Typed relation</td>
@@ -458,6 +479,7 @@
 					<td>Taxonomy terms/ Corporate Body, Family, Person</td>
 					<td>field_linked_agent</td>
 					<td>Default field (a few local relators were created to accomidate metadata needs)</td>
+					<td><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#contributors">Contributors</a></td>
 				</tr>
 			</table>
 	<dl>
@@ -474,6 +496,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Entity reference</td>
@@ -481,6 +504,7 @@
 					<td>Conent/Repository Item</td>
 					<td>field_member_of</td>
 					<td>Default</td>
+					<td><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#administrativesystem-fields">Member Of</a></td>
 				</tr>
 			</table>
 	<dl>
@@ -495,6 +519,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Entity reference</td>
@@ -502,6 +527,7 @@
 					<td>Taxonomy/Islandora Models</td>
 					<td>field_model</td>
 					<td>Default</td>
+					<td><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#administrativesystem-fields">Model</a></td>
 				</tr>
 			</table>
 	<dl>
@@ -612,6 +638,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Link</td>
@@ -619,6 +646,7 @@
 					<td>N/A</td>
 					<td>field_rights</td>
 					<td>Custom</td>
+					<td><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#access-conditions">Rights</a></td>
 				</tr>
 			</table>
 	<dl>
@@ -684,6 +712,7 @@
 					<th><i>Type of Item Reference/Vocabulary</i></th>
 					<th><i>Machine name</i></th>
 					<th><i>Note</i></th>
+					<th>IMIG</th>
 				</tr>
 				<tr>
 					<td>Entity reference</td>
@@ -691,6 +720,7 @@
 					<td>Taxonomy / corporate body, family, geographic location, person, subject</td>
 					<td>field_subject</td>
 					<td>Default</td>
+					<td><a href="https://islandora.github.io/documentation/user-documentation/starter-site-metadata-configuration/#subjects">Subject</a></td>
 				</tr>
 			</table>
 	<dl>
@@ -766,6 +796,6 @@
 		<dt><b>Related Fields</b></dt>
 				| <a href="field_weight.md">field_weight</a> | 
 	</dl>
-<p><i>Last Updated: </i>04/27/2022</p>
+<p><i>Last Updated: </i>06/03/2024</p>
 </body>
 </html>
