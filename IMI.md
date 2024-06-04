@@ -49,7 +49,7 @@
 <br>	
 		<li><a href="#removed">calc_thumbnail_image_url	</a> (removed)</li>
 		<li><a href="#removed">calc_url</a> (removed)</li>
-		<li><a href="#removed">campus_location</a> (removed) see <a href="https://github.com/paigemorfitt/MODStoRDF.github.io/blob/master/field_source.md">field_source</a></li>
+		<li><a href="#removed">campus_location</a> (removed)</li>
 		<li><a href="#removed">catalog_id</a> (removed)</li>
 		<li><a href="#removed">city </a> (removed)</li>		
 		<li><a href="#removed">collection_name	</a> (removed)</li>
