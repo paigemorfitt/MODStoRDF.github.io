@@ -276,26 +276,6 @@
 	<p><b>updated</b> : 01/31/2023</p>
 </details>
 <details>
-<summary>lc_subject</summary>
-	<p><b>Active field name (spreadsheet)</b> : N/A</p>
-	<p><b>Islandora 8 Field Name</b> : N/A</p>
-	<p><b>Islandora 8 Public Name</b> : N/A</p>
-	<p><b>Drupal Field Name</b> : N/A</p>
-	<p><b>Migration Field Name</b> : N/A</p>
-	<p><b>Islandora 7 Field Name</b> : lc_subject</p>
-	<p><b>Islandora 7 Public Name</b> : Subject Headings</p>
-	<p><b>BePress Name</b> : lc_subject</p>
-	<p><b>BePress Field Name</b> : Subjects</p>
-	<p><b>RDA</b> : 16.2.2</p>
-	<p><b>MARC</b> : 600; 610 ; 611; 650; 651</p>
-	<p><b>DACS</b> : 2.3; 2.7; 3.1</p>
-	<p><b>EAD</b> : controlaccess/personalname relator="subject"; controlaccess/famname relator="subject"; controlaccess/corpname relator="subject"; controlaccess/title relator relator="subject"; controlaccess/subject; /controlaccess/geogname relator="subject"</p>
-	<p><b>MODS</b> : subject/topic</p>
-	<p><b>RDF</b> : N/A</p>
-	<p><b>Notes</b> : Field deleted, absorbed by field_subject</p>
-	<p><b>updated</b> : 10/13/2022</p>
-</details>
-<details>
 <summary>license_file</summary>
 	<p><b>Active field name (spreadsheet)</b> : license_file</p>
 	<p><b>Islandora 8 Field Name</b> : license_file</p>
@@ -313,26 +293,6 @@
 	<p><b>MODS</b> : N/A</p>
 	<p><b>RDF</b> : N/A</p>
 	<p><b>Notes</b> : N/A</p>
-	<p><b>updated</b> : 10/13/2022</p>
-</details>
-<details>
-<summary>lighting_design</summary>
-	<p><b>Active field name (spreadsheet)</b> : N/A</p>
-	<p><b>Islandora 8 Field Name</b> : N/A</p>
-	<p><b>Islandora 8 Public Name</b> : N/A</p>
-	<p><b>Drupal Field Name</b> : N/A</p>
-	<p><b>Migration Field Name</b> : N/A</p>
-	<p><b>Islandora 7 Field Name</b> : lighting_design</p>
-	<p><b>Islandora 7 Public Name</b> : Lighting Design</p>
-	<p><b>BePress Name</b> : lighting_design</p>
-	<p><b>BePress Field Name</b> : Lighting Design</p>
-	<p><b>RDA</b> : 19.3; 20.2; 22.1</p>
-	<p><b>MARC</b> : 700</p>
-	<p><b>DACS</b> : N/A</p>
-	<p><b>EAD</b> : N/A</p>
-	<p><b>MODS</b> : name/namePart; role/roleTerm</p>
-	<p><b>RDF</b> : N/A</p>
-	<p><b>Notes</b> : Field deleted, absorbed by contributor role in field_linked_agent</p>
 	<p><b>updated</b> : 10/13/2022</p>
 </details>
 <details>
