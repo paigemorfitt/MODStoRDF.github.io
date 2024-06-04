@@ -41,7 +41,7 @@
 		<li>buy_link -- Presumable field for links to purchase rendition of item in BePress</li>
 		<li>calc_thumbnail_image_url -- Presumable field for thumbnail url in BePress, parallel to media_use_tid</li>
 		<li>calc_url -- Possible url used in BePress</li>
-		<li>campus_location -- Location of art on Whitman College campus where Sheehan art is displayed or stored. </li>
+		<li>campus_location -- Location of art on Whitman College campus where Sheehan art is displayed or stored. See <a href="https://github.com/paigemorfitt/MODStoRDF.github.io/blob/master/field_source.md">field_source</a></li></li>
 		<li>catalog_id -- Catalog number of Maxey museum item</li>
 		<li>city -- City of newspaper publication</li>
 		<li>collection_name -- Name of the collection item is found in</li>
