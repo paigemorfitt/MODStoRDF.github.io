@@ -53,7 +53,7 @@
 </tr>
 <tr>
 	<th>Field Changes</th>
-	<td>Absorbed: accession_number, catalog_id, collection_name, image_source, record_series, series_id, source_publication; Former Name: source
+	<td>Absorbed: accession_number, catalog_id, campus_location, collection_name, image_source, record_series, series_id, source_publication; Former Name: source
 </td>
 </tr>
 </table>
